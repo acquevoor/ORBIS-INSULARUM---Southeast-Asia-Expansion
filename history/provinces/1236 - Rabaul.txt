@@ -1,0 +1,27 @@
+# Rabaul
+# 1236 Rabaul - 5/16/2025 12:37:49 PM 
+ 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = unknown
+
+culture = papuan
+religion = animism
+capital = "Rabaul"
+
+native_size = 30
+native_ferocity =  4
+native_hostileness = 9
+
+
+
+
+
+1770.2.27 = {
+	discovered_by = GBR
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

@@ -1,0 +1,1193 @@
+mayon_volcano = {
+	# province it starts in
+	start = 2699
+	
+	# date built in real life (so anything built during game time will be there if you start a game after that date)
+	date = 806.01.01
+	
+	#time to build
+	time = {
+		months = 0
+	}
+	
+	#how much to build one
+	build_cost = 0
+	
+	#can we move it?
+	can_be_moved = no
+	
+	#time to move the project one unit of distance, in days
+	move_days_per_unit_distance = 1
+	
+	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
+	starting_tier = 1
+	
+	#project type
+	type = monument
+
+	#can we build it?
+	build_trigger = {
+		culture_group = filipino_g	
+	}
+
+	#what to do when it's built
+	on_built = {
+		show_ambient_object = mount_fuji
+	}
+	
+	#what to do when it's destroyed
+	on_destroyed = {
+		hide_ambient_object = mount_fuji
+	}
+
+	#can our country use it?
+	can_use_modifiers_trigger = {
+		culture_group = filipino_g
+	}
+
+	#can our country upgrade it?
+	can_upgrade_trigger = {
+		culture_group = filipino_g	
+	}
+
+	#can our country keep it or is it destroyed when we get hold of it?
+	keep_trigger = {
+	}
+
+	#tier data
+	tier_0 = {
+		#time to upgrade to this level (0 for tier 0)
+		upgrade_time = {
+			months = 0
+		}
+
+		#cost to upgrade to this level (0 for tier 0)
+		cost_to_upgrade = {
+			factor = 0
+		}
+
+		#what modifiers are added to the province when we have this project here on this tier
+		province_modifiers = {
+		}
+
+		#what modifiers are added to the provinces in the map area when we have this project here on this tier
+		area_modifier = {
+		}
+
+		#what modifiers are added to the country when we have this project here on this tier
+		country_modifiers = {
+		}
+
+		#what effects happen when this tier is achieved
+		on_upgraded = {
+		}
+	}
+
+	tier_1 = {
+		#time to upgrade to this level (0 for tier 0)
+		upgrade_time = {
+			months = 120
+		}
+
+		#cost to upgrade to this level (0 for tier 0)
+		cost_to_upgrade = {
+			factor = 1000
+		}
+
+		#what modifiers are added to the province when we have this project here on this tier
+		province_modifiers = {
+			development_cost = -0.1
+			local_monthly_devastation = -0.05
+		}
+
+		#what modifiers are added to the provinces in the map area when we have this project here on this tier
+		area_modifier = {
+		}
+
+		#what modifiers are added to the country when we have this project here on this tier
+		country_modifiers = {
+		}
+
+		#what effects happen when this tier is achieved
+		on_upgraded = {
+		}
+	}
+
+	tier_2 = {
+		#time to upgrade to this level (0 for tier 0)
+		upgrade_time = {
+			months = 240
+		}
+
+		#cost to upgrade to this level (0 for tier 0)
+		cost_to_upgrade = {
+			factor = 3500
+		}
+
+		#what modifiers are added to the province when we have this project here on this tier
+		province_modifiers = {
+			development_cost = -0.15
+			local_monthly_devastation = -0.05
+			local_tax_modifier = 0.15
+		}
+
+		#what modifiers are added to the provinces in the map area when we have this project here on this tier
+		area_modifier = {
+		}
+
+		#what modifiers are added to the country when we have this project here on this tier
+		country_modifiers = {
+			
+		}
+
+		#what effects happen when this tier is achieved
+		on_upgraded = {
+		}
+	}
+
+	tier_3 = {
+		#time to upgrade to this level (0 for tier 0)
+		upgrade_time = {
+			months = 480
+		}
+
+		#cost to upgrade to this level (0 for tier 0)
+		cost_to_upgrade = {
+			factor = 7000
+		}
+
+		#what modifiers are added to the province when we have this project here on this tier
+		province_modifiers = {
+			development_cost = -0.2
+			local_monthly_devastation = -0.1
+			local_tax_modifier = 0.2
+		}
+
+		#what modifiers are added to the provinces in the map area when we have this project here on this tier
+		area_modifier = {
+			local_monthly_devastation = -0.05
+			local_tax_modifier = 0.05
+		}
+
+		#what modifiers are added to the country when we have this project here on this tier
+		country_modifiers = {
+			monthly_karma = 0.1  #(buddhist)
+			prestige = 0.5
+		}
+
+		#what effects happen when this tier is achieved
+		on_upgraded = {
+		}
+	}
+}
+
+chocolate_hills = {
+	# province it starts in
+	start = 4352
+	
+	# date built in real life (so anything built during game time will be there if you start a game after that date)
+	date = 750.01.01
+	
+	#time to build
+	time = {
+		months = 0
+	}
+	
+	#how much to build one
+	build_cost = 0
+	
+	#can we move it?
+	can_be_moved = no
+	
+	#time to move the project one unit of distance, in days
+	move_days_per_unit_distance = 1
+	
+	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
+	starting_tier = 0
+	
+	#project type
+	type = monument
+
+	#can we build it?
+	build_trigger = {
+		culture_group = filipino_g		
+	}
+
+	#what to do when it's built
+	on_built = {
+		show_ambient_object = mount_fuji 
+	}
+	
+	#what to do when it's destroyed
+	on_destroyed = {
+		hide_ambient_object = mount_fuji 
+	}
+
+	#can our country use it?
+	can_use_modifiers_trigger = {
+		culture_group = filipino_g
+	}
+
+	#can our country upgrade it?
+	can_upgrade_trigger = {
+		culture_group = filipino_g
+	}
+
+	#can our country keep it or is it destroyed when we get hold of it?
+	keep_trigger = {
+	}
+
+	#tier data
+	tier_0 = {
+		#time to upgrade to this level (0 for tier 0)
+		upgrade_time = {
+			months = 0
+		}
+
+		#cost to upgrade to this level (0 for tier 0)
+		cost_to_upgrade = {
+			factor = 0
+		}
+
+		#what modifiers are added to the province when we have this project here on this tier
+		province_modifiers = {
+		}
+
+		#what modifiers are added to the provinces in the map area when we have this project here on this tier
+		area_modifier = {
+		}
+
+		#what modifiers are added to the country when we have this project here on this tier
+		country_modifiers = {
+		}
+
+		#what effects happen when this tier is achieved
+		on_upgraded = {
+		}
+	}
+
+	tier_1 = {
+		#time to upgrade to this level (0 for tier 0)
+		upgrade_time = {
+			months = 120
+		}
+
+		#cost to upgrade to this level (0 for tier 0)
+		cost_to_upgrade = {
+			factor = 1000
+		}
+
+		#what modifiers are added to the province when we have this project here on this tier
+		province_modifiers = {
+		}
+
+		#what modifiers are added to the provinces in the map area when we have this project here on this tier
+		area_modifier = {
+			local_autonomy = -0.01
+		}
+
+		#what modifiers are added to the country when we have this project here on this tier
+		country_modifiers = {
+		}
+
+		#what effects happen when this tier is achieved
+		on_upgraded = {
+		}
+	}
+
+	tier_2 = {
+		#time to upgrade to this level (0 for tier 0)
+		upgrade_time = {
+			months = 240
+		}
+
+		#cost to upgrade to this level (0 for tier 0)
+		cost_to_upgrade = {
+			factor = 3500
+		}
+
+		#what modifiers are added to the province when we have this project here on this tier
+		province_modifiers = {
+		}
+
+		#what modifiers are added to the provinces in the map area when we have this project here on this tier
+		area_modifier = {
+			local_autonomy = -0.025
+		}
+
+		#what modifiers are added to the country when we have this project here on this tier
+		country_modifiers = {
+			culture_conversion_cost = -0.1
+		}
+
+		#what effects happen when this tier is achieved
+		on_upgraded = {
+		}
+	}
+
+	tier_3 = {
+		#time to upgrade to this level (0 for tier 0)
+		upgrade_time = {
+			months = 480
+		}
+
+		#cost to upgrade to this level (0 for tier 0)
+		cost_to_upgrade = {
+			factor = 7000
+		}
+
+		#what modifiers are added to the province when we have this project here on this tier
+		province_modifiers = {
+		}
+
+		#what modifiers are added to the provinces in the map area when we have this project here on this tier
+		area_modifier = {
+			local_autonomy = -0.05
+		}
+
+		#what modifiers are added to the country when we have this project here on this tier
+		country_modifiers = {
+			culture_conversion_cost = -0.25
+			num_accepted_cultures = 1
+		}
+
+		#what effects happen when this tier is achieved
+		on_upgraded = {	
+		}
+	}
+}
+
+banaue_rice_terraces = {
+	# province it starts in
+	start = 4348
+	
+	# date built in real life (so anything built during game time will be there if you start a game after that date)
+	date = 750.01.01
+	
+	#time to build
+	time = {
+		months = 0
+	}
+	
+	#how much to build one
+	build_cost = 0
+	
+	#can we move it?
+	can_be_moved = no
+	
+	#time to move the project one unit of distance, in days
+	move_days_per_unit_distance = 1
+	
+	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
+	starting_tier = 0
+	
+	#project type
+	type = monument
+
+	#can we build it?
+	build_trigger = {
+		culture_group = filipino_g		
+	}
+
+	#what to do when it's built
+	on_built = {
+		show_ambient_object = machu_picchu 
+	}
+	
+	#what to do when it's destroyed
+	on_destroyed = {
+		hide_ambient_object = machu_picchu 
+	}
+
+	#can our country use it?
+	can_use_modifiers_trigger = {
+		culture_group = filipino_g
+	}
+
+	#can our country upgrade it?
+	can_upgrade_trigger = {
+		culture_group = filipino_g
+	}
+
+	#can our country keep it or is it destroyed when we get hold of it?
+	keep_trigger = {
+	}
+
+	#tier data
+	tier_0 = {
+		#time to upgrade to this level (0 for tier 0)
+		upgrade_time = {
+			months = 0
+		}
+
+		#cost to upgrade to this level (0 for tier 0)
+		cost_to_upgrade = {
+			factor = 0
+		}
+
+		#what modifiers are added to the province when we have this project here on this tier
+		province_modifiers = {
+		}
+
+		#what modifiers are added to the provinces in the map area when we have this project here on this tier
+		area_modifier = {
+		}
+
+		#what modifiers are added to the country when we have this project here on this tier
+		country_modifiers = {
+		}
+
+		#what effects happen when this tier is achieved
+		on_upgraded = {
+		}
+	}
+
+	tier_1 = {
+		#time to upgrade to this level (0 for tier 0)
+		upgrade_time = {
+			months = 120
+		}
+
+		#cost to upgrade to this level (0 for tier 0)
+		cost_to_upgrade = {
+			factor = 1000
+		}
+
+		#what modifiers are added to the province when we have this project here on this tier
+		province_modifiers = {
+		}
+
+		#what modifiers are added to the provinces in the map area when we have this project here on this tier
+		area_modifier = {
+			local_autonomy = -0.01
+		}
+
+		#what modifiers are added to the country when we have this project here on this tier
+		country_modifiers = {
+			idea_cost = -0.05
+		}
+
+		#what effects happen when this tier is achieved
+		on_upgraded = {
+			add_estate_loyalty = {
+				estate = estate_church
+				loyalty = 5
+			}
+		}
+	}
+
+	tier_2 = {
+		#time to upgrade to this level (0 for tier 0)
+		upgrade_time = {
+			months = 240
+		}
+
+		#cost to upgrade to this level (0 for tier 0)
+		cost_to_upgrade = {
+			factor = 3500
+		}
+
+		#what modifiers are added to the province when we have this project here on this tier
+		province_modifiers = {
+		}
+
+		#what modifiers are added to the provinces in the map area when we have this project here on this tier
+		area_modifier = {
+			local_autonomy = -0.025
+		}
+
+		#what modifiers are added to the country when we have this project here on this tier
+		country_modifiers = {
+			culture_conversion_cost = -0.1
+			idea_cost = -0.1
+			reform_progress_growth = 0.1	
+		}
+
+		#what effects happen when this tier is achieved
+		on_upgraded = {
+			add_estate_loyalty = {
+				estate = estate_church
+				loyalty = 10
+			}
+		}
+	}
+
+	tier_3 = {
+		#time to upgrade to this level (0 for tier 0)
+		upgrade_time = {
+			months = 480
+		}
+
+		#cost to upgrade to this level (0 for tier 0)
+		cost_to_upgrade = {
+			factor = 7000
+		}
+
+		#what modifiers are added to the province when we have this project here on this tier
+		province_modifiers = {
+		}
+
+		#what modifiers are added to the provinces in the map area when we have this project here on this tier
+		area_modifier = {
+			local_autonomy = -0.05
+		}
+
+		#what modifiers are added to the country when we have this project here on this tier
+		country_modifiers = {
+			culture_conversion_cost = -0.25
+			num_accepted_cultures = 1
+			idea_cost = -0.15
+			reform_progress_growth = 0.1
+			mercantilism_cost = -0.15
+		}
+
+		#what effects happen when this tier is achieved
+		on_upgraded = {
+			add_estate_loyalty = {
+				estate = estate_church
+				loyalty = 15
+			}
+		}
+	}
+}
+
+muara_takus_stupa = {
+    # province it starts in (Muara Takus region)
+    start = 620
+
+    # date built in real life (c. 1100)
+    date = 1100.01.01
+
+    # time to build
+    time = {
+        months = 0
+    }
+
+    # build cost
+    build_cost = 0
+
+    # can we move it?
+    can_be_moved = no
+
+    # time to move the project one unit of distance, in days
+    move_days_per_unit_distance = 1
+
+    # tier that the project starts at when first placed in the game
+    starting_tier = 1
+
+    # project type
+    type = monument
+
+    # build trigger: only Malay culture group
+    build_trigger = {
+        culture_group = malay
+    }
+
+    # on built: show the Muara Takus ambient object
+    on_built = {
+        show_ambient_object = machu_picchu
+    }
+
+    # on destroyed: hide the ambient object
+    on_destroyed = {
+        hide_ambient_object = machu_picchu
+    }
+
+    # who can use it?
+    can_use_modifiers_trigger = {
+        culture_group = malay
+    }
+
+    # who can upgrade it?
+    can_upgrade_trigger = {
+        culture_group = malay
+    }
+
+    # is it kept on conquest?
+    keep_trigger = {
+    }
+
+    # tier data
+
+    tier_0 = {
+        upgrade_time      = { months = 0 }
+        cost_to_upgrade   = { factor = 0 }
+        province_modifiers = { }
+        area_modifier      = { }
+        country_modifiers  = { }
+        on_upgraded        = { }
+    }
+
+    tier_1 = {
+        upgrade_time      = { months = 100 }
+        cost_to_upgrade   = { factor = 700 }
+        province_modifiers = {
+			local_tax_modifier = 0.05
+			development_cost   = -0.05
+        }
+        area_modifier      = { }
+        country_modifiers  = {
+			monthly_karma = 0.05  #(buddhist)
+		 }
+        on_upgraded        = { }
+    }
+
+    tier_2 = {
+        upgrade_time      = { months = 200 }
+        cost_to_upgrade   = { factor = 2000 }
+        province_modifiers = {
+            local_tax_modifier = 0.10
+            development_cost   = -0.10
+        }
+        area_modifier      = { }
+        country_modifiers  = {
+			monthly_karma = 0.1  #(buddhist)
+		 }
+        on_upgraded        = { }
+    }
+
+    tier_3 = {
+        upgrade_time      = { months = 400 }
+        cost_to_upgrade   = { factor = 5000 }
+        province_modifiers = {
+            local_tax_modifier       = 0.15
+            development_cost         = -0.15
+            local_monthly_devastation = -0.05
+        }
+        area_modifier = {
+            local_tax_modifier       = 0.05
+            local_monthly_devastation = -0.03
+        }
+        country_modifiers = {
+            prestige      = 0.5
+            monthly_karma = 0.15  # reflects Buddhist significance
+        }
+        on_upgraded     = { }
+    }
+}
+
+bajang_ratu_gate = {
+    # province it starts in (Trowulan region)
+    start = 628
+
+    # date built in real life (Bajang Ratu Gate erected c. 1343)
+    date = 1343.01.01
+
+    # time to build
+    time = {
+        months = 0
+    }
+
+    # build cost
+    build_cost = 0
+
+    # can we move it?
+    can_be_moved = no
+
+    # time to move the project one unit of distance, in days
+    move_days_per_unit_distance = 1
+
+    # tier that the project starts at when first placed in the game
+    starting_tier = 1
+
+    # project type
+    type = monument
+
+    # build trigger: only Javanese cultures of Majapahit
+    build_trigger = {
+        culture_group = javanese
+    }
+
+    # on built: show the Bajang Ratu Gate ambient object
+    on_built = {
+        show_ambient_object = machu_picchu
+    }
+
+    # on destroyed: hide the ambient object
+    on_destroyed = {
+        hide_ambient_object = machu_picchu
+    }
+
+    # who can use it?
+    can_use_modifiers_trigger = {
+        culture_group = javanese
+    }
+
+    # who can upgrade it?
+    can_upgrade_trigger = {
+        culture_group = javanese
+    }
+
+    # is it kept on conquest?
+    keep_trigger = {
+    }
+
+    # tier data
+
+    tier_0 = {
+        upgrade_time = { months = 0 }
+        cost_to_upgrade = { factor = 0 }
+        province_modifiers = { }
+        area_modifier      = { }
+        country_modifiers  = { }
+        on_upgraded        = { }
+    }
+
+    tier_1 = {
+        upgrade_time = { months = 120 }
+        cost_to_upgrade = { factor = 800 }
+        province_modifiers = {
+            development_cost = -0.1
+        }
+        area_modifier = { }
+        country_modifiers = { }
+        on_upgraded = { }
+    }
+
+    tier_2 = {
+        upgrade_time = { months = 240 }
+        cost_to_upgrade = { factor = 2500 }
+        province_modifiers = {
+            development_cost       = -0.15
+            local_tax_modifier     = 0.10
+        }
+        area_modifier = { }
+        country_modifiers = { }
+        on_upgraded = { }
+    }
+
+    tier_3 = {
+        upgrade_time = { months = 480 }
+        cost_to_upgrade = { factor = 6000 }
+        province_modifiers = {
+            development_cost       = -0.2
+            local_tax_modifier     = 0.15
+            local_monthly_devastation = -0.05
+        }
+        area_modifier = {
+            local_tax_modifier       = 0.05
+            local_monthly_devastation = -0.03
+        }
+        country_modifiers = {
+            prestige           = 0.5
+            monthly_karma      = 0.1  # Buddhist influence in Majapahit court
+        }
+        on_upgraded = { }
+    }
+}
+
+batu_caves_monument = {
+    # province it starts in (Kuala Lumpur region, Selangor)
+    start = 2392
+
+    # date of religious significance rising (likely from 1860s)
+    date = 1860.01.01
+
+    # time to build
+    time = {
+        months = 100
+    }
+
+    # build cost
+    build_cost = 700
+
+    # immovable sacred site
+    can_be_moved = no
+    move_days_per_unit_distance = 1
+
+    # monument setup
+    starting_tier = 1
+    type = monument
+
+    # cultural/religious restrictions
+    build_trigger = {
+        OR = {
+            culture_group = malay
+            religion_group = dharmic
+        }
+    }
+
+    on_built = {
+        show_ambient_object = machu_picchu
+    }
+
+    on_destroyed = {
+        hide_ambient_object = machu_picchu
+    }
+
+    can_use_modifiers_trigger = {
+        OR = {
+            culture_group = malay
+            religion_group = dharmic
+        }
+    }
+
+    can_upgrade_trigger = {
+        OR = {
+            culture_group = malay
+            religion_group = dharmic
+        }
+    }
+
+    keep_trigger = { }
+
+    # Monument tiers
+
+    tier_0 = {
+        upgrade_time = { months = 0 }
+        cost_to_upgrade = { factor = 0 }
+        province_modifiers = { }
+        area_modifier = { }
+        country_modifiers = { }
+        on_upgraded = { }
+    }
+
+    tier_1 = {
+        upgrade_time = { months = 100 }
+        cost_to_upgrade = { factor = 600 }
+        province_modifiers = {
+            local_tax_modifier = 0.05
+            religious_unity = 0.02
+        }
+        area_modifier = { }
+        country_modifiers = {
+            tolerance_own = 1
+        }
+        on_upgraded = { }
+    }
+
+    tier_2 = {
+        upgrade_time = { months = 200 }
+        cost_to_upgrade = { factor = 1800 }
+        province_modifiers = {
+            local_tax_modifier = 0.10
+            religious_unity = 0.03
+        }
+        country_modifiers = {
+            tolerance_own = 1
+            missionary_maintenance_cost = -0.10
+        }
+        on_upgraded = { }
+    }
+
+    tier_3 = {
+        upgrade_time = { months = 400 }
+        cost_to_upgrade = { factor = 4500 }
+        province_modifiers = {
+            local_tax_modifier = 0.15
+            religious_unity = 0.05
+            local_monthly_devastation = -0.05
+        }
+        area_modifier = {
+            local_tax_modifier = 0.05
+        }
+        country_modifiers = {
+            tolerance_own = 2
+            prestige = 0.5
+            advisor_cost = -0.05
+        }
+        on_upgraded = { }
+    }
+}
+
+istano_basa_pagaruyung = {
+    # province it starts in (Pagaruyung / West Sumatra)
+    start = 2681
+
+    # historically prominent as of 14th century, rebuilt several times
+    date = 1347.01.01
+
+    time = {
+        months = 0
+    }
+
+    build_cost = 0
+
+    can_be_moved = no
+    move_days_per_unit_distance = 1
+
+    starting_tier = 1
+    type = monument
+
+    build_trigger = {
+        culture_group = malay
+    }
+
+    on_built = {
+        show_ambient_object = forbidden_city
+    }
+
+    on_destroyed = {
+        hide_ambient_object = forbidden_city
+    }
+
+    can_use_modifiers_trigger = {
+        culture_group = malay
+    }
+
+    can_upgrade_trigger = {
+        culture_group = malay
+    }
+
+    keep_trigger = {
+    }
+
+    # Monument tiers
+    tier_0 = {
+        upgrade_time = { months = 0 }
+        cost_to_upgrade = { factor = 0 }
+        province_modifiers = { }
+        area_modifier = { }
+        country_modifiers = { }
+        on_upgraded = { }
+    }
+
+    tier_1 = {
+        upgrade_time = { months = 100 }
+        cost_to_upgrade = { factor = 800 }
+        province_modifiers = {
+            local_tax_modifier = 0.05
+            local_governing_capacity_modifier = 0.05
+        }
+        area_modifier = { }
+        country_modifiers = {
+            legitimacy = 0.5
+            prestige = 0.25
+        }
+        on_upgraded = { }
+    }
+
+    tier_2 = {
+        upgrade_time = { months = 200 }
+        cost_to_upgrade = { factor = 2200 }
+        province_modifiers = {
+            local_tax_modifier = 0.10
+            local_governing_capacity_modifier = 0.10
+        }
+        country_modifiers = {
+            legitimacy = 1
+            prestige = 0.5
+            monthly_reform_progress_modifier = 0.05
+        }
+        on_upgraded = { }
+    }
+
+    tier_3 = {
+        upgrade_time = { months = 400 }
+        cost_to_upgrade = { factor = 5000 }
+        province_modifiers = {
+            local_tax_modifier = 0.15
+            local_governing_capacity_modifier = 0.15
+            local_monthly_devastation = -0.05
+        }
+        area_modifier = {
+            local_tax_modifier = 0.05
+            local_monthly_devastation = -0.03
+        }
+        country_modifiers = {
+            legitimacy = 2
+            prestige = 1
+            reform_progress_growth = 0.1
+            tolerance_own = 1
+        }
+        on_upgraded = { }
+    }
+}
+
+
+muaro_jambi_temple_complex = {
+    # province it starts in (Muaro Jambi area)
+    start = 2677  # same as Muara Takus region for now, change if needed
+
+    # historical origin: 7th–13th century, peaked during Srivijaya and Melayu Kingdoms
+    date = 684.01.01
+
+    time = {
+        months = 0
+    }
+
+    build_cost = 0
+    can_be_moved = no
+    move_days_per_unit_distance = 1
+    starting_tier = 1
+    type = monument
+
+    build_trigger = {
+        culture_group = malay
+    }
+
+    on_built = {
+        show_ambient_object = machu_picchu  # you can replace this with a custom ambient later
+    }
+
+    on_destroyed = {
+        hide_ambient_object = machu_picchu
+    }
+
+    can_use_modifiers_trigger = {
+        culture_group = malay
+    }
+
+    can_upgrade_trigger = {
+        culture_group = malay
+    }
+
+    keep_trigger = {
+    }
+
+    # Monument tiers
+    tier_0 = {
+        upgrade_time = { months = 0 }
+        cost_to_upgrade = { factor = 0 }
+        province_modifiers = { }
+        area_modifier = { }
+        country_modifiers = { }
+        on_upgraded = { }
+    }
+
+    tier_1 = {
+        upgrade_time = { months = 100 }
+        cost_to_upgrade = { factor = 750 }
+        province_modifiers = {
+            local_tax_modifier = 0.05
+            development_cost = -0.05
+        }
+        country_modifiers = {
+            monthly_karma = 0.05
+        }
+        on_upgraded = { }
+    }
+
+    tier_2 = {
+        upgrade_time = { months = 200 }
+        cost_to_upgrade = { factor = 2100 }
+        province_modifiers = {
+            local_tax_modifier = 0.10
+            development_cost = -0.10
+        }
+        country_modifiers = {
+            monthly_karma = 0.10
+            idea_cost = -0.02
+        }
+        on_upgraded = { }
+    }
+
+    tier_3 = {
+        upgrade_time = { months = 400 }
+        cost_to_upgrade = { factor = 5000 }
+        province_modifiers = {
+            local_tax_modifier = 0.15
+            development_cost = -0.15
+            local_monthly_devastation = -0.05
+        }
+        area_modifier = {
+            local_tax_modifier = 0.05
+            local_monthly_devastation = -0.03
+        }
+        country_modifiers = {
+            prestige = 0.5
+            monthly_karma = 0.15
+            tolerance_heathen = 1
+            reform_progress_growth = 0.05
+        }
+        on_upgraded = { }
+    }
+}
+
+lore_lindu_megaliths = {
+	# province it starts in (Lore Lindu region, Sulawesi)
+	start = 2714
+
+	# date built in real life (megaliths date from ~1300 onward, some much older)
+	date = 1300.01.01
+
+	time = {
+		months = 0
+	}
+
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 1
+	starting_tier = 1
+	type = monument
+
+	# Only relevant to Austronesian cultures in Sulawesi
+	build_trigger = {
+		culture_group = sulawesi_g
+	}
+
+	on_built = {
+		show_ambient_object = moai  # Placeholder object; can be customized
+	}
+
+	on_destroyed = {
+		hide_ambient_object = moai
+	}
+
+	can_use_modifiers_trigger = {
+		culture_group = sulawesi_g
+	}
+
+	can_upgrade_trigger = {
+		culture_group = sulawesi_g
+	}
+
+	keep_trigger = {
+	}
+
+	tier_0 = {
+		upgrade_time = { months = 0 }
+		cost_to_upgrade = { factor = 0 }
+		province_modifiers = { }
+		area_modifier = { }
+		country_modifiers = { }
+		on_upgraded = { }
+	}
+
+	tier_1 = {
+		upgrade_time = { months = 100 }
+		cost_to_upgrade = { factor = 1000 }
+		province_modifiers = { }
+		country_modifiers = {
+			tolerance_own = 0.5
+			tolerance_heathen = 0.5
+			stability_cost_modifier = -0.05
+		}
+		on_upgraded = { }
+	}
+
+	tier_2 = {
+		upgrade_time = { months = 220 }
+		cost_to_upgrade = { factor = 2500 }
+		province_modifiers = { }
+		country_modifiers = {
+			tolerance_own = 1
+			tolerance_heathen = 1
+			stability_cost_modifier = -0.10
+			heir_chance = 0.05
+		}
+		on_upgraded = {
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_nobles
+					loyalty = 5
+				}
+			}
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = { months = 480 }
+		cost_to_upgrade = { factor = 5000 }
+		province_modifiers = { }
+		country_modifiers = {
+			religious_unity = 0.2
+			tolerance_own = 1
+			tolerance_heathen = 1
+			tolerance_heretic = 1
+			stability_cost_modifier = -0.15
+			nobles_loyalty_modifier = 0.15
+		}
+		on_upgraded = { }
+	}
+}

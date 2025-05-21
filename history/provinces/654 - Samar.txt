@@ -1,0 +1,36 @@
+# Samar
+# 654 Samar - 5/16/2025 12:37:49 PM 
+ 
+add_core = VLM
+add_core = VLM
+owner = VLM
+controller = VLM
+base_tax = 1
+base_production = 1
+base_manpower = 2
+
+trade_goods = spices
+
+culture = waray
+religion = animism
+capital = "Samar"
+
+
+discovered_by = chinese
+
+
+
+
+1521.1.1 = {
+	discovered_by = SPA
+}
+1595.1.1 = {
+	capital = "Borongan"
+	culture = castillian
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

@@ -1,0 +1,35 @@
+# Tobique
+# 2567 Tobique - 5/16/2025 12:37:50 PM 
+ 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = unknown
+
+culture = maliseet
+religion = totemism
+capital = "Aroostook"
+
+native_size = 5
+native_ferocity =  1
+native_hostileness = 2
+tribal_owner = MLS
+
+discovered_by = north_american
+
+
+
+
+1609.1.1 = {
+	discovered_by = FRA
+}
+1629.1.1 = {
+	discovered_by = ENG
+}
+1707.5.12 = {
+	discovered_by = GBR
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

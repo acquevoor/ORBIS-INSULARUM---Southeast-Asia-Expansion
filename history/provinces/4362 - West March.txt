@@ -1,0 +1,44 @@
+# Dumfries
+# 4362 Dumfries - 5/16/2025 12:37:50 PM 
+ 
+add_core = SCO
+owner = SCO
+controller = SCO
+base_tax = 3
+base_production = 3
+base_manpower = 2
+
+trade_goods = wool
+
+culture = scottish
+religion = catholic
+capital = "Dumfries"
+
+is_city = yes
+fort_15th = yes
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+
+
+
+1560.8.1 = {
+	religion = reformed
+}
+1651.4.1 = {
+	controller = ENG
+}
+1652.4.21 = {
+	controller = SCO
+}
+1707.5.12 = {
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

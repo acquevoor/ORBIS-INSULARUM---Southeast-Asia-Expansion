@@ -1,0 +1,31 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 2
+primary_culture = melayu
+religion = hinduism
+technology_group = chinese
+capital = 639# Banjar
+1444.11.11 = { 
+	monarch = { 
+		name = "Empu Jatmika"
+		dynasty = "Negara Dipa"
+		primary_culture = javanese
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_piety = -0.1
+}
+1444.11.11 = { 
+	heir = { 
+		name = "Lambung Mangkurat"
+		monarch_name = "Lambung Mangkurat"
+		dynasty = "Negara Dipa"
+		birth_date = 1425.1.1
+		death_date = 1500.1.1
+		claim = 90
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}

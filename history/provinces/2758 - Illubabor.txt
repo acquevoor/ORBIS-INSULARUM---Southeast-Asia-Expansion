@@ -1,0 +1,35 @@
+# Illubabor
+# 2758 Illubabor - 5/16/2025 12:37:50 PM 
+ 
+add_core = ENA
+owner = ENA
+controller = ENA
+base_tax = 2
+base_production = 3
+base_manpower = 2
+
+trade_goods = slaves
+
+culture = sidamo
+religion = coptic
+capital = "Illubabor"
+
+is_city = yes
+
+discovered_by = east_african
+discovered_by = muslim
+
+
+
+
+1650.1.1 = {
+	culture = oromo
+}
+1710.1.1 = {
+	owner = ETH
+	controller = ETH
+	add_core = ETH
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

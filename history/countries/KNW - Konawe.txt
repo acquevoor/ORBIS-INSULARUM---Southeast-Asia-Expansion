@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+primary_culture = tolaki
+religion = animism
+technology_group = chinese
+capital = 4796# Kings of Konawe
+1399.1.1 = { 
+	monarch = { 
+		name = "Lakidende"# A semi-legendary leader of Konawe, possibly ruling in the 15th century
+		dynasty = "Tolaki"# Reflecting the local Tolaki ethnic group
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}

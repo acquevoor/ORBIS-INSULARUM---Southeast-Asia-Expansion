@@ -1,0 +1,136 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+#
+# Union tags do not suffer from the 'same_culture_group' tax penalty.
+# Primary tags are the first choice for rebel factions seeking cultural independence.
+#
+# graphical_culture = westerngfx
+# second_graphical_culture = muslimgfx (fallback if the first does not exist)
+
+sulawesi_g = {
+	graphical_culture = southeastasiangfx
+	second_graphical_culture = asiangfx
+	sulawesi = {
+		primary = MKS
+		dynasty_names = {
+			Palopo Makassar Manado Poso Palu
+		}
+		male_names = {
+			"Tunitangkalopi" "Batara Gowa" "Tuni Djallori" "Tuni Parisi" "Tuni Palonga" "Tuni Butta" "Tunyachoka-ri" 
+			"Karaeng Tunibatta" "Tuni Djallo" "Parabung" "Tuni Pasulu" "All h ad-D n" "Muhammad Malik" "Muhammad Sa' d" 
+			"Amir Hamza" "'Abd al-Jal l" "Shih b ad-D n Ism ' l" "Muhammad Bakr Hasan" "Hamaza Tumammalianga" "Muhammad 'Ali" "Fakhr"
+			"Shahab" "Siraj ad-D n" "'Abd al-Khayr al-Mans r" "'Abd al-Qudus" "'Uthm n" "Muhammad Imad" 
+			"Zain" "'Im d ad-D n" "Zaynal-'Abid n" "Sankilang" "'Abd al-H d " "'Abd al-Khaliq" "Limbangparang"
+		}
+		female_names = {
+			Cinta Wangi Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu utea Orama Poe Pear Poehina Poenui Poerava 
+			Puaiti Puatea Puaura Ra ihau Ra imere Ra inui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua 
+			Tautiare Tehani Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere 
+			Vaimiti Vairea Vaite Vaitiare
+		}
+	}
+	wallio = {
+		primary = BTN
+		dynasty_names = {
+			Bugis Makassar Toraja Mandar Wajo Luwu Bone TanaToraja
+		}
+		male_names = {
+			"Lamappang" "Mallise" "Sappai" "Lasatene" "Tondok" "Sulewatang" "Rambe" 
+			"Ma’dika" "Walangko" "Tampang" "Lasinrang" "Gau" "Mapatangka" "Massora"
+		}
+		female_names = {
+			"Andi" "We Tenri" "Bonto" "Pajonga" "Wera" "Tanra" "Dalle" "Tenri Abeng"
+			"Malebbi" "Tondokna" "Celle" "Sule" "Tepa" "Bessi" "Lalanro"
+		}
+	}
+	makassar = {
+	primary = MKS
+	dynasty_names = {
+		Gowa Tallo Marusu Bone Soppeng Luwu Sinjai Bantaeng
+	}
+	male_names = {
+		"Karaeng" "Tumanurung" "Pattingalloang" "Ranggong" "Bonto" "Latoa" "Tamalate"
+	}
+	female_names = {
+		"Tumanurung" "Dara" "Pattarai" "Rappocini" "Tallo" "Bonto" "Kalesang"
+	}
+}
+	banawa = {
+	primary = BNW
+	dynasty_names = {
+		Tomini Tolitoli Banawa Dampal Tinombo Sidoan Malala
+	}
+	male_names = {
+		"Lamangga" "Sanggilo" "Tajadi" "Makandu" "Ranggau" "Dondo" "Lapasi"
+	}
+	female_names = {
+		"Yinda" "Nina" "Ranga" "Lalinda" "Tompira" "Wira" "Sali"
+	}
+}
+kaili = {
+	primary = BGI
+	dynasty_names = {
+		Kaili Doi Palu Sigi Kulawi Banawa Lindu
+	}
+	male_names = {
+		"Yusuf" "Lambara" "Mangaji" "Samba" "Tado" "Moko" "Wandoa" "Dondoli"
+	}
+	female_names = {
+		"Yolanda" "Pona" "Mambai" "Tina" "Sari" "Nona" "Lambe" "Rambe"
+	}
+}
+bungku = {
+	primary = LUW
+	dynasty_names = {
+		Bungku Morowali Petasia Menui Kolonodale
+	}
+	male_names = {
+		"La Ode" "Anase" "Tibo" "Daga" "Woku" "Konaa" "Wambo"
+	}
+	female_names = {
+		"Ma Ode" "Inaku" "Nuru" "Samu" "Rami" "Waka" "Indah"
+	}
+}
+tolaki = {
+	primary = KNW
+	dynasty_names = {
+		Tolaki Konawe Mekongga Unaaha Kendari Andoolo
+	}
+	male_names = {
+		"La Ode" "Anto" "Sangia" "Tosepu" "Halu" "Tado" "Wawo" "Konasa"
+	}
+	female_names = {
+		"Wa Ode" "Inaku" "Sinta" "Raha" "Liani" "Lambe" "Tina"
+	}
+}
+
+    toraja = {
+    primary = BNW
+    dynasty_names = {
+        "Pongtiku" "Mamasa" "Rantepao" "Sa’dan" "Talondo"
+    }
+    male_names = {
+        "Pong" "Tongkonan" "Iling" "Lango" "Miko"
+        "Tedong" "Rante" "Tenri" "Datu" "Gandung"
+    }
+    female_names = {
+        "Indang" "Lambang" "Oyon" "Nene" "Mali"
+        "Napu" "Pongtiku" "Sana" "Dara" "Rante"
+    }
+}	
+bugis = {
+    primary = MKS
+    dynasty_names = {
+        "Luwu" "Bone" "Wajo" "Soppeng" "Barru"
+    }
+    male_names = {
+        "Andi Makkarumpa" "La Tenri Peppang" "Andi Djemma" "La Pawawoi" "Andi Mappanyukki"
+        "Andi Pati" "La Palaloi" "Andi Mattalatta" "La Kaduk" "Andi Sultan Daeng"
+    }
+    female_names = {
+        "Andi Raja" "Sitti" "We Tenri" "Dewi" "Andi Sari"
+        "Sari Dewi" "Andi Nur" "Sitti Mariyam" "We Sitti" "Andi Latif"
+    }
+}
+
+}

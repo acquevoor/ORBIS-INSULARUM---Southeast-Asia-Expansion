@@ -1,0 +1,29 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_naval_doctrine_icons"
+		texturefile = "gfx//interface//mnd_naval_doctrine_icons.dds"
+		noOfFrames = 42
+	}
+	
+	spriteType = {
+		name = "GFX_naval_doctrine_icons_small"
+		texturefile = "gfx//interface//mnd_naval_doctrine_icons_small.dds"
+		noOfFrames = 43
+	}
+	
+	spriteType = {
+		name = "GFX_mayan_canoes_icon"
+		texturefile = "gfx//interface//mayan_canoes.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_mnd_background"
+		texturefile = "gfx//interface//mnd_background.dds"
+	}
+	
+	spriteType = {
+		name = "mnd_crusader_event_pic"
+		texturefile = "gfx//event_pictures//CrusaderEvent.dds"
+	}
+}

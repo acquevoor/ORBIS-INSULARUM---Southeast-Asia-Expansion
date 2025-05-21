@@ -1,0 +1,55 @@
+# Hisn Kayfa
+# 4295 Hisn Kayfa - 5/16/2025 12:37:50 PM 
+ 
+add_core = IRQ
+add_core = HSN
+owner = HSN
+controller = HSN
+base_tax = 2
+base_production = 2
+base_manpower = 2
+
+trade_goods = wool
+
+culture = kurdish
+religion = sunni
+capital = "Hisn Kayfa"
+
+is_city = yes
+fort_15th = yes
+
+discovered_by = east_african
+discovered_by = muslim
+discovered_by = indian
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = nomad_group
+
+
+
+
+1462.1.1 = {
+	owner = AKK
+	controller = AKK
+	add_core = AKK
+}
+1507.1.1 = {
+	owner = HSN
+	controller = HSN
+	add_core = HSN
+	remove_core = AKK
+}
+1514.8.23 = {
+	owner = TUR
+	controller = TUR
+	add_core = TUR
+}
+1624.1.1 = {
+	controller = PER
+}
+1638.12.24 = {
+	controller = TUR
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

@@ -1,0 +1,337 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+#
+# Union tags do not suffer from the 'same_culture_group' tax penalty.
+# Primary tags are the first choice for rebel factions seeking cultural independence.
+#
+# graphical_culture = westerngfx
+# second_graphical_culture = muslimgfx (fallback if the first does not exist)
+
+filipino_g = {
+	graphical_culture = southeastasiangfx
+	second_graphical_culture = asiangfx
+	tagalog = {
+		primary = MNL
+		dynasty_names = {
+			Andal Awit Bacod Balagtas Banyaga Bayani Bondoc Bulalacao
+			Bunyi Cabuhat Cabungcal Capulong Carandang Catapang Catubig
+			Cayabyab Dalangin Dalisay Dimaano Dimaculangan Dimapilis
+			Dimayuga Diwa Galang Gatdula Guinto Halili Ilao Isip Janea
+			Kalaw Lacanilao Liwanag Lontoc Mabilangan Macalintal Macaraig
+			Macatangay Makuha Magboo Magsino Malana Malibiran Marasigan
+			Matibay Panganiban Parungao Pasahol Ptacsil Pilapi Silang
+			Sumaya Sumilang Sumulong Timbol Tumanda Yanga
+		}
+		male_names = {
+			Harana Alon Mithi Sinag Bituin Tala Kaya Sana Lila Hayaan Katha Hiraya Kaya Bantay Bayan Unlad Habagat Bagwis Mulawin Langit Ambon Ulan Habagat Bayani Kidlat Luningning Dakila Kalaw Buwaya Malakas Bakal Bangkaw Alma
+		}
+		female_names = {
+			Tala Bittuin Ligaya Puri Maliwag Maliwanag Maligaya Ligaya Dalisay Liwayway Luwalhati Mutya Paraluman Mayumi Marikit Mahal Amihan Hiyas Anahaw Tala Sabiyak Marol Alwina
+		}
+	}
+
+	kapampangan = {
+		primary = TDO
+		dynasty_names = {
+			Nandula Tondo Dula Gat Lontoc Nandula Timamanukum
+		}
+		male_names = {
+			Abac Baluyut Batac Bondoc Calma Canlas Cunanan Cuyugan Dalusung Dungca Galang Gatus Guinto Guintu Isip Laxamana Layug Lingad Macabulos Macalino Macapinlac Magtoto Mallari Manabat Manalang Manalastas Manlutac Paguio Sibug Sicat Sigua Taruc
+		}
+		female_names = {
+			Tala Bittuin Ligaya Puri Maliwag Maliwanag Maligaya Ligaya Dalisay Liwayway Luwalhati Mutya Paraluman Mayumi Marikit Mahal Amihan Hiyas Anahaw Tala Sabiyak Marol Alwina
+		}
+	}
+
+	yami = {
+		dynasty_names = {
+			Siqalo Qataban Cidacay Rarange Vahayno Tatara Parod Vuvuy Cyaken
+		}
+		male_names = {
+			Cimo Vahayno Siqalang Qataban Yzot Cidacay Baykay Lanowa Dazang Rarang Cipan Teytao Yzotikan
+		}
+		female_names = {
+			Rakao Vuvuy Piyoxan Yzotang Panidalan Mayno Cihang Tavak Panisapan Isilakay Parod Nocnocan
+		}
+	}
+
+
+	ilocano = {
+		primary = SMN
+		dynasty_names = {
+			Agbayani Agbulos Agbunag Bulosan Ilokano Dula Gat
+		}
+		male_names = {
+			Agbulos Agbunag Agacaoili Agpaoa Agtarap Bagaoisan Barroga Biag Bucaneg Bulalayao Caasi Caday Dancel Gacutuan Madamba Madarang Mamaclay Mamuad Ulep Vinoya
+		}
+		female_names = {
+			Tala Sagaysay Sumagaysay Puri Maliwag Maliwanag Maligaya Ligaya Dalisay Liwayway Luwalhati Mutya Paraluman Mayumi Marikit Mahal Amihan Hiyas Anahaw Tala Sabiyak Marol Alwina
+		}
+	}
+ 
+    tausug = {
+	primary = SUL
+	dynasty_names = {
+		Kiram Shakirun Abdurajak Tulawie
+	}
+	male_names = {
+		Jamalul Shariful Rajamuda Badron Abdurahman Asbang Panglima
+	}
+	female_names = {
+		Sittie Putli Jariah Dayang Nurain Isnaira Batul
+	}
+}
+
+	pangasinan = {
+		primary = PGS
+		dynasty_names = {
+			Agbayani Agbulos Agbunag Bulosan Caboloan Dula Gat
+		}
+		male_names = {
+			Agbulos Agbunag Agacaoili Agpaoa Agtarap Bagaoisan Barroga Biag Bucaneg Bulalayao Caasi Caday Dancel Gacutuan Madamba Madarang Mamaclay Mamuad Ulep Vinoya
+		}
+		female_names = {
+			Tala Sagaysay Sumagaysay Puri Maliwag Maliwanag Maligaya Ligaya Dalisay Liwayway Luwalhati Mutya Paraluman Mayumi Marikit Mahal Amihan Hiyas Anahaw Tala Sabiyak Marol Alwina
+		}
+	}
+
+	waray = {
+		primary = VLM
+		dynasty_names = {
+			Waray Himaya Lontoc 
+		}
+		male_names = {
+			Manaog Ilagan Marasigan Uy Libo-on Lumanog Mabilog Magbanua Mahinay Mahilum Pangatihon Banaag Dacanay Mamaclay Manaalo Magtanong Sacdalan Bantug Bitoon
+		}
+		female_names = {
+			Tayla Wela Maayo Malambing Lusing Kanor Daylinda Dalisay Gadel Mutya Matahom Suga Wela Roela Raynalyn Bulak Kahayag 
+		}
+	}
+
+	mandaya = {
+		dynasty_names = {
+			Andal Awit Bacod Balagtas Banyaga Bayani Bondoc Bulalacao
+			Bunyi Cabuhat Cabungcal Capulong Carandang Catapang Catubig
+			Cayabyab Dalangin Dalisay Dimaano Dimaculangan Dimapilis
+			Dimayuga Diwa Galang Gatdula Guinto Halili Ilao Isip Janea
+			Kalaw Lacanilao Liwanag Lontoc Mabilangan Macalintal Macaraig
+			Macatangay Makuha Magboo Magsino Malana Malibiran Marasigan
+			Matibay Panganiban Parungao Pasahol Ptacsil Pilapi Silang
+			Sumaya Sumilang Sumulong Timbol Tumanda Yanga
+		}
+		male_names = {
+			"Sharif ul Hashim" "Kamal ud Din" "Sharif Sayyid Ala ud Din" "Amirul Umara" "Muizz ul Mutawadiin" "Batarah Shah Tengah" "Muwallit Wasit" "Muhammad Alimuddin" "Muhammad al Halim" "Muizz ul Din" "Nasir ud Din" 
+			"Azimuddin" "Salah ud Din Bakhtiyar" "Shihab ud Din" "Mustafa Shafi" "Muhammad Badaruddin" "Muizz ud Din Bantilan"
+			"Muhammad Israil" "Muhammad Sharafuddin" "Aliyuddin" "Shakirullah" 
+		}
+		female_names = {
+			"Anela" Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu�utea Orama Poe Pear Poehina Poenui Poerava Puaiti 
+			Puatea Puaura Ra�ihau Ra�imere Ra�inui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua Tautiare Tehani 
+			Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea 
+			Vaite Vaitiare 
+		}
+	}
+
+	kuyonon = {
+		primary = TAY
+		dynasty_names = {
+			Andal Awit Bacod Balagtas Ba�aga Bayani Bondoc Bulalacao
+			Bunyi Cabuhat Cabungcal Capulong Carandang Catapang Catubig
+			Cayabyab Dalangin Dalisay Dimaano Dimaculangan Dimapilis
+			Dimayuga Diwa Galang Gatdula Guinto Halili Ilao Isip Janea
+			Kalaw Lacanilao Liwanag Lontoc Mabilangan Macalintal Macaraig
+			Macatangay Makuha Magboo Magsino Malana Malibiran Marasigan
+			Matibay Panganiban Parungao Pasahol Ptacsil Pilapi Silang
+			Sumaya Sumilang Sumulong Timbol Tumanda Yanga
+		}
+		male_names = {
+			Ilagan Marasigan Uy Libo-on Lumanog Mabilog Magbanua Mahinay Mahilum Pangatihon Banaag Dacanay Mamaclay Manaalo Magtanong Sacdalan Bantug Bitoon
+		}
+		female_names = {
+			Tayla Wela Maayo Malambing Lusing Kanor Daylinda Dalisay Gadel Mutya Matahom Suga Wela Roela Raynalyn Bulak Kahayag 
+		}
+	}
+
+	igorot = {
+		primary = IFG
+		dynasty_names = {
+			Ifugao Bontoc Igorot Apayao
+		}
+		male_names = {
+			Kanakanaey Kalinga Ibaloi Dulnuan Tayaban Tuguinay Binwag Pinkihan Cayat Gano Pugong
+		}
+		female_names = {
+			Kimayong Bantao Alunday Bay-An Dulawan Biscarra Cabbigat Awingan Kimmayong Lawagan Lamsis
+		}
+	}
+
+    ibanag = {
+	dynasty_names = {
+		Adduru Dacquel Gamoba Tumamao
+	}
+	male_names = {
+		Lutgardo Abuzo Turing Cayaban Narciso Dino Mateo Emong
+	}
+	female_names = {
+		Melita Onyang Bibian Ada Leona Sinforosa Iday Ninfa
+	}
+}
+
+mangyan = {
+	primary = HOM
+	dynasty_names = {
+		Baylon Dulag Salangsang Panlibutan
+	}
+	male_names = {
+		Bugan Halip Dantoy Mangyan Ayamon
+	}
+	female_names = {
+		Lingganay Badang Hunyango Salvia Umay
+	}
+}
+
+bikolano = {
+	primary = IBO
+	dynasty_names = {
+		Roco Basmayor Rosal Ayo Arejola Villafuerte
+	}
+	male_names = {
+		Danilo Roylan Joven Amador Tomas Enrico Ramil Noel
+	}
+	female_names = {
+		Daraga Amihan Mayumi Ligaya Nenita Julieta Irma Lucia
+	}
+}
+
+maguindanaon = {
+	primary = MGD
+	dynasty_names = {
+		Kudarat Kalimudan Buat Mastura Sinsuat
+	}
+	male_names = {
+		Datu Gumbay Abdul Usman Mangigin Kalid Salipada
+	}
+	female_names = {
+		Dayang Bai Kalima Sittie Usna Palimbang
+	}
+}
+
+maranao = {
+	primary = MSB
+	dynasty_names = {
+		Alonto Dimaporo Maruhom Salic
+	}
+	male_names = {
+		Raja Amai Maruhom Omar Asis Bae Datu
+	}
+	female_names = {
+		Potri Dayang Sittie Maruya Kamid Palapa
+	}
+}
+
+subanon = {
+	primary = SUB
+	dynasty_names = {
+		Suba Loga Talibong Yabog
+	}
+	male_names = {
+		Bayani Bungat Layagan Dumangpas Talagsa
+	}
+	female_names = {
+		Sayban Banik Ilina Usba Limbay
+	}
+}
+
+butuanon = {
+	primary = BTU
+	dynasty_names = {
+		Rajah Kolambu Datu Lapu Pulugan
+	}
+	male_names = {
+		Kalambu Lapu Datu Sikatuna Buyawan Ginal
+	}
+	female_names = {
+		Rajahna Alindahaw Dayang Bandara Panay Libud
+	}
+}
+
+caragan = {
+	dynasty_names = {
+		Manobo Datu Langilan Tagabawa
+	}
+	male_names = {
+		Langilan Mandagan Gubaan
+	}
+	female_names = {
+		Dayang Malinao Timan
+	}
+}
+
+sugbuano = {
+	primary = CEB
+	dynasty_names = {
+		Sugbo Labajo Kintanar Osmeña Alcordo Durano
+	}
+	male_names = {
+		Pedro Andres Lapu Tino Datu Kaloy Lito Inday Dodong
+	}
+	female_names = {
+		Amor Inday Mayang Lalay Ningning Maritess Rosita Luzviminda
+	}
+}
+
+ilonggo = {
+	primary = MAS
+	dynasty_names = {
+		Montelibano Locsin Araneta Ledesma Javellana Hofileña
+	}
+	male_names = {
+		Pabling Isko Ricardo Boyet Toto Ildefonso Kalantiao
+	}
+	female_names = {
+		Neneng Tinay Marilou Inday Rosalyn Gwendolyn Luz Clarita
+	}
+}
+    minahasa = {
+    primary = BOW
+    dynasty_names = {
+        "Tondano" "Tomohon" "Bitung" "Manado" "Amurang"
+    }
+    male_names = {
+        "Sam" "Ratulangi" "Gerungan" "Tumbelaka" "Sondakh"
+        "Lombok" "Sundah" "Porang" "Matuari" "Todeoud"
+    }
+    female_names = {
+        "Maria" "Walanda" "Lasut" "Kaunang" "Waworuntu"
+        "Kadi" "Rarung" "Lumowa" "Lisnawati" "Mokodompit"
+    }
+}
+gorontalo = {
+    primary = GTL
+    dynasty_names = {
+        "Limboto" "Tilamuta" "DumboRaya" "Bilato" "Atinggola"
+    }
+    male_names = {
+        "Huliselan" "Basalo" "Biki" "Kwandang" "Lopo"
+        "Tili" "Anwar" "Salahuddin" "Mokodisi" "Patudju"
+    }
+    female_names = {
+        "Hadiyati" "Salohe" "Woru" "Nana" "Lina"
+        "Rini" "Fatimah" "Ningsih" "Salma" "Tuti"
+    }
+}
+formosan = {
+    dynasty_names = {
+        "Kavalan" "Atayal" "Amis" "Paiwan" "Bunun"
+    }
+    male_names = {
+        "Tayal" "Mataw" "Luma" "Sakuli" "Pakat"
+        "Kawas" "Taki" "Mulis" "Awi" "Ngalu"
+    }
+    female_names = {
+        "Sani" "Lala" "Wawa" "Mina" "Paku"
+        "Tawi" "Rali" "Kama" "Nawi" "Lala"
+    }
+}
+
+}

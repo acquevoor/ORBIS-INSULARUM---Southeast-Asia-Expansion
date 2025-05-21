@@ -1,0 +1,50 @@
+# Wien
+# 134 Wien - 5/16/2025 12:37:49 PM 
+ 
+add_core = HAB
+owner = HAB
+controller = HAB
+base_tax = 6
+base_production = 6
+base_manpower = 6
+
+center_of_trade = 2
+trade_goods = wine
+extra_cost = 16
+
+culture = austrian
+religion = catholic
+capital = "Wien"
+
+hre = yes
+is_city = yes
+fort_15th = yes
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+1545.1.1 = {
+	base_manpower = 3
+}
+1650.1.1 = {
+	base_manpower = 4
+}
+1700.1.1 = {
+	base_manpower = 6
+}
+1806.7.12 = {
+	hre = no
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

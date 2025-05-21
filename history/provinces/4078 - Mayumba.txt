@@ -1,0 +1,30 @@
+# Mayumba
+# 4078 Mayumba - 5/16/2025 12:37:50 PM 
+ 
+add_core = LOA
+owner = LOA
+controller = LOA
+base_tax = 2
+base_production = 1
+base_manpower = 2
+
+trade_goods = ivory
+
+culture = kongolese
+religion = shamanism
+capital = "Mayumba"
+
+is_city = yes
+
+discovered_by = central_african
+discovered_by = sub_saharan
+
+
+
+
+1481.1.1 = {
+	discovered_by = POR
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

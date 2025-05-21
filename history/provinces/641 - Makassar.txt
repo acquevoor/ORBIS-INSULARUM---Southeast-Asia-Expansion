@@ -1,0 +1,25 @@
+# Makassar
+# 641 Makassar - 5/16/2025 12:37:49 PM 
+add_core = MKS
+owner = MKS
+controller = MKS
+base_tax = 5
+base_production = 6
+base_manpower = 4
+center_of_trade = 1
+trade_goods = chinaware
+extra_cost = 16
+culture = makassar
+religion = animism
+capital = "Makassar"
+is_city = yes
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+1511.1.1 = { 
+	discovered_by = POR
+}
+1605.9.1 = { 
+	religion = sunni
+}

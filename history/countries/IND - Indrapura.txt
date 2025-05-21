@@ -1,0 +1,28 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+primary_culture = rejang
+religion = animism
+secondary_religion = buddhism
+technology_group = chinese
+capital = 4818
+religious_school = shafii_school
+
+1444.1.1 = {
+	monarch = {
+		name = "Krisna"
+		dynasty = "Indrapura"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1480.1.1 = {
+	monarch = {
+		adm = 4
+		dip = 3
+		mil = 4
+		regent = yes
+	}
+}

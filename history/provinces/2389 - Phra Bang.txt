@@ -1,0 +1,47 @@
+# Phra Bang
+# 2389 Phra Bang - 5/16/2025 12:37:50 PM 
+ 
+add_core = SUK
+add_core = AYU
+add_core = AYU
+add_core = AYU
+owner = SUK
+controller = SUK
+base_tax = 5
+base_production = 5
+base_manpower = 3
+
+trade_goods = tropical_wood
+
+culture = central_thai
+religion = buddhism
+capital = "Phra Bang"
+
+is_city = yes
+
+discovered_by = chinese
+discovered_by = indian
+
+
+
+
+1438.1.1 = {
+	add_core = AYU
+}
+1530.1.1 = {
+	owner = AYU
+	controller = AYU
+	remove_core = SUK
+}
+1535.1.1 = {
+	discovered_by = POR
+}
+1767.4.1 = {
+	unrest = 7
+}
+1774.1.1 = {
+	unrest = 0
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

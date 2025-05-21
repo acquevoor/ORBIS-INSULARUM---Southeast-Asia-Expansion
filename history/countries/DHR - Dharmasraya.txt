@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+primary_culture = melayu
+religion = animism
+secondary_religion = hinduism
+technology_group = chinese
+capital = 2677#jambi
+1444.1.1 = { 
+	monarch = { 
+		name = "Adityawarman"# His rule ended earlier, but his descendants could be ruling
+		dynasty = "Mauli"# The historical ruling dynasty of Dharmasraya
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}

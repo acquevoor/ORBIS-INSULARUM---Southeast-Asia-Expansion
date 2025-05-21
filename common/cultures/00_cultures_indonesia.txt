@@ -1,0 +1,676 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+#
+# Union tags do not suffer from the 'same_culture_group' tax penalty.
+# Primary tags are the first choice for rebel factions seeking cultural independence.
+#
+# graphical_culture = westerngfx
+# second_graphical_culture = muslimgfx (fallback if the first does not exist)
+
+malay = { 
+	graphical_culture = southeastasiangfx
+	second_graphical_culture = asiangfx
+
+	malayan = {
+		primary = MLC
+		dynasty_names = { 
+			Melaka Johor Perak Kedah Pattani Pahang Kelantan Selangor Terengganu
+		}
+		male_names = {
+			"Sam Agi" "Paramesvara" "Megat Iskander" "Muhammad Shāh" "Abu Syahid" "Muzaffar Shāh" "Mansūr Shāh"
+			"Riayat Shah" "Mahmūd Shāh" "'Abd al-Jalīl Shāh" "Ma'ayat Shāh" "Ibrāhīm Shāh" "Rahmat Shāh"
+			"Sulaymān Badr Shāh" "Mu'azzam Shāh" "Mahmūd Ri'āyat Shāh" "'Abd ar-Rahmān Shāh" "Rajah Qasim"
+		}
+		female_names = {
+			Azura Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu‘utea Orama Poe Pear Poehina Poenui
+			Poerava Puaiti Puatea Puaura Ra‘ihau Ra‘imere Ra‘inui Ranitea Rarahu Raunui Raurii Tahiata Taiana
+			Taina Tania Taurua Tautiare Tehani Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea
+			Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea Vaite Vaitiare
+		}
+	}
+	gayo = {
+    primary = LMI
+	dynasty_names = {
+		Gayo Lut Tawar Bebesen Bener Ketol Silih Nara
+	}
+	male_names = {
+		"Jamal" "Usman" "Tawar" "Sahidin" "Ishak" "Saman" "Burhan"
+	}
+	female_names = {
+		"Ani" "Laila" "Rani" "Siti" "Nur" "Tari" "Yusniar"
+	}
+}
+banten = {
+	primary = SUN
+	dynasty_names = {
+		Tarumanagara Salakanagara Banten Girang Pulosari Kujang Sunda
+	}
+	male_names = {
+		"Rakeyan" "Dharmasiksa" "Purbasari" "Surya" "Wisnu" "Mahesa" "Gilang"
+	}
+	female_names = {
+		"Sundari" "Purbasari" "Ratna" "Sekar" "Laras" "Kinanti" "Ningrum"
+	}
+}
+cirebonese = {
+	primary = CRB
+	dynasty_names = {
+		Pajajaran Caruban Galuh Kawali Pakuan Jambudwipa Indraprahasta
+	}
+	male_names = {
+		"Wastu" "Hayam" "Jaya" "Taruna" "Sagara" "Mahesa" "Bagus"
+	}
+	female_names = {
+		"Dyah" "Sekar" "Ratih" "Lestari" "Dewi" "Puspa" "Pertiwi"
+	}
+}
+danum_dayak = {
+	dynasty_names = {
+		OtDanum Kahayan Barito Rungan Miri Murung
+	}
+	male_names = {
+		"Jato" "Lapai" "Sanggu" "Banu" "Tumbang" "Mangku" "Balok"
+	}
+	female_names = {
+		"Indu" "Sere" "Baya" "Naya" "Tuwi" "Daman" "Jami"
+	}
+}
+maanyan_dayak = {
+	dynasty_names = {
+		Maanyan Banua Lawangan Dusun Paju Empu
+	}
+	male_names = {
+		"Ampu" "Dari" "Tulai" "Raman" "Saput" "Lawi" "Gantang"
+	}
+	female_names = {
+		"Rami" "Lami" "Banti" "Kandi" "Jure" "Mina" "Sayu"
+	}
+}
+sasak = {
+	dynasty_names = {
+		Sasak Bayan Selaparang Pejanggik Lombok
+	}
+	male_names = {
+		"Lalu" "Made" "Gede" "Wayan" "Mertayasa" "Agung" "Tirta"
+	}
+	female_names = {
+		"Baiq" "Ni Luh" "Desak" "Rini" "Komang" "Sari" "Putri"
+	}
+}
+samawa = {
+	primary = SMA
+	dynasty_names = {
+		Samawa Sumbawa Taliwang Plampang Empang Rhee
+	}
+	male_names = {
+		"Salamuddin" "Hasanuddin" "Datu" "Syah" "Tarmizi" "Usman"
+	}
+	female_names = {
+		"Rohana" "Nuraini" "Siti" "Dewi" "Aisyah" "Marni"
+	}
+}
+sumbawa = {
+	primary = SMW
+	dynasty_names = {
+		Tambora Dompu Sanggar Taliwang Labangka Empang Wawo
+	}
+	male_names = {
+		"Indra Loka" "Talu Mbojo" "Gana Dewa" "Batu Ruma" "Lalu Bata" "Tua Karang" "Langga Ria"
+	}
+	female_names = {
+		"Lere Ruma" "Ndi Ria" "Rambu Tawa" "Bongi Nini" "Langi Watu" "Tia Nale" "Ina Ruma"
+	}
+}
+sumba = {
+	dynasty_names = {
+		Sumba Waingapu Anakalang Lewa Kodi Lamboya
+	}
+	male_names = {
+		"Umbu" "Hamba" "Radja" "Dawa" "Dapawole" "Kaka" "Bulla"
+	}
+	female_names = {
+		"Rambu" "Ina" "Wadu" "Lewa" "Namu" "Wini" "Hama"
+	}
+}
+timor = {
+	primary = TIM
+	dynasty_names = {
+		Timor Belu Atoni Wehali Oecusse Kupang
+	}
+	male_names = {
+		"Domingos" "Xavier" "Boavida" "Lafaek" "Maun" "Lulik"
+	}
+	female_names = {
+		"Maria" "Anita" "Lidia" "Mana" "Tasi" "Loro"
+	}
+}
+lombok = {
+	primary = SPR
+	dynasty_names = {
+		Selaparang Pejanggik Bayan Praya Sakra Pujut Sembalun
+	}
+	male_names = {
+		"Lalu Arya" "Gusti Tohjiwa" "Tuan Semaring" "Malinggai" "Batu Keliang" "Arya Banjar" "Sang Raga"
+	}
+	female_names = {
+		"Baiq Rini" "Dayu Sri" "Nini Selaparang" "Inten Dewi" "Tepa Lalu" "Sinta Bayan" "Lale Dewi"
+	}
+}
+
+flores = {
+	primary = BMA
+	dynasty_names = {
+		Flores Manggarai Ende Ngada Maumere Larantuka
+	}
+	male_names = {
+		"Yohanes" "Sebastianus" "Eko" "Joko" "Damu" "Reka"
+	}
+	female_names = {
+		"Florentina" "Kristina" "Nia" "Ria" "Weni" "Yani"
+	}
+}
+north_halmahera = {
+	primary = JLO
+	dynasty_names = {
+		Tobelo Galela Kao Loloda Morotai
+	}
+	male_names = {
+		"Marianus" "Jules" "Sahrul" "Jamal" "Tobelo" "Kumis"
+	}
+	female_names = {
+		"Lucia" "Nani" "Fatima" "Heni" "Kora" "Mira"
+	}
+}
+south_halmahera = {
+	primary = HML
+	dynasty_names = {
+		Ternate Tidore Bacan Obi Gane Makian
+	}
+	male_names = {
+		"Hidayat" "Fatah" "Sultan" "Abdul" "Ali" "Hasan"
+	}
+	female_names = {
+		"Aisyah" "Zainab" "Siti" "Fatimah" "Laila" "Nur"
+	}
+}
+	asli = { 
+		primary = DHR
+		dynasty_names = { 
+			Semang Jakun Temiar Bateq Mahmeri Temuan Jahai Chewong Semoq
+		}
+		male_names = {
+			"Anak Busu" "Kelong" "Sebak" "Lajim" "Bali" "Keramat" "Selat" "Adang" "Tiga" "Pandak" "Awang" "Bujang"
+		}
+		female_names = {
+			"Merah" "Lilin" "Intan" "Bayu" "Lang" "Lara" "Dara" "Wulan" "Endah" "Manis" "Rina" "Siti" "Kembang" "Bunga"
+		}
+	}
+
+	sumatran = {
+		primary = PLB
+		dynasty_names = {
+			Siak Aceh Pasai Pagarruyung Palembang Jambi
+		}
+		male_names = {
+			"Inayat" "'Al  Mug yat" "Iskandar Tan " "Husayn 'Al  Ri' yat" "Menradza" "Tsalenggathu" "Gadzabadi" 
+			"Tsau-Lha" "Mengtsekya"
+		}
+		female_names = {
+			Amritpal Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu utea Orama Poe Pear Poehina Poenui Poerava Puaiti 
+			Puatea Puaura Ra ihau Ra imere Ra inui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua Tautiare Tehani 
+			Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea 
+			Vaite Vaitiare
+		}
+	}
+
+	minag = {
+		primary = PGR
+		dynasty_names = {
+			Minangkabau Pagarruyung TanahDatar Agam LimaPuluh Kota
+		}
+		male_names = {
+			"RajoTanggo" "Indomo" "DatukPanghulu" "Malin" "Sutan" "Bagindo" "Tuanku" "Ali" "Muhammad" "RajoMudo" "Angku" "ImamBonjol"
+		}
+		female_names = {
+			"Uni" "Rangkayo" "Puti" "Siti" "BundoKanduang" "Fatimah" "Zainab" "Rokayah" "Salamah" "Khadijah" "Intan" "Nurlela" 
+			"Zubaidah" "Jamilah" "Aisyah" "Rohana" "RohanaKudus" "Mariani" "Ratna" "Endang" "Murni" "Nurlina"
+		}
+	}
+
+
+	acehnese = {
+		primary = ATJ
+		dynasty_names = {
+			Siak Aceh Pasai Pagarruyung Palembang Jambi
+		}
+		male_names = {
+			"Inayat" "'Al  Mug yat" "Iskandar Tan " "Husayn 'Al  Ri' yat" "Menradza" "Tsalenggathu" "Gadzabadi" 
+			"Tsau-Lha" "Mengtsekya"
+		}
+		female_names = {
+			Amritpal Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu utea Orama Poe Pear Poehina Poenui Poerava Puaiti 
+			Puatea Puaura Ra ihau Ra imere Ra inui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua Tautiare Tehani 
+			Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea 
+			Vaite Vaitiare
+		}
+	}
+	javanese = {
+		primary = MAJ
+		dynasty_names = {
+			Banten Demak Surabaya Cirebon Samprangan
+		}
+		male_names = {
+			"Girindrawardhana" "Girishawardhana" "Kertabumi" "Kertawijaya" "Rajasawardhana" "Suraprabhawa" 
+			"Wikramawardhana" "Hayam Wuruk" "Kalagamet" "Raden Wijaya" "Kertawardhana" "Raden Sotor" "Raden Sumirat" 
+			"Singhawardhana"
+		}
+		female_names = {
+			"Suhita" "Sri Gitarja" Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu utea Orama Poe Pear Poehina Poenui 
+			Poerava Puaiti 
+			Puatea Puaura Ra ihau Ra imere Ra inui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua Tautiare Tehani 
+			Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea 
+			Vaite Vaitiare
+		}
+	}
+	sundanese = {
+		primary = SUN
+		dynasty_names = {
+			Banten Demak Surabaya Cirebon Samprangan
+		}
+		male_names = {
+			"Girindrawardhana" "Girishawardhana" "Kertabumi" "Kertawijaya" "Rajasawardhana" "Suraprabhawa" 
+			"Wikramawardhana" "Hayam Wuruk" "Kalagamet" "Raden Wijaya" "Kertawardhana" "Raden Sotor" "Raden Sumirat" 
+			"Singhawardhana"
+		}
+		female_names = {
+			"Suhita" "Sri Gitarja" Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu utea Orama Poe Pear Poehina Poenui 
+			Poerava Puaiti 
+			Puatea Puaura Ra ihau Ra imere Ra inui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua Tautiare Tehani 
+			Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea 
+			Vaite Vaitiare
+		}
+	}
+	bornean = {
+		primary = BEI
+		dynasty_names = {
+			Burnei Kutai Sibu Kuching
+		}
+		male_names = {
+			"Muhammad" "Ahmad" "Sulaym n" "Bulkiah" "'Abd al-Qahhar" "Sayf ar-Rijal" "Hasan" "'Abd al-Jal l" "Muhammad 'Al " "'Abd al-Mubin" "Muhy  ad-D n" "Nasr ad-D n" "Kam l ad-D n" "Al ' ad-D n" "Sayf ad-D n" "Muhammad Jam l ad-D n" "Muhammad T j ad-D n"
+		}
+		female_names = {
+			"Rim" Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu utea Orama Poe Pear Poehina Poenui Poerava Puaiti 
+			Puatea Puaura Ra ihau Ra imere Ra inui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua Tautiare Tehani 
+			Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea 
+			Vaite Vaitiare
+		}
+	} 
+	madagascan = {
+		dynasty_names = {
+			Palopo Makassar Manado Poso Palu
+		}
+		male_names = {
+			"Tunitangkalopi" "Batara Gowa" "Tuni Djallori" "Tuni Parisi" "Tuni Palonga" "Tuni Butta" "Tunyachoka-ri" 
+			"Karaeng Tunibatta" "Tuni Djallo" "Parabung" "Tuni Pasulu" "All h ad-D n" "Muhammad Malik" "Muhammad Sa' d" 
+			"Amir Hamza" "'Abd al-Jal l" "Shih b ad-D n Ism ' l" "Muhammad Bakr Hasan" "Hamaza Tumammalianga" "Muhammad 'Ali" "Fakhr" "Shahab" "Siraj ad-D n" "'Abd al-Khayr al-Mans r" "'Abd al-Qudus" "'Uthm n" "Muhammad Imad" 
+			"Zain" "'Im d ad-D n" "Zaynal-'Abid n" "Sankilang" "'Abd al-H d " "'Abd al-Khaliq" "Limbangparang"
+		}
+		female_names = {
+			Cinta Wangi Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu utea Orama Poe Pear Poehina Poenui Poerava 
+			Puaiti Puatea Puaura Ra ihau Ra imere Ra inui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua 
+			Tautiare Tehani Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere 
+			Vaimiti Vairea Vaite Vaitiare
+		}
+	}
+		melayu = {
+		primary = MLC
+		dynasty_names = {
+			Melayu Srivijaya Malacca Jambi Palembang Rembau Johor Riau Minangkabau Kampar Muar Kedah
+		}
+		male_names = {
+			"Demang Lebar Daun" "Kundungga" "Sri Indravarman" "Balaputra" "Sang Nila Utama" 
+			"Dapunta Hyang" "Utak" "Guntang" "Tulang" "Kalang" "Indrawarman" "Mandulika"
+			"Mauli" "Tun Jana Khatib" "Wan Empuk" "Wan Malini" "Culan" "Langkasuka" "Berunas"
+		}
+		female_names = {
+			"Putri Bungsu" "Putri Gunung Ledang" "Mambang Sari" "Mambang Cindai" "Kemala Sari" 
+			"Melur" "Mayangsari" "Lintang" "Embun" "Sari Bulan" "Cempaka" "Tun Kudu" "Mahsuri" 
+			"Ratna Dewi" "Puspa" "Cindai" "Nila Sari" "Bayu" "Kirana"
+		}
+	}
+	batak = {
+		dynasty_names = {
+			Toba Karo Simalungun Mandailing Angkola Pakpak Haranggaol Silindung
+		}
+		male_names = {
+			"Si Raja Batak" "Gurgur" "Sorba Di Bijae" "Toga Na Bolon" "Siboru Deak Parujar"
+			"Guru Tatea Bulan" "Naimarata" "Si Singamangaraja" "Uti" "Parmalim"
+			"Si Raja Panusuan" "Si Barita" "Ramba" "Togu" "Boru Bakkara" "Pusuk Buhit"
+		}
+		female_names = {
+			"Si Boru Pareme" "Siboru Deak Parujar" "Siboru Bakkara" "Siboru Anting" 
+			"Tarida" "Siboru Pintor" "Lintong" "Boru Uluan" "Ulit" "Pangururan"
+			"Siboru Palti" "Lobu" "Siboru Panggabean" "Hutagalung" "Hutatoruan"
+		}
+	}
+		orang_laut = {
+		dynasty_names = {
+			Orang Laut Riau Lingga Johor Bintan Batam Karimun
+		}
+		male_names = {
+			"Jantan" "Tengku Laut" "Pahlawan Laut" "Beralang" "Angin Laut"
+			"Juru Pelayar" "Sungai" "Terong" "Sang Laut" "Himpang"
+		}
+		female_names = {
+			"Permai" "Sari Laut" "Bulan Laut" "Lunggu" "Dara Laut" "Tenggara"
+			"Seri Laut" "Dewi Laut" "Bundi" "Sembunyi" "Tanah Laut"
+		}
+	}
+
+	moluccan = {
+		primary = TER
+		male_names = {
+			"Komala Pulu" "Marhum" "Zainal Abidin" "Bayanullah" "Hidayatullah" "Abu Hayat" "Tabariji" "Khairun Jamil" 
+			"Babullah Datu Shah" "Said Barakat Shah" "Muzaffar Shah" "Hamzah" "Manilha" "Mandar Shah" "Sibori" "Said Fathullah"
+			"Amir Iskandar Zulkarnain Saifuddin" "Ayan Shah" "Syah Mardan" "Jalaluddin" "Harun Shah" 
+			"Achral" "Muhammad Yasin" "Muhammad Ali"
+		}
+		female_names = {
+			Cinta Wangi Tani Ema Nanise Rosi Salanieta Tanna
+		}
+	}
+	nusa_tenggara = {
+		primary = BLI
+		dynasty_names = {
+			Banten Demak Surabaya Cirebon Samprangan
+		}
+		male_names = {
+			"Girindrawardhana" "Girishawardhana" "Kertabumi" "Kertawijaya" "Rajasawardhana" "Suraprabhawa" 
+			"Wikramawardhana" "Hayam Wuruk" "Kalagamet" "Raden Wijaya" "Kertawardhana" "Raden Sotor" "Raden Sumirat" 
+			"Singhawardhana"
+		}
+		female_names = {
+			"Suhita" "Sri Gitarja" Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu utea Orama Poe Pear Poehina Poenui 
+			Poerava Puaiti 
+			Puatea Puaura Ra ihau Ra imere Ra inui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua Tautiare Tehani 
+			Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea 
+			Vaite Vaitiare
+		}
+	}
+		lampung = {
+		primary = PLB
+		dynasty_names = {
+			Lampung Kalianda Rajabasa Sebesi Sumatran Seputih
+		}
+		male_names = {
+			"Merapi" "Bagus" "Guna" "Tanggamus" "Rembau" "Agung" "Dwi"
+			"Malik" "Barat" "Nata" "Suryanto" "Tano" "Balai" "Sena"
+		}
+		female_names = {
+			"Dewi" "Kartika" "Sari" "Ayu" "Putri" "Puspa" "Bunga" 
+			"Embun" "Mawar" "Lestari" "Siti" "Asri" "Sekar" "Kirana"
+		}
+	}
+	orang_rimba = {
+		primary = DHR
+		dynasty_names = {
+			Orang Rimba Jambi Batanghari
+		}
+		male_names = {
+			"Malang" "Semal" "Tengah" "Besar" "Bersatu" "Taman" "Gembala"
+			"Rimba" "Labi" "Rian" "Baru" "Sedang" "Jambul" "Langit"
+		}
+		female_names = {
+			"Siti" "Rimba" "Putri" "Nanda" "Dewi" "Anita" "Indah" "Binti" 
+			"Sari" "Kemuning" "Selam" "Riang" "Mawar" "Ayu" "Bunga"
+		}
+	}
+	banjar = {
+		primary = NDP
+		dynasty_names = {
+			Banjar Banjarmasin Martapura Hulu Sungai Negara
+		}
+		male_names = {
+			"Sukarno" "Musa" "Agung" "Tunggal" "Kusuma" "Sulung"
+			"Sutrisno" "Samar" "Tani" "Timbul" "Bansar" "Darma" "Singgih"
+		}
+		female_names = {
+			"Indah" "Dewi" "Siti" "Bunga" "Sari" "Rita" "Kemuning" "Rahma"
+			"Tati" "Bintari" "Mawar" "Ratna" "Melati" "Puspa" "Suryani"
+		}
+	}
+	kutai = {
+		primary = KUT
+		dynasty_names = {
+			Kutai Mahakam Kaltim Pasir Samarinda Tenggarong
+		}
+		male_names = {
+			"Balikpapan" "Karang" "Hadi" "Muhammad" "Sutrisno" "Bayu" 
+			"Ismail" "Tariq" "Fadli" "Wira" "Putra" "Alamsyah" "Arif"
+		}
+		female_names = {
+			"Ratna" "Nisa" "Laila" "Marlina" "Putri" "Melati" "Sari" 
+			"Amira" "Nabila" "Nurul" "Asih" "Dewi" "Siti" "Budi"
+		}
+	}
+	kayan = {
+		primary = BEU
+		dynasty_names = {
+			Kayan Mahakam Tering Long Pahang
+		}
+		male_names = {
+			"Agung" "Parman" "Pandu" "Bayu" "Tukad" "Tunggul" "Guntur" "Mataram"
+			"Abdurrahman" "Tobo" "Tamin" "Ari" "Tumbang" "Bakar" "Surya"
+		}
+		female_names = {
+			"Melati" "Sari" "Ratna" "Siti" "Puspa" "Dewi" "Tari" "Lina"
+			"Amira" "Tina" "Putri" "Tumi" "Bunga" "Mawar" "Eka"
+		}
+	}
+	dusun = {
+		primary = BEU
+		dynasty_names = {
+			Dusun Kadazandusun Ranau Keningau Penampang
+		}
+		male_names = {
+			"Kahim" "Tulang" "Maling" "Sanggau" "Mungkang" "Gomol" "Toga"
+			"Tuwa" "Ajam" "Talang" "Mupang" "Sangit" "Ratu" "Batu"
+		}
+		female_names = {
+			"Marami" "Sungai" "Bingka" "Betu" "Suli" "Rata" "Tandan" "Lambak"
+			"Buntong" "Sabar" "Milan" "Bunga" "Ratu" "Adu" "Mutiara"
+		}
+	}
+
+	cham = {
+		primary = CHA
+		dynasty_names = { 
+			Vijaya Kauthara Panduranga Indrapura
+		}
+		male_names = {
+			"Ko cheng" "Jaya Sinhavarman" "Maija Vijaya" "Moho Kouei-Lai" "Maha Kui Yu" "Maha P'an-lo-yue" "Po Saktirai" "Po Ganvuh" "Po Thuttirai" "Po Rattirai" "Po Tathun" "Po Tithuntirai" "Chei Krei Brei" "Po Tithun" "Po Lathun" "Po Chong Chan" "Che Anan" "Tra Hoa" "Che Bong Nga" "Ko Cheng" "Jaya Indravarman"
+		}
+		female_names = {
+			H ng Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu utea Orama Poe Pear Poehina Poenui Poerava Puaiti 
+			Puatea Puaura Ra ihau Ra imere Ra inui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua Tautiare Tehani 
+			Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea 
+			Vaite Vaitiare
+		}
+	}
+	dynasty_names = {
+		"Rajasanagara" "Saktirai" "P'an-Lo" "Cheng" "Gunungjati"
+	}
+madura = {
+    dynasty_names = {
+        "Arosbaya" "Sumenep" "Bangkalan" "Pamekasan" "Sampang"
+    }
+    male_names = {
+        "Raden" "Arya" "Panembahan" "Trunojoyo" "Lembu" 
+        "Suharto" "Kangjeng" "Pangeran" "Cakraningrat" "Sakti"
+    }
+    female_names = {
+        "Raden Ayu" "Aisyah" "Siti" "Putri" "Kartini"
+        "Rohana" "Murni" "Endang" "Sulastri" "Nurjanah"
+    }
+}
+buru = {
+	dynasty_names = {
+		Buru Namlea Kayeli Waeapo Rana Leksula Liliali
+	}
+	male_names = {
+		"Tamilo" "Lelo" "Sawa" "Manusa" "Kobi" "Lali" "Rano"
+	}
+	female_names = {
+		"Tasi" "Mira" "Yate" "Laya" "Tina" "Bela" "Lina"
+	}
+}
+sula = {
+	dynasty_names = {
+		Sanana Mangole Taliabu Falabisahaya Waioli Jiku Karamat
+	}
+	male_names = {
+		"Pasina" "Luma" "Taku" "Faya" "Kobu" "Sahu" "Balako"
+	}
+	female_names = {
+		"Muna" "Laha" "Fari" "Kika" "Tina" "Leli" "Yaku"
+	}
+}
+    bali = {
+    primary = BLI
+    dynasty_names = {
+        "Gelgel" "Klungkung" "Buleleng" "Tabanan" "Karangasem"
+    }
+    male_names = {
+        "Dewa" "Anak Agung" "Tjokorda" "I Gusti" "Ida Bagus"
+        "Ida Ayu" "Gede" "Putra" "Wayan" "Made"
+    }
+    female_names = {
+        "Ni Luh" "Ni Ketut" "Ni Putu" "Desak" "Ni Komang"
+        "Ni Nyoman" "Dewi" "Kadek" "Gusti Ayu" "Ida Ayu"
+    }
+}
+		dayak = {
+		primary = NGJ
+		dynasty_names = {
+			Iban Kenyah Kayan Ngaju Maanyan Barito Punan OtDanum Bidayuh
+		}
+		male_names = {
+			"Jalong" "Suling" "Balang" "Tindok" "Bayang" "Lipan" "Sambat" "Berani" 
+			"Ngapa" "Tandik" "Bantang" "Sanggau" "Talawang" "Gamang" "Lamandau"
+		}
+		female_names = {
+			"Tingang" "Indai" "Duwi" "Jaya" "Ranying" "Pua" "Ayu" "Bilang" 
+			"Tanting" "Indang" "Luwai" "Sawai" "Nyaru" "Manjulang" "Bulang"
+		}
+	}
+kedah = {
+    primary = KED
+    dynasty_names = {
+        "Sri Pasai" "Sri Marong" "Sri Pelang" "Sri Krian" "Sri Merbau"
+    }
+    male_names = {
+        "Iskandar" "Muhammad" "Zainal" "Abdullah" "Mahmud"
+        "Syah" "Raja" "Ibrahim" "Hassan" "Ahmad"
+        "Sulaiman" "Firdaus" "Zulkifli" "Din" "Badlishah"
+    }
+    female_names = {
+        "Puteri" "Siti" "Nur" "Aisyah" "Zulaikha"
+        "Dayang" "Mastura" "Rohana" "Sharifah" "Zainab"
+        "Rashidah" "Khairunnisa" "Faridah" "Jamaliah" "Nadiah"
+    }
+}
+
+nias = {
+    primary = NIA
+    dynasty_names = {
+        "Siromani" "Sirojulu" "Galaho" "Ohoitimur" "Hili"
+    }
+    male_names = {
+        "Laia" "Awaloedoe" "Gondur" "Siallagan" "Fau"
+        "Oza" "Hili" "Gomo" "Ono" "Ndruru"
+        "Fomali" "Hia" "O’loda" "Gawu" "O’atubua"
+    }
+    female_names = {
+        "Ona" "Laio" "Golo" "Hioe" "Siallo"
+        "Ola" "Gau" "Fomali" "Oza" "Ndruru"
+        "Omarie" "Hilo" "Loloma" "Gaho" "Aloea"
+    }
+}
+
+mentawai = {
+    primary = MEN
+    dynasty_names = {
+        "Sikerei" "Maga" "Tuwat" "Ompang" "Buya"
+    }
+    male_names = {
+        "Mama" "Pailei" "Ulu" "Siban" "Tarai"
+        "Mala" "Tobok" "Dulo" "Moid" "Tukal"
+        "Matal" "Gibei" "Fokosi" "Kahe" "Maragai"
+    }
+    female_names = {
+        "Mama" "Abo" "Ulu" "Fosia" "Sukmar"
+        "Aboi" "Marawa" "Buro" "Falae" "Toberi"
+        "Kasi" "Matie" "Domai" "Gombei" "Sialai"
+    }
+}
+
+rejang = {
+    primary = IND
+    dynasty_names = {
+        "Kepala Rawas" "Muara" "Kalan" "Pakuan" "Karang"
+    }
+    male_names = {
+        "Karai" "Bungai" "Corah" "Tinggi" "Keban"
+        "Rasan" "Ketut" "Langan" "Sekundung" "Pian"
+        "Gerai" "Kasundu" "Mantan" "Tina" "Julai"
+    }
+    female_names = {
+        "Lau" "Dala" "Masti" "Anni" "Ngalam"
+        "Paen" "Tusai" "Sekundung" "Rohani" "Santi"
+        "Sari" "Larasi" "Mayang" "Rania" "Tiyani"
+    }
+}
+iban = {
+    primary = BEI
+    dynasty_names = {
+        "Panchor" "Semenggok" "Temenggong" "Kenyalang" "Bengoh"
+    }
+    male_names = {
+        "Nong" "Lang" "Enjua" "Enteng" "Girim"
+        "Ajeng" "Mering" "Bulan" "Temeng" "Nyaru"
+    }
+    female_names = {
+        "Dayang" "Langkit" "Engkah" "Renyut" "Megg"
+        "Entiah" "Bedang" "Renyai" "Mayan" "Japie"
+    }
+}
+
+bidayuh = {
+    primary = LDA
+    dynasty_names = {
+        "Gumbang" "Bentang" "Jagoi" "Sunda" "Semarahan"
+    }
+    male_names = {
+        "Bili" "Ugi" "Tinggi" "Naga" "Beng"
+        "Gantang" "Liman" "Kaling" "Tagin" "Penda"
+    }
+    female_names = {
+        "Nandi" "Lian" "Dawi" "Imah" "Mali"
+        "Biti" "Gena" "Lena" "Rani" "Peni"
+    }
+}
+palembang = {
+    primary = PLB
+    dynasty_names = {
+        "Srivijaya" "Sailendra" "Sanjaya" "Mahisa" "Dharmasetu" "Adityawarman" "Jayanasa" "Balaputradewa"
+    }
+    male_names = {
+        "Jayanasa" "Balaputra" "Sangrama" "Dapunta" "Samaratungga"
+        "Wisnu" "Aditya" "Jayavarman" "Harsana" "Mahendra"
+    }
+    female_names = {
+        "Tara" "Srilela" "Candrawati" "Ratnasari" "Indira"
+        "Sundari" "Dewi" "Parameswari" "Laksmi" "Manohara"
+    }
+}
+}

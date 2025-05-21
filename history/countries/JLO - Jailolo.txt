@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+primary_culture = north_halmahera
+religion = animism
+technology_group = chinese
+capital = 648# Jailolo
+1444.1.1 = {  # Fictional
+
+	monarch = { 
+		name = "Kaicil Gapi Baguna I"
+		dynasty = "Jailolo"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}

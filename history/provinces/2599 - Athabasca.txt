@@ -1,0 +1,35 @@
+# Ayabaskawiiniwak
+# 2599 Ayabaskawiiniwak - 5/16/2025 12:37:50 PM 
+ 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = unknown
+
+culture = chipewyan
+religion = totemism
+capital = "Athabasca"
+
+native_size = 5
+native_ferocity =  1
+native_hostileness = 2
+
+discovered_by = north_american
+
+
+
+
+1778.1.1 = {
+	discovered_by = GBR
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	is_city = yes
+	culture = english
+	religion = protestant
+	trade_goods = fur
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

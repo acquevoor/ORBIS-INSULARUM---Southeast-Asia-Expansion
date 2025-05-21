@@ -1,0 +1,28 @@
+# Buganda
+# 4064 Buganda - 5/16/2025 12:37:50 PM 
+ 
+add_core = BUG
+owner = BUG
+controller = BUG
+base_tax = 4
+base_production = 4
+base_manpower = 4
+
+center_of_trade = 2
+trade_goods = salt
+extra_cost = 16
+
+culture = ganda
+religion = shamanism
+capital = "Kitala"
+
+is_city = yes
+
+discovered_by = central_african
+
+
+
+
+
+
+### Modified 5/16/2025 12:37:50 PM ###

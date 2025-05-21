@@ -1,0 +1,47 @@
+# Colonia
+# 2851 Colonia - 5/16/2025 12:37:50 PM 
+ 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = unknown
+
+culture = charruan
+religion = animism
+capital = "Colonia"
+
+native_size = 5
+native_ferocity =  1
+native_hostileness = 5
+
+discovered_by = south_american
+
+
+
+
+1516.1.23 = {
+	discovered_by = SPA
+}
+1530.1.1 = {
+	discovered_by = POR
+}
+1680.1.1 = {
+	owner = POR
+	controller = POR
+	add_core = POR
+	is_city = yes
+	culture = portugese
+	religion = catholic
+	trade_goods = grain
+}
+1724.1.1 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	culture = castillian
+	remove_core = POR
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

@@ -1,0 +1,56 @@
+# Stung Treng
+# 1823 Stung Treng - 5/16/2025 12:37:49 PM 
+ 
+add_core = KHM
+owner = KHM
+controller = KHM
+base_tax = 3
+base_production = 3
+base_manpower = 2
+
+trade_goods = grain
+
+culture = khmer
+religion = animism
+capital = "Stung Treng"
+
+is_city = yes
+
+discovered_by = chinese
+discovered_by = indian
+
+
+
+
+1535.1.1 = {
+	discovered_by = POR
+}
+1594.1.1 = {
+	owner = LXA
+	controller = LXA
+	add_core = LXA
+}
+1694.1.1 = {
+	add_core = ANN
+}
+1707.1.1 = {
+	owner = VIE
+	controller = VIE
+	add_core = VIE
+	remove_core = LXA
+}
+1713.1.1 = {
+	owner = CHK
+	controller = CHK
+	add_core = CHK
+	remove_core = VIE
+}
+1811.1.1 = {
+	unrest = 5
+}
+1812.1.1 = {
+	unrest = 0
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

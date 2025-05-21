@@ -1,0 +1,35 @@
+# Caceres
+# 2903 Caceres - 5/16/2025 12:37:50 PM 
+ 
+base_tax = 2
+base_production = 2
+base_manpower = 1
+
+trade_goods = unknown
+
+culture = maipurean
+religion = animism
+capital = "Caceres"
+
+native_size = 10
+native_ferocity =  1
+native_hostileness = 1
+
+discovered_by = south_american
+
+
+
+
+1778.10.6 = {
+	discovered_by = POR
+	owner = POR
+	controller = POR
+	add_core = POR
+	is_city = yes
+	culture = portugese
+	religion = catholic
+	trade_goods = grain
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

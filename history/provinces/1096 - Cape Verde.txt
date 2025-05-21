@@ -1,0 +1,32 @@
+# Cape Verde
+# 1096 Cape Verde - 5/16/2025 12:37:49 PM 
+ 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = unknown
+
+capital = "Cape Verde"
+
+
+
+
+
+
+1457.1.1 = {
+	discovered_by = POR
+	owner = POR
+	controller = POR
+	add_core = POR
+	is_city = yes
+	trade_goods = slaves
+	culture = portugese
+	religion = catholic
+}
+1500.1.1 = {
+	trade_goods = fish
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

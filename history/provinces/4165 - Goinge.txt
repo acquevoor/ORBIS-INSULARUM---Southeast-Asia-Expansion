@@ -1,0 +1,65 @@
+# Göinge
+# 4165 Göinge - 5/16/2025 12:37:50 PM 
+ 
+add_core = DAN
+owner = DAN
+controller = DAN
+base_tax = 3
+base_production = 3
+base_manpower = 3
+
+trade_goods = livestock
+
+culture = danish
+religion = catholic
+capital = "Gladsax"
+
+is_city = yes
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+1525.1.1 = {
+	revolt = {
+		type = revolutionary_rebels
+		size = 1
+	}
+
+	controller = REB
+}
+1525.5.10 = {
+	revolt = {
+	}
+
+	controller = DAN
+}
+1534.8.15 = {
+	revolt = {
+		type = revolutionary_rebels
+		size = 1
+	}
+
+	controller = REB
+}
+1536.3.15 = {
+	revolt = {
+	}
+
+	controller = DAN
+}
+1536.3.15 = {
+	religion = protestant
+}
+1658.2.26 = {
+	controller = SWE
+	owner = SWE
+	add_core = SWE
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

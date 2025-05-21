@@ -1,0 +1,30 @@
+# Betsileo
+# 4027 Betsileo - 5/16/2025 12:37:50 PM 
+ 
+add_core = MIR
+owner = MIR
+controller = MIR
+base_tax = 2
+base_production = 1
+base_manpower = 2
+
+trade_goods = slaves
+
+culture = madagasque
+religion = shamanism
+capital = "Betsileo"
+
+is_city = yes
+add_local_autonomy = 40
+
+discovered_by = east_african
+
+
+
+
+1500.8.20 = {
+	discovered_by = POR
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

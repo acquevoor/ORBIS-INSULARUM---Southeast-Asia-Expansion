@@ -1,0 +1,23 @@
+# Soppeng
+# 4797 Soppeng - 5/16/2025 12:37:50 PM 
+add_core = SPP
+owner = SPP
+controller = SPP
+base_tax = 3
+base_production = 4
+base_manpower = 4
+trade_goods = spices
+culture = bugis
+religion = animism
+capital = "Soppeng"
+is_city = yes
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+1511.1.1 = { 
+	discovered_by = POR
+}
+1605.9.1 = { 
+	religion = sunni
+}

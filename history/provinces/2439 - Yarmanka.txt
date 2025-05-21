@@ -1,0 +1,40 @@
+# Yarmanka
+# 2439 Yarmanka - 5/16/2025 12:37:50 PM 
+ 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = unknown
+
+culture = yukagyr
+religion = tengri_pagan_reformed
+capital = "Zasjiversk"
+
+native_size = 1
+native_ferocity =  1
+native_hostileness = 3
+
+discovered_by = HOD
+discovered_by = CHU
+discovered_by = CHV
+discovered_by = KMC
+
+
+
+
+1643.1.1 = {
+	discovered_by = RUS
+	owner = RUS
+	controller = RUS
+	religion = orthodox
+	culture = russian
+	is_city = yes
+	trade_goods = gold
+}
+1657.1.1 = {
+	add_core = RUS
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

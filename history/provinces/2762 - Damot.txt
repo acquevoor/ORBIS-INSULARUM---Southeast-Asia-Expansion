@@ -1,0 +1,36 @@
+# Damot
+# 2762 Damot - 5/16/2025 12:37:50 PM 
+ 
+add_core = DAM
+owner = DAM
+controller = DAM
+base_tax = 2
+base_production = 3
+base_manpower = 2
+
+trade_goods = gold
+
+culture = amhara
+religion = coptic
+capital = "Nekemte"
+
+is_city = yes
+
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+
+
+
+
+1580.1.1 = {
+	culture = oromo
+}
+1670.1.1 = {
+	owner = ETH
+	controller = ETH
+	add_core = ETH
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

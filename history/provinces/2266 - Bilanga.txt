@@ -1,0 +1,26 @@
+# Bilanga
+# 2266 Bilanga - 5/16/2025 12:37:50 PM 
+ 
+add_core = WGD
+owner = WGD
+controller = WGD
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = grain
+
+culture = mossi
+religion = shamanism
+capital = "Bilanga"
+
+is_city = yes
+
+discovered_by = sub_saharan
+
+
+
+
+
+
+### Modified 5/16/2025 12:37:50 PM ###

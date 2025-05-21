@@ -1,0 +1,41 @@
+# Campeche
+# 845 Campeche - 5/16/2025 12:37:49 PM 
+ 
+add_core = CNP
+owner = CNP
+controller = CNP
+base_tax = 4
+base_production = 4
+base_manpower = 1
+
+trade_goods = sugar
+
+culture = yucatec
+religion = mesoamerican_religion
+capital = "Campeche"
+
+is_city = yes
+
+discovered_by = mesoamerican
+
+
+
+
+1517.1.1 = {
+	discovered_by = SPA
+}
+1542.1.23 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	culture = castillian
+	religion = catholic
+}
+1810.9.16 = {
+	owner = MEX
+	add_core = MEX
+	controller = SPA
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

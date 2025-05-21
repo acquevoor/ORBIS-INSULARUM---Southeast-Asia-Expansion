@@ -1,0 +1,37 @@
+# Matiyininiwak
+# 2017 Matiyininiwak - 5/16/2025 12:37:49 PM 
+ 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = unknown
+
+culture = chipewyan
+religion = totemism
+capital = "Nehiyawewin"
+
+native_size = 5
+native_ferocity =  1
+native_hostileness = 3
+
+discovered_by = north_american
+
+
+
+
+1754.1.1 = {
+	discovered_by = FRA
+	discovered_by = GBR
+}
+1795.1.1 = {
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	is_city = yes
+	capital = "Fort Edmonton"
+	trade_goods = fur
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

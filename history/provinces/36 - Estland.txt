@@ -1,0 +1,47 @@
+# Reval
+# 36 Reval - 5/16/2025 12:37:49 PM 
+ 
+add_core = LIV
+add_core = EST
+owner = LIV
+controller = LIV
+base_tax = 4
+base_production = 4
+base_manpower = 2
+
+center_of_trade = 1
+trade_goods = grain
+
+culture = estonian
+religion = catholic
+capital = "Reval"
+
+is_city = yes
+fort_15th = yes
+
+discovered_by = western
+discovered_by = eastern
+
+
+
+
+1542.1.1 = {
+	religion = protestant
+}
+1561.1.1 = {
+	owner = SWE
+	controller = SWE
+	add_core = SWE
+	remove_core = LIV
+}
+1710.9.15 = {
+	controller = RUS
+}
+1721.8.30 = {
+	owner = RUS
+	add_core = RUS
+	remove_core = SWE
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

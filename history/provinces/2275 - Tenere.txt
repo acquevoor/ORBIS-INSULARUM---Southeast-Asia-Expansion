@@ -1,0 +1,29 @@
+# Tenere
+# 2275 Tenere - 5/16/2025 12:37:50 PM 
+ 
+add_core = AIR
+owner = AIR
+controller = AIR
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = livestock
+
+culture = tuareg
+religion = sunni
+capital = "Aghram"
+
+is_city = yes
+native_size = 40
+native_ferocity =  4
+native_hostileness = 9
+
+discovered_by = sub_saharan
+
+
+
+
+
+
+### Modified 5/16/2025 12:37:50 PM ###

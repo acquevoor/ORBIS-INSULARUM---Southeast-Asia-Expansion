@@ -1,0 +1,21 @@
+# Alaska
+# 1810 Alaska - 5/16/2025 12:37:49 PM 
+ 
+
+
+
+
+discovered_by = north_american
+
+
+
+
+1741.1.1 = {
+	discovered_by = RUS
+}
+1778.1.1 = {
+	discovered_by = GBR
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

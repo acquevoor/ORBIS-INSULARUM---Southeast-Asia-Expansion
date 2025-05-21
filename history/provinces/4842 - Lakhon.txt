@@ -1,0 +1,36 @@
+# Lampang
+# 4842 Lampang - 5/16/2025 12:37:50 PM 
+ 
+add_core = LNA
+owner = LNA
+controller = LNA
+base_tax = 3
+base_production = 3
+base_manpower = 2
+
+trade_goods = grain
+
+culture = northern_thai
+religion = buddhism
+capital = "Lakhon"
+
+is_city = yes
+
+discovered_by = chinese
+discovered_by = indian
+
+
+
+
+1535.1.1 = {
+	discovered_by = POR
+}
+1558.4.2 = {
+	add_core = TAU
+}
+1775.1.1 = {
+	add_core = AYU
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

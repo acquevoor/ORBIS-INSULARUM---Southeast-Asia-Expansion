@@ -1,0 +1,50 @@
+# Tepehuan
+# 860 Tepehuan - 5/16/2025 12:37:49 PM 
+ 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = unknown
+
+culture = chichimecan
+religion = animism
+capital = "Tepehuan"
+
+native_size = 5
+native_ferocity =  1
+native_hostileness = 5
+
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = AZT
+discovered_by = AZT
+discovered_by = AZT
+
+
+
+
+1428.1.1 = {
+	discovered_by = AZT
+}
+1540.1.1 = {
+	discovered_by = SPA
+}
+1563.1.1 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	culture = castillian
+	religion = catholic
+	capital = "Durango"
+	is_city = yes
+	trade_goods = wool
+}
+1810.9.16 = {
+	owner = MEX
+	add_core = MEX
+	controller = SPA
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

@@ -1,0 +1,28 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+primary_culture = batak
+religion = animism
+technology_group = chinese
+capital = 4811
+religious_school = shafii_school
+secondary_religion = sunni
+
+1444.1.1 = {
+	monarch = {
+		name = "Meurah"
+		dynasty = "Barus"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1480.1.1 = {
+	monarch = {
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

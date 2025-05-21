@@ -1,0 +1,29 @@
+# Kitkit'ish
+# 892 Kitkit'ish - 5/16/2025 12:37:49 PM 
+ 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = unknown
+
+culture = wichita
+religion = totemism
+capital = "Wichita"
+
+native_size = 20
+native_ferocity =  3
+native_hostileness = 8
+tribal_owner = WIC
+
+discovered_by = north_american
+
+
+
+
+1541.1.1 = {
+	discovered_by = SPA
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

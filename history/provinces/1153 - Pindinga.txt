@@ -1,0 +1,35 @@
+# Pindinga
+# 1153 Pindinga - 5/16/2025 12:37:49 PM 
+ 
+add_core = NUP
+owner = NUP
+controller = NUP
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = livestock
+
+culture = nupe
+religion = shamanism
+capital = "Lafia"
+
+is_city = yes
+native_size = 40
+
+discovered_by = sub_saharan
+
+
+
+
+1804.1.1 = {
+	discovered_by = SOK
+}
+1807.1.1 = {
+	owner = SOK
+	controller = SOK
+	add_core = SOK
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

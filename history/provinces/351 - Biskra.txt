@@ -1,0 +1,35 @@
+# Biskra
+# 351 Biskra - 5/16/2025 12:37:49 PM 
+ 
+add_core = TGT
+owner = TGT
+controller = TGT
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = wool
+
+culture = berber
+religion = sunni
+capital = "Biskra"
+
+is_city = yes
+add_local_autonomy = 25
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = TUR
+
+
+
+
+1671.1.1 = {
+	owner = ALG
+	controller = ALG
+	add_core = ALG
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

@@ -1,0 +1,29 @@
+# Wairarapa
+# 2737 Wairarapa - 5/16/2025 12:37:50 PM 
+ 
+add_core = TAK
+owner = TAK
+controller = TAK
+base_tax = 3
+base_production = 3
+base_manpower = 1
+
+trade_goods = naval_supplies
+
+culture = maori
+religion = animism
+capital = "Ahuriri"
+
+is_city = yes
+
+discovered_by = polynesian_tech
+
+
+
+
+1642.1.1 = {
+	discovered_by = NED
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

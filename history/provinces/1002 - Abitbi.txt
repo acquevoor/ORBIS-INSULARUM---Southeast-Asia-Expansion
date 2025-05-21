@@ -1,0 +1,55 @@
+# Abitibi
+# 1002 Abitibi - 5/16/2025 12:37:49 PM 
+ 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = unknown
+
+culture = algonquin
+religion = totemism
+capital = "Abitbi"
+
+native_size = 5
+native_ferocity =  1
+native_hostileness = 6
+tribal_owner = WCR
+
+discovered_by = north_american
+
+
+
+
+1444.1.1 = {
+	tribal_owner = WCR
+}
+1611.1.1 = {
+	discovered_by = ENG
+}
+1672.1.1 = {
+	discovered_by = FRA
+}
+1686.1.1 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+	is_city = yes
+	trade_goods = fur
+	culture = cosmopolitan_french
+	religion = catholic
+}
+1707.5.12 = {
+	discovered_by = GBR
+}
+1760.1.1 = {
+	controller = GBR
+}
+1763.2.10 = {
+	owner = GBR
+	add_core = GBR
+	remove_core = FRA
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

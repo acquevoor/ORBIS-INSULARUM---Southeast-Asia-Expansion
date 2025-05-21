@@ -1,0 +1,57 @@
+# Nice
+# 102 Nice - 5/16/2025 12:37:49 PM 
+ 
+add_core = SAV
+owner = SAV
+controller = SAV
+base_tax = 4
+base_production = 4
+base_manpower = 2
+
+trade_goods = fish
+
+culture = ligurian
+religion = catholic
+capital = "Nice"
+
+hre = yes
+is_city = yes
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+1495.1.1 = {
+	hre = no
+}
+1713.4.12 = {
+	owner = SIC
+	controller = SIC
+	add_core = SIC
+}
+1720.1.1 = {
+	owner = SPI
+	controller = SPI
+	add_core = SPI
+	remove_core = SIC
+}
+1797.10.17 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}
+1806.7.12 = {
+	hre = no
+}
+1814.4.11 = {
+	owner = SPI
+	controller = SPI
+	remove_core = FRA
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

@@ -1,0 +1,852 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or ideas, make sure they are unique.
+
+#Dharmasraya
+DHR_ideas = {
+    start = {
+        garrison_size = 0.15
+        global_trade_power = 0.10
+    }
+
+    bonus = {
+        production_efficiency = 0.10
+    }
+
+    trigger = {
+        tag = DHR
+    }
+
+    free = yes
+
+    DHR_srivijaya_legacy = {
+        prestige = 0.5
+        legitimacy = 1
+    }
+
+    DHR_melaka_strait_tolls = {
+        trade_efficiency = 0.10
+    }
+
+    DHR_hindu_buddhist_scholars = {
+        tolerance_heathen = 1
+        advisor_cost = -0.05
+    }
+
+    DHR_river_valley_infrastructure = {
+        development_cost = -0.1
+    }
+
+    DHR_gold_and_copper_mines = {
+        global_trade_power = 0.15
+    }
+
+    DHR_narasari_council = {
+        improve_relation_modifier = 0.15
+    }
+
+    DHR_legal_code_of_dharmasraya = {
+        idea_cost = -0.05
+        stability_cost_modifier = -0.10
+    }
+}
+
+#Aru
+ARU_ideas = {
+    start = {
+        tolerance_own = 2
+        global_trade_power = 0.10
+    }
+
+    bonus = {
+        naval_morale = 0.10
+    }
+
+    trigger = {
+        tag = ARU
+    }
+
+    free = yes
+
+    ARU_spice_archipelago = {
+        trade_efficiency = 0.15
+    }
+
+    ARU_shipbuilder_pride = {
+        naval_forcelimit_modifier = 0.10
+    }
+
+    ARU_rigged_vassalage = {
+        vassal_income = 0.1
+        liberty_desire = -10
+    }
+
+    ARU_papeda_cultivation = {
+        production_efficiency = 0.05
+        development_cost = -0.05
+    }
+
+    ARU_balian_trade_fairs = {
+        stability_cost_modifier = -0.10
+        tolerance_heathen = 1
+    }
+
+    ARU_malay_pantun_poets = {
+        prestige = 1
+        idea_cost = -0.05
+    }
+
+    ARU_spice_madrasas = {
+        global_missionary_strength = 0.02
+        legitimacy = 0.5
+    }
+}
+
+#Hatorussan
+HTR_ideas = {
+    start = {
+        tolerance_own = 2
+        diplomatic_reputation = 2
+    }
+
+    bonus = {
+        naval_morale = 0.10
+    }
+
+    trigger = {
+        tag = HTR
+    }
+
+    free = yes
+
+    HTR_foundation_of_hatorussan = {
+        legitimacy = 1
+        prestige = 0.5
+    }
+
+    HTR_talaud_maritime_roads = {
+        naval_forcelimit_modifier = 0.1
+    }
+
+    HTR_agha_warrior_band = {
+        infantry_shock = 1
+        leader_land_shock = 1
+    }
+
+    HTR_shamanic_resilience = {
+        stability_cost_modifier = -0.10
+        tolerance_heathen = 1
+    }
+
+    HTR_south_sea_trade = {
+        trade_steering = 0.15
+    }
+
+    HTR_island_vassalage = {
+        vassal_income = 0.1
+        liberty_desire = -10
+    }
+
+    HTR_belongoran_councils = {
+        improve_relation_modifier = 0.15
+    }
+}
+
+#Lamuri
+LMI_ideas = {
+    start = {
+        missionaries = 1
+        global_missionary_strength = 0.02
+    }
+
+    bonus = {
+        trade_efficiency = 0.10
+    }
+
+    trigger = {
+        tag = LMI
+    }
+
+    free = yes
+
+    LMI_gateway_to_islam = {
+        tolerance_heathen = 1
+        prestige = 0.5
+    }
+
+    LMI_samudra_trade_port = {
+        global_trade_power = 0.10
+    }
+
+    LMI_early_arabic_missionaries = {
+        missionary_maintenance_cost = -0.15
+        papal_influence = 0.5
+    }
+
+    LMI_strategic_coastal_forts = {
+        fort_maintenance_modifier = -0.10
+        defensiveness = 0.10
+    }
+
+    LMI_masjid_networks = {
+        devotion = 1
+        monthly_piety = 0.01
+    }
+
+    LMI_malay_persian_diplomacy = {
+        institution_spread_from_true_faith = 0.1
+        diplomatic_upkeep = 1
+    }
+
+    LMI_sufi_merchants = {
+        trade_steering = 0.15
+    }
+}
+
+#pasai
+PSA_ideas = {
+    start = {
+        missionaries = 1
+        global_missionary_strength = 0.02
+    }
+
+    bonus = {
+        trade_efficiency = 0.10
+    }
+
+    trigger = {
+        tag = PSA
+    }
+
+    free = yes
+
+    PSA_first_islamic_sultanate = {
+        prestige = 1
+        legitimacy = 0.5
+    }
+
+    PSA_mecca_of_the_malay_world = {
+        global_missionary_strength = 0.02
+        monthly_piety = 0.01
+    }
+
+    PSA_qadi_and_sufi_networks = {
+        advisor_cost = -0.10
+        tolerance_heathen = 1
+    }
+
+    PSA_gold_currency_mint = {
+        inflation_reduction = 0.05
+        global_trade_power = 0.10
+    }
+
+    PSA_aceh_trade_corridor = {
+        trade_steering = 0.15
+    }
+
+    PSA_persian_indian_diplomacy = {
+        institution_spread_from_true_faith = 0.1
+        improve_relation_modifier = 0.10
+    }
+
+    PSA_royal_patronage_of_ulama = {
+        idea_cost = -0.05
+        devotion = 1
+    }
+}
+
+#Aceh Atjeh
+ATJ_ideas = {
+    start = {
+        missionaries = 1
+        global_missionary_strength = 0.02
+    }
+
+    bonus = {
+        unjustified_demands = -0.2
+    }
+
+    trigger = {
+        tag = ATJ
+    }
+
+    free = yes
+
+    ATJ_beacon_of_islam = {
+        prestige = 1
+        legitimacy = 0.5
+    }
+
+    ATJ_aceh_madrasa_networks = {
+        idea_cost = -0.05
+        advisor_cost = -0.10
+    }
+
+    ATJ_warriors_of_the_faith = {
+        infantry_power = 0.10
+    }
+
+    ATJ_bustling_pepper_ports = {
+        trade_efficiency = 0.10
+        global_trade_power = 0.05
+    }
+
+    ATJ_female_leadership_and_sharia = {
+        tolerance_heathen = 1
+        stability_cost_modifier = -0.10
+    }
+
+    ATJ_links_to_mecca_and_ottomans = {
+        institution_spread_from_true_faith = 0.1
+        diplomatic_reputation = 1
+    }
+
+    ATJ_struggle_against_foreign_infidels = {
+        global_unrest = -1
+        land_forcelimit_modifier = 0.10
+    }
+}
+
+#Galuh
+GLU_ideas = {
+    start = {
+        land_maintenance_modifier = -0.10
+        land_forcelimit_modifier = 0.10
+    }
+
+    bonus = {
+        land_morale = 0.10
+    }
+
+    trigger = {
+        tag = GLU
+    }
+
+    free = yes
+
+    GLU_legacy_of_kawali = {
+        prestige = 1
+        legitimacy = 0.5
+    }
+
+    GLU_pasar_islamic_centers = {
+        global_trade_power = 0.05
+        institution_spread_from_true_faith = 0.1
+    }
+
+    GLU_sundanese_conversion_effort = {
+        tolerance_heathen = 1
+        culture_conversion_cost = -0.10
+    }
+
+    GLU_royal_mosques_and_schools = {
+        idea_cost = -0.10
+    }
+
+    GLU_warlords_of_the_priangan = {
+        infantry_shock = 1
+        army_tradition = 0.5
+    }
+
+    GLU_heartland_of_java = {
+        development_cost = -0.10
+    }
+
+    GLU_kingdom_and_ummah = {
+        improve_relation_modifier = 0.15
+        tolerance_heretic = 1
+    }
+}
+
+#Sunda
+SUN_ideas = {
+    start = {
+        land_maintenance_modifier = -0.10
+        land_forcelimit_modifier = 0.10
+    }
+
+    bonus = {
+        land_morale = 0.10
+    }
+
+    trigger = {
+        tag = SUN
+    }
+
+    free = yes
+
+    SUN_pakuan_pajajaran_court = {
+        prestige = 1
+        legitimacy = 0.5
+    }
+
+    SUN_sunda_strategic_ports = {
+        trade_efficiency = 0.10
+        global_institution_spread = 0.05
+    }
+
+    SUN_kabuyutan_and_ancestral_law = {
+        stability_cost_modifier = -0.15
+    }
+
+    SUN_mountain_fortresses = {
+        defensiveness = 0.10
+        fort_maintenance_modifier = -0.10
+    }
+
+    SUN_niskala_and_sacred_kingship = {
+        tolerance_heathen = 1
+        devotion = 0.5
+    }
+
+    SUN_sundanese_diplomatic_flexibility = {
+        improve_relation_modifier = 0.15
+        envoy_travel_time = -0.25
+    }
+
+    SUN_legacy_of_tarumanagara = {
+        idea_cost = -0.05
+        development_cost = -0.05
+    }
+}
+
+LPG_ideas = {
+    start = {
+        trade_efficiency = 0.10
+        tolerance_own = 2
+    }
+
+    bonus = {
+        global_trade_power = 0.15
+    }
+
+    trigger = {
+        tag = LPG
+    }
+
+    free = yes
+
+    LPG_riverine_trade_hubs = {
+        global_trade_goods_size_modifier = 0.1
+    }
+
+    LPG_pepper_coast_of_lampung = {
+        trade_steering = 0.15
+    }
+
+    LPG_umpu_lineage_legitimacy = {
+        legitimacy = 0.5
+        prestige = 1
+    }
+
+    LPG_syncretic_spiritual_traditions = {
+        tolerance_heathen = 1
+        religious_unity = 0.1
+    }
+
+    LPG_naga_guardians_of_the_grove = {
+        stability_cost_modifier = -0.15
+    }
+
+    LPG_lampung_script_and_literacy = {
+        idea_cost = -0.05
+    }
+
+    LPG_coalition_of_marga = {
+        diplomatic_reputation = 1
+        improve_relation_modifier = 0.10
+    }
+}
+
+IND_ideas = {
+    start = {
+        legitimacy = 1
+        trade_efficiency = 0.10
+    }
+
+    bonus = {
+        global_unrest = -1
+        advisor_pool = 1
+    }
+
+    trigger = {
+        tag = IND
+    }
+
+    free = yes
+
+    IND_foundation_of_indrapura = {
+        prestige = 1
+    }
+
+    IND_raja_alam_divine_kingship = {
+        legitimacy = 1
+        devotion = 0.5
+    }
+
+    IND_harbor_of_two_moons = {
+        naval_forcelimit_modifier = 0.15
+    }
+
+    IND_minangkabau_matriarchal_adat = {
+        tolerance_own = 1
+        governing_capacity_modifier = 0.10
+    }
+
+    IND_transformation_of_temples = {
+        religious_unity = 0.15
+        tolerance_heathen = 1
+    }
+
+    IND_guardians_of_the_three_peaks = {
+        defensiveness = 0.05
+        army_tradition = 0.5
+    }
+
+    IND_gold_and_rain_miracles = {
+        production_efficiency = 0.15
+    }
+}
+
+
+#Blambangan
+BLM_ideas = {
+    start = {
+        tolerance_own = 2
+        defensiveness = 0.10
+    }
+
+    bonus = {
+        land_morale = 0.10
+    }
+
+    trigger = {
+        tag = BLM
+    }
+
+    free = yes
+
+    BLM_last_light_of_majapahit = {
+        prestige = 1
+        legitimacy = 0.5
+    }
+
+    BLM_tawang_alun_dharma = {
+        devotion = 0.5
+        idea_cost = -0.05
+    }
+
+    BLM_balinese_exile_link = {
+        diplomatic_upkeep = 1
+        improve_relation_modifier = 0.15
+    }
+
+    BLM_banyuwangi_trade_harbor = {
+        trade_efficiency = 0.10
+        global_trade_power = 0.05
+    }
+
+    BLM_mountain_temple_resilience = {
+        religious_unity = 0.25
+        tolerance_heathen = 1
+    }
+
+    BLM_watu_dodot_heroic_legends = {
+        global_unrest = -1
+        stability_cost_modifier = -0.10
+    }
+
+    BLM_eastern_javanese_warriors = {
+        infantry_shock = 1
+        leader_land_shock = 1
+    }
+}
+
+#Bali
+BLI_ideas = {
+    start = {
+        tolerance_own = 2
+        religious_unity = 0.20
+    }
+
+    bonus = {
+        infantry_power = 0.10
+    }
+
+    trigger = {
+        tag = BLI
+    }
+
+    free = yes
+
+    BLI_bali_dvipa_dharma_stronghold = {
+        legitimacy = 1
+        tolerance_heathen = 1
+    }
+
+    BLI_ritualized_kingship = {
+        devotion = 0.5
+        idea_cost = -0.05
+    }
+
+    BLI_ancestral_mountain_temples = {
+        stability_cost_modifier = -0.15
+    }
+
+    BLI_keris_and_kshatriya_valor = {
+        infantry_shock = 1
+        land_morale = 0.10
+    }
+
+    BLI_purwa_tattwa_sacred_law = {
+        core_creation = -0.15
+    }
+
+    BLI_resistance_to_foreign_faiths = {
+        global_missionary_strength = 0.02
+        global_unrest = -1
+    }
+
+    BLI_tirta_trade_and_temple_economy = {
+        trade_efficiency = 0.10
+        production_efficiency = 0.05
+    }
+}
+
+#Demak
+DMK_ideas = {
+    start = {
+        num_accepted_cultures = 1
+        core_creation = -0.20
+    }
+    bonus = {
+        global_ship_trade_power = 0.15
+    }
+    trigger = {
+        tag = DMK
+    }
+    free = yes
+    dmk_sultanate_founding = {
+        legitimacy = 1
+        yearly_absolutism = 0.1
+    }
+    dmk_maritime_power = {
+        global_ship_trade_power = 0.10
+    }
+    dmk_wali_song_influence = {
+        advisor_cost = -0.15
+    }
+    dmk_kris_warriors = {
+        land_morale = 0.10
+    }
+    dmk_paddy_rice = {
+        global_tax_modifier = 0.10
+    }
+    dmk_trade_city = {
+        trade_efficiency = 0.15
+    }
+    dmk_sufi_schools = {
+        global_missionary_strength = 0.03
+    }
+}
+
+
+#Majapahit
+MAJ_ideas = {
+    start = {
+        diplomatic_reputation = 2
+        global_ship_cost = -0.15
+        global_trade_power = 0.15
+    }
+
+    bonus = {
+        discipline = 0.05
+    }
+
+    trigger = {
+        tag = MAJ
+    }
+
+    free = yes
+
+    MAJ_sumpah_palemahan_nusantara = {
+        core_creation = -0.20
+        diplomatic_reputation = 1
+    }
+
+    MAJ_mpu_tantular_and_kakawin = {
+        prestige = 1
+        advisor_cost = -0.05
+    }
+
+    MAJ_wani_ing_pagelengan = {
+        land_morale = 0.10
+    }
+
+    MAJ_sistem_mandala_politik = {
+        liberty_desire = -10
+        autonomy_change_time = -0.15
+    }
+
+    MAJ_kawasan_majapahit = {
+        trade_efficiency = 0.10
+        sailors_recovery_speed = 0.10
+    }
+
+    MAJ_keraton_and_dharmadwipa = {
+        idea_cost = -0.10
+        tolerance_heathen = 1
+    }
+
+    MAJ_mahamantri_and_datu_kerajaan = {
+        governing_capacity = 100
+        governing_capacity_modifier = 0.1
+    }
+}
+
+#palembang
+PLB_ideas = {
+    start = {
+        tolerance_own = 2
+        diplomats = 1
+    }
+
+    bonus = {
+        land_forcelimit_modifier = 0.10
+    }
+
+    trigger = {
+        tag = PLB
+    }
+
+    free = yes
+
+    PLB_srivijayan_legacy = {
+        trade_efficiency = 0.05
+        naval_forcelimit_modifier = 0.10
+    }
+
+    PLB_muslim_scholars_of_beringin = {
+        idea_cost = -0.05
+    }
+
+    PLB_masjid_agung_and_ilm = {
+        prestige = 0.5
+        tolerance_heathen = 1
+    }
+
+    PLB_musirawas_uplands_expeditions = {
+        global_manpower_modifier = 0.10
+    }
+
+    PLB_sultanate_of_palembang_darus_salam = {
+        legitimacy = 1
+    }
+
+    PLB_musi_trade_and_shipbuilding = {
+        global_ship_cost = -0.1
+    }
+
+    PLB_tolerance_through_trade = {
+        improve_relation_modifier = 0.10
+        tolerance_heretic = 1
+    }
+}
+
+#Selaperang
+SPR_ideas = {
+    start = {
+        tolerance_own = 2
+        global_missionary_strength = 0.03
+    }
+
+    bonus = {
+        land_morale = 0.10
+    }
+
+    trigger = {
+        tag = SPR
+    }
+
+    free = yes
+
+    SPR_hindu_rituals_of_the_lands = {
+        legitimacy = 1
+    }
+
+    SPR_lombok_temples_legacy = {
+        tolerance_heathen = 1
+        culture_conversion_time = 0.15
+    }
+
+    SPR_adat_laws_of_pemali = {
+        idea_cost = -0.05
+        stability_cost_modifier = -0.10
+    }
+
+    SPR_sasak_warrior_traditions = {
+        infantry_shock = 1
+        leader_land_shock = 1
+    }
+
+    SPR_bali_like_cultural_harmony = {
+        improve_relation_modifier = 0.15
+    }
+
+    SPR_strategic_strait_control = {
+        trade_efficiency = 0.10
+    }
+    SPR_hindu_resistance_legacy = {
+        global_unrest = -1.0
+        global_missionary_strength = 0.02
+}
+
+}
+
+#Barus (BRS)
+BRS_ideas = {
+    start = {
+        tolerance_own = 2
+        global_trade_goods_size_modifier = 0.10  
+    }
+
+    bonus = {
+        trade_efficiency = 0.15
+    }
+
+    trigger = {
+        tag = BRS
+    }
+
+    free = yes
+
+    BRS_spice_route_merchant_guilds = {
+        global_trade_power = 0.10
+    }
+
+    BRS_sultanate_fortifications = {
+        defensiveness = 0.15
+    }
+
+    BRS_maritime_mastery = {
+        naval_forcelimit_modifier = 0.10
+    }
+
+    BRS_islamic_scholars = {
+        global_missionary_strength = 0.02
+        tolerance_own = 1
+    }
+
+    BRS_barus_cedar_trade = {
+        production_efficiency = 0.10  # Legendary cedar and camphor trade, prized in ancient markets
+    }
+
+    BRS_cultural_syncretism = {
+        diplomatic_reputation = 1  # Barus as a melting pot of Malay, Indian, Arab influences
+        improve_relation_modifier = 0.10
+    }
+
+    BRS_ancient_pantheon_invocation = {
+        stability_cost_modifier = -0.10  # Mythic belief in local deities (like Beruas, guardian spirits)
+        prestige = 0.5
+    }
+}

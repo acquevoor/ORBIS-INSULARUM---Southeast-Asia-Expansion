@@ -1,0 +1,53 @@
+﻿l_english:
+ cossack_chaika:0 "Chaika Raids"
+ cossack_chaika_desc:0 "The Chaika, a fast and agile galley-type ship, allows us to regularly conduct raids on the Moors across the Black Sea."
+ 
+ somali_dhow:0 "Dhow Trade"
+ somali_dhow_desc:0 "The Dhow, a versatile and innovative vessel, has been masterfully adopted by Somali merchants and sailors alike, enabling efficient operation on the seas."
+ 
+ vietnamese_doctrine:0 "Vietnamese Initiative"
+ vietnamese_doctrine_desc:0 "As demonstrated countless times in our history, admiral Ly Thuong Kiet's words ring true - acting first to control the battlefield will protect our native shores from invaders."
+ 
+ bengali_shipbuilding:0 "Bengali Shipbuilding"
+ bengali_shipbuilding_desc:0 "Our skilled craftsmen and the uniquely riverine terrain of Bengal means that we can build many ships, very quickly, and in high quality."
+ 
+ genoese_galleys:0 "Genoese Naval Artillery"
+ genoese_galleys_desc:0 "Cannons, mighty machines of fire and destruction, are the perfect tool for destroying the ships of our enemies. Our galleys shall become dragons!"
+ 
+ maya_canoe:0 "Mayan Canoes"
+ maya_canoe_desc:0 "The treacherous and difficult terrain of our homeland means that masterfully crafted canoes, able to withstand attack from the elements, are the supreme way of navigating long distances."
+ 
+ niger_trade:0 "Master of the Water"
+ niger_trade_desc:0 "The Niger, a mighty river in the very heart of our land, allows us to forge a large and capable navy, bolstered by the experience of the Hikoy, admiral of our fleet."
+ 
+ prussian_navy:0 "Abandon the Fleet"
+ prussian_navy_desc:0 "What good is a navy if our native towns and forests are not protected? Let us leave this foolishness to the feeble-minded, and instead focus on terra firma."
+ 
+ indian_trade:0 "Indian Ocean Trade"
+ indian_trade_desc:0 "So much gold, so many spices, and so many slaves are traded by the Indian Ocean that it would be a blunder not to dedicate our navy towards protecting the trade routes. Let the monsoon winds guide us!"
+ 
+ mnd_crusader_state:0 "Crusader Spirit"
+ mnd_crusader_state_desc:0 "The very cause for the existance of our fleet must be to battle the Saracens. Let not a single enemy remain unscathed, and let not a single Christian man be afraid. Deus vult!"
+ 
+ mnd_scottish_navy:0 "Scots Great Ships"
+ mnd_scottish_navy_desc:0 "Raw power and size is what determines success on the high seas. A single large and heavily armoured ship shall defeat a dozen lesser ones."
+ 
+ mnd_aztec:0 "Mesoamerican Ferocity"
+ mnd_aztec_desc:0 "Learning from the Europeans, focusing on developing modern naval designs is key. But we mustn't forget the principles of our warriors, even our sailors shall be fearless and ferocious, obliterating the enemy at sea."
+ 
+ #events
+ mnd.2.title:0 "Righteous Revenge"
+ mnd.2.desc:0 "Many years ago, a captain of one our galleys on a regular mission to prevent piracy was attacked and taken prisoner. There was no hope of his return, and his vessel was written off. However, the man has now made it back, somehow, and claims to have served in the Saracen fleet, learning a great deal of tactics and strategy. He demands he is made an admiral in our fleet, so that he may take revenge on his former captors."
+ mnd_events.2.A:0 "He is an admiral!"
+ mnd_events.2.B:0 "A true story, no doubt."
+ 
+ #trig modifiers & event
+ mnd_crusade_at_war_with_muslim:0 "Warring with the Saracen"
+ mnd_crusader_admiral_modifier:0 "A Crusader Admiral"
+ 
+ #custom tt
+ mnd_crusader_state_tt:0 "If at war with any Muslim nation: §G10%§! naval morale bonus."
+ mnd_crusader_state_tt2:0 "The above modifier is removed."
+ 
+ #flags
+ mnd_crusade_active:0 "Has the Crusader Spirit"

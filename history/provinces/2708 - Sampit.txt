@@ -1,0 +1,20 @@
+# Sampit
+# 2708 Sampit - 5/16/2025 12:37:50 PM 
+add_core = NDP
+owner = NDP
+controller = NDP
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = tropical_wood
+culture = maanyan_dayak
+religion = animism
+capital = "Sampit"
+is_city = yes
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+1521.1.1 = { 
+	discovered_by = POR
+}

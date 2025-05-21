@@ -1,0 +1,40 @@
+# Poso
+# 643 Poso - 5/16/2025 12:37:49 PM 
+add_core = BGI
+add_core = BGI
+add_core = BGI
+add_core = BGI
+owner = BGI
+controller = BGI
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = spices
+culture = kaili
+religion = animism
+capital = "Poso"
+is_city = yes
+native_size = 60
+native_ferocity = 2
+native_hostileness = 9
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+1444.1.1 = { 
+	owner = BGI
+	controller = BGI
+	trade_goods = spices
+}
+1511.1.1 = { 
+	discovered_by = POR
+}
+1608.1.1 = { 
+	religion = sunni
+}
+1667.1.1 = { 
+	owner = NED
+	controller = NED
+	add_core = NED
+	trade_goods = spices
+}

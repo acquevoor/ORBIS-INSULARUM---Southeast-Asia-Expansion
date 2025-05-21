@@ -1,0 +1,31 @@
+# Barunggam
+# 4856 Barunggam - 5/16/2025 12:37:50 PM 
+ 
+add_core = GMI
+owner = GMI
+controller = GMI
+base_tax = 4
+base_production = 3
+base_manpower = 3
+
+trade_goods = unknown
+
+culture = gamilaraay
+religion = dreamtime
+capital = "Barunggam"
+
+native_size = 50
+native_ferocity =  1
+native_hostileness = 1
+
+discovered_by = aboriginal_tech
+
+
+
+
+1642.11.24 = {
+	discovered_by = NED
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

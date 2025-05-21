@@ -1,0 +1,50 @@
+# Kumari
+# 4410 Kumari - 5/16/2025 12:37:50 PM 
+ 
+add_core = VND
+owner = VND
+controller = VND
+base_tax = 2
+base_production = 3
+base_manpower = 2
+
+trade_goods = spices
+
+culture = malayalam
+religion = hinduism
+capital = "Kumari"
+
+is_city = yes
+
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = chinese
+discovered_by = chinese
+discovered_by = chinese
+
+
+
+
+1405.1.1 = {
+	discovered_by = chinese
+}
+1498.1.1 = {
+	discovered_by = POR
+}
+1662.1.1 = {
+	controller = NED
+}
+1663.1.1 = {
+	owner = NED
+}
+1729.1.1 = {
+	owner = VND
+	controller = VND
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

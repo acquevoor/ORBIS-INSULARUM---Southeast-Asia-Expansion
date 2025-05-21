@@ -1,0 +1,10 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+primary_culture = sundanese
+technology_group = chinese
+religion = animism
+secondary_religion = hinduism
+capital = 625	# Kawali (Ciamis)
+
+#PU under Sunda

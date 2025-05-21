@@ -1,0 +1,35 @@
+# Batulican
+# 4801 Batulican - 5/16/2025 12:37:50 PM 
+ 
+add_core = NDP
+add_core = BNJ
+owner = NDP
+controller = NDP
+base_tax = 6
+base_production = 6
+base_manpower = 4
+
+center_of_trade = 1
+trade_goods = chinaware
+extra_cost = 8
+
+culture = banjar
+religion = hinduism
+capital = "Batulican"
+
+is_city = yes
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+1521.1.1 = {
+	discovered_by = POR
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

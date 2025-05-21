@@ -1,0 +1,41 @@
+# Meliau
+# 4803 Meliau - 5/16/2025 12:37:50 PM 
+ 
+add_core = LDA
+add_core = LDA
+owner = LDA
+controller = LDA
+base_tax = 1
+base_production = 1
+base_manpower = 2
+
+trade_goods = tropical_wood
+
+culture = bidayuh
+religion = animism
+capital = "Meliau"
+
+is_city = yes
+native_size = 40
+native_ferocity =  8
+native_hostileness = 5
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+1444.1.1 = {
+	owner = LDA
+	controller = LDA
+	trade_goods = tropical_wood
+}
+1521.1.1 = {
+	discovered_by = POR
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

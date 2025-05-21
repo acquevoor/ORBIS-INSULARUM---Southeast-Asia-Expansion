@@ -1,0 +1,29 @@
+# Butuan
+# 2702 Butuan - 5/16/2025 12:37:50 PM 
+add_core = BTU
+owner = BTU
+controller = BTU
+base_tax = 5
+base_production = 5
+base_manpower = 4
+center_of_trade = 2
+trade_goods = gold
+extra_cost = 8
+culture = butuanon
+religion = hinduism
+capital = "Butuan"
+is_city = yes
+discovered_by = chinese
+1450.1.1 = { 
+	religion = sunni
+}
+1521.3.31 = { 
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	religion = catholic
+	trade_goods = tropical_wood
+}
+1521.1.1 = { 
+	discovered_by = SPA
+}

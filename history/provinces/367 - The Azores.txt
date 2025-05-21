@@ -1,0 +1,45 @@
+# The Azores
+# 367 The Azores - 5/16/2025 12:37:49 PM 
+ 
+add_core = POR
+add_core = POR
+add_core = POR
+owner = POR
+controller = POR
+base_tax = 3
+base_production = 3
+base_manpower = 1
+
+trade_goods = fish
+
+culture = portugese
+religion = catholic
+capital = "The Azores"
+
+is_city = yes
+
+discovered_by = western
+discovered_by = POR
+discovered_by = western
+discovered_by = POR
+discovered_by = western
+discovered_by = POR
+
+
+
+
+1427.6.30 = {
+	discovered_by = western
+	discovered_by = POR
+}
+1427.11.29 = {
+	owner = POR
+	controller = POR
+	add_core = POR
+	is_city = yes
+	culture = portugese
+	religion = catholic
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

@@ -1,0 +1,37 @@
+# Phitsanulok
+# 2388 Phitsanulok - 5/16/2025 12:37:50 PM 
+ 
+add_core = AYU
+add_core = SUK
+owner = SUK
+controller = SUK
+base_tax = 4
+base_production = 4
+base_manpower = 3
+
+trade_goods = livestock
+
+culture = central_thai
+religion = buddhism
+capital = "Phitsanulok"
+
+is_city = yes
+
+discovered_by = chinese
+discovered_by = indian
+
+
+
+
+1535.1.1 = {
+	discovered_by = POR
+}
+1767.4.1 = {
+	unrest = 7
+}
+1774.1.1 = {
+	unrest = 0
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

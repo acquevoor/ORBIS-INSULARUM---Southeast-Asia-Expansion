@@ -1,0 +1,10 @@
+﻿l_english:
+ ilo_trade_event.1.title: "Ming Traders Arrive in Vigan"
+ ilo_trade_event.1.desc: "News spreads throughout Vigan of the arrival of Ming traders, emissaries, and merchants. While their presence offers potential benefits, it also raises concerns about aligning too closely with a powerful empire. We face a choice: Do we welcome the Ming traders, hoping to gain from their goods and knowledge despite the risks? Or do we decline their offer, opting for caution and preserving our city's independence?"
+ ilo_trade_event.1.option.accept: "Welcome the Ming Traders, seeking to benefit from their trade and expertise."
+ ilo_trade_event.1.option.decline: "Decline the Ming Traders' offer, prioritizing caution and seizing their cargo."
+ MNG_relationship_gain: "Improved Relations"
+ MNG_relationship_penalty: "Deteriorated Relations"
+ luzviminda_nation_title: "From the Luzvimindian nation"
+ luzviminda_nation_desc: "Form the the might luzvimindian nation! Luzviminda is a portmanteau of Luzon, Visayas, and Mindanao, the names of the three major island groups of the Philippines. It is a feminine given name."
+ 

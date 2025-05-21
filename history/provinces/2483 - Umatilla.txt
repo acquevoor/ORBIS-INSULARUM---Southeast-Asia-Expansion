@@ -1,0 +1,25 @@
+# Umatalum
+# 2483 Umatalum - 5/16/2025 12:37:50 PM 
+ 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = unknown
+
+culture = chinook
+religion = totemism
+capital = "Umatilla"
+
+native_size = 5
+native_ferocity =  1
+native_hostileness = 2
+
+discovered_by = north_american
+
+
+
+
+
+
+### Modified 5/16/2025 12:37:50 PM ###

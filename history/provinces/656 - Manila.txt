@@ -1,0 +1,66 @@
+# Manila
+# 656 Manila - 5/16/2025 12:37:49 PM 
+ 
+add_core = MNA
+owner = MNA
+controller = MNA
+base_tax = 7
+base_production = 6
+base_manpower = 3
+
+center_of_trade = 2
+trade_goods = dyes
+extra_cost = 16
+
+culture = tagalog
+religion = animism
+capital = "Manila"
+
+is_city = yes
+fort_15th = yes
+
+discovered_by = chinese
+
+
+
+
+1500.1.1 = {
+	religion = sunni
+}
+1521.1.1 = {
+	discovered_by = SPA
+}
+1570.5.1 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	trade_goods = spices
+}
+1587.1.1 = {
+	controller = REB
+	revolt = {
+		type = nationalist_rebels
+		size = 0
+		leader = "Agustín de Legazpi"
+	}
+
+}
+1588.1.1 = {
+	controller = SPA
+	revolt = {
+		size = 1
+	}
+
+}
+1599.1.1 = {
+	religion = catholic
+}
+1762.10.6 = {
+	controller = GBR
+}
+1763.2.10 = {
+	controller = SPA
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

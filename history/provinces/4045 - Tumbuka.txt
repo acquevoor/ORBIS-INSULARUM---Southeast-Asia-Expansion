@@ -1,0 +1,26 @@
+# Tumbuka
+# 4045 Tumbuka - 5/16/2025 12:37:50 PM 
+ 
+add_core = TBK
+owner = TBK
+controller = TBK
+base_tax = 2
+base_production = 2
+base_manpower = 2
+
+trade_goods = gems
+
+culture = nyasa
+religion = shamanism
+capital = "Kasungu"
+
+is_city = yes
+
+discovered_by = central_african
+
+
+
+
+
+
+### Modified 5/16/2025 12:37:50 PM ###

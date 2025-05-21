@@ -1,0 +1,23 @@
+﻿l_english:
+
+    # Event Localization for a Malay nation converting to Sunni Islam
+    relswap.1.t: "The Presence and spread of Islam in the South East Asia"
+    relswap.1.z: "For generations, the people of our land have followed the faith of our ancestors, worshipping spirits of nature, venerating the wisdom of the old ways, or embracing the teachings of Hindu-Buddhist traditions. Yet, the winds of change have long swept across the great seas, carried by merchants, scholars, and mystics from distant lands. Through trade and diplomacy, we have forged strong ties with the powerful Islamic sultanates that now dominate the coasts of the Eastern and Western Malay Peninsula and Sumatra. Their wealth and influence grow with each passing year, and their faith—the path of the Prophet—has taken root among our nobles and commoners alike. Now, under the guidance of wise scholars and Sufi mystics, our ruler and heir stand at a crossroads. The teachings of Islam offer not just a new faith but a new way of governance, of unity, and of forging bonds with the great powers of the Muslim world. To embrace it is to step into a new era, one that will shape the destiny of our people for generations to come. Will we take this step and join the growing tide of Islam!"
+    relswap.1.n: "Embrace Sunni Islam, and gain favor in the Islamic World"
+    
+    # Description for the event for a nation in the Malay region
+    relswap.1.d: "As trade routes from the Middle East and India strengthen, Islamic merchants and missionaries have arrived in the Malay Archipelago, bringing the teachings of the Prophet Muhammad. The Sultan, seeing the benefit of forging closer ties with the growing Sunni powers in the region, is considering adopting the new faith. Will the kingdom embrace Sunni Islam, or continue to follow the traditional beliefs?"
+    
+    # The option to convert the religion to Sunni
+    malay_sunni_conv_rel_title: "£piety_text_icon£ Convert Ruler to Sunni Islam"
+    malay_sunni_conv_rel_desc: "Embrace the teachings of Islam, align with the Sunni faith, and strengthen ties with other Muslim powers. This will cost -1 stability, 300 Diplo and a significant effort, but the rewards may be great."
+    
+    # Religious events leading to the conversion
+    relswap.2.t: "A New Era for the Kingdom"
+    relswap.2.z: "The sultanate has embraced Sunni Islam."
+    relswap.2.n: "Embrace the Faith"
+    relswap.2.d: "The Sultan's decision to convert to Sunni Islam has reshaped the nation, bringing it closer to the Islamic powers of Southeast Asia and beyond. The people will now follow the Prophet's teachings, strengthening the unity of the kingdom."
+
+    # The consequence of embracing Sunni Islam
+    conv_rel_res_title: "Conversion Complete"
+    conv_rel_res_desc: "With the conversion of the royal family and the official adoption of Sunni Islam, the kingdom will now enjoy the religious unity and alliances with other Sunni powers across the world. However, it will be a long road to fully integrate the faith into the hearts of the people."

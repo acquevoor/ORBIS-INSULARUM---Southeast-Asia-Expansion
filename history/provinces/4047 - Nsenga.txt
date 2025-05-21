@@ -1,0 +1,30 @@
+# Nsenga
+# 4047 Nsenga - 5/16/2025 12:37:50 PM 
+ 
+add_core = LDU
+owner = LDU
+controller = LDU
+base_tax = 1
+base_production = 2
+base_manpower = 1
+
+trade_goods = livestock
+
+culture = nyasa
+religion = shamanism
+capital = "Nsenga"
+
+is_city = yes
+add_local_autonomy = 40
+
+discovered_by = central_african
+
+
+
+
+1572.1.1 = {
+	discovered_by = POR
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

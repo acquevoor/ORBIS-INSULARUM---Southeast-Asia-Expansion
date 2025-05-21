@@ -1,0 +1,28 @@
+# Ata Whenua
+# 1246 Ata Whenua - 5/16/2025 12:37:49 PM 
+ 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = gems
+
+culture = maori
+religion = animism
+capital = "Hokitika"
+
+native_size = 3
+native_ferocity =  4
+native_hostileness = 9
+
+discovered_by = polynesian_tech
+
+
+
+
+1642.1.1 = {
+	discovered_by = NED
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

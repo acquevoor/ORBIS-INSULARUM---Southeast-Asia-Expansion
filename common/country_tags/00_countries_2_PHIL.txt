@@ -1,0 +1,14 @@
+# PEARL OF THE ORIENT
+### PHILIPPINES (PINOY) #####################################
+# VISAYAS
+VKL = "countries/Leyte.txt"
+VLM = "countries/Makarato.txt"
+# MINDANAO / SULU
+TAY = "countries/Taytay.txt"
+MSB = "countries/Lanao.txt"
+SUB = "countries/Subanon.txt"
+# LUZON
+HOM = "countries/HMai.txt"# Namayan/Tondo area
+SMN = "countries/SamtoyNation.txt"# Ilocos
+IBO = "countries/Ibalong.txt"# Bicol
+IFG = "countries/Ifugao.txt"

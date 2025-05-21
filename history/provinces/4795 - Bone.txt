@@ -1,0 +1,23 @@
+# Bone
+# 4795 Bone - 5/16/2025 12:37:50 PM 
+add_core = BNE
+owner = BNE
+controller = BNE
+base_tax = 4
+base_production = 4
+base_manpower = 3
+trade_goods = spices
+culture = bugis
+religion = animism
+capital = "Bone"
+is_city = yes
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+1511.1.1 = { 
+	discovered_by = POR
+}
+1605.9.1 = { 
+	religion = sunni
+}

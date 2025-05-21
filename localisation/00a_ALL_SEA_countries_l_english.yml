@@ -1,0 +1,155 @@
+﻿# Philippine Regions
+
+# Luzon Region
+l_english:
+  MNA:0 "Maynila"
+  MNA_ADJ:0 "Maynilan"
+  MNA_desc:0 "Maynila, commonly known as Manila,"
+
+  TDO:0 "Tondo"
+  TDO_ADJ:0 "Tondoan"
+  TDO_desc:0 "Tondoan, or Tondo, is"
+
+  PGS:0 "Caboloan"
+  PGS_ADJ:0 "Caboloan"
+  PGS_desc:0 "Caboloan,"
+
+  IFG:0 "Igorot"
+  IFG_ADJ:0 "Igorotic"
+
+  SPP:0 "Soppeng"
+  SPP_ADJ:0 "Soppengite"
+  
+  CEB:0 "Sugbo"
+
+ 
+
+# Mindanao Region
+  BMA:0 "Bima"
+  BMA_ADJ:0 "Bimanese"
+
+  GTL:0 "Gorontalo"
+  GTL_ADJ:0 "Gorontaloan"
+
+  SUD:0 "Sukadana"
+  SUD_ADJ:0 "Sukadanan"
+
+  LDA:0 "Landak"
+  LDA_ADJ:0 "Landakian"
+
+  MSB:0 "Lanao"
+  MSB_ADJ:0 "Lanaon"
+
+  BOW:0 "Bowontehu"
+  BOW_ADJ:0 "Bowontehun"
+
+# Celebes Region
+  SPR:0 "Selaparang"
+  SPR_ADJ:0 "Selaparangi"
+
+  SMW:0 "Sumbawa"
+  SMW_ADJ:0 "Sumbawan"
+
+  WHL:0 "Wehali"
+  WHL_ADJ:0 "Wehalian"
+
+  WJO:0 "Wajo"
+  WJO_ADJ:0 "Wajonese"
+
+  MKS:0 "Gowa"
+  MKS_ADJ:0 "Gowanese"
+
+  TGG:0 "Terengganu"
+  TGG_ADJ:0 "Terengganuan"
+
+  JLO:0 "Jailolo"
+  JLO_ADJ:0 "Jailoloan"
+
+  NDP:0 "Negara Dipa"
+  NDP_ADJ:0 "Negara Dipan"
+
+  NGJ:0 "Ngaju"
+  NGJ_ADJ:0 "Ngajunese"
+
+  TNP:0 "Tanjungpura"
+  TNP_ADJ:0 "Tanjungpuran"
+
+  HTR:0 "Hatorusan"
+  HTR_ADJ:0 "Hatorusans"
+
+  ARU:0 "Aru"
+  ARU_ADJ:0 "Aruese"
+
+  LMI:0 "Lamuri"
+  LMI_ADJ:0 "Lamurian"
+
+  LPG:0 "Tulang Bawang"
+  LPG_ADJ:0 "Lampungs"
+
+# Palawan Region
+  TAY:0 "Taytay"
+  TAY_ADJ:0 "Taytayan"
+
+# Visayas Region West
+  VKL:0 "Tandaya"
+  VKL_ADJ:0 "Leytan"
+
+  VLM:0 "Samar"
+  VLM_ADJ:0 "Waray"
+
+  SUB:0 "Sanmalan"
+  SUB_ADJ:0 "Sanmalani"
+
+  IBO:0 "Ibalong"
+  IBO_ADJ:0 "Bicolano"
+
+  DHR:0 "Dharmasraya"
+  DHR_ADJ:0 "Dharmasrayan"
+
+  BGI:0 "Banggai"
+  BGI_ADJ:0 "Banggain"
+
+  KNW:0 "Konawe"
+  KNW_ADJ:0 "Konawean"
+
+  LVM:0 "Luzviminda"
+  LVM_ADJ:0 "Luzvimindian"
+
+# Maluku Region
+  HTU:0 "Hitu"
+  HTU_ADJ:0 "Hituan"
+
+  HML:0 "Huamual"
+  HML_ADJ:0 "Huamualan"
+
+# Borneo Region
+  KUT:0 "Kutai Martadipura"
+  KUT_ADJ:0 "Kutai"
+
+  BNW:0 "Banawa"
+  BNW_ADJ:0 "Banawanese"
+
+# Additional Regions
+  SMN:0 "Samtoy"
+  SMN_ADJ:0 "Ilokano"
+  SMN_desc:0 "Ilokano"
+
+  # Region BNW
+  #BNW:0 "Donggala" # Uncomment this if you need it
+
+# Additional Regions
+  FKF:0 "Fatagar"
+  FKF_ADJ:0 "Papuan"
+  FKF_desc:0 "Papuan"
+
+  HOM:0 "Mayi"
+  HOM_ADJ:0 "Mangyan"
+
+  GLU:0 "Galuh"
+  GLU_ADJ:0 "Galuhan"
+
+  PAT:0 "Langkasuka"
+  PAT_ADJ:0 "Langkasukan"
+  
+
+  TER:0 "Gapi"

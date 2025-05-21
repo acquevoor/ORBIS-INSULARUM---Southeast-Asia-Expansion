@@ -1,0 +1,67 @@
+﻿l_english:
+  # Sulawesi Rajanate
+  WANUA:0 "Wanua"
+  TOMANURUNG:0 "Tomanurung"
+
+  ARUNG:0 "Arung"
+  KARAENG:0 "Karaeng"
+
+  ARUNG:0 "Arung"
+  ARUNG_BAINE:0 "Arung Baine"  # Optional for female rulers
+
+  PRINCE_CONSORT:0 "Prince Consort"
+  PRINCESS:0 "Princess"
+
+  HEIR:0 "Heir"
+  HEIR_fem:0 "Heir"
+
+  # Moluccan Rajanate
+  NEGERI:0 "Negeri"
+  ULI:0 "Uli"
+
+  KAPITAN:0 "Kapitan"
+  KOLANO:0 "Kolano"
+  
+  BOKI:0 "Boki"
+  BOKI_RAJA:0 "Boki Raja"
+  RATU:0 "Ratu"
+  
+  # Borneo Rajanate
+  BANUA:0 "Banua"
+  KADATUAN:0 "Kadatuan"
+  
+  PANGERAAN:0 "Pangeran"
+  RAJA:0 "Raja"
+  MAHARAJA:0 "Maharaja"
+  PUTRI:0 "Putri"
+  RANI:0 "Rani"
+  MAHARANI:0 "Maharani"
+  
+  # Java Rajanate
+  KADIPATEN:0 "Kadipaten"
+  KERATON:0 "Keraton"
+
+  ADIPATI:0 "Adipati"
+  RAJA:0 "Raja"
+  MAHARAJA:0 "Maharaja"
+  GUSTI_KANJENG:0 "Gusti Kanjeng"
+  RANI:0 "Rani"
+  MAHARANI:0 "Maharani"
+  
+  # Sumatra & West Malaysia Rajanate
+  NAGARI:0 "Nagari"
+  
+  DATUK:0 "Datuk"
+  RAJA:0 "Raja"
+  MAHARAJA:0 "Maharaja"
+  RATU:0 "Ratu"
+  
+  PRINCE_CONSORT:0 "Prince Consort"
+  PRINCESS:0 "Princess"
+  
+  HEIR:0 "Heir"
+  HEIR_fem:0 "Heir"
+
+	BARANGAY:0 "Barangay"
+	GRAND_BARANGAY:0 "Dakilang Barangay"
+	GREAT_BARANGAY:0 "Dakilang Kaharian"

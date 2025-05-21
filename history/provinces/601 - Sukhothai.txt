@@ -1,0 +1,54 @@
+# Sukhothai
+# 601 Sukhothai - 5/16/2025 12:37:49 PM 
+ 
+add_core = SUK
+add_core = AYU
+add_core = AYU
+add_core = AYU
+owner = SUK
+controller = SUK
+base_tax = 6
+base_production = 6
+base_manpower = 3
+
+trade_goods = chinaware
+
+culture = central_thai
+religion = buddhism
+capital = "Sukhothai"
+
+is_city = yes
+fort_15th = yes
+
+discovered_by = chinese
+discovered_by = indian
+
+
+
+
+1438.1.1 = {
+	add_core = AYU
+}
+1456.1.1 = {
+	add_core = LNA
+}
+1474.1.1 = {
+	remove_core = LNA
+}
+1530.1.1 = {
+	owner = AYU
+	controller = AYU
+	remove_core = SUK
+}
+1535.1.1 = {
+	discovered_by = POR
+}
+1767.4.1 = {
+	unrest = 7
+}
+1774.1.1 = {
+	unrest = 0
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###
