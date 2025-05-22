@@ -126,5 +126,6 @@ monarch_names = {
 	"Rajah Qasim #0" = 10
 }
 ship_names = { 
-	"Kuala Terengganu" Marang Dungun Kemaman Hulu Terengganu Setiu Besut "Bukit Payung" "Kuala Berang" "Kuala Dungun" "Kuala Kemaman" "Pulau Redang" "Pulau Perhentian" "Pulau Kapas" 	"Kampung Raja" "Ajil Hulu" dan "Tasik Kenyir
+	"Kuala Terengganu" Marang Dungun Kemaman Hulu Terengganu Setiu Besut "Bukit Payung" "Kuala Berang" "Kuala Dungun" "Kuala Kemaman" "Pulau Redang" "Pulau Perhentian" "Pulau Kapas"
+	"Kampung Raja" "Ajil Hulu" dan "Tasik Kenyir"
 }
