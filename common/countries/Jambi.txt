@@ -28,34 +28,39 @@ historical_units = {
 }
 
 monarch_names = {
-	"Inayat #0" = 20
-	"'Alî Mugâyat #0" = 20
-	"Iskandar Tanî #0" = 20
-	"Husayn 'Alî Ri'âyat #0" = 20
-	"Menradza #0" = 20
-	"Tsalenggathu #0" = 20
-	"Gadzabadi #0" = 20
-	"Tsau-Lha #0" = 20
-	"Mengtsekya #0" = 20
-	
+	"Ahmad Salim #0" = 20
+	"Selaras Pinang Masak #0" = 20
+	"Ibrahim #0" = 20
+	"Abdul Rahman #0" = 20
+	"Ahmad Kamil #0" = 20
+	"Hilang Diaek #0" = 20
+	"Rengas Pandak #0" = 20
+	"Bawah Sawo #0" = 20
+	"Kota Baru #0" = 20
+	"Abdul Kahar #0" = 20
+	"Abdul Jalil #0" = 20
+	"Abdul Muhyi #0" = 20
+	"Raden Cakra Negara #0" = 20
+	"Batu Johan Pahlawan Syah #0" = 20
+	"Surya Ingalaga #0" = 20
+	"Abdul Muhyi #0" = 20
+	"Raden Cakra Negara #0" = 20
+	"Batu Johan Pahlawan Syah #0" = 20
+	"Surya Ingalaga #0" = 20
+	"Suryanegara #0" = 20
+	"Sutawijaya #0" = 20
+	"Wangsa #0" = 20
+	"Martaningrat #0" = 20
+	"Martaningrat #0" = 20
+	"Jayaningrat #0" = 20
+	"Ahmad Nasiruddin #0" = 20
+	"Muhammad Muhieddin #0" = 20
+	"Thaha Saifuddin #0" = 20
+
 	"Amritpal #0" = -1
 	"Dara Jingga #0" = -1
 	"Hamatun #0" = -1
 	"Janji #0" = -1
-	"Pagaruyung #0" = -1
-	"Sori #0" = -1
-	"Tembong #0" = -1
-	"Lenggogeni  #0" = -1
-	"Saruaso #0" = -1
-	"Gapuak #0" = -1
-	"Mariam #0" = -1
-	"Sumpu #0" = -1
-	"Semboja #0" = -1
-	"Tingkir #0" = -1
-	"Pakungwati #0" = -1
-	"Endang Geulis #0" = -1
-	"Adiningkusuma #0" = -1
-	"Kalinyamat #0" = -10
 }
 
 leader_names = { 
