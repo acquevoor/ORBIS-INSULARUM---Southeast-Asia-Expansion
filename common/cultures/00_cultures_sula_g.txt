@@ -13,7 +13,8 @@ sulawesi_g = {
 	sulawesi = {
 		primary = MKS
 		dynasty_names = {
-			Palopo Makassar Manado Poso Palu
+			"Alima"	"Banawu"	"Banawula"	"Basnapal"	"Bisirimo"	"Borahima"	"Buburanda"	"Bungaharu"	"Bunggasi"	"Bunggulawa"	"Dahlan"	"Duruka"	"Elu"	"Haeba"					"Haribau" "Harulasa"	"Puo-Puo"	"Heo"	"Imbanahi"	"Imboeri"	"Inato"	"Indumo"	"Ipapa"	"Kalenggo"	"Konggoasa"	"Laamala"	"Laasamana"	"Lababa"	"Labaheo"				"Labakala" "Ladae"	"Laduma"	"Lagarai"	"Laharabi"	"Lahasa"	"Laisapa"	"Lakarama"	"Lakidende"	"Lakonunggu"	"Laliasa"	"Lamaliga"	"Lamarota"					"Lamasembo"	"Lambalima"			"Lambili"	"Lamorota"	"Landebawo"	"Langgomia"	"Langgonai"	"Lapabali"	"Lapabuka"	"Lapadi"	"Lapae"	"Lapagari"					"Lapaleadu"	"Lapanggili"	"Lapondondo"	"Laporanda"			"Laposudo"	"Laraga"	"Laremba"	"Larumbalangi"	"Larumbesi"	"Lasabi"	"Lasandara"	"Lasarima"				"Lasikiri"	"Lasipole"	"Latalambe"	"Latambaga"	"Latamua"				"Latimumu"	"Latomoro"	"Latumaa"	"Latuo"	"Latuwo"	"Laule Wulu"	"Lautani"				"Lelesuwa"	"Liambo"	"Lombo-lombo"	"Longgiri"	"Lowa"	"Maago"	"Maani"	"Madusila"	"Maho"			"Makati"	"Makuasa"	"Malaka"	"Mambulo"	"Mambulu"				"Mandili"	"Mangidi"	"Mannidi"	"Maranai"	"Masigi"	"Mbatono"	"Mburi"	"Mekda"	"Melala"	"Moita"			"Mokora"	"Mondawa"	"Monggeko"					"Ndabio"	"Ndaulu"	"Noabio"	"Nowehi"	"Oheo"	"Onggabo"	"Pagala"	"Pakandeate"	"Paluwu"	"Panawula"	"Pangaibali"			"Parakai"					"Parewa"	"Pasaeno"	"Pasaeno"	"Pasaeno"	"Pasoro"	"Polonui"	"Polurui"	"Pombili"	"Porosi"	"Purindoopaa"	"Puti"	"Puuwatu"	"Puwatu"					"Rakawula"	"Rambetano"	"Rambi"	"Ranu"	"Rebi"	"Rebilarebi"	"Renggaala"	"Rere"	"Rigay"	"Robe"	"Ronga"	"Rundusala"	"Sabara"	"Sabili"	"Sadaoda"	"Saeho"	"Saila"					"Samberano"	"Sandima"	"Sangia Inato"	"Sangia Nibandera"	"Sanuru"	"Sao-sao"	"Saranani"	"Sauala"	"Seiko"	"Sidupa"	"Silondae"	"Silonde"						"Sinapot"	"Singgima"	"Sirundu"	"Soerabaya"	"Soerumba"	"Sonaru"	"Supu"	"Surubaya"	"Surunggila"	"Taewa"	"Tahea"	"Takoko"	"Talaga"							"Talisa"	"Tambera"	"Tamburaka"	"Tanggapili"			"Tanggolowuta"	"Taridala"	"Tarimana"	"Tasahea"	"Tauto"	"Tawulo"	"Tebae"	"Tebawo"	"Tehalu"				"Tekaka"	"Teporambe"	"Tie"	"Tigalu"	"Toarima"	"Tobarasi"			"Tobone"	"Toemia"	"Toemoro"	"Toena"	"Togala"	"Tohamba"	"Tolindoe"				"Tolunggae"	"Tombili"	"Tonde"	"Tongasa"	"Toondu"	
+			"Toraha"	"Torohula"	"Tuapemanu"	"Waanggo"	"Watukila"	"Wendeday"	"Wulu Mohitu"
 		}
 		male_names = {
 			"Tunitangkalopi" "Batara Gowa" "Tuni Djallori" "Tuni Parisi" "Tuni Palonga" "Tuni Butta" "Tunyachoka-ri" 
@@ -32,63 +33,155 @@ sulawesi_g = {
 	wallio = {
 		primary = BTN
 		dynasty_names = {
-			Bugis Makassar Toraja Mandar Wajo Luwu Bone TanaToraja
+			"Alima"	"Banawu"	"Banawula"	"Basnapal"	"Bisirimo"	"Borahima"	"Buburanda"	"Bungaharu"	"Bunggasi"	"Bunggulawa"	"Dahlan"	"Duruka"	"Elu"	"Haeba"					"Haribau" "Harulasa"	"Puo-Puo"	"Heo"	"Imbanahi"	"Imboeri"	"Inato"	"Indumo"	"Ipapa"	"Kalenggo"	"Konggoasa"	"Laamala"	"Laasamana"	"Lababa"	"Labaheo"				"Labakala" "Ladae"	"Laduma"	"Lagarai"	"Laharabi"	"Lahasa"	"Laisapa"	"Lakarama"	"Lakidende"	"Lakonunggu"	"Laliasa"	"Lamaliga"	"Lamarota"					"Lamasembo"	"Lambalima"			"Lambili"	"Lamorota"	"Landebawo"	"Langgomia"	"Langgonai"	"Lapabali"	"Lapabuka"	"Lapadi"	"Lapae"	"Lapagari"					"Lapaleadu"	"Lapanggili"	"Lapondondo"	"Laporanda"			"Laposudo"	"Laraga"	"Laremba"	"Larumbalangi"	"Larumbesi"	"Lasabi"	"Lasandara"	"Lasarima"				"Lasikiri"	"Lasipole"	"Latalambe"	"Latambaga"	"Latamua"				"Latimumu"	"Latomoro"	"Latumaa"	"Latuo"	"Latuwo"	"Laule Wulu"	"Lautani"				"Lelesuwa"	"Liambo"	"Lombo-lombo"	"Longgiri"	"Lowa"	"Maago"	"Maani"	"Madusila"	"Maho"			"Makati"	"Makuasa"	"Malaka"	"Mambulo"	"Mambulu"				"Mandili"	"Mangidi"	"Mannidi"	"Maranai"	"Masigi"	"Mbatono"	"Mburi"	"Mekda"	"Melala"	"Moita"			"Mokora"	"Mondawa"	"Monggeko"					"Ndabio"	"Ndaulu"	"Noabio"	"Nowehi"	"Oheo"	"Onggabo"	"Pagala"	"Pakandeate"	"Paluwu"	"Panawula"	"Pangaibali"			"Parakai"					"Parewa"	"Pasaeno"	"Pasaeno"	"Pasaeno"	"Pasoro"	"Polonui"	"Polurui"	"Pombili"	"Porosi"	"Purindoopaa"	"Puti"	"Puuwatu"	"Puwatu"					"Rakawula"	"Rambetano"	"Rambi"	"Ranu"	"Rebi"	"Rebilarebi"	"Renggaala"	"Rere"	"Rigay"	"Robe"	"Ronga"	"Rundusala"	"Sabara"	"Sabili"	"Sadaoda"	"Saeho"	"Saila"					"Samberano"	"Sandima"	"Sangia Inato"	"Sangia Nibandera"	"Sanuru"	"Sao-sao"	"Saranani"	"Sauala"	"Seiko"	"Sidupa"	"Silondae"	"Silonde"						"Sinapot"	"Singgima"	"Sirundu"	"Soerabaya"	"Soerumba"	"Sonaru"	"Supu"	"Surubaya"	"Surunggila"	"Taewa"	"Tahea"	"Takoko"	"Talaga"							"Talisa"	"Tambera"	"Tamburaka"	"Tanggapili"			"Tanggolowuta"	"Taridala"	"Tarimana"	"Tasahea"	"Tauto"	"Tawulo"	"Tebae"	"Tebawo"	"Tehalu"				"Tekaka"	"Teporambe"	"Tie"	"Tigalu"	"Toarima"	"Tobarasi"			"Tobone"	"Toemia"	"Toemoro"	"Toena"	"Togala"	"Tohamba"	"Tolindoe"				"Tolunggae"	"Tombili"	"Tonde"	"Tongasa"	"Toondu"	
+			"Toraha"	"Torohula"	"Tuapemanu"	"Waanggo"	"Watukila"	"Wendeday"	"Wulu Mohitu"
 		}
 		male_names = {
-			"Lamappang" "Mallise" "Sappai" "Lasatene" "Tondok" "Sulewatang" "Rambe" 
-			"Ma’dika" "Walangko" "Tampang" "Lasinrang" "Gau" "Mapatangka" "Massora"
-		}
-		female_names = {
-			"Andi" "We Tenri" "Bonto" "Pajonga" "Wera" "Tanra" "Dalle" "Tenri Abeng"
-			"Malebbi" "Tondokna" "Celle" "Sule" "Tepa" "Bessi" "Lalanro"
-		}
+		Andi Daeng Ambo Akku Ampa Arung Atu Benga Bombang Eja Enre Esa Gatta Gau Kasii Keteng Lalo Matta Makkawaru Besse
+		Malomo Nyompa Pada Jeru La Laba Palalo Pallawarukka Takko Tinro Tunrung Uleng Putra Perdana Tinro Tojeng
+		Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+		Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+		Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 		Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+		Matasa Isakka Latahang Baco Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Aso Nyalla Mattalitti Ramang
+		Batara Butta Djallo Djallori Gowa Karaeng Limbangparang Palonga Parabung Parisi Pasulu Sankilang Tumammalianga Tuni Sudding Paliwang Oddang
+		Tunibatta Tunitangkalopi Tunyachoka-ri Palaloi Mattalatta Kaduk Massepe Pajongga Ngalie Ranggong Radja Mallaranggeng Beddu Amang Mariok Dira
+		Peppang Makkarumpa Djemma Pawawoi Pati Palakka Madukelleng Saelan Uno Tumpa
+	}
+
+	female_names = {
+		Andi Puang Akko Indo Akko Ampa Arung Atu Benga Bombang Cenning Daramang Eja Esa Gatta Gau Kasii Keteng Lalo Makatenga Matta Putri Welang
+		Malomo Marauleng Nyompa Ola Pada Jeru La Laba Palalo Pallawarukka Rawallangi Sanna Sompa Takko Tang Tenri Tinro Tunrung Tuo Uleng Upe Risaju
+		Unru Wellang Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+		Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+		Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 		Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+		Matasa Isakka Latahang Becce Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Areng Dondo-dondo
+		Cinta Wangi Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu_utea Orama Poe Pear Poehina Poenui Poerava Puaiti Puatea Puaura Ra'ihau Ra'imere Ra'inui 
+		Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Tenriolle Taurua Tautiare Tehani Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea Vaite Vaitiare
+	}
 	}
 	makassar = {
 	primary = MKS
 	dynasty_names = {
-		Gowa Tallo Marusu Bone Soppeng Luwu Sinjai Bantaeng
-	}
+        	"Andi"	"Arung"	"Bau"	"Daeng"	"Datu"	"Opu"	"Petta"	"Puang"	"Sulewatang"	"Tenri"	"Tinro"	"Karaeng"	"Kare"	"Tanjeng"	"Sombaya"	"Puang"	"La"	"We"	"Areng"	"Dondo-dondo"	"Torau"				"Awundapu"		"Banumbu"	"Bali'e"	"Baloga"	"Belala"	"Betalino"	"Beto"	"Botilangi"		"Bulinde"	"Bungkundapu"	"Bungu"	"Buntinge"	"Dike"	"Dongalemba"			"Gilirante"	"Gimbaro"		"Gugu"	"Gundo"	"Kampindo"	"Kambodji"	"Kalembiro"	"Kalengke"	"Karape"	"Karebungu"	"Kayori"	"Kayupa"	"Koedio"	"Kogege"			"Kolombuto"	"Kolobinti"	"Kuko"			"Lakiu"	"Langgari"	"Lambangasi"	"Labiro"	"Liante"	"Lidongi"	"Lu'o"	"Lumaya"	"Lolongudju"	"Manganti"	"Meringgi"			"Mossepe"	"Mowose"	"Monipo"	"Nyolo-nyolo"		"Nggau"	"Nggo'u"	"Nua"	"Nyaua"	"Pakuli"	"Palaburu"	"Parimo"	"Pariu"	"Paroda"	"Pasunu"	"Patara"			"Pebadja"	"Penina"	"Penyami"	"Pesudo"	"Poa"			"Pobonde"	"Podala"	"Polempe"	"Purasongka"	"Ratengku"	"Pusuloka"	"Rampalino"	"Rampalodji"			"Rantelangi"	"Rare'a"	"Ruagadi"	"Rubo"	"Ruutana"	"Sancu'u"			"Sawiri"	"Sigilipu"	"Sipatu"	"So'e"	"Sowolino"	"Tabanci"	"Tadanugi"				"Tadalangi"	"Tadadja"	"Tadjaji" "Talasa"	"Tarante"	"Tasiabe"	"Tawuku"	"Tawurisi"	"Tekora"	"Tepara"	"Tiladuru"	"Tolala"	"Mogadi"	"Tobondo"			"Tolimba"	"Toumbo"	"Turuka"		"Ule"	"Ululai"	"Warara"	"Wenali"	"Werokila"	"Wuri"	"Wutabisu"
+    	}
 	male_names = {
-		"Karaeng" "Tumanurung" "Pattingalloang" "Ranggong" "Bonto" "Latoa" "Tamalate"
+		Andi Daeng Ambo Akku Ampa Arung Atu Benga Bombang Eja Enre Esa Gatta Gau Kasii Keteng Lalo Matta Makkawaru Besse
+		Malomo Nyompa Pada Jeru La Laba Palalo Pallawarukka Takko Tinro Tunrung Uleng Putra Perdana Tinro Tojeng
+		Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+		Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+		Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 		Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+		Matasa Isakka Latahang Baco Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Aso Nyalla Mattalitti Ramang
+		Batara Butta Djallo Djallori Gowa Karaeng Limbangparang Palonga Parabung Parisi Pasulu Sankilang Tumammalianga Tuni Sudding Paliwang Oddang
+		Tunibatta Tunitangkalopi Tunyachoka-ri Palaloi Mattalatta Kaduk Massepe Pajongga Ngalie Ranggong Radja Mallaranggeng Beddu Amang Mariok Dira
+		Peppang Makkarumpa Djemma Pawawoi Pati Palakka Madukelleng Saelan Uno Tumpa
 	}
+
 	female_names = {
-		"Tumanurung" "Dara" "Pattarai" "Rappocini" "Tallo" "Bonto" "Kalesang"
+		Andi Puang Akko Indo Akko Ampa Arung Atu Benga Bombang Cenning Daramang Eja Esa Gatta Gau Kasii Keteng Lalo Makatenga Matta Putri Welang
+		Malomo Marauleng Nyompa Ola Pada Jeru La Laba Palalo Pallawarukka Rawallangi Sanna Sompa Takko Tang Tenri Tinro Tunrung Tuo Uleng Upe Risaju
+		Unru Wellang Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+		Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+		Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 		Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+		Matasa Isakka Latahang Becce Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Areng Dondo-dondo
+		Cinta Wangi Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu_utea Orama Poe Pear Poehina Poenui Poerava Puaiti Puatea Puaura Ra'ihau Ra'imere Ra'inui 
+		Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Tenriolle Taurua Tautiare Tehani Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea Vaite Vaitiare
 	}
 }
 	banawa = {
 	primary = BNW
 	dynasty_names = {
-		Tomini Tolitoli Banawa Dampal Tinombo Sidoan Malala
+		"Alima"	"Banawu"	"Banawula"	"Basnapal"	"Bisirimo"	"Borahima"	"Buburanda"	"Bungaharu"	"Bunggasi"	"Bunggulawa"	"Dahlan"	"Duruka"	"Elu"	"Haeba"	"Haribau"			"Harulasa"	"Puo-Puo"	"Heo"	"Imbanahi"	"Imboeri"	"Inato"	"Indumo"	"Ipapa"	"Kalenggo"	"Konggoasa"	"Laamala"	"Laasamana"	"Lababa"	"Labaheo"	"Labakala"			"Ladae"	"Laduma"	"Lagarai"	"Laharabi"	"Lahasa"	"Laisapa"	"Lakarama"	"Lakidende"	"Lakonunggu"	"Laliasa"	"Lamaliga"	"Lamarota"	"Lamasembo"	"Lambalima"			"Lambili"	"Lamorota"	"Landebawo"	"Langgomia"	"Langgonai"	"Lapabali"	"Lapabuka"	"Lapadi"	"Lapae"	"Lapagari"	"Lapaleadu"	"Lapanggili"	"Lapondondo"	"Laporanda"			"Laposudo"	"Laraga"	"Laremba"	"Larumbalangi"	"Larumbesi"	"Lasabi"	"Lasandara"	"Lasarima"	"Lasikiri"	"Lasipole"	"Latalambe"	"Latambaga"	"Latamua"				"Latimumu"	"Latomoro"	"Latumaa"	"Latuo"	"Latuwo"	"Laule Wulu"	"Lautani"	"Lelesuwa"	"Liambo"	"Lombo-lombo"	"Longgiri"	"Lowa"	"Maago"	"Maani"	"Madusila"	"Maho"			"Makati"	"Makuasa"	"Malaka"	"Mambulo"	"Mambulu"	"Mandili"	"Mangidi"	"Mannidi"	"Maranai"	"Masigi"	"Mbatono"	"Mburi"	"Mekda"	"Melala"	"Moita"			"Mokora"	"Mondawa"	"Monggeko"	"Ndabio"	"Ndaulu"	"Noabio"	"Nowehi"	"Oheo"	"Onggabo"	"Pagala"	"Pakandeate"	"Paluwu"	"Panawula"	"Pangaibali"			"Parakai"	"Parewa"	"Pasaeno"	"Pasaeno"	"Pasaeno"	"Pasoro"	"Polonui"	"Polurui"	"Pombili"	"Porosi"	"Purindoopaa"	"Puti"	"Puuwatu"	"Puwatu"			"Rakawula"	"Rambetano"	"Rambi"	"Ranu"	"Rebi"	"Rebilarebi"	"Renggaala"	"Rere"	"Rigay"	"Robe"	"Ronga"	"Rundusala"	"Sabara"	"Sabili"	"Sadaoda"	"Saeho"	"Saila"	"Samberano"			"Sandima"	"Sangia Inato"	"Sangia Nibandera"	"Sanuru"	"Sao-sao"	"Saranani"	"Sauala"	"Seiko"	"Sidupa"	"Silondae"	"Silonde"	"Sinapot"	"Singgima"				"Sirundu"	"Soerabaya"	"Soerumba"	"Sonaru"	"Supu"	"Surubaya"	"Surunggila"	"Taewa"	"Tahea"	"Takoko"	"Talaga"	"Talisa"	"Tambera"	"Tamburaka"	"Tanggapili"			"Tanggolowuta"	"Taridala"	"Tarimana"	"Tasahea"	"Tauto"	"Tawulo"	"Tebae"	"Tebawo"	"Tehalu"	"Tekaka"	"Teporambe"	"Tie"	"Tigalu"	"Toarima"	"Tobarasi"			"Tobone"	"Toemia"	"Toemoro"	"Toena"	"Togala"	"Tohamba"	"Tolindoe"	"Tolunggae"	"Tombili"	"Tonde"	"Tongasa"	"Toondu"	
+		"Toraha"	"Torohula"	"Tuapemanu"	"Waanggo"	"Watukila"	"Wendeday"	"Wulu Mohitu"
 	}
 	male_names = {
-		"Lamangga" "Sanggilo" "Tajadi" "Makandu" "Ranggau" "Dondo" "Lapasi"
+		Andi Daeng Ambo Akku Ampa Arung Atu Benga Bombang Eja Enre Esa Gatta Gau Kasii Keteng Lalo Matta Makkawaru Besse
+		Malomo Nyompa Pada Jeru La Laba Palalo Pallawarukka Takko Tinro Tunrung Uleng Putra Perdana Tinro Tojeng
+		Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+		Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+		Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 		Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+		Matasa Isakka Latahang Baco Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Aso Nyalla Mattalitti Ramang
+		Batara Butta Djallo Djallori Gowa Karaeng Limbangparang Palonga Parabung Parisi Pasulu Sankilang Tumammalianga Tuni Sudding Paliwang Oddang
+		Tunibatta Tunitangkalopi Tunyachoka-ri Palaloi Mattalatta Kaduk Massepe Pajongga Ngalie Ranggong Radja Mallaranggeng Beddu Amang Mariok Dira
+		Peppang Makkarumpa Djemma Pawawoi Pati Palakka Madukelleng Saelan Uno Tumpa
 	}
+
 	female_names = {
-		"Yinda" "Nina" "Ranga" "Lalinda" "Tompira" "Wira" "Sali"
+		Andi Puang Akko Indo Akko Ampa Arung Atu Benga Bombang Cenning Daramang Eja Esa Gatta Gau Kasii Keteng Lalo Makatenga Matta Putri Welang
+		Malomo Marauleng Nyompa Ola Pada Jeru La Laba Palalo Pallawarukka Rawallangi Sanna Sompa Takko Tang Tenri Tinro Tunrung Tuo Uleng Upe Risaju
+		Unru Wellang Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+		Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+		Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 		Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+		Matasa Isakka Latahang Becce Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Areng Dondo-dondo
+		Cinta Wangi Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu_utea Orama Poe Pear Poehina Poenui Poerava Puaiti Puatea Puaura Ra'ihau Ra'imere Ra'inui 
+		Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Tenriolle Taurua Tautiare Tehani Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea Vaite Vaitiare
 	}
 }
 kaili = {
 	primary = BGI
 	dynasty_names = {
-		Kaili Doi Palu Sigi Kulawi Banawa Lindu
+		"Alima"	"Banawu"	"Banawula"	"Basnapal"	"Bisirimo"	"Borahima"	"Buburanda"	"Bungaharu"	"Bunggasi"	"Bunggulawa"	"Dahlan"	"Duruka"	"Elu"	"Haeba"	"Haribau"			"Harulasa"	"Puo-Puo"	"Heo"	"Imbanahi"	"Imboeri"	"Inato"	"Indumo"	"Ipapa"	"Kalenggo"	"Konggoasa"	"Laamala"	"Laasamana"	"Lababa"	"Labaheo"	"Labakala"			"Ladae"	"Laduma"	"Lagarai"	"Laharabi"	"Lahasa"	"Laisapa"	"Lakarama"	"Lakidende"	"Lakonunggu"	"Laliasa"	"Lamaliga"	"Lamarota"	"Lamasembo"	"Lambalima"			"Lambili"	"Lamorota"	"Landebawo"	"Langgomia"	"Langgonai"	"Lapabali"	"Lapabuka"	"Lapadi"	"Lapae"	"Lapagari"	"Lapaleadu"	"Lapanggili"	"Lapondondo"	"Laporanda"			"Laposudo"	"Laraga"	"Laremba"	"Larumbalangi"	"Larumbesi"	"Lasabi"	"Lasandara"	"Lasarima"	"Lasikiri"	"Lasipole"	"Latalambe"	"Latambaga"	"Latamua"				"Latimumu"	"Latomoro"	"Latumaa"	"Latuo"	"Latuwo"	"Laule Wulu"	"Lautani"	"Lelesuwa"	"Liambo"	"Lombo-lombo"	"Longgiri"	"Lowa"	"Maago"	"Maani"	"Madusila"	"Maho"			"Makati"	"Makuasa"	"Malaka"	"Mambulo"	"Mambulu"	"Mandili"	"Mangidi"	"Mannidi"	"Maranai"	"Masigi"	"Mbatono"	"Mburi"	"Mekda"	"Melala"	"Moita"			"Mokora"	"Mondawa"	"Monggeko"	"Ndabio"	"Ndaulu"	"Noabio"	"Nowehi"	"Oheo"	"Onggabo"	"Pagala"	"Pakandeate"	"Paluwu"	"Panawula"	"Pangaibali"			"Parakai"	"Parewa"	"Pasaeno"	"Pasaeno"	"Pasaeno"	"Pasoro"	"Polonui"	"Polurui"	"Pombili"	"Porosi"	"Purindoopaa"	"Puti"	"Puuwatu"	"Puwatu"			"Rakawula"	"Rambetano"	"Rambi"	"Ranu"	"Rebi"	"Rebilarebi"	"Renggaala"	"Rere"	"Rigay"	"Robe"	"Ronga"	"Rundusala"	"Sabara"	"Sabili"	"Sadaoda"	"Saeho"	"Saila"	"Samberano"			"Sandima"	"Sangia Inato"	"Sangia Nibandera"	"Sanuru"	"Sao-sao"	"Saranani"	"Sauala"	"Seiko"	"Sidupa"	"Silondae"	"Silonde"	"Sinapot"	"Singgima"				"Sirundu"	"Soerabaya"	"Soerumba"	"Sonaru"	"Supu"	"Surubaya"	"Surunggila"	"Taewa"	"Tahea"	"Takoko"	"Talaga"	"Talisa"	"Tambera"	"Tamburaka"	"Tanggapili"			"Tanggolowuta"	"Taridala"	"Tarimana"	"Tasahea"	"Tauto"	"Tawulo"	"Tebae"	"Tebawo"	"Tehalu"	"Tekaka"	"Teporambe"	"Tie"	"Tigalu"	"Toarima"	"Tobarasi"			"Tobone"	"Toemia"	"Toemoro"	"Toena"	"Togala"	"Tohamba"	"Tolindoe"	"Tolunggae"	"Tombili"	"Tonde"	"Tongasa"	"Toondu"	
+		"Toraha"	"Torohula"	"Tuapemanu"	"Waanggo"	"Watukila"	"Wendeday"	"Wulu Mohitu"
 	}
 	male_names = {
-		"Yusuf" "Lambara" "Mangaji" "Samba" "Tado" "Moko" "Wandoa" "Dondoli"
+		Andi Daeng Ambo Akku Ampa Arung Atu Benga Bombang Eja Enre Esa Gatta Gau Kasii Keteng Lalo Matta Makkawaru Besse
+		Malomo Nyompa Pada Jeru La Laba Palalo Pallawarukka Takko Tinro Tunrung Uleng Putra Perdana Tinro Tojeng
+		Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+		Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+		Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 		Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+		Matasa Isakka Latahang Baco Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Aso Nyalla Mattalitti Ramang
+		Batara Butta Djallo Djallori Gowa Karaeng Limbangparang Palonga Parabung Parisi Pasulu Sankilang Tumammalianga Tuni Sudding Paliwang Oddang
+		Tunibatta Tunitangkalopi Tunyachoka-ri Palaloi Mattalatta Kaduk Massepe Pajongga Ngalie Ranggong Radja Mallaranggeng Beddu Amang Mariok Dira
+		Peppang Makkarumpa Djemma Pawawoi Pati Palakka Madukelleng Saelan Uno Tumpa
 	}
+
 	female_names = {
-		"Yolanda" "Pona" "Mambai" "Tina" "Sari" "Nona" "Lambe" "Rambe"
+		Andi Puang Akko Indo Akko Ampa Arung Atu Benga Bombang Cenning Daramang Eja Esa Gatta Gau Kasii Keteng Lalo Makatenga Matta Putri Welang
+		Malomo Marauleng Nyompa Ola Pada Jeru La Laba Palalo Pallawarukka Rawallangi Sanna Sompa Takko Tang Tenri Tinro Tunrung Tuo Uleng Upe Risaju
+		Unru Wellang Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+		Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+		Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 		Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+		Matasa Isakka Latahang Becce Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Areng Dondo-dondo
+		Cinta Wangi Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu_utea Orama Poe Pear Poehina Poenui Poerava Puaiti Puatea Puaura Ra'ihau Ra'imere Ra'inui 
+		Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Tenriolle Taurua Tautiare Tehani Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea Vaite Vaitiare
 	}
 }
 bungku = {
 	primary = LUW
 	dynasty_names = {
-		Bungku Morowali Petasia Menui Kolonodale
+		"Alima"	"Banawu"	"Banawula"	"Basnapal"	"Bisirimo"	"Borahima"	"Buburanda"	"Bungaharu"	"Bunggasi"	"Bunggulawa"	"Dahlan"	"Duruka"	"Elu"	"Haeba"	"Haribau"			"Harulasa"	"Puo-Puo"	"Heo"	"Imbanahi"	"Imboeri"	"Inato"	"Indumo"	"Ipapa"	"Kalenggo"	"Konggoasa"	"Laamala"	"Laasamana"	"Lababa"	"Labaheo"	"Labakala"			"Ladae"	"Laduma"	"Lagarai"	"Laharabi"	"Lahasa"	"Laisapa"	"Lakarama"	"Lakidende"	"Lakonunggu"	"Laliasa"	"Lamaliga"	"Lamarota"	"Lamasembo"	"Lambalima"			"Lambili"	"Lamorota"	"Landebawo"	"Langgomia"	"Langgonai"	"Lapabali"	"Lapabuka"	"Lapadi"	"Lapae"	"Lapagari"	"Lapaleadu"	"Lapanggili"	"Lapondondo"	"Laporanda"			"Laposudo"	"Laraga"	"Laremba"	"Larumbalangi"	"Larumbesi"	"Lasabi"	"Lasandara"	"Lasarima"	"Lasikiri"	"Lasipole"	"Latalambe"	"Latambaga"	"Latamua"				"Latimumu"	"Latomoro"	"Latumaa"	"Latuo"	"Latuwo"	"Laule Wulu"	"Lautani"	"Lelesuwa"	"Liambo"	"Lombo-lombo"	"Longgiri"	"Lowa"	"Maago"	"Maani"	"Madusila"	"Maho"			"Makati"	"Makuasa"	"Malaka"	"Mambulo"	"Mambulu"	"Mandili"	"Mangidi"	"Mannidi"	"Maranai"	"Masigi"	"Mbatono"	"Mburi"	"Mekda"	"Melala"	"Moita"			"Mokora"	"Mondawa"	"Monggeko"	"Ndabio"	"Ndaulu"	"Noabio"	"Nowehi"	"Oheo"	"Onggabo"	"Pagala"	"Pakandeate"	"Paluwu"	"Panawula"	"Pangaibali"			"Parakai"	"Parewa"	"Pasaeno"	"Pasaeno"	"Pasaeno"	"Pasoro"	"Polonui"	"Polurui"	"Pombili"	"Porosi"	"Purindoopaa"	"Puti"	"Puuwatu"	"Puwatu"			"Rakawula"	"Rambetano"	"Rambi"	"Ranu"	"Rebi"	"Rebilarebi"	"Renggaala"	"Rere"	"Rigay"	"Robe"	"Ronga"	"Rundusala"	"Sabara"	"Sabili"	"Sadaoda"	"Saeho"	"Saila"	"Samberano"			"Sandima"	"Sangia Inato"	"Sangia Nibandera"	"Sanuru"	"Sao-sao"	"Saranani"	"Sauala"	"Seiko"	"Sidupa"	"Silondae"	"Silonde"	"Sinapot"	"Singgima"				"Sirundu"	"Soerabaya"	"Soerumba"	"Sonaru"	"Supu"	"Surubaya"	"Surunggila"	"Taewa"	"Tahea"	"Takoko"	"Talaga"	"Talisa"	"Tambera"	"Tamburaka"	"Tanggapili"			"Tanggolowuta"	"Taridala"	"Tarimana"	"Tasahea"	"Tauto"	"Tawulo"	"Tebae"	"Tebawo"	"Tehalu"	"Tekaka"	"Teporambe"	"Tie"	"Tigalu"	"Toarima"	"Tobarasi"			"Tobone"	"Toemia"	"Toemoro"	"Toena"	"Togala"	"Tohamba"	"Tolindoe"	"Tolunggae"	"Tombili"	"Tonde"	"Tongasa"	"Toondu"	
+		"Toraha"	"Torohula"	"Tuapemanu"	"Waanggo"	"Watukila"	"Wendeday"	"Wulu Mohitu"
 	}
 	male_names = {
-		"La Ode" "Anase" "Tibo" "Daga" "Woku" "Konaa" "Wambo"
+		Andi Daeng Ambo Akku Ampa Arung Atu Benga Bombang Eja Enre Esa Gatta Gau Kasii Keteng Lalo Matta Makkawaru Besse
+		Malomo Nyompa Pada Jeru La Laba Palalo Pallawarukka Takko Tinro Tunrung Uleng Putra Perdana Tinro Tojeng
+		Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+		Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+		Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 		Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+		Matasa Isakka Latahang Baco Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Aso Nyalla Mattalitti Ramang
+		Batara Butta Djallo Djallori Gowa Karaeng Limbangparang Palonga Parabung Parisi Pasulu Sankilang Tumammalianga Tuni Sudding Paliwang Oddang
+		Tunibatta Tunitangkalopi Tunyachoka-ri Palaloi Mattalatta Kaduk Massepe Pajongga Ngalie Ranggong Radja Mallaranggeng Beddu Amang Mariok Dira
+		Peppang Makkarumpa Djemma Pawawoi Pati Palakka Madukelleng Saelan Uno Tumpa
 	}
+
 	female_names = {
-		"Ma Ode" "Inaku" "Nuru" "Samu" "Rami" "Waka" "Indah"
+		Andi Puang Akko Indo Akko Ampa Arung Atu Benga Bombang Cenning Daramang Eja Esa Gatta Gau Kasii Keteng Lalo Makatenga Matta Putri Welang
+		Malomo Marauleng Nyompa Ola Pada Jeru La Laba Palalo Pallawarukka Rawallangi Sanna Sompa Takko Tang Tenri Tinro Tunrung Tuo Uleng Upe Risaju
+		Unru Wellang Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+		Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+		Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 		Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+		Matasa Isakka Latahang Becce Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Areng Dondo-dondo
+		Cinta Wangi Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu_utea Orama Poe Pear Poehina Poenui Poerava Puaiti Puatea Puaura Ra'ihau Ra'imere Ra'inui 
+		Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Tenriolle Taurua Tautiare Tehani Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea Vaite Vaitiare
 	}
 }
 tolaki = {
@@ -98,10 +191,28 @@ tolaki = {
 		"Toraha"	"Torohula"	"Tuapemanu"	"Waanggo"	"Watukila"	"Wendeday"	"Wulu Mohitu"
 	}
 	male_names = {
-		"La Ode" "Anto" "Sangia" "Tosepu" "Halu" "Tado" "Wawo" "Konasa"
+		Andi Daeng Ambo Akku Ampa Arung Atu Benga Bombang Eja Enre Esa Gatta Gau Kasii Keteng Lalo Matta Makkawaru Besse
+		Malomo Nyompa Pada Jeru La Laba Palalo Pallawarukka Takko Tinro Tunrung Uleng Putra Perdana Tinro Tojeng
+		Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+		Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+		Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 		Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+		Matasa Isakka Latahang Baco Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Aso Nyalla Mattalitti Ramang
+		Batara Butta Djallo Djallori Gowa Karaeng Limbangparang Palonga Parabung Parisi Pasulu Sankilang Tumammalianga Tuni Sudding Paliwang Oddang
+		Tunibatta Tunitangkalopi Tunyachoka-ri Palaloi Mattalatta Kaduk Massepe Pajongga Ngalie Ranggong Radja Mallaranggeng Beddu Amang Mariok Dira
+		Peppang Makkarumpa Djemma Pawawoi Pati Palakka Madukelleng Saelan Uno Tumpa
 	}
+
 	female_names = {
-		"Wa Ode" "Inaku" "Sinta" "Raha" "Liani" "Lambe" "Tina"
+		Andi Puang Akko Indo Akko Ampa Arung Atu Benga Bombang Cenning Daramang Eja Esa Gatta Gau Kasii Keteng Lalo Makatenga Matta Putri Welang
+		Malomo Marauleng Nyompa Ola Pada Jeru La Laba Palalo Pallawarukka Rawallangi Sanna Sompa Takko Tang Tenri Tinro Tunrung Tuo Uleng Upe Risaju
+		Unru Wellang Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+		Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+		Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 		Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+		Matasa Isakka Latahang Becce Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Areng Dondo-dondo
+		Cinta Wangi Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu_utea Orama Poe Pear Poehina Poenui Poerava Puaiti Puatea Puaura Ra'ihau Ra'imere Ra'inui 
+		Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Tenriolle Taurua Tautiare Tehani Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea Vaite Vaitiare
 	}
 }
 
@@ -112,13 +223,29 @@ tolaki = {
 	"Talasa"	"Tarante"	"Tasiabe"	"Tawuku"	"Tawurisi"	"Tekora"	"Tepara"	"Tiladuru"	"Tolala"	"Mogadi"	"Tobondo"	"Tolimba"	"Toumbo"	"Turuka"		"Ule"	"Ululai"	"Warara"	"Wenali"	"Werokila"	"Wuri"	"Wutabisu"
     }
     male_names = {
-        "Pong" "Tongkonan" "Iling" "Lango" "Miko"
-        "Tedong" "Rante" "Tenri" "Datu" "Gandung"
-    }
-    female_names = {
-        "Indang" "Lambang" "Oyon" "Nene" "Mali"
-        "Napu" "Pongtiku" "Sana" "Dara" "Rante"
-    }
+		Andi Daeng Ambo Akku Ampa Arung Atu Benga Bombang Eja Enre Esa Gatta Gau Kasii Keteng Lalo Matta Makkawaru Besse
+		Malomo Nyompa Pada Jeru La Laba Palalo Pallawarukka Takko Tinro Tunrung Uleng Putra Perdana Tinro Tojeng
+		Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+		Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+		Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 		Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+		Matasa Isakka Latahang Baco Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Aso Nyalla Mattalitti Ramang
+		Batara Butta Djallo Djallori Gowa Karaeng Limbangparang Palonga Parabung Parisi Pasulu Sankilang Tumammalianga Tuni Sudding Paliwang Oddang
+		Tunibatta Tunitangkalopi Tunyachoka-ri Palaloi Mattalatta Kaduk Massepe Pajongga Ngalie Ranggong Radja Mallaranggeng Beddu Amang Mariok Dira
+		Peppang Makkarumpa Djemma Pawawoi Pati Palakka Madukelleng Saelan Uno Tumpa
+	}
+
+	female_names = {
+		Andi Puang Akko Indo Akko Ampa Arung Atu Benga Bombang Cenning Daramang Eja Esa Gatta Gau Kasii Keteng Lalo Makatenga Matta Putri Welang
+		Malomo Marauleng Nyompa Ola Pada Jeru La Laba Palalo Pallawarukka Rawallangi Sanna Sompa Takko Tang Tenri Tinro Tunrung Tuo Uleng Upe Risaju
+		Unru Wellang Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+		Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+		Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 		Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+		Matasa Isakka Latahang Becce Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Areng Dondo-dondo
+		Cinta Wangi Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu_utea Orama Poe Pear Poehina Poenui Poerava Puaiti Puatea Puaura Ra'ihau Ra'imere Ra'inui 
+		Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Tenriolle Taurua Tautiare Tehani Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea Vaite Vaitiare
+	}
 }	
 bugis = {
     primary = MKS
@@ -127,12 +254,27 @@ bugis = {
 	"Talasa"	"Tarante"	"Tasiabe"	"Tawuku"	"Tawurisi"	"Tekora"	"Tepara"	"Tiladuru"	"Tolala"	"Mogadi"	"Tobondo"	"Tolimba"	"Toumbo"	"Turuka"		"Ule"	"Ululai"	"Warara"	"Wenali"	"Werokila"	"Wuri"	"Wutabisu"
     }
     	male_names = {
-       		 "Andi Makkarumpa" "La Tenri Peppang" "Andi Djemma" "La Pawawoi" "Andi Mappanyukki"
-       		 "Andi Pati" "La Palaloi" "Andi Mattalatta" "La Kaduk" "Andi Sultan Daeng"
-    	}
-    	female_names = {
-        	"Andi Raja" "Sitti" "We Tenri" "Dewi" "Andi Sari"
-        	"Sari Dewi" "Andi Nur" "Sitti Mariyam" "We Sitti" "Andi Latif"
-    		}
+		Andi Daeng Ambo Akku Ampa Arung Atu Benga Bombang Eja Enre Esa Gatta Gau Kasii Keteng Lalo Matta Makkawaru Besse
+		Malomo Nyompa Pada Jeru La Laba Palalo Pallawarukka Takko Tinro Tunrung Uleng Putra Perdana Tinro Tojeng
+		Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+		Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+		Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 		Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+		Matasa Isakka Latahang Baco Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Aso Nyalla Mattalitti Ramang
+		Batara Butta Djallo Djallori Gowa Karaeng Limbangparang Palonga Parabung Parisi Pasulu Sankilang Tumammalianga Tuni Sudding Paliwang Oddang
+		Tunibatta Tunitangkalopi Tunyachoka-ri Palaloi Mattalatta Kaduk Massepe Pajongga Ngalie Ranggong Radja Mallaranggeng Beddu Amang Mariok Dira
+		Peppang Makkarumpa Djemma Pawawoi Pati Palakka Madukelleng Saelan Uno Tumpa
+	}
+
+	female_names = {
+		Andi Puang Akko Indo Akko Ampa Arung Atu Benga Bombang Cenning Daramang Eja Esa Gatta Gau Kasii Keteng Lalo Makatenga Matta Putri Welang
+		Malomo Marauleng Nyompa Ola Pada Jeru La Laba Palalo Pallawarukka Rawallangi Sanna Sompa Takko Tang Tenri Tinro Tunrung Tuo Uleng Upe Risaju
+		Unru Wellang Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+		Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+		Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 		Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+		Matasa Isakka Latahang Becce Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Areng Dondo-dondo
+		Cinta Wangi Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu_utea Orama Poe Pear Poehina Poenui Poerava Puaiti Puatea Puaura Ra'ihau Ra'imere Ra'inui 
+		Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Tenriolle Taurua Tautiare Tehani Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea Vaite Vaitiare
 	}
 }
