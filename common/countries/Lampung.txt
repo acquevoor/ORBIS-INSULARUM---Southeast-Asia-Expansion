@@ -44,14 +44,6 @@ monarch_names = {
 	"Rakihan #0" = 20
 	"Rio Mangku Bumi #0" = 20
 	"Minak Pati Pejurit" = 20
-	"Mariam #0" = -1
-	"Sumpu #0" = -1
-	"Semboja #0" = -1
-	"Tingkir #0" = -1
-	"Pakungwati #0" = -1
-	"Endang Geulis #0" = -1
-	"Adiningkusuma #0" = -1
-	"Kalinyamat #0" = -10
 }
 leader_names = { 
 	Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
