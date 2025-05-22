@@ -69,7 +69,7 @@ leader_names = {
 	Marudut Marnaik Mora Mullop Ngolu Olo Oloan Ondo Pangeran Parade Pandapotan Paroloan Pontas Pantas Pintor Patar Parmonangan Patudu Partungkoan Paima
 	Posma Ronggur Raja Rap Rapro Sabar Sabat Sagala Saor Siadari Saing Sihol Sigogo Sopar Tama Teguh
 }
-	dynasty_names = {
+	ship_names = {
 			"Ajartambun"	"Angkat"	"Babiat"	"Babo"	"Bako"	"Bancin"	"Banjarnahor"	"Bakkara"	"Bariba" "Baringbing"	"Barotbot"	"Baruara" 			"Batuara"	"Baumi"	"Benjerang"	"Berampu"	"Beras"	"Berasa"
 			"Beringin"	"Barutu"	"Boangmanalu" "Bondar"	"Bondong "Brahmana" "Bukit"	"Bukit Uweh"	"Bukit Lah"	"Buniaji"	"Busuk"	"Butarbutar" 				"Capah"	"Cibro"	"Cibero" "Colia"	"Dajawak"	"Damunthei" "Dasalak"
 			"Dasopang" "Daulay" "Debataraja"	"Depari"	"Doloksaribu"	"Dongoran"	"Gajah"	"Gajahmanik"	"Ganagana"	"Garamata"	"Garingging"				"Gerneng"	"Gersang"	"Ginting" "Girsang"	"Gorat"	"Gultom" "Gurning"
