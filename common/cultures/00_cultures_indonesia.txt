@@ -3729,7 +3729,7 @@ nias = {
 	"Ŵarasi"	"Ŵaruwu"	"Ŵate"	"Waya"	"Waulolo"	"Wea"	"Wehalö"	"Yawazihönö"	"Zabölö'ani"	"Zagö"	"Zagötö"	"Zai"	"Zalukhu"	"Zamili"	"Zamöno"	"Zandroto"	"Zebua"	"Zega"	"Zendratö"	"Ziawa"	
 	"Zidömi"	"Zihono"	"Zikhamo"	"Ziliŵu"	"Zimali"	"Zina"		"Ziraluo"	"Zolobö"	"Zörömi"	"Zahuwa"
     }
-    male_names = {
+    	male_names = {
 		Amizaro Anötöna Aroziduhu Arosökhi Arozisökhi Arofati Arota Arozato Arozatulö Bezatulö Bezisökhi Duhusökhi Faduhusi Mesarudi Yaatulo Foarota Fanötöna Foahonoa Fotani Haga Lakhömizaro Mohaga Motani Saro Siga Sio Sohaga Sanolo Sanauölö Sondroro Sökhiatolo Sozanolo Sökhi Vanötöna Vanalida Yasona Yaaro Zanolo Zondroro Zotani
 	}
 
@@ -3749,16 +3749,13 @@ mentawai = {
 	"Simasingin"	"Sipatiti"	"Siribaru"	"Siribere"	"Siriottoi"	"Siriparang"	"Siriratei"	"Sirirui" "Sirisagu"	"Sirisokut"	"Siritoitet"	"Siritubui"	"Taileleu"	"Talopulei"	"Tasirileuleu"	"Tasirleleu"	
 	"Tatebburuk"	"Tateuteu"	"Tatubeket"	"Tetubekket"
     }
-    male_names = {
-        "Mama" "Pailei" "Ulu" "Siban" "Tarai"
-        "Mala" "Tobok" "Dulo" "Moid" "Tukal"
-        "Matal" "Gibei" "Fokosi" "Kahe" "Maragai"
-    }
-    female_names = {
-        "Mama" "Abo" "Ulu" "Fosia" "Sukmar"
-        "Aboi" "Marawa" "Buro" "Falae" "Toberi"
-        "Kasi" "Matie" "Domai" "Gombei" "Sialai"
-    }
+    	male_names = {
+		Amizaro Anötöna Aroziduhu Arosökhi Arozisökhi Arofati Arota Arozato Arozatulö Bezatulö Bezisökhi Duhusökhi Faduhusi Mesarudi Yaatulo Foarota Fanötöna Foahonoa Fotani Haga Lakhömizaro Mohaga Motani Saro Siga Sio Sohaga Sanolo Sanauölö Sondroro Sökhiatolo Sozanolo Sökhi Vanötöna Vanalida Yasona Yaaro Zanolo Zondroro Zotani
+	}
+
+	female_names = {
+		Afuni Amonita Dalinama Dela Delasiga Fanesa Foni Fotani Masi Moni Monita Rara Sarofati Motani Vanalida
+	}
 }
 
 rejang = {
