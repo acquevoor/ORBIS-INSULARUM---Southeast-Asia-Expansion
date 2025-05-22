@@ -31,9 +31,9 @@ historical_units = {
 
 monarch_names = {
 	"Inayat #0" = 20
-	"'AlÓ Mug‚yat #0" = 20
-	"Iskandar TanÓ #0" = 20
-	"Husayn 'AlÓ Ri'‚yat #0" = 20
+	"'Al√Æ Mug√¢yat #0" = 20
+	"Iskandar Tan√Æ #0" = 20
+	"Husayn 'Al√Æ Ri'√¢yat #0" = 20
 	"Menradza #0" = 20
 	"Tsalenggathu #0" = 20
 	"Gadzabadi #0" = 20
@@ -46,23 +46,20 @@ monarch_names = {
 }
 
 leader_names = {
-	Abdulfatah Ahmad Amir Anwar Azmi 
-	Batuta 
-	Chairul 
-	Hamzah Hasanuddin 
-	Ibnu 
-	Kyai 
-	Mahat Mukhtar 
-	Najamuddin Natzar Nazmizan 
-	Roem 
-	Syarifuddin 
-	Zulkifli 
+	Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
+	Shehryar Ibtisham Javaid Jafar Tahir Razzaq Yunus Suleyman Murtaza Hyder Amir Saif Zulfikar Imron Hafiz  Akbar 
+	Yakub Abdurrashid Mokhtar Hamzah Syuaib Salman Kadir Salim Rasyid Farhan Karim Fauzan Fawwaz Ghulam Sayid Imran Adil
+	Arif Azam Nadim Rizwan Ridwan Nasir Khalid Idris Zahir Nuh Soleh Munir Hamid Yusuf Ihsan Faisal Majid Rafiq Ashrof Iqbal 
+	Jamil Rizki Ridho Isa Yusuf Adam Nuh Saleh Ibrahim Ishak Zulkifli Musa Harun Daud Sulaiman Yunus Ilyas Yahya Zakaria Umar
+	Usman Tholib Malik Alif Amir Amran Aqil Anwar Aziz Faiz Fuad Gozali Hamzah Ilham Ikhwan Israfil Izroil Jauhari Kamal Khalid
+	Lukman Lutfi Mustofa Raihan Rahman Rahim Rahmat Taufik Syarif Wahid Zulkarnain
+	Agam Antana Ariga Banta Bentara	Gadee Galang Gapi Lhem Madi Meurah Nanta Rhangkem Tandi Teuku Yusniar	
+	"Akes" "Bacha" "Binasuor" "Biyeng" "Brahmanra" "Cahya" "Dharma" "Dijuq" "Gama" "Gelang" "Habo" "Inra" "Inrasara" "Jamlen" "Jihia" 
+	"Katip" "Kok" "Komary" "Kurama" "Langgiri" "Le" "Ling" "Loh" "Mach" "Math" "Musa" "Ni" "Punyamin" "Raden" "Ramut" "Salan" "Saleh" "San" "Senapati" "Sles" "Sokha"
 }
 
 ship_names = {
-	Siak Samandara
-	"Malik ul Salih" "Malik Al-Salih"
-	Teunom Peusangen Jamboaye Alas Tripa "Simpang-kiri"
-	"Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe"
-	"Pulau we" "Pulau Breueh"
+	Kutaraja Peurlak Lhokseumawe Pasai Lamuri Samudera Samandara
+	Bieureun Gayo Alas Cakradonya Malayo Gal√© Lancaran Pancang Meulaboh
+	Darud Dunia Pidie Daya Barus Singkil Tamiang Kluet Simeulue Peusangan Teunom.
 }
