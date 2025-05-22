@@ -512,13 +512,11 @@ danum_dayak = {
 		"Asuy" "Gamas" "Naras" "Rampan" "Siluq" "Singo" "Bodjer" "Bulatn" "Kamuntik" "Karna" "Malat" "Ngayoh" "Parayu" "Ubad"
 	}
 	male_names = {
-		"Ampu" "Dari" "Tulai" "Raman" "Saput" "Lawi" "Gantang"
 		Ampong Binti Labih Rumbun Sipet Purok Mamut Menteng Hanjak Nanjan Djata Lawai Jau Keling Ngau Lisu Ullok Apoi Wan Dehen
 		Djatta Ekot Hanyi Labih Mantikei Mantir Simpei Segah Saloh Selong Teras Simbun Saduri Sangkurun Salundik Taladjan During
 		Suli Tumon Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja
 	}
 	female_names = {
-		"Rami" "Lami" "Banti" "Kandi" "Jure" "Mina" "Sayu"
 		Sulin Usun Ubong Long Puynag Bulan Asie Ambon Bungas Bungeh Bawin Enon Jenta Hawon Harum Hanyam Kalawa Kambang Lamiang
 		Manyang Mantoh Rimbun Nyelong Paris Pumpong Rimpong Siwoh Sindai Simpon Sarita Sallie Sullie Timpong Tindoh
 		Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja
@@ -529,13 +527,11 @@ maanyan_dayak = {
 		"Diwai"	"Engkem" "Gandrung" "Hawini" "Kinseng" "Koroy" "Saan" "Gamur" "Satak" "Ukur" "Wawoh" "Waning" "Manseng"	"Sahandrian"
 	}
 	male_names = {
-		"Ampu" "Dari" "Tulai" "Raman" "Saput" "Lawi" "Gantang"
 		Ampong Binti Labih Rumbun Sipet Purok Mamut Menteng Hanjak Nanjan Djata Lawai Jau Keling Ngau Lisu Ullok Apoi Wan Dehen
 		Djatta Ekot Hanyi Labih Mantikei Mantir Simpei Segah Saloh Selong Teras Simbun Saduri Sangkurun Salundik Taladjan During
 		Suli Tumon Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja
 	}
 	female_names = {
-		"Rami" "Lami" "Banti" "Kandi" "Jure" "Mina" "Sayu"
 		Sulin Usun Ubong Long Puynag Bulan Asie Ambon Bungas Bungeh Bawin Enon Jenta Hawon Harum Hanyam Kalawa Kambang Lamiang
 		Manyang Mantoh Rimbun Nyelong Paris Pumpong Rimpong Siwoh Sindai Simpon Sarita Sallie Sullie Timpong Tindoh
 		Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja
@@ -2878,7 +2874,7 @@ south_halmahera = {
 	banjar = {
 		primary = NDP
 		dynasty_names = {
-			Banjar Banjarmasin Martapura Hulu Sungai Negara
+			Banjar Banjarmasin Martapura Hulu Sungai Negara "Diwai"	"Engkem" "Gandrung" "Hawini" "Kinseng" "Koroy" "Saan" "Gamur" "Satak" "Ukur" "Wawoh" "Waning" "Manseng"	"Sahandrian"
 		}
 		male_names = {
 			Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
@@ -3032,7 +3028,7 @@ south_halmahera = {
 	kutai = {
 		primary = KUT
 		dynasty_names = {
-			Kutai Mahakam Kaltim Pasir Samarinda Tenggarong
+			Kutai Mahakam Kaltim Pasir Samarinda Tenggarong "Asuy" "Gamas"	"Naras"	"Rampan" "Siluq" "Singo" "Bodjer" "Bulatn" "Kamuntik" "Karna" "Malat"	"Ngayoh" "Parayu" "Ubad"
 		}
 		male_names = {
 			Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
@@ -3185,16 +3181,21 @@ south_halmahera = {
 	}
 	kayan = {
 		primary = BEU
-		dynasty_names = {
-			Kayan Mahakam Tering Long Pahang
-		}
-		male_names = {
-			"Agung" "Parman" "Pandu" "Bayu" "Tukad" "Tunggul" "Guntur" "Mataram"
-			"Abdurrahman" "Tobo" "Tamin" "Ari" "Tumbang" "Bakar" "Surya"
-		}
-		female_names = {
-			"Melati" "Sari" "Ratna" "Siti" "Puspa" "Dewi" "Tari" "Lina"
-			"Amira" "Tina" "Putri" "Tumi" "Bunga" "Mawar" "Eka"
+	dynasty_names = {
+			"Ajang"	"Jalung" "Njuk"	"Anggan" "Kalang" "Padan" "Atang" "Kalong" "Ritan" "Awai" "Kasit" "Samdong" "Balan"
+			"Kuling" "Tanyit" "Belawan" "Lahang" "Udau" "Belawing"	"Lawai"	"Usat"	"Dayken" "Lefung" "Erang" "Lening"
+			"Evong"	"Libut"	"Hangin" "Menthan" "Hubung" "Mharu" "Iring" "Ngang"
+	}
+	male_names = {
+			Ampong Binti Labih Rumbun Sipet Purok Mamut Menteng Hanjak Nanjan Djata Lawai Jau Keling Ngau Lisu Ullok Apoi Wan Dehen
+			Djatta Ekot Hanyi Labih Mantikei Mantir Simpei Segah Saloh Selong Teras Simbun Saduri Sangkurun Salundik Taladjan During
+			Suli Tumon Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja
+	}
+
+	female_names = {
+			Sulin Usun Ubong Long Puynag Bulan Asie Ambon Bungas Bungeh Bawin Enon Jenta Hawon Harum Hanyam Kalawa Kambang Lamiang
+			Manyang Mantoh Rimbun Nyelong Paris Pumpong Rimpong Siwoh Sindai Simpon Sarita Sallie Sullie Timpong Tindoh
+			Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja
 		}
 	}
 	dusun = {
