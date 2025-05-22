@@ -121,10 +121,6 @@ monarch_names = {
 	"Mahmûd Ri'âyat Shâh #0" = 10
 	"'Abd ar-Rahmân Shâh #0" = 10
 	"Rajah Qasim #0" = 10
-	"Azura #0" = -1
-	"'Umniya #0" = -1
-	"Hafeeza #0" = -1
-	"Aisha #0" = -1
 }
 ship_names = { 
 	Parameswara "Sultan Iskandar" Bendahara Laksamana Temenggung "Penghulu bendahari" Shahbandar "Hukum Kanun" "Undang-Undang" "Pulau Bakung"
