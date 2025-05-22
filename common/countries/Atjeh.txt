@@ -30,19 +30,35 @@ historical_units = {
 }
 
 monarch_names = {
-	"Inayat #0" = 20
-	"'Alî Mugâyat #0" = 20
-	"Iskandar Tanî #0" = 20
-	"Husayn 'Alî Ri'âyat #0" = 20
-	"Menradza #0" = 20
-	"Tsalenggathu #0" = 20
-	"Gadzabadi #0" = 20
-	"Tsau-Lha #0" = 20
-	"Mengtsekya #0" = 20
-	
-	"Amritpal #0" = -1
-	"Sharat #0" = -1
-	"Kamala #0" = -1
+	"Ali Mughayat Syah #0" = 20  
+	"Salahuddin #0" = 20  
+	"Alauddin al-Kahar #0" = 20  
+	"Ali Riayat Syah #0" = 20   
+	"Sri Alam #0" = 20  
+	"Zainul Abidin #0" = 20  
+	"Alauddin Mansur Syah #0" = 20  
+	"Iskandar Muda #0" = 20  
+	"Iskandar Thani #0" = 20  
+	"Safiatuddin Tajul Alam #0" = 20  
+	"Nurul Alam Naqiatuddin Syah #0" = 20  
+	"Inayat Zaqiatuddin Syah #0" = 20  
+	"Kamalat Syah #0" = 20  
+	"Syarif Hasyim Jamaluddin #0" = 20  
+	"Syarif Lamtui Syah Johan #0" = 20  
+	"Jamal ul-Alam Badr ul-Munir #0" = 20  
+	"Jauhar ul-Alam #0" = 20  
+	"Syamsul Alam #0" = 20  
+	"Alauddin Ahmad Syah #0" = 20  
+	"Alauddin Johan Syah #0" = 20  
+	"Alauddin Mahmud Syah #0" = 20  
+	"Badr ul-Alam Syah #0" = 20  
+	"Sulaiman Syah #0" = 20  
+	"Alauddin Muhammad Syah #0" = 20  
+	"Alauddin Jauhar ul-Alam Syah #0" = 20  
+	"Syarif Saiful Alam Syah #0" = 20  
+	"Alauddin Muhammad Daud Syah #0" = 20  
+	"Alauddin Sulaiman Ali Iskandar Syah #0" = 20  
+	"Alauddin Ibrahim Mansur Syah #0" = 20 
 }
 
 leader_names = {
