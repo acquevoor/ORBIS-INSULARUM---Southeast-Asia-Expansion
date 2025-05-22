@@ -132,7 +132,16 @@ leader_names = {
 	Ravindra	Sadendra	Sagara	Tarendra Vardhaman	Varen	Vasant	Vijendra	Vikrama	Vilas	Virendra	Wandra	Waradana	Widyanata	
 	Wiradharma	Wirasana	Wistara	Yasa	Tarangga Samana	Samanta	Sandya	Sangga	Sailendra	Shankara	Sidharta	Suma	Surendra	Tara
 }
-ship_names = { 
-	Siak Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa "Simpang-kiri"
-	"Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+ship_names = {
+	"Seputih"	"Sebadak"	"Selimau"	"Sepekhtiwi"	"Sekelumbayan"	"Teluk Betung"	"Sabu Menanga"	"Retai"	"Punduh"	"Pugung"
+	"Pubian"	"Badak"	"Putih"	"Limau"	"Kelumbaian" "Pertiwi"	"Putih Doh"	"Talang Padang"	"Belenguh" "Bunawang" "Way Ngarip Semang" "Pematang Sawah"	"Selawai Kunang" 
+	"Nyunyai"	"Subing"	"Subing Labuhan" "Sukadana"	"Way Seputih"	"Buliuk"	"Nyerupo"	"Junjai"	"Unyi"	"Rebang Pugung"	"Rebang Seputih"
+	"Kasui"	"Berdatu" "Semenguk"	"Way Tuba"	"Bahuga"	"Pemuka Pengiran" "Berasakti"	"Bangsa Raja"	"Jabung"	"Melinting" "Sekampung Ilir" "Sekampung Ulu"
+	"Bulan Ilir"	"Bulan Ulu"	"Tegamoan"	"Suai Umpu"	"Kenyangan"	"Suoh"	"Way Sindi" "La'ai"	"Bandakh"	"Pedada"	"Way Napal"	"Tenumbang"
+	"Bengkunat"	"Way Tenong"	"Ngambur"	"Ngaras"	"Belimbing" "Pugung"	"Pugung Malaya"	"Pulau Pisang"	"Sukau"	"Liwa"	"Krui"	"Bandar"	"Beluguh"
+	"Benawang"	"Baradatu"	"Beliyuk"	"Bolan"	"Nuban"	"Nunyai"	"Umpu"	"Dataran"	"Gedongwani"	"Gunung Alip"	"Kelumbayan"	"Kembahang" 
+	"Ketibung"	"Limau"	"Limau Doh"	"Merak Batin"	"Peminggir Darah Putih"	"Pesisir" "Ratai" "Ratu" "Legun" "Buku Jadi"	"Dantaran"	"Ratasy" "Way Lima" 
+	"Way Semah"	"Barasakti"	"Behuga"	"Pangeran Ilir"	"Pangeran Udik"	"Pangeran Tuha"	"Pangeran" "Beliuk"	"Tiga"	"Bumi Belunguh"	"Ngarip" "Tegamoun"
+	"Selagai"	"Kunang"	"Suway"	"Pupus"	"Menyerakat"	"Kedundung"	"Pernong"	"Kenali"	"Bajalan di Way" "Ratu Ngambur"	"Ratu Ngaras"	
+	"Penggawa Lima"	"Suwoh"	"Indargajah"	"Perja"	"Selembasi"	"Harayap"	"Turegak"	"Parda Suka"	"Cukuh Balak"	"Pemuka" "Barasati"
 }
