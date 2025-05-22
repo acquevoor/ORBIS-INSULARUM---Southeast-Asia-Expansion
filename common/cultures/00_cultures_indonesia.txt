@@ -1817,7 +1817,9 @@ south_halmahera = {
 	minag = {
 		primary = PGR
 		dynasty_names = {
-			Minangkabau Pagarruyung TanahDatar Agam LimaPuluh Kota
+			"Ampu"	"Andomo"	"Bacin"	"Balaimansiang"	"Balaigamba"	"Banuhampu"	"Baringin"	"Bariang"	"Bapayuang"	"Baraguang"	"Buluhkasok"	"Batupahek"	"Batukambiang"	"Bendang"	"Bicu"	"Bodi"	"Bonuo"	"Chaniago"	"Cupak"	"Dalimo"	"Domo"	"Durian"	"Galapuang"				"Gantiang"	"Guci"	"Gudam"	"Gugun"	"Jambak"	"Kabaru"	"Kalumpang"	"Katapang"	"Kampai"	"Koto"	"Koronggadang"	"Korongpanjang"	"Korongdalam"	"Kutianyia"	"Limopanjang"	"Limosingkek"	"Limokorong"	"Lubukbatang"	"Maih"	"Malayu"	"Mandahiliang"	"Mandaliko"				"Mejan"	"Muarobasa"	"Nanlimo"	"Nananam"	"Nantujuah"	"Nansambilan"	"Nangkopuh"	"Pagacancang"	"Parikcancang"	"Pangian"	"Parobek"	"Panampuang"	"Pauh"	"Panai"	"Panai Linjuang"	"Panyalai"	"Piboda"	"Piliang"	"Pinyangek"	"Pitopang"					"Pungkuik"	"Ponggang"	"Rajodani"	"Salayan"	"Salo"	"Sambilan"	"Sikumbang"	"Sijangko"	"Simauang"	"Sigandang"	"Sidaua"	"Simabua"	"Sinapa"	"Singkuan"	"Singkuang"	"Sipisang"	"Sitabek"	"Sitimbago"	"Situnggang"	"Soborang"				"Sumagek"	"Sumpu"	"Sumpadang"	"Sipanjang"	"Tampunik"	"Tanjuang" "Tambangpadang"	"Tigolareh" "Tobo"	
+			"Tujuah"	"Tujuahindu"	"Tigoniniak"	"Batu Bolang"	"Tigo Nenek"	"Tigo Batu"	"Mungka"	"Somolenggang"	"Solomak"	"Biduando"	"Payakumboh"	"Tanah Data"	"Tompa"
+
 		}
 		male_names = {
 			Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
