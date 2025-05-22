@@ -23,19 +23,19 @@ historical_units = {
 	reformed_asian_cavalry
 }
 monarch_names = { 
-	"Inayat #0" = 20
-	"'Alî Mugâyat #0" = 20
-	"Iskandar Tanî #0" = 20
-	"Husayn 'Alî Ri'âyat #0" = 20
-	"Menradza #0" = 20
-	"Tsalenggathu #0" = 20
-	"Gadzabadi #0" = 20
-	"Tsau-Lha #0" = 20
-	"Mengtsekya #0" = 20
-	"Amritpal #0" = -1
-	"Dara Jingga #0" = -1
-	"Hamatun #0" = -1
-	"Janji #0" = -1
+	"Si Raja Panusuan #0" = 20
+	"Borbor #0" = 20
+	"Tuan Sariburaja #0" = 20
+	"Sahang Mata Ni Ari #0" = 20
+	"Si Raja Batak #0" = 20
+	"Sorba Di Bijae #0" = 20
+	"Rimbang Saudara #0" = 20
+	"Guru Tatea Bulan #0" = 20
+	"Si Singamangaraja #0" = 20
+	"Altong #0" = 20
+	"Mombang Napitu #0" = 20
+	"Talaibabana #0" = 20
+	"Sindar Mata Ni Ari #0" = 20
 	"Pagaruyung #0" = -1
 	"Sori #0" = -1
 	"Tembong #0" = -1
@@ -47,15 +47,36 @@ monarch_names = {
 	"Fatimah #0" = -1
 }
 leader_names = { 
-	Abdulfatah Ahmad Amir Anwar Azmi Batuta
-	Chairul
-	Hamzah Hasanuddin Ibnu
-	Kyai
-	Mahat Mukhtar Najamuddin Natzar Nazmizan Roem
-	Syarifuddin
-	Zulkifli
+	Anggiat Abet Anju Agam Andos Ambolas Anggi Aganan Angkang Ampin Arian Baoa Bangun Binsar Benget Bonor Bontor Bargas Barani Basar Batara
+	Bangbang Bungaran Bonar Boi Bagak Bistok Bisuk Barus Binanga Bagak Dame Daulat Darpa Darimangambat Domu Dongan Gabe Gara Gomgom Goklas
+	Halomoan Haposan Horas Hotma Hasiholan Hamonangan Hasudungan Hotmian Hobas Ihut Jagar Jonggi Jogi Jujung Linggom Luhut Lamhot Lambok Lintong
+	Lumban Latiur Lamtiar Malau Maruli Marasi Monang Martua Marudut Marisi Maringgal Marbun Matonang Naek Nababan Pardamean Pandapotan Tolu Tio
+	Pangihutan Pangihutan Pardomuan Poltak Pintor Parulian Parlidungan Parmonangan Parlinggoman Patar Parsaoran Pasu Patudu Parasean Parningotan
+	Radot Ruhut Sabam Sadana Sahala Sahata Samosir Saruksuk Sangaji Sarumpaet Saut Sahat Sintong Sihor Siahaan Siambaton Sianturi Sondang Sitor Tohonan
+	Tigor Tua Tumpal Togar Tungko Udut Undut Ulung Ungkap Tupa Tumbur Ulam Ucok "Daoni Mara" "Gabema Patar" Togap Togi Torop Tumpak Tungko Tikko Tongat
+	Adi Adian Agap Agat Alogo Alani Basani Angky Andos Aganan Apul Arian Ardang Atur Bagas Baha Bahat Bangko Basa Baringin Benaya Bistok Bungaran
+	Burju Bona Bokir Doli Domu Gokma Goar Godang Gorga Ingot Inut Jagoa Jaha Jojor Jonggara Jujung Juro Judika Las Lasroha Lungguk Mahan Marhara Marisi
+	Marudut Marnaik Mora Mullop Ngolu Olo Oloan Ondo Pangeran Parade Pandapotan Paroloan Pontas Pantas Pintor Patar Parmonangan Patudu Partungkoan Paima
+	Posma Ronggur Raja Rap Rapro Sabar Sabat Sagala Saor Siadari Saing Sihol Sigogo Sopar Tama Teguh
 }
-ship_names = { 
-	Siak Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa "Simpang-kiri"
-	"Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
-}
+	ship_names = {
+			"Ajartambun"	"Angkat"	"Babiat"	"Babo"	"Bako"	"Bancin"	"Banjarnahor"	"Bakkara"	"Bariba" "Baringbing"	"Barotbot"	"Baruara" 			"Batuara"	"Baumi"	"Benjerang"	"Berampu"	"Beras"	"Berasa"
+			"Beringin"	"Barutu"	"Boangmanalu" "Bondar"	"Bondong "Brahmana" "Bukit"	"Bukit Uweh"	"Bukit Lah"	"Buniaji"	"Busuk"	"Butarbutar" 				"Capah"	"Cibro"	"Cibero" "Colia"	"Dajawak"	"Damunthei" "Dasalak"
+			"Dasopang" "Daulay" "Debataraja"	"Depari"	"Doloksaribu"	"Dongoran"	"Gajah"	"Gajahmanik"	"Ganagana"	"Garamata"	"Garingging"				"Gerneng"	"Gersang"	"Ginting" "Girsang"	"Gorat"	"Gultom" "Gurning"
+			"Gurukinayan"	"Gurupatih" "Gurusinga"	"Habeahan"	"Harahap"	"Harianja"	"Haro"	"Haromunthe"	"Hasibuan"	"Hasugian"	"Holing"				"Hutabalian"	"Hutabarat"	"Hutagalung"	"Hutagaol"	"Hutahaean"	"Hutajulu"
+			"Hutanamora"	"Hutapea"	"Hutasoit"	"Hutasuhut"	"Hutatoruan"	"Hutauruk" "Jadibata"	"Jawak"	"Kaban"	"Kabeaken"	"Kacaribu"					"Kaloko"	"Karo-karo"	"Keloko"	"Kembaren"	"Kemit"	"Ketaren"	"Kombih"
+			"Kudadiri"	"Lembeng" "Limbong"	"Lintang"	"Lubis"	"Lumbanbatu" "Usang"	"Kala"	"Ariga" "Melala"	"Tebe"	"Linge" "Lumbangaol"					"Lumbannahor"	"Lumbanpea"	"Lumbanraja"	"Lumbansiantar"	"Lumbantobing"	"Lumbantoruan"
+			"Lumbantungkup"	"Maha"	"Maharaja"	"Mahulae"	"Manalu"	"Manihuruk"	"Manik"				"Manik Kecupak"	"Manurung"					"Marbun"	"Mardia"	"Marpaung"	"Matanari"	"Matondang"	"Meka"	"Milala"
+			"Muham"	"Mungkur"	"Munte"	"Nababan"	"Nadapdap" "Nadeak"	"Nagur"	"Nahampun"	"Naibaho"	"Naiborhu"	"Nainggolan"	"Naipospos"				"Napitu"	"Napitupulu"	"Nasution" "Ompusunggu"	"Padang Batanghari"	"Pakpahan"
+			"Pakpak"	"Pandiangan"	"Pandebayang"	"Pane"	"Pangaribuan"	"Panggabean"	"Panjaitan"	"Parapat"	"Pardede"	"Pardosi"					"Parhusip"	"Parmata"	"Paroka" "Parinduri"	"Pasaribu"	"Pase"	"Pasei"	"Pasi"	"Pekan"	
+			"Pelawi"	"Penarik"	"Perangin-angin"	"Pinayungan"	"Pintubatu"	"Pohan"	"Porti"	"Pulungan"	"Purba"	"Rambe"	 "Rajagukguk"					"Rampogos"	"Rangkuti"	"Rih"	"Ritonga" "Rumabutar"	"Rumagorga"	"Rumahole" "Rumahorbo"	
+			"Rumaijuk"	"Rumapea"	"Rumasingap"	"Rumasondi" "Sagala"	"Saing"	"Samosir"	"Samura"	"Saraan"	"Saragi"	"Saragih"				"Sarasan"	"Saruksuk"	"Sarumpaet" "Sehun"	"Sekali" "Sembiring"	"Seragih" "Siadari"
+			"Siagian"	"Siahaan"	"Siallagan"	"Sianipar"	"Sianturi"	"Sibarani"	"Sibagariang"	"Siboro"	"Sibero"	"Sibuea" 				"Siburian"	"Sidabalok"	"Sidabutar"	"Sidabungke"	"Sidadolog"	"Sidagambir"	"Sidagurgur"	
+			"Sidahambang"	"Sidahapintu"	"Sidahoro"	"Sidalogan"	"Sidapulou"	"Sidari"				"Sidasuha"	"Sidasuhut"					"Sidauruk"	"Sidebang"	"Sigalingging"	"Sigiro"	"Sigukguhi"	"Sigumonrong"	"Sihala" 
+			"Sihaloho"	"Sihite"	"Sihole"	"Sihombing" "Sihotang"	"Sijabat"	"Siketang"	"Silaen"	"Silaban"	"Silalahi"					"Silampuyang"	"Silangit"	"Sileang"	"Silitonga"	"Simaibang"	"Simalango"	"Simamora" 
+			"Simandalahi" "Simangunsong"	"Simanjorang"	"Simanjuntak"	"Simanullang"	"Simanungkalit"	"Simaremare"	"Simargolang"	"Simaringga"	"Simarmata"				"Simarsoit"	"Simatupang" "Simbolon" "Simbulan"	"Simorangkir"	"Sinabariba"	"Sinabang"
+			"Sinabutar"	"Sinadihayangbodat"	"Sinadihayanghataran"	"Sinaga"	"Sinambela"	"Sinamo"	"Sinisuka"	"Sinubulan"	"Sinuhaji"				"Sinukaban"	"Sinukapur"	"Sinulaki"	"Sinulingga"	"Sinupayung"	"Sinuraya"	"Sinusinga"	
+			"Sinurat" "Sipahutar"	"Sipangkar" "Sipapaga"	"Sipardabuan"	"Sipayung"	"Sipoldas"	"Sirait"	"Siregar"	"Siringoringo"	"Sitakar"				"Sitepu"	"Sitindaon"	"Sitinjak"	"Sitio"	 "Sitohang"	"Sitompul"	"Sitopu"
+			"Sitorus"	"Situmeang" "Situmorang"	"Situngkir"	"Sola"	"Solin"	"Sorganimusu"	"Sorimunggu"	"Sormin"	"Sugihen"	"Suka"					"Sumbayak"	"Surbakti"	"Tamba"	"Tambak"	"Tambun"	"Tambun Saribu"	"Tambunan"	
+			"Tampubolon"	"Tampune"	"Tanjung"	"Tarigan"	"Tarihoran"	"Tegur"	"Tekang" "Tendang"	"Tebe"	"Tinambunan"	"Tinendung"					"Togatorop"	"Tomog"	"Tondang"	"Torbandolok"	"Torong"	"Tua"	"Tumanggor"	"Turnip" "Turutan" "Ujung" "Ujungsaribu"	
+	}
