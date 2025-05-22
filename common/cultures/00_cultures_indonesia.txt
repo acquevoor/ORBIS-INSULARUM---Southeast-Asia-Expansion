@@ -187,7 +187,7 @@ malay = {
 		"Le" "Ling" "Loh" "Mach" "Math" "Musa" "Ni" "Punyamin" "Raden" "Ramut" "Salan" "Saleh" "San" "Senapati" "Sles" "Sokha" "Soprey" "Sunan" "Teath" "Teri" "Tol" "Wan"  "Yashya"
 	}
 
-female_names = {
+	female_names = {
 		Aliyah Asma Hafsa Lailah Fatimah Jamilah Khadijah Mariya Mariyam Maimunah Rukaya Safiya Umi Zainab Balqis Amirah Aminah Anisah Hanisa Hamira Yasmin Halimah Fauziah Nabila Syafira
 		Aisyah	Amira	Anisah	Balqis	Cempaka	Damia	Elina	Fadilah	Farah	Ghina	Hanisah	Hasnah	Irhamna	Jasmin	Kamalia	Laila	Mahirah	Nadira	Qistina	Rania	Salsabila	Tihani	
 		Ulfah	Vania	Widad	Yasmin	Zahira	Afiqah	Basira	Dalilah	Ezzah	Fauziah	Halimah	Imanina	Jauharah	Khalidah Lutfia	Madihah	Nabila	Qairina	Rafidah	Safiya	Tazkia	Umaima	
@@ -197,6 +197,7 @@ female_names = {
 		Buleuen Ceudah Cut Dhien Jeumpa Maneh Qory Rayeuk Reuhat Seulawah Siron Teungku Uteun Wirda Inseuen Ahya Adrong	Balot Irna Itam	Kaba Indrabangsa Kisih	Blet Kaseh Dhien Bunthok	
 		Dien Maimunah Dara Gapuak Haradewi Keumalahayati Keumala Mastini Paramecvari "Sri Alam" Puteh Meuligoe Meulu Meutia Nai_Tuler Dwarawati Inong Intan Cahya
 		Bunga Blet Ayie Ahya Mirah Yuniar
+	}
 }
 banten = {
 	primary = SUN
@@ -1736,14 +1737,28 @@ south_halmahera = {
 			Siak Aceh Pasai Pagarruyung Palembang Jambi
 		}
 		male_names = {
-			"Inayat" "'Al  Mug yat" "Iskandar Tan " "Husayn 'Al  Ri' yat" "Menradza" "Tsalenggathu" "Gadzabadi" 
-			"Tsau-Lha" "Mengtsekya"
+			Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
+			Shehryar Ibtisham Javaid Jafar Tahir Razzaq Yunus Suleyman Murtaza Hyder Amir Saif Zulfikar Imron Hafiz  Akbar 
+			Yakub Abdurrashid Mokhtar Hamzah Syuaib Salman Kadir Salim Rasyid Farhan Karim Fauzan Fawwaz Ghulam Sayid Imran Adil
+			Arif Azam Nadim Rizwan Ridwan Nasir Khalid Idris Zahir Nuh Soleh Munir Hamid Yusuf Ihsan Faisal Majid Rafiq Ashrof Iqbal 
+			Jamil Rizki Ridho Isa Yusuf Adam Nuh Saleh Ibrahim Ishak Zulkifli Musa Harun Daud Sulaiman Yunus Ilyas Yahya Zakaria Umar
+			Usman Tholib Malik Alif Amir Amran Aqil Anwar Aziz Faiz Fuad Gozali Hamzah Ilham Ikhwan Israfil Izroil Jauhari Kamal Khalid
+			Lukman Lutfi Mustofa Raihan Rahman Rahim Rahmat Taufik Syarif Wahid Zulkarnain
+			Agam Antana Ariga Banta Bentara	Gadee Galang Gapi Lhem Madi Meurah Nanta Rhangkem Tandi Teuku Yusniar	
+			"Akes" "Bacha" "Binasuor" "Biyeng" "Brahmanra" "Cahya" "Dharma" "Dijuq" "Gama" "Gelang" "Habo" "Inra" "Inrasara" "Jamlen" "Jihia" "Katip" "Kok" "Komary" "Kurama" "Langgiri" 
+			"Le" "Ling" "Loh" "Mach" "Math" "Musa" "Ni" "Punyamin" "Raden" "Ramut" "Salan" "Saleh" "San" "Senapati" "Sles" "Sokha" "Soprey" "Sunan" "Teath" "Teri" "Tol" "Wan"  "Yashya"
 		}
+	
 		female_names = {
-			Amritpal Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu utea Orama Poe Pear Poehina Poenui Poerava Puaiti 
-			Puatea Puaura Ra ihau Ra imere Ra inui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua Tautiare Tehani 
-			Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea 
-			Vaite Vaitiare
+			Aliyah Asma Hafsa Lailah Fatimah Jamilah Khadijah Mariya Mariyam Maimunah Rukaya Safiya Umi Zainab Balqis Amirah Aminah Anisah Hanisa Hamira Yasmin Halimah Fauziah Nabila Syafira
+			Aisyah	Amira	Anisah	Balqis	Cempaka	Damia	Elina	Fadilah	Farah	Ghina	Hanisah	Hasnah	Irhamna	Jasmin	Kamalia	Laila	Mahirah	Nadira	Qistina	Rania	Salsabila	Tihani	
+			Ulfah	Vania	Widad	Yasmin	Zahira	Afiqah	Basira	Dalilah	Ezzah	Fauziah	Halimah	Imanina	Jauharah	Khalidah Lutfia	Madihah	Nabila	Qairina	Rafidah	Safiya	Tazkia	Umaima	
+			Wahida	Yumna	Zafirah	Abirah	Badriah	Dzakirah	Fathiah	Hidayah	Ikram	Jannah	Kamilah	Layyinah	Mardhiah Nafisah	Qalbi	Raudhah	Safiyyah	Tasnim	Umaiyah	
+			Wardah	Yaqutah	Zahirah	Aminah	Barirah	Dania	Fatimah	Habibah	Izzah	Jamilah	Khadijah  Lina	Mariah	Na’imah	Qamar	Rawdah	Salma	Thahirah	Uzma	Wafiyah	Yusra	Zahra	
+			Asma	Bilqis	Dana	Faridah	Hafizah	Jamaliah Khairunnisa Lutfiah	Munirah	Nabilah	Qisthi	Rasyidah	Saadah	Thufailah	Zulaikha
+			Buleuen Ceudah Cut Dhien Jeumpa Maneh Qory Rayeuk Reuhat Seulawah Siron Teungku Uteun Wirda Inseuen Ahya Adrong	Balot Irna Itam	Kaba Indrabangsa Kisih	Blet Kaseh Dhien Bunthok	
+			Dien Maimunah Dara Gapuak Haradewi Keumalahayati Keumala Mastini Paramecvari "Sri Alam" Puteh Meuligoe Meulu Meutia Nai_Tuler Dwarawati Inong Intan Cahya
+			Bunga Blet Ayie Ahya Mirah Yuniar
 		}
 	}
 	javanese = {
