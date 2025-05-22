@@ -3719,18 +3719,21 @@ sula = {
 			Dien	Maimunah	Dara	Gapuak	Haradewi	Keumalahayati	Keumala	Mastini	Paramecvari	"Sri Alam"	Puteh	Meuligoe	Meulu	Meutia	
 		}
 	}
-		dayak = {
+	dayak = {
 		primary = NGJ
 		dynasty_names = {
-			Iban Kenyah Kayan Ngaju Maanyan Barito Punan OtDanum Bidayuh
+			"Aceng"	"Aden"	"Adji"	"Ahad"	"Alang"	"Angin"	"Asang"	"Awan"	"Baboe"	"Baen"	"Bakumpai"	"Bandrang"	"Binti"	"Boas"	"Boengai"	"Buhing"	"Bahat"	"Bangkan"	"Buon"	"Dahan"	"Danum"	"Darun"	"Dau"	"Dehek"	"Dehen"	"Dea"	"Diwil"	"Djala"	"Djangkan"	"Dohong"	"Dokoh"					"Djungan"	"Durut"	"Engkak"	"Erang"	"Embang"	"Gurun"	"Gasan"	"Guan"	"Gohong"	"Hamarung"	"Hedek"	"Hosang"	"Huang"	"Ilon"	"Jangkan"	"JalaniSaha"	"Jahan"	"Kaharap"	"Kasan"	"Kiting"	"Koroh"	"Kunum"	"Lada"	"Lambung"	"Lamey"	"Lampang"	"Lampe"				"Langar"	"Leiden"	"Lesa"	"Liyung"	"Luhing"	"Lui"	"Luwuk"	"Macan"	"Madjen"	"Mahar"	"Mahat"	"Mahin"	"Mamis"	"Mamud"	"Mangkin"	"Manjin"	"Undas"	"Undjung"	"Unting"	"Usin"	"Djakat"	"Gundas"	"Mangko"	"Mantir"	"Manyamai"				"Merang"	"Mihing"	"Nahan"	"Nahason"	"Namang"	"Nanjan"	"Narang"	"Nawai"	"Ngampar"	"Ngumang"	"Nihin"	"Nuhan"	"Nyaloh"	"Nyudem"	"Nyahu"	"Obos"	"Patianom"
 		}
 		male_names = {
-			"Jalong" "Suling" "Balang" "Tindok" "Bayang" "Lipan" "Sambat" "Berani" 
-			"Ngapa" "Tandik" "Bantang" "Sanggau" "Talawang" "Gamang" "Lamandau"
+			Ampong Binti Labih Rumbun Sipet Purok Mamut Menteng Hanjak Nanjan Djata Lawai Jau Keling Ngau Lisu Ullok Apoi Wan Dehen
+			Djatta Ekot Hanyi Labih Mantikei Mantir Simpei Segah Saloh Selong Teras Simbun Saduri Sangkurun Salundik Taladjan During
+			Suli Tumon Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja
 		}
+
 		female_names = {
-			"Tingang" "Indai" "Duwi" "Jaya" "Ranying" "Pua" "Ayu" "Bilang" 
-			"Tanting" "Indang" "Luwai" "Sawai" "Nyaru" "Manjulang" "Bulang"
+			Sulin Usun Ubong Long Puynag Bulan Asie Ambon Bungas Bungeh Bawin Enon Jenta Hawon Harum Hanyam Kalawa Kambang Lamiang
+			Manyang Mantoh Rimbun Nyelong Paris Pumpong Rimpong Siwoh Sindai Simpon Sarita Sallie Sullie Timpong Tindoh
+			Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja
 		}
 	}
 kedah = {
@@ -3903,7 +3906,7 @@ nias = {
 	"Zidömi"	"Zihono"	"Zikhamo"	"Ziliŵu"	"Zimali"	"Zina"		"Ziraluo"	"Zolobö"	"Zörömi"	"Zahuwa"
     }
     	male_names = {
-		Amizaro Anötöna Aroziduhu Arosökhi Arozisökhi Arofati Arota Arozato Arozatulö Bezatulö Bezisökhi Duhusökhi Faduhusi Mesarudi Yaatulo Foarota Fanötöna Foahonoa Fotani Haga Lakhömizaro Mohaga Motani Saro Siga Sio Sohaga Sanolo Sanauölö Sondroro Sökhiatolo Sozanolo Sökhi Vanötöna Vanalida Yasona Yaaro Zanolo Zondroro Zotani
+		Amizaro Anötöna Aroziduhu Arosökhi Arozisökhi Arofati Arota Arozato Arozatulö Bezatulö Bezisökhi Duhusökhi Faduhusi Mesarudi Yaatulo Foarota Fanötöna Foahonoa Fotani Haga Lakhömizaro Mohaga Motani Saro Siga Sio Sohaga Sanolo Sanauölö Sondroro Sökhiatolo Sozanolo Sökhi Vanötöna Vanalida Yasona Yaaro Zanolo Zondroro 			Zotani
 	}
 
 	female_names = {
@@ -3923,7 +3926,7 @@ mentawai = {
 	"Tatebburuk"	"Tateuteu"	"Tatubeket"	"Tetubekket"
     }
     	male_names = {
-		Amizaro Anötöna Aroziduhu Arosökhi Arozisökhi Arofati Arota Arozato Arozatulö Bezatulö Bezisökhi Duhusökhi Faduhusi Mesarudi Yaatulo Foarota Fanötöna Foahonoa Fotani Haga Lakhömizaro Mohaga Motani Saro Siga Sio Sohaga Sanolo Sanauölö Sondroro Sökhiatolo Sozanolo Sökhi Vanötöna Vanalida Yasona Yaaro Zanolo Zondroro Zotani
+		Amizaro Anötöna Aroziduhu Arosökhi Arozisökhi Arofati Arota Arozato Arozatulö Bezatulö Bezisökhi Duhusökhi Faduhusi Mesarudi Yaatulo Foarota Fanötöna Foahonoa Fotani Haga Lakhömizaro Mohaga Motani Saro Siga Sio Sohaga Sanolo Sanauölö Sondroro Sökhiatolo Sozanolo Sökhi Vanötöna Vanalida Yasona Yaaro Zanolo Zondroro 			Zotani
 	}
 
 	female_names = {
@@ -4100,7 +4103,7 @@ iban = {
 	"Seling"	"Selinggar"	"Seliong"	"Seluat"	"Selumbong"	"Seman"	"Jagup"	"Jaing"	"Jakong"	"Jala"	"Jalang"	"Jali"	"Jallang"	"Jalong"	"Jamau"	"Jamba"	"Jambai"	"Jambing"	"Jamit"	"Jampang"	"Jampong"	"Janai"	"Janang"	"Jang"	"Jangga"			"Janggat"	"Janggau"	"Janggu"	"Janging"	"Jangu"	"Jangun"	"Jannai"	"Jantai"	"Jantau"	"Janting"	"Jantum"	"Jaom"	"Jarau"	"Jaraw"	"Jarin"	"Jaritan"	"Jaroh"	"Jarom"	"Jarop"	"Jarrau"	"Jaul"	"Jawa"	"Jawan"	"Jawi"	"Jawie"	"Jawing"	"Jaya"	"Jayan"		"Jekai"	"Jeki"	"Jelai"	"Jelaing"	"Jelenggai"	"Jeli"	"Jeliah"	"Jelian"	"Jemat"	"Jembu"	"Jemut"	"Jempoi"	"Jenang"	"Jenau"	"Jengging"	"Jerabat"	"Jerah"	"Jeraki"	"Jerampang"	"Jerayit"	"Jerenang"	"Jetan"	"Jeti"	"Jiku"	"Jilan"	"Jilum"	"Jima"	"Jimbai"		"Jimbat"	"Jimbau"	"Jimbu"	"Jimbun"	"Jingan"	"Jingga"	"Jinggut"	"Juan"	"Juang"	"Jubang"	"Judat"	"Jugah"	"Jugi"	"Jugo"	"Jugu"	"Juing"	"Jukim"	"Julang"	"Julin"	"Jumbu"	"Juna"	"Junau"	"Jungan"	"Junggan"	"Juntan"	"Juntang"	"Juttie"	"Juti"		"Kabit"	"Kabul"	"Kadam"	"Kadom"	"Sempurai"	"Senabong"	"Senaun"	"Sendi"	"Sengalang"
 	"Serang"	"Serunggang"	"Setang"	"Siam"	"Siba"	"Sibat"	"Sidai"	"Sigai"	"Sigan"	"Sigang"	"Sigom"	"Sigun"	"Sikie"	"Silang"	"Sili"	"Siligut"	"Simong"	"Simpai"	"Simpie"	"Simun"	"Singka"	"Sintai"	"Sinyuk"	"Sipang"	"Sipok"	"Suang"	"Subah"			"Subang"	"Suda"	"Sudok"	"Sugit"	"Suin"	"Sujang"	"Sulang"	"Sulau"	"Suli"	"Sumbai"	"Sumbang"	"Sumbu"	"Sumpeng"	"Sumping"	"Sumpit"	"Sumok"	"Sunang"	"Sundai"	"Sureng"	"Suring"	"Surong"	"Surung"	"Suting"	"Tabok"	"Tabor"			"Tading"	"Tadong"	"Tait"	"Tajai"	"Tajak"	"Tajang"	"Tajim"	"Talak"	"Talek"	"Tamba"	"Tambong"	"Tandang"	"Tandok"	"Tanduk"	"Tangai"	"Tanggai"	"Tanggie"	"Tangi"	"Tangkun"	"Tansang"	"Tapang"	"Tarang"	"Tawai"	"Tawan"	"Tawi"	"Tawie"	"Tawir"		"Tayai"	"Tedong"	"Tegong"	"Tegung"	"Telajan"	"Telichai"	"Temaga"	"Temenggong"	"Tengkuang"	"Terunjam"	"Tesap"	"Tibu"	"Tichai"	"Tigang"	"Tigong"	"Tila"	"Tiling" "Muyang"
     }
-    male_names = {
+    	male_names = {
 		Ampong Binti Labih Rumbun Sipet Purok Mamut Menteng Hanjak Nanjan Djata Lawai Jau Keling Ngau Lisu Ullok Apoi Wan Dehen
 		Djatta Ekot Hanyi Labih Mantikei Mantir Simpei Segah Saloh Selong Teras Simbun Saduri Sangkurun Salundik Taladjan During
 		Suli Tumon Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja
