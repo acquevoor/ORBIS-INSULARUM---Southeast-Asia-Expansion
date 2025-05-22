@@ -40,6 +40,32 @@ malay = {
 		"Ani" "Laila" "Rani" "Siti" "Nur" "Tari" "Yusniar"
 	}
 }
+	sula = {
+		dynasty_names = {
+			Sula Falabo Mangole Lifmatola Fogi Waitina
+		}
+		male_names = {
+			"Lamo" "Taufu" "Gafuru" "Mangoa" "Lisi" "Tani" "Woka"
+			"Damu" "Kuru" "Tomo" "Faka" "Loli" "Bangu" "Fatu"
+		}
+		female_names = {
+			"Suma" "Gali" "Laina" "Fina" "Tiba" "Matu" "Rani"
+			"Yaya" "Bina" "Dafi" "Keni" "Talia" "Fora" "Sabe"
+		}
+	}
+	buru = {
+		dynasty_names = {
+			Buru Namlea Waeapo Kayeli Rana Barawa Leksula
+		}
+		male_names = {
+			"Hano" "Latu" "Mako" "Rano" "Keta" "Tenu" "Soli"
+			"Fano" "Dala" "Mina" "Robo" "Kaku" "Batu" "Nara"
+		}
+		female_names = {
+			"Lina" "Salu" "Wena" "Bila" "Heni" "Rami" "Latu"
+			"Yari" "Fenu" "Dana" "Kuma" "Tara" "Sabe" "Nalu"
+		}
+	}
 banten = {
 	primary = SUN
 	dynasty_names = {
