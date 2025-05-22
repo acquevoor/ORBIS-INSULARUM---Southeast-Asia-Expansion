@@ -25,7 +25,9 @@ malay = {
 			Usman Tholib Malik Alif Amir Amran Aqil Anwar Aziz Faiz Fuad Gozali Hamzah Ilham Ikhwan Israfil Izroil Jauhari Kamal Khalid
 			Lukman Lutfi Mustofa Raihan Rahman Rahim Rahmat Taufik Syarif Wahid Zulkarnain
 			Abimanyu	Abiyasa	Adhiswara	Adidewalancana	Adikerma	Adiwarna	Adityawangsa	Adityawarman	Adwayabrahma	Adwayawaja	Adwayawarman	Agam				
-			Agrajasama	Dudung	Dudun Airlangga	Ajar	Ajnajabharitamawakana	Aji	Akarendrawarman	Ametung	Amurwabhumi	Ananggawarman	Ananta	Anantawikramottunggadewa Andi Anggira	Angkawijaya	Adun	Dulur Angkerawarman	Anidhana	Aniruda	Aniwariwirya	Antasena	Anusapati					Arijamuka	Arjjaya	Arkajacihna				Arok	Arya				Aryanagara	"Arya Belog"	"Arya Damar"	Eba Dunungan "Dapunta Hyang" Harep	Hardi	Hampura Dharmaswara	Halis	Heulang	Henhen
+			Agrajasama	Dudung	Dudun Airlangga	Ajar	Ajnajabharitamawakana	Aji	Akarendrawarman	Ametung	Amurwabhumi	Ananggawarman	Ananta	Anantawikramottunggadewa Andi Anggira
+			Angkawijaya	Adun	Dulur Angkerawarman	Anidhana	Aniruda	Aniwariwirya	Antasena	Anusapati Arijamuka	
+			Arjjaya	Arkajacihna Arok	Arya Aryanagara	"Arya Belog"	"Arya Damar"	Eba Dunungan "Dapunta Hyang" Harep	Hardi	Hampura Dharmaswara	Halis	Heulang	Henhen
 			"Arya Kenceng"	"Arya Kutawandira"	"Arya Sentong"	Aryana	Aryeswara	Arjuna	Astasura	Aswawarman	Awataranindita	Ayuddha	Bacung	Baduga	Bagas	Duriat	
 			Bahubajrapratipaksaksaya	Baila	Balaputradewa	Balawa	Bambang	Bameswara	Barmawijaya	Balitung	Balu	Basi	Baskara	Basu	Basuki	Baturenggong	Bayu
 			Benawa	Bhadra	Bhagadatta	Bhanu	Bhanuwijaya	Bhasura	Bhiswara	Bhuwana	Bhuwanatala	Bima	Bimayasawirya	Bisawa	Blondo	Brajawisesa	Bratasena
@@ -35,7 +37,12 @@ malay = {
 			Dewendra	Dhanada	Dhananjaya	Dhaneswara	Dharma	Dharmaja	Dharmasatya	Dharmasatyadewa	Dharmasetu	Dharanindra	Dharmasuparnawahana	
 			Dharmawangsa	Dharmayawarman	Dharmeswara	Dhawala	Digjaya	Digwijaya	Digwijayakasa	Dipanagara	Drampuan	Dumadi	Eka	Ekajayalancana	Ekanagara				
 			Ekawijaya	Gajayanalingga	Galuh	Ganawirya	Gandra	Garalek	Garasakan	Geda	Girindrawardhana	Girishawardhana	Godog	Gowna	Graswa	Grihita	Gujil
-			Gula	Guna	Hadinagara	Hadiwijaya	Hadiwinta	Handabhuwanapadalaka	Harigana	Harimurti	Harisdarma	Hariwangsa	Hariwangsawarman	Hayamwuruk	Indera	Hareup				Haneut	Inderawangsa	Indrawarmadewa	Indrawarman							Iswarakeswarasamarottungga	Iswarakesawalingga	Iswaralingga	Iswarawijaya	Jagatnata	Jaka	Janardanawatara	Rengku	Rawaya	Aep				Aam	Deden 	Janasadhu	Jatiningrat	Jaya	Jayabaya	Jayabupati	Jayadrata	Jayakatwang						Jayakirtiwardhana	Jayakusuma	Jayanagara	Jayananda	Jayanasa				Jayaningrat	Jayantaka	Rhangkem Jayapangus	Jayasakti	Jayasingawarman	Jayawardana	Jayawangsa	Jayawarsa	Jitendrakara	Julay	Kabayan	Kalula	Kameswara					Kamesywara Kanaka	Kandara	Roem Karengean	Karna	Karnnakesana	Kartikeyasingha	Kebha	Kertabhumi	Kertajaya	Kertanagara	Kertarajasa	Kertawardhana	Kertawarman	Kertawangsa	Kertawijaya				Ajat	Asep	Kesara	Kesari	Ketana							Khatwangga	Kiratasingha	Kirtisingha	Koncaryadipa	Ksatrabhimaparakrama	Kudungga	Kusala	Kusumayudha	Kutak	Kutawandira	Atang	Yogaswara
+			Gula	Guna	Hadinagara	Hadiwijaya	Hadiwinta	Handabhuwanapadalaka	Harigana	Harimurti	Harisdarma	Hariwangsa	Hariwangsawarman	Hayamwuruk
+			Indera	Hareup	Haneut	Inderawangsa	Indrawarmadewa	Indrawarman Iswarakeswarasamarottungga	Iswarakesawalingga	Iswaralingga	Iswarawijaya	Jagatnata	Jaka	Janardanawatara
+			Rengku	Rawaya	Aep Aam	Deden 	Janasadhu	Jatiningrat	Jaya	Jayabaya	Jayabupati	Jayadrata	Jayakatwang						Jayakirtiwardhana	
+			Jayakusuma	Jayanagara	Jayananda	Jayanasa Jayaningrat	Jayantaka	Rhangkem Jayapangus	Jayasakti	Jayasingawarman	Jayawardana	Jayawangsa	Jayawarsa	Jitendrakara	Julay	
+			Kabayan	Kalula	Kameswara Kamesywara Kanaka	Kandara	Roem Karengean	Karna	Karnnakesana	Kartikeyasingha	Kebha	Kertabhumi	Kertajaya	Kertanagara	Kertarajasa	Kertawardhana	Kertawarman	
+			Kertawangsa	Kertawijaya	Ajat	Asep	Kesara	Kesari	Ketana	Khatwangga	Kiratasingha	Kirtisingha	Koncaryadipa	Ksatrabhimaparakrama	Kudungga	Kusala	Kusumayudha	Kutak	Kutawandira	Atang	Yogaswara
 			Kutur	Landuka	Langlangbumi	Lewih	Limwana	Linggabhumi	Linggabhuwana	Linggabuana	Linggabuanawisesa	Linggadewata	Linggasakti	Linggawarman	Ijang	Harkat	Yudhistira
 			Linggawisesa	Lokapala	Luhurprabawa	Luwdira	Mada	Madhusudana	Madhusudanawatara	Mahadipusat	Mahamoksha	Mahawangsa	Mahawarman	Mahisa	Makoputadhanu		Vamana
 			Makutawangsawardhana	Manarah	Maneser	Manghu	Mangkubumi	Mangkunagara	Mangusir	Manu	Manuku	"Mapanji Garasakan"	Mapanjialanjung	Mara	Marmadewa	Mencang	Khandra
@@ -51,9 +58,12 @@ malay = {
 			Singhawikramawardhana	Sigit	Siwastra	Sodai	Sojasa	Sudarya	Sudhawarman	Sudirman	Sugandi	Suhtrisingha	Sujana	Sukarama	Sukarna	Sulong	Sumadi
 			Sunarya	Sundarawarman	Sundarawijaya	Sundarapandya	Supardi	Suradewata	Suradhipa	Suradipati	Suragana	Suraprabhawa	Surawardhani	Surawijaya	Raray	Raraosan	Rampa
 			Surawisesa	Suriadiwangsa	Suryanagara	Suryawangsa	Suryawarman	Suryawikrama	Suryawijaya	Susila	Sutanagara	Sutawijaya	Tabanendra	Tanjungan	Tawa	Ace	Aceng
-			Tohjaya	Trailokyaraja	Tribhuwanaraja	Tribuana	Triwikramawatara	Tulodong	Tumenggung	Tunggalningrat	Tunggawijaya	Udayaditya	Udayadityawarman	Junaedi	Kamandaka  Kosasih Keumari Udayana	Ugrasena	Utipati	Uttunggadewa	Uttunggawijaya							Wadua	Wagiswara	Wahyu	Wairiwarawiramardana	Walajayakertaningrat	Walaprabu	Wana	Wanayasa Jajaka	Jajang
+			Tohjaya	Trailokyaraja	Tribhuwanaraja	Tribuana	Triwikramawatara	Tulodong	Tumenggung	Tunggalningrat	Tunggawijaya	Udayaditya	Udayadityawarman	Junaedi	Kamandaka  Kosasih 
+			Keumari Udayana	Ugrasena	Utipati	Uttunggadewa	Uttunggawijaya 	Wadua	Wagiswara	Wahyu	Wairiwarawiramardana	Walajayakertaningrat	Walaprabu	Wana	Wanayasa Jajaka	Jajang
 			Wangan	Wariga	Warmadewa	Warmeswara	Wasudewa	Wasugeni	Wasukawi	Wasumurti	Wawa	Widada	Wijaya	Wijayakumara	Wijayarajasa	Wijayalokanamottungga	
-			Wijayatunggawarman	Wijayawarman	Wikramadharmottunggadewa	Wikramawardhana	Wikramawira	Winduraja	Wira	Wirabumi	Wirakelana	Wirakeranda	Koswara	Maman	Markasih				Memed	Supriatna Wiralandagopala	Wirama	Wiranagara						Wirawairimathana	Wiryawawahan	Wikrama	Wisnu	Wisnuwardhana	Wisnuwarman	Wisuddha	Wudi	Wurutuk	Wuryyawiryya	Suhendar	Sutrisna Yuddhanagara	Yudhenipuna	Yudistira	Yuda	Yuwana	Barna	Bagja	Cahya	Ence	Engkus	Enjang	Endang				Repe				Sujoni	Dedeng	Abisatya	Adwaya	Adanu	Adhinatha	Argani	Agra	Abista	Abyakta	Adara	Adibrata	Bena	Byakta	Biantara	Bryatta	Bhadrika
+			Wijayatunggawarman	Wijayawarman	Wikramadharmottunggadewa	Wikramawardhana	Wikramawira	Winduraja	Wira	Wirabumi	Wirakelana	Wirakeranda	Koswara	Maman	Markasih Memed	Supriatna Wiralandagopala
+			Wirama	Wiranagara Wirawairimathana	Wiryawawahan	Wikrama	Wisnu	Wisnuwardhana	Wisnuwarman	Wisuddha	Wudi	Wurutuk	Wuryyawiryya	Suhendar	Sutrisna Yuddhanagara	Yudhenipuna	Yudistira Yuda	Yuwana	
+			Barna	Bagja	Cahya	Ence	Engkus	Enjang	Endang	Repe	Sujoni	Dedeng	Abisatya	Adwaya	Adanu	Adhinatha	Argani	Agra	Abista	Abyakta	Adara	Adibrata	Bena	Byakta	Biantara	Bryatta	Bhadrika
 			Cakara	Cipta	Cahari	Casugraha	Chalis	Cayapata	Cakrajiya	Cawisadi	Ciptana	Dierja	Djani	Dihyan	Daryata	Dewandaru	Dalirin
 			Estiawan	Elang	Enda	Enes	Estu	Endaru	Fusena	Fazaira	Gamya	Giyanta	Gumilar	Giandra	Ganendra	Garjita	Hardana
 			Hadyan	Hastanta	Hanenda	Hardiyata	Hattala	Hestamma	Idhang	Ismawan	Indurasmi	Ihatra	Imba	Inir	Hiranya	Jagadita	Jamanika
