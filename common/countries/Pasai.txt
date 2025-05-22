@@ -29,15 +29,16 @@ historical_units = {
 }
 
 monarch_names = {
-	"Inayat #0" = 20
-	"'Alî Mugâyat #0" = 20
-	"Iskandar Tanî #0" = 20
-	"Husayn 'Alî Ri'âyat #0" = 20
-	"Menradza #0" = 20
-	"Tsalenggathu #0" = 20
-	"Gadzabadi #0" = 20
-	"Tsau-Lha #0" = 20
-	"Mengtsekya #0" = 20
+	"Malikussaleh #0" = 20
+	"Al-Malik azh-Zhahir #0" = 20
+	"Ahmad #0" = 20
+	"Zainal Abidin #0" = 20
+	"Nahrasyiyah #0" = 20
+	"Shalahuddin #0" = 20
+	"Abu Zaid Ahmad #0" = 20
+	"Mahmud #0" = 20
+	"Al-Kamil #0" = 20
+	"Adlullah #0" = 20
 	
 	"Amritpal #0" = -1
 	"Dara Jingga #0" = -1
