@@ -310,8 +310,7 @@ tolaki = {
 			Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea Vaite Vaitiare
 		}
 }
-
-    toraja = {
+toraja = {
     primary = BNW
      dynasty_names = {
         "Andi"	"Arung"	"Bau"	"Daeng"	"Datu"	"Opu"	"Petta"	"Puang"	"Sulewatang"	"Tenri"	"Tinro"	"Karaeng"	"Kare"	"Tanjeng"	"Sombaya"	"Puang"	"La"	"We"	"Areng"	"Dondo-dondo"	"Torau"	"Awundapu"		"Banumbu"	"Bali'e"	"Baloga"	"Belala"	"Betalino"	"Beto"	"Botilangi"		"Bulinde"	"Bungkundapu"	"Bungu"	"Buntinge"	"Dike"	"Dongalemba"	"Gilirante"	"Gimbaro"		"Gugu"	"Gundo"	"Kampindo"	"Kambodji"	"Kalembiro"	"Kalengke"	"Karape"	"Karebungu"	"Kayori"	"Kayupa"	"Koedio"	"Kogege"	"Kolombuto"	"Kolobinti"	"Kuko"			"Lakiu"	"Langgari"	"Lambangasi"	"Labiro"	"Liante"	"Lidongi"	"Lu'o"	"Lumaya"	"Lolongudju"	"Manganti"	"Meringgi"	"Mossepe"	"Mowose"	"Monipo"	"Nyolo-nyolo"		"Nggau"	"Nggo'u"	"Nua"	"Nyaua"	"Pakuli"	"Palaburu"	"Parimo"	"Pariu"	"Paroda"	"Pasunu"	"Patara"	"Pebadja"	"Penina"	"Penyami"	"Pesudo"	"Poa"			"Pobonde"	"Podala"	"Polempe"	"Purasongka"	"Ratengku"	"Pusuloka"	"Rampalino"	"Rampalodji"	"Rantelangi"	"Rare'a"	"Ruagadi"	"Rubo"	"Ruutana"	"Sancu'u"			"Sawiri"	"Sigilipu"	"Sipatu"	"So'e"	"Sowolino"	"Tabanci"	"Tadanugi"	"Tadalangi"	"Tadadja"	"Tadjaji"	
@@ -386,4 +385,5 @@ bugis = {
 			Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Tenriolle Taurua Tautiare Tehani Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea 
 			Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea Vaite Vaitiare
 		}
+}
 }
