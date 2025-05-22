@@ -30,24 +30,6 @@ monarch_names = {
 	"Adityawarman #0" = 20
 	"Bijayendrawarman #0" = 20
 	"Wijayawarman #0" = 20
-	"Amritpal #0" = -1
-	"Dara Jingga #0" = -1
-	"Hamatun #0" = -1
-	"Janji #0" = -1
-	"Pagaruyung #0" = -1
-	"Sori #0" = -1
-	"Tembong #0" = -1
-	"Lenggogeni  #0" = -1
-	"Saruaso #0" = -1
-	"Gapuak #0" = -1
-	"Mariam #0" = -1
-	"Sumpu #0" = -1
-	"Semboja #0" = -1
-	"Tingkir #0" = -1
-	"Pakungwati #0" = -1
-	"Endang Geulis #0" = -1
-	"Adiningkusuma #0" = -1
-	"Kalinyamat #0" = -10
 }
 leader_names = { 
 	Abimanyu	Abiyasa	Adhiswara	Adidewalancana	Adikerma	Adiwarna	Adityawangsa	Adityawarman	Adwayabrahma	Adwayawaja	Adwayawarman	Agam		Agrajasama	Dudung	Dudun Airlangga	Ajar	Ajnajabharitamawakana	Aji	Akarendrawarman	Ametung	Amurwabhumi	Ananggawarman	Ananta	Anantawikramottunggadewa Andi
