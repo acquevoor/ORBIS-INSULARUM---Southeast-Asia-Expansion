@@ -1503,19 +1503,7 @@ south_halmahera = {
 	sumatran = {
 		primary = PLB
 		dynasty_names = {
-			"Adji"	"Bindung Langit" "Lubai"	"Lubuk Batang"	"Ngabihi"	"Proatin"	"Rambang Kapak Tengah"	"Rambang"	"Samikerian"	"Semidang Alun"	"Sosoh Buah Rayap"	"Temenggungan"
-			"Belitang"	"Pangsaraja"	"Peliung"	"Pemaca"	"Bungamayang"	"Kiti"	"Lengkayap"	"Madang"	"Pakusengkunyit"	"Semendawai"	"Aji"	"Rawan"	"Runjung"	"Sandang"
-			"Kisam"	"Kisam Ilir"	"Kisam Ulu"	"Kisam Tengah"	"Miji"	"Ranau"	"Bengkulah"	"Danau"	"Jajawi"	"Kayu Agung"	"Keman"	"Mesuji"	"Pampangan"	"Pangkalanlampam"	"Pegagan Ulu"
-			"Pegagan Ilir"	"Rambutan"	"Pulau Padang"	"Teloko"	"Tulung Selapan"	"Burai"	"Gelumbang"	"Kartamulia"	"Lembak Atay"	"Lubuk Keliat"	"Meranjat"	"Muara Kuang"	"Pemulutan"
-			"Rantau Alai"	"Sakatiga"	"Tanjung Batu"	"Tembangan Kelekar"	"Adab"	"Babat"	"Bintang Hari Leko"	"Panggarbesi"	"Dawas"	"Epil"	"Kubu Bayat"	"Kubu Lalan"	"Kubu"	"Lawangwetan"	
-			"Menteri Melayu"	"Penukal"	"Pinggap"	"Punjung"	"Rimba Asam"	"Sangadesa"	"Sungai Keruh"	"Supat"	"Teluk Kijing"	"Gasing"	"Kumbang"	"Muara Telang"	"Pangkalan Balai"
-			"Penuguan"	"Rantau Bayur"	"Suaktapeh" "Sungai Aren"	"Sungai Rengas"	"Sungsang"	"Talang Betutu"	"Tanjung Laga"	"Tungkal Ilir"	"Upang"	"Benakat"	"Petulai Curup"	"Petulai Blimbing"
-			"Petulai Dangku"	"Lawang Kidul"	"Lengi"	"Padang Selawi"	"Panang Sangang"	"Panang Ulung"	"Rambang Niru"	"Semendo"	"Sungai Rotan"	"Bubung"	"Penanggiran"	"Ujan Mas" "Tembelang Raja"
-			"Bungamas"	"Manggul"	"Endikat"	"Gumay Ulu"	"Gumay Lembak"	"Gumay Talang"	"Lawang Kulon"	"Merapi"	"Pagar Gunung"	"Penjalang"	"Ulak-Pandan"	"Mulak"	"Sumbay Jati"	"Bulan"	
-			"Sumbay Doa" "Muara Siban"	"Lubuk Buntak"	"Penantian"	"Pajang"				"Lintang"	"Pasemah Ulu"	"Pasemah Ilir"	"Pasemah Air Keruh"	"Sikap Musi Ulu"	"Sikap Pelabuhan" "Tejadin"	
-			"Tiang"	"Wulung" "Lakitan"	"Semangus" "Muara Rupit"	"Rupit Tengah"	"Musi"	"Kepungut"	"Rawas"	"Muara Payang"	"Mangku Anom" "Alun Dua" "Pelang Keniday"	"Lubuk Buntak"	"Bumi Agung"	"Tanjung Kurung" 
-			"Kebon Jati"	"Wulung Dusun"	"Tiang Pumpung"	"Tanjung Raya"	"Gunung Raksa"	"Muara Pinang"	"Muara Danau"	"Seleman"	"Karangraja"	"Karang Dapo"	"Tejajin"	"Padang Lai"	"Perwatin" "Lematang" "Bayur"
-			"Mekakau Ilir"	"Mekakau Ulu"	"Baturaja" "Lengie" "Kikim" "Empayang Ilir" "Lingsing"	"Pangi"	"Negeri Agung"	"Gedung Agung"	"Pajarbulan"	"Muara Empayang"	"Babatan"	"Sindang Ilir"	"Ulu Rawas" "Rupit Dalam" "Rupit Ilir"
+ 			"Srivijaya" "Sailendra" "Sanjaya" "Mahisa" "Dharmasetu" "Adityawarman" "Jayanasa" "Balaputradewa"
 		}
 		male_names = {
 			Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
@@ -3730,24 +3718,36 @@ kedah = {
 nias = {
     primary = NIA
     dynasty_names = {
-        "Siromani" "Sirojulu" "Galaho" "Ohoitimur" "Hili"
+       "Amazihönö"	"Baeha"	"Baewa"	"Bago"	"Bagolö"	"Balazi"	"Bali"	"Baru"	"Batee"	"Baŵaloŵalangi"	"Baŵameneŵi"	"Baŵaulu"	"Bawö"	"Bazikho"	"Boha"	"Bohalima"	"Böröhili"	"Börömezaya"	"Böwo"	"Bu'ulölö"
+	"Buaya"	"Bulu'aro"	"Bunaŵölö"	"Daeli"	"Dachi"	"Dafulu"	"Dandrosa"	"Dao"	"Daru"	"Dauwö"	"Daŵölö"	"Delau"	"Delötö"	"Dilalö"	"Dohare"	"Dohöna"	"Dohude"	"Dolea"	"Döwa"	"Duha"	"Duru"	
+	"Duwulani"	"Fakho"	"Famaugug"	"Fanaetu"	"Farokha"	"Fau"	"Fawura"	"Finowa'a"	"Fondrahi"	"Gafore"	"Gaho"	"Gamazu"	"Gamainö"	"Gamarö"	"Gamöfö"	"Ganumba"	"Garamba"	
+	"Gari"	"Gaurifa"	"Ge'e"		"Gea"	"Gehomo"	"Giawa"	"Göri"	"Gowa"	"Gowi"	"Goŵasa"	"Gulla"	"Gulo"	"Halawa"	"Halu"	"Harefa"	"Haria"	"Harimao"	"Harita"	"Hawa"	"Hendri"	"Hia"	"Hinare"
+	"Hondrö"	"Hulu"		"Humendru"	"Hura"	"Laia"	"Lafau"	"Lahu"	"Lalu"	"Laoli"	"Laoŵö"	"Laŵölö"	"Larosa"	"Lase"	"Lature"	"Lauwö"	"Lazira"	"Limbu"	"Lowalani"	"Lö'i"	"Lombu"	"Luaha"	"Luahamboŵo"	"Luo"	
+	"Maduŵu"	"Manaö"	"Manaraja"	"Mangiwadanö"			"Maru'ao"	"Maruhawa"	"Marundruri"	"Ma'uwu"	"Mazulai"	"Mendröfa"	"Meziwa"	"Mola"	"Möhö"	"Maru"	"Abaya"	"Nadoya"	"Nahono"	"Nakhe"	"Namölö"
+	"Nanehe"	"Naya"			"Nazara"	"Nauru"	"Ndraha"	"Ndruru"	"Nehe"	"Nene"	"Owasaluo"	"Sabuanafulu"	"Sadumba"	"Sao'iagö"	"Saota"	"Sarahönö"	"Sarumaha"	"Saufala"	"Siawa"	"Siba'a"	"Sifalaete"	
+	"Sihura"	"Siyawa"	"Si'owasa"	"Sisobaene"			"Siwaehe"	"Solokhoi"	"Siwanahönö"	"Tabalihili"	"Taföna'ö"	"Telaumbanua"	"Waha"	"Wahuwusa"	"Wakho"	"Wandru"	"Waö"	"Ŵaoma"	"Ŵarai"	"Warökha"	
+	"Ŵarasi"	"Ŵaruwu"	"Ŵate"	"Waya"	"Waulolo"	"Wea"	"Wehalö"	"Yawazihönö"	"Zabölö'ani"	"Zagö"	"Zagötö"	"Zai"	"Zalukhu"	"Zamili"	"Zamöno"	"Zandroto"	"Zebua"	"Zega"	"Zendratö"	"Ziawa"	
+	"Zidömi"	"Zihono"	"Zikhamo"	"Ziliŵu"	"Zimali"	"Zina"		"Ziraluo"	"Zolobö"	"Zörömi"	"Zahuwa"
     }
     male_names = {
-        "Laia" "Awaloedoe" "Gondur" "Siallagan" "Fau"
-        "Oza" "Hili" "Gomo" "Ono" "Ndruru"
-        "Fomali" "Hia" "O’loda" "Gawu" "O’atubua"
-    }
-    female_names = {
-        "Ona" "Laio" "Golo" "Hioe" "Siallo"
-        "Ola" "Gau" "Fomali" "Oza" "Ndruru"
-        "Omarie" "Hilo" "Loloma" "Gaho" "Aloea"
-    }
+		Amizaro Anötöna Aroziduhu Arosökhi Arozisökhi Arofati Arota Arozato Arozatulö Bezatulö Bezisökhi Duhusökhi Faduhusi Mesarudi Yaatulo Foarota Fanötöna Foahonoa Fotani Haga Lakhömizaro Mohaga Motani Saro Siga Sio Sohaga Sanolo Sanauölö Sondroro Sökhiatolo Sozanolo Sökhi Vanötöna Vanalida Yasona Yaaro Zanolo Zondroro Zotani
+	}
+
+	female_names = {
+		Afuni Amonita Dalinama Dela Delasiga Fanesa Foni Fotani Masi Moni Monita Rara Sarofati Motani Vanalida
+	}
 }
 
 mentawai = {
     primary = MEN
     dynasty_names = {
-        "Sikerei" "Maga" "Tuwat" "Ompang" "Buya"
+        "Anakalang"	"Berisigep"	"Galet"	"Gougou"	"Kainde"	"Kasirebbeb"	"Laggaiku"	"Leleu"	"Malakopa"	"Melei"	"Oinan"	"Paabanan"	"Panandean"	"Pangetuat"	"Pasowbaliok"	"Purorogat"	"Sababalat"	"Sabaggalet"	
+	"Sabajou"	"Sabebegen"	"Sabelau"	"Sabola"	"Sadodolu"	"Saerejen"	"Sagalak"	"Sagoilok"	"Sagugurat"	"Saguntung"	"Sagurug"	"Sagurung"	"Sagurung"	"Saguruwjuw"	"Saibuma"	"Sailokoat"	
+	"Sakailoat"	"Sakeletuk"	"Sakerebau"	"Sakerengan"	"Sakeru"	"Sakoan"	"Sakobou"	"Sakoikoi"	"Sakukuret"	"Sakulok"	"Salabi"	"Salabok"	"Salaisek"	"Salakkomak"	"Salamanang"	"Salamao"
+	"Saleilei"	"Saleleu"	"Saleleubaja"	"Salimu"	"Samairapkoat"	"Samalinggai"	"Samalobak"	"Samaloisa"	"Samangilailai"	"Sambentiro"	"Samongilailai"	"Sanene"	"Sangaimang"	"Saogo"	"Sapalakkai"	"Sapeai" "Sapelege"
+	"Sapojai"	"Sarogdok"	"Saroro"	"Sasaleji"	"Satoinong"	"Satoko"	"Satoleuru"	"Saumanuk"	"Saumatgerat"	"Saurei"	"Seminora"	"Sikaraja"	"Sikatsila"	"Sikerey"	"Silainge"	"Simakoklo"	
+	"Simasingin"	"Sipatiti"	"Siribaru"	"Siribere"	"Siriottoi"	"Siriparang"	"Siriratei"	"Sirirui" "Sirisagu"	"Sirisokut"	"Siritoitet"	"Siritubui"	"Taileleu"	"Talopulei"	"Tasirileuleu"	"Tasirleleu"	
+	"Tatebburuk"	"Tateuteu"	"Tatubeket"	"Tetubekket"
     }
     male_names = {
         "Mama" "Pailei" "Ulu" "Siban" "Tarai"
@@ -3764,7 +3764,7 @@ mentawai = {
 rejang = {
     primary = IND
     dynasty_names = {
-        "Kepala Rawas" "Muara" "Kalan" "Pakuan" "Karang"
+        "Ulu Abes" "Muara Aman"	"Talang Liak" "Selupuak Lebong"	"Bemanai Jekalang" "Bemanai Ai"	"Selupuak Jang"	"Migai Kelobak"	"Bemanai Lot" "Migai Kelindang"	"Jekalang" "Smitoa" "Bemanai Paliak" "Bioa Besai" "Lai"	"Bioa Padang"	"Btunen" "Ketawen" "Bemanai Perbo" "Bang Ajai" "Kap"
     }
     male_names = {
 			Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
@@ -3947,7 +3947,19 @@ bidayuh = {
 palembang = {
     primary = PLB
     dynasty_names = {
-        "Srivijaya" "Sailendra" "Sanjaya" "Mahisa" "Dharmasetu" "Adityawarman" "Jayanasa" "Balaputradewa"
+        "Adji"	"Bindung Langit" "Lubai"	"Lubuk Batang"	"Ngabihi"	"Proatin"	"Rambang Kapak Tengah"	"Rambang"	"Samikerian"	"Semidang Alun"	"Sosoh Buah Rayap"	"Temenggungan"
+	"Belitang"	"Pangsaraja"	"Peliung"	"Pemaca"	"Bungamayang"	"Kiti"	"Lengkayap"	"Madang"	"Pakusengkunyit"	"Semendawai"	"Aji"	"Rawan"	"Runjung"	"Sandang"
+	"Kisam"	"Kisam Ilir"	"Kisam Ulu"	"Kisam Tengah"	"Miji"	"Ranau"	"Bengkulah"	"Danau"	"Jajawi"	"Kayu Agung"	"Keman"	"Mesuji"	"Pampangan"	"Pangkalanlampam"	"Pegagan Ulu"
+	"Pegagan Ilir"	"Rambutan"	"Pulau Padang"	"Teloko"	"Tulung Selapan"	"Burai"	"Gelumbang"	"Kartamulia"	"Lembak Atay"	"Lubuk Keliat"	"Meranjat"	"Muara Kuang"	"Pemulutan"
+	"Rantau Alai"	"Sakatiga"	"Tanjung Batu"	"Tembangan Kelekar"	"Adab"	"Babat"	"Bintang Hari Leko"	"Panggarbesi"	"Dawas"	"Epil"	"Kubu Bayat"	"Kubu Lalan"	"Kubu"	"Lawangwetan"	
+	"Menteri Melayu"	"Penukal"	"Pinggap"	"Punjung"	"Rimba Asam"	"Sangadesa"	"Sungai Keruh"	"Supat"	"Teluk Kijing"	"Gasing"	"Kumbang"	"Muara Telang"	"Pangkalan Balai"
+	"Penuguan"	"Rantau Bayur"	"Suaktapeh" "Sungai Aren"	"Sungai Rengas"	"Sungsang"	"Talang Betutu"	"Tanjung Laga"	"Tungkal Ilir"	"Upang"	"Benakat"	"Petulai Curup"	"Petulai Blimbing"
+	"Petulai Dangku"	"Lawang Kidul"	"Lengi"	"Padang Selawi"	"Panang Sangang"	"Panang Ulung"	"Rambang Niru"	"Semendo"	"Sungai Rotan"	"Bubung"	"Penanggiran"	"Ujan Mas" "Tembelang Raja"
+	"Bungamas"	"Manggul"	"Endikat"	"Gumay Ulu"	"Gumay Lembak"	"Gumay Talang"	"Lawang Kulon"	"Merapi"	"Pagar Gunung"	"Penjalang"	"Ulak-Pandan"	"Mulak"	"Sumbay Jati"	"Bulan"	
+	"Sumbay Doa" "Muara Siban"	"Lubuk Buntak"	"Penantian"	"Pajang"				"Lintang"	"Pasemah Ulu"	"Pasemah Ilir"	"Pasemah Air Keruh"	"Sikap Musi Ulu"	"Sikap Pelabuhan" "Tejadin"	
+	"Tiang"	"Wulung" "Lakitan"	"Semangus" "Muara Rupit"	"Rupit Tengah"	"Musi"	"Kepungut"	"Rawas"	"Muara Payang"	"Mangku Anom" "Alun Dua" "Pelang Keniday"	"Lubuk Buntak"	"Bumi Agung"	"Tanjung Kurung" 
+	"Kebon Jati"	"Wulung Dusun"	"Tiang Pumpung"	"Tanjung Raya"	"Gunung Raksa"	"Muara Pinang"	"Muara Danau"	"Seleman"	"Karangraja"	"Karang Dapo"	"Tejajin"	"Padang Lai"	"Perwatin" "Lematang" "Bayur"
+	"Mekakau Ilir"	"Mekakau Ulu"	"Baturaja" "Lengie" "Kikim" "Empayang Ilir" "Lingsing"	"Pangi"	"Negeri Agung"	"Gedung Agung"	"Pajarbulan"	"Muara Empayang"	"Babatan"	"Sindang Ilir"	"Ulu Rawas" "Rupit Dalam" "Rupit Ilir"
     }
    male_names = {
 			Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
