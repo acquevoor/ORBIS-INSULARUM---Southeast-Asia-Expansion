@@ -37,15 +37,6 @@ monarch_names = {
 	"Fatah #0" = 20
 	"Arifin Muningsyah #0" = 20
 	"Tunggul Alam Bagagarsyah #0" = 20
-	"Janji #0" = -1
-	"Pagaruyung #0" = -1
-	"Sori #0" = -1
-	"Tembong #0" = -1
-	"Lenggogeni  #0" = -1
-	"Saruaso #0" = -1
-	"Gapuak #0" = -1
-	"Mariam #0" = -1
-	"Sumpu #0" = -1
 }
 leader_names = { 
 	Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
