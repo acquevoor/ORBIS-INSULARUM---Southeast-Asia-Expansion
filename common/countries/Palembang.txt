@@ -25,16 +25,16 @@ historical_units = {
 	reformed_asian_cavalry
 }
 monarch_names = { 
-	"Inayat #0" = 20
-	"'Alî Mugâyat #0" = 20
-	"Iskandar Tanî #0" = 20
-	"Husayn 'Alî Ri'âyat #0" = 20
-	"Menradza #0" = 20
-	"Tsalenggathu #0" = 20
-	"Gadzabadi #0" = 20
-	"Tsau-Lha #0" = 20
-	"Mengtsekya #0" = 20
-	"Amritpal #0" = -1
+	"Ki Gede Ing Suro #0" = 20
+	"Mahmud Badaruddin #0" = 20
+	"Abdurrahman #0" = 20
+	"Muhammad Mansyur Jayo Ing Lago #0" = 20
+	"Agung Komaruddin Sri Teruno #0" = 20
+	"Anom Alimuddin #0" = 20
+	"Ahmad Najamuddin #0" = 20
+	"Muhammad Bahauddin #0" = 20
+	"Djaya Wikrama #0" = 20
+	"Prabu Diradja #0" = 20
 	"Dara Jingga #0" = -1
 	"Hamatun #0" = -1
 	"Janji #0" = -1
@@ -58,8 +58,16 @@ leader_names = {
 	Hamzah Hasanuddin Ibnu Kyai
 	Mahat Mukhtar Najamuddin Natzar Nazmizan Roem Syarifuddin
 	Zulkifli
+	Mahmud Badaruddin Iskandar Husin Alisunan Ali "Raden Patah" 
+	Muhammad Abdurrahman Ahmad Najamuddin Mansyur Anom Alimuddin Prabu Agung Komaruddin "Ki Gede"
 }
-ship_names = { 
-	Siak Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa "Simpang-kiri"
-	"Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+ship_names = {
+        "Adji"	"Bindung Langit" "Lubai"	"Lubuk Batang"	"Ngabihi"	"Proatin"	"Rambang Kapak Tengah"	"Rambang"	"Samikerian"	"Semidang Alun"	
+	"Sosoh Buah Rayap"	"Temenggungan"	"Belitang"	"Pangsaraja"	"Peliung"	"Pemaca"	"Bungamayang"	"Kiti"	"Lengkayap"	"Madang"				"Pakusengkunyit"	"Semendawai"	"Aji"	"Rawan"	"Runjung"	"Sandang" 	"Kisam"	"Kisam Ilir"	"Kisam Ulu"	"Kisam Tengah"	"Miji"	"Ranau"	"Bengkulah" 		"Danau"	"Jajawi"	"Kayu Agung"	"Keman"	"Mesuji"	"Pampangan"	"Pangkalanlampam"	"Pegagan Ulu" 	"Pegagan Ilir"	"Rambutan"	"Pulau Padang"			"Teloko"	"Tulung Selapan"	"Burai"	"Gelumbang"	"Kartamulia"	"Lembak Atay"	"Lubuk Keliat"	"Meranjat"	"Muara Kuang"	"Pemulutan"
+	"Rantau Alai"	"Sakatiga"	"Tanjung Batu"	"Tembangan Kelekar"	"Adab"	"Babat"	"Bintang Hari Leko"	"Panggarbesi"	"Dawas"	"Epil"	"Kubu Bayat"	"Kubu Lalan"		"Kubu"	"Lawangwetan"	"Menteri Melayu"	"Penukal"	"Pinggap"	"Punjung"	"Rimba Asam"	"Sangadesa"	"Sungai Keruh"	"Supat"	"Teluk Kijing"			"Gasing"	"Kumbang"	"Muara Telang"	"Pangkalan Balai" "Penuguan"	"Rantau Bayur"	"Suaktapeh" "Sungai Aren"	"Sungai Rengas"	"Sungsang"	"Talang Betutu"		"Tanjung Laga"	"Tungkal Ilir"	"Upang"	"Benakat"	"Petulai Curup"	"Petulai Blimbing"
+	"Petulai Dangku"	"Lawang Kidul"	"Lengi"	"Padang Selawi"	"Panang Sangang"	"Panang Ulung"	"Rambang Niru"	"Semendo"	"Sungai Rotan"	"Bubung"			"Penanggiran"	"Ujan Mas" "Tembelang Raja" "Bungamas"	"Manggul"	"Endikat"	"Gumay Ulu"	"Gumay Lembak"	"Gumay Talang"	"Lawang Kulon"	"Merapi"	
+	"Pagar Gunung"	"Penjalang"	"Ulak-Pandan"	"Mulak"	"Sumbay Jati"	"Bulan"	 "Sumbay Doa" "Muara Siban"	"Lubuk Buntak"	"Penantian"	"Pajang"				"Lintang"	"Pasemah Ulu"	"Pasemah Ilir"	"Pasemah Air Keruh"	"Sikap Musi Ulu"	"Sikap Pelabuhan" "Tejadin" "Tiang" "Wulung" "Lakitan"	"Semangus" 
+	"Muara Rupit"	"Rupit Tengah"	"Musi"	"Kepungut"	"Rawas"	"Muara Payang"	"Mangku Anom" "Alun Dua" "Pelang Keniday" "Lubuk Buntak"	"Bumi Agung"	"Tanjung Kurung" 
+	"Kebon Jati"	"Wulung Dusun"	"Tiang Pumpung"	"Tanjung Raya"	"Gunung Raksa"	"Muara Pinang"	"Muara Danau"	"Seleman" "Karangraja"	"Karang Dapo"	"Tejajin"	
+	"Padang Lai"	"Perwatin" "Lematang" "Bayur"  "Mekakau Ilir"	"Mekakau Ulu"	"Baturaja" "Lengie" "Kikim" "Empayang Ilir" "Lingsing"	"Pangi"	"Negeri Agung"	"Gedung Agung"		"Pajarbulan"	"Muara Empayang"	"Babatan"	"Sindang Ilir"	"Ulu Rawas" "Rupit Dalam" "Rupit Ilir"
 }
