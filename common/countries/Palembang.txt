@@ -26,6 +26,14 @@ historical_units = {
 }
 monarch_names = { 
 	"Ki Gede Ing Suro #0" = 20
+	"Pangeran Ratu #0" = 20
+	"Pangeran Kemas Depati #0" = 20  
+	"Pangeran Madi Angsoka #0" = 20  
+	"Pangeran Madi Alit atau Raja Depati #0" = 20  
+	"Pangeran Side Ing Puro atau Pangeran Made Sokan atau Raden Aria #0" = 20  
+	"Pangeran Side Ing Kenayan #0" = 20  
+	"Pangeran Side Ing Pesariyan #0" = 20  
+	"Pangeran Side Ing Rajek #0" = 20 
 	"Mahmud Badaruddin #0" = 20
 	"Abdurrahman #0" = 20
 	"Muhammad Mansyur Jayo Ing Lago #0" = 20
