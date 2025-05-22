@@ -28,7 +28,8 @@ monarch_names = {
 	"Akarendrawarman #0" = 20
 	"Ananggawarman #0" = 20
 	"Adityawarman #0" = 20
-	
+	"Bijayendrawarman #0" = 20
+	"Wijayawarman #0" = 20
 	"Amritpal #0" = -1
 	"Dara Jingga #0" = -1
 	"Hamatun #0" = -1
