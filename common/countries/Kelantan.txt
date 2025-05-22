@@ -139,7 +139,8 @@ monarch_names = {
 	"Iskandariah #0" = -1
 }
 ship_names = { 
-	Parameswara "Sultan Iskandar" Bendahara Laksamana Temenggung "Penghulu bendahari" Shahbandar "Hukum Kanun" "Undang-Undang" "Pulau Bakung"
-	"Pulau Lingga" Kepulauan "Pulau Singkep" "Kepulauan Riau" "Pulau Rempang" "Pulau Kundur" "Pulau Padang" "Pulau Bengkaus" "Pulau Tinggi" "Pulau Sibu"
-	"Pulau Tioman" "Pulau Aur" "Pulau Rupat" "Pulau Rangsang" "Pulau Tebing Tinggi" 
+	"Kota Bharu" "Pasir Mas" "Tanah Merah" Machang Tumpat "Pasir Puteh" "Kuala Krai" Jeli "Gua Musang" Bachok
+	"Bukit Panau" Lojing Kemubu "Pulau Redang" "Pulau Perhentian" "Sungai Golok" Selising Melor Palekbang Tawang "Kubang Keria" 
+	"Pasir Pekan" "Kuala Krai Hulu" "Sungai Betis" Jelawat Mengkebang Belimbing "Pulau Serai" "Sungai Pinang" "Pasir Tumboh" 
+	"Tok Bali" "Kubang Labu" "Galah Panjang"
 }
