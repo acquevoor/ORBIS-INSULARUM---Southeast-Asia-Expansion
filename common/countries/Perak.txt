@@ -104,21 +104,29 @@ leader_names = {
 	Wiradharma	Wirasana	Wistara	Yasa	Tarangga Samana	Samanta	Sandya	Sangga	Sailendra	Shankara	Sidharta	Suma	Surendra	Tara
 }
 monarch_names = { 
-	"Muzaffar Shâh #0" = 10
-	"Mansûr Shâh #0" = 10
-	"Ahmad Tajuddin Shâh #0" = 10
-	"Tajul Ariffin Shâh #0" = 10
-	"Alauddin Shâh #0" = 10
-	"Mukaddam Shâh #0" = 10
-	"Mahmûd Shâh #0" = 10
-	"Sallehuddin Shâh #0" = 10
-	"Mahmûd Iskandar Shâh #0" = 10
-	"Alauddin Mughayat Shâh #0" = 10
-	"Iskandar Zulkarnain Shâh #0" = 10
-	"Alauddin Mansûr Shâh #0" = 10
-	"Ahmaddin Shâh #0" = 10
-	"Abdul Malik Mansûr Shâh #0" = 10
-	"Abdullah Muazzam Shâh #0" = 10
+	"Muzaffar Shah #0" = 20  
+	"Mansur Shah #0" = 20  
+	"Ahmad Tajuddin Shah #0" = 20  
+	"Tajul Ariffin Shah I #0" = 20  
+	"Alauddin Shah #0" = 20  
+	"Mukaddam Shah #0" = 20  
+	"Mahmud Shah #0" = 20  
+	"Salehuddin Shah #0" = 20  
+	"Mahmud Iskandar Shah #0" = 20  
+	"Alauddin Mughayat Shah #0" = 20    
+	"Muhammad Mughayat Shah #0" = 20  
+	"Iskandar Zulkarnain #0" = 20
+	"Alauddin Mansur Shah Iskandar Muda #0" = 20  
+	"Ahmaddin Shah #0" = 20  
+	"Abdul Malik Mansur Shah #0" = 20  
+	"Abdullah Muazzam Shah #0" = 20  
+	"Shahabuddin Riayat Shah #0" = 20  
+	"Abdullah Muhammad Shah #0" = 20  
+	"Jafar Safiuddin Muazzam Shah #0" = 20  
+	"Ali Al-Mukammal Inayat Shah #0" = 20  
+	"Ismail Muabidin Riayat Shah #0" = 20 
+	"Yusuf Sharifuddin Muzaffar Shah #0" = 20  
+	"Idris Murshidul Azzam Shah #0" = 20 
 }
 ship_names = { 
 	"Kuala Kangsar" "Kuala Sepetang" Beruas Manong Parit "Sungai Siput" Ipoh "Batu Gajah" Kampar "Kuala Kurau" "Teluk Intan" Lumut "Pantai Remis" Lenggong Gerik "Pengkalan Hulu" 		Chemor Tapah  "Tanjung Malim" "Bagan Serai" "Parit Buntar" "Changkat Jering" "Kuala Gula" "Batu Kurau" Trong Selama "Ayer Tawar" Sitiawan Tronoh "Tanjung Piandang" 
