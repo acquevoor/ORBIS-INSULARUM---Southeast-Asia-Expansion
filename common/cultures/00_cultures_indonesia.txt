@@ -201,7 +201,7 @@ gayo = {
 banten = {
 	primary = SUN
 	dynasty_names = {
-		Tarumanagara Salakanagara Banten Girang Pulosari Kujang Sunda
+		"Tarumanagara" "Salakanagara" "Banten" "Girang" "Pulosari" "Kujang" "Sunda"
 	}
 	male_names = {
 			Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
@@ -355,7 +355,7 @@ banten = {
 cirebonese = {
 	primary = CRB
 	dynasty_names = {
-		Pajajaran Caruban Galuh Kawali Pakuan Jambudwipa Indraprahasta
+		"Pajajaran" "Caruban" "Galuh" "Kawali" "Pakuan" "Jambudwipa" "Indraprahasta"
 	}
 	male_names = {
 			Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
@@ -538,7 +538,7 @@ maanyan_dayak = {
 }
 sasak = {
 	dynasty_names = {
-		Sasak Bayan Selaparang Pejanggik Lombok
+		"Sasak" "Bayan" "Selaparang" "Pejanggik" "Lombok"
 	}
 	male_names = {
 			Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
@@ -692,7 +692,7 @@ sasak = {
 samawa = {
 	primary = SMA
 	dynasty_names = {
-		Samawa Sumbawa Taliwang Plampang Empang Rhee
+		"Samawa" "Sumbawa" "Taliwang" "Plampang" "Empang" "Rhee"
 	}
 	male_names = {
 			Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
@@ -846,7 +846,7 @@ samawa = {
 sumbawa = {
 	primary = SMW
 	dynasty_names = {
-		Tambora Dompu Sanggar Taliwang Labangka Empang Wawo
+		"Tambora" "Dompu" "Sanggar" "Taliwang" "Labangka" "Empang" "Wawo"
 	}
 	male_names = {
 			Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
@@ -999,7 +999,7 @@ sumbawa = {
 	}
 sumba = {
 	dynasty_names = {
-		Sumba Waingapu Anakalang Lewa Kodi Lamboya
+		"Sumba" "Waingapu" "Anakalang" "Lewa" "Kodi" "Lamboya"
 	}
 	male_names = {
 			Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
@@ -1177,7 +1177,7 @@ timor = {
 lombok = {
 	primary = SPR
 	dynasty_names = {
-		Selaparang Pejanggik Bayan Praya Sakra Pujut Sembalun
+		"Selaparang" "Pejanggik" "Bayan" "Praya" "Sakra" "Pujut" "Sembalun"
 	}
 	male_names = {
 			Abimanyu	Abiyasa	Adhiswara	Adidewalancana	Adikerma	Adiwarna	Adityawangsa	Adityawarman	Adwayabrahma	Adwayawaja	Adwayawarman	Agam				
@@ -1365,7 +1365,7 @@ north_halmahera = {
 south_halmahera = {
 	primary = HML
 	dynasty_names = {
-		Ternate Tidore Bacan Obi Gane Makian
+		"Ternate" "Tidore" "Bacan" "Obi" "Gane" "Makian"
 	}
 	male_names = {
 			Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
@@ -1519,7 +1519,7 @@ south_halmahera = {
 asli = { 
 		primary = DHR
 		dynasty_names = { 
-			Semang Jakun Temiar Bateq Mahmeri Temuan Jahai Chewong Semoq
+			"Semang" "Jakun" "Temiar" "Bateq" "Mahmeri" "Temuan" "Jahai" "Chewong" "Semoq"
 		}
 		male_names = {
 			Abimanyu	Abiyasa	Adhiswara	Adidewalancana	Adikerma	Adiwarna	Adityawangsa	Adityawarman	Adwayabrahma	Adwayawaja	Adwayawarman	Agam				
@@ -2725,17 +2725,8 @@ nusa_tenggara = {
 lampung = {
 		primary = PLB
 		dynasty_names = {
-			"Seputih"	"Sebadak"	"Selimau"	"Sepekhtiwi"	"Sekelumbayan"	"Teluk Betung"	"Sabu Menanga"	"Retai"	"Punduh"	"Pugung"
-			"Pubian"	"Badak"	"Putih"	"Limau"	"Kelumbaian" "Pertiwi"	"Putih Doh"	"Talang Padang"	"Belenguh" "Bunawang" "Way Ngarip Semang" "Pematang Sawah"	"Selawai Kunang" 
-			"Nyunyai"	"Subing"	"Subing Labuhan" "Sukadana"	"Way Seputih"	"Buliuk"	"Nyerupo"	"Junjai"	"Unyi"	"Rebang Pugung"	"Rebang Seputih"
-			"Kasui"	"Berdatu" "Semenguk"	"Way Tuba"	"Bahuga"	"Pemuka Pengiran" "Berasakti"	"Bangsa Raja"	"Jabung"	"Melinting" "Sekampung Ilir" "Sekampung Ulu"
-			"Bulan Ilir"	"Bulan Ulu"	"Tegamoan"	"Suai Umpu"	"Kenyangan"	"Suoh"	"Way Sindi" "La'ai"	"Bandakh"	"Pedada"	"Way Napal"	"Tenumbang"
-			"Bengkunat"	"Way Tenong"	"Ngambur"	"Ngaras"	"Belimbing" "Pugung"	"Pugung Malaya"	"Pulau Pisang"	"Sukau"	"Liwa"	"Krui"	"Bandar"	"Beluguh"
-			"Benawang"	"Baradatu"	"Beliyuk"	"Bolan"	"Nuban"	"Nunyai"	"Umpu"	"Dataran"	"Gedongwani"	"Gunung Alip"	"Kelumbayan"	"Kembahang" 
-			"Ketibung"	"Limau"	"Limau Doh"	"Merak Batin"	"Peminggir Darah Putih"	"Pesisir" "Ratai" "Ratu" "Legun" "Buku Jadi"	"Dantaran"	"Ratasy" "Way Lima" 
-			"Way Semah"	"Barasakti"	"Behuga"	"Pangeran Ilir"	"Pangeran Udik"	"Pangeran Tuha"	"Pangeran" "Beliuk"	"Tiga"	"Bumi Belunguh"	"Ngarip" "Tegamoun"
-			"Selagai"	"Kunang"	"Suway"	"Pupus"	"Menyerakat"	"Kedundung"	"Pernong"	"Kenali"	"Bajalan di Way" "Ratu Ngambur"	"Ratu Ngaras"	
-			"Penggawa Lima"	"Suwoh"	"Indargajah"	"Perja"	"Selembasi"	"Harayap"	"Turegak"	"Parda Suka"	"Cukuh Balak"	"Pemuka" "Barasati"
+           "Seputih" "Sebadak" "Selimau" "Sepekhtiwi" "Sekelumbayan" "Teluk Betung" "Sabu Menanga" "Retai" "Punduh" "Pugung" "Pubian" "Badak" "Putih" "Limau" "Kelumbaian" "Pertiwi" "Putih Doh" "Talang Padang" "Belenguh" "Bunawang" "Way Ngarip Semang" "Pematang Sawah" "Selawai Kunang" "Nyunyai" "Subing" "Subing Labuhan" "Sukadana" "Way Seputih" "Buliuk" "Nyerupo" "Junjai" "Unyi" "Rebang Pugung" "Rebang Seputih" "Kasui" "Berdatu" "Semenguk" "Way Tuba" "Bahuga" "Pemuka Pengiran" "Berasakti" "Bangsa Raja" "Jabung" "Melinting" "Sekampung Ilir" "Sekampung Ulu" "Bulan Ilir" "Bulan Ulu" "Tegamoan" "Suai Umpu" "Kenyangan" "Suoh" "Way Sindi" "La'ai" "Bandakh" "Pedada" "Way Napal" "Tenumbang" "Bengkunat" "Way Tenong" "Ngambur" "Ngaras" "Belimbing" "Pugung" "Pugung Malaya" "Pulau Pisang" "Sukau" "Liwa" "Krui" "Bandar" "Beluguh" "Benawang" "Baradatu" "Beliyuk" "Bolan" "Nuban" "Nunyai" "Umpu" "Dataran" "Gedongwani" "Gunung Alip" "Kelumbayan" "Kembahang" "Ketibung" "Limau" "Limau Doh" "Merak Batin" "Peminggir Darah Putih" "Pesisir" "Ratai" "Ratu" "Legun" "Buku Jadi" "Dantaran" "Ratasy" "Way Lima" "Way Semah" "Barasakti" "Behuga" "Pangeran Ilir" "Pangeran Udik" "Pangeran Tuha" "Pangeran" "Beliuk" "Tiga" "Bumi Belunguh" "Ngarip" "Tegamoun" "Selagai" "Kunang" "Suway" "Pupus" "Menyerakat" "Kedundung" "Pernong" "Kenali" "Bajalan di Way" "Ratu Ngambur" "Ratu Ngaras" "Penggawa Lima" "Suwoh" "Indargajah" "Perja" "Selembasi" "Harayap" "Turegak" "Parda Suka" "Cukuh Balak" "Pemuka" "Barasati"
+
 		}
 		male_names = {
 			Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
