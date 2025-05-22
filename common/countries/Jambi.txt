@@ -29,9 +29,9 @@ historical_units = {
 
 monarch_names = {
 	"Inayat #0" = 20
-	"'AlÓ Mug‚yat #0" = 20
-	"Iskandar TanÓ #0" = 20
-	"Husayn 'AlÓ Ri'‚yat #0" = 20
+	"'Al√Æ Mug√¢yat #0" = 20
+	"Iskandar Tan√Æ #0" = 20
+	"Husayn 'Al√Æ Ri'√¢yat #0" = 20
 	"Menradza #0" = 20
 	"Tsalenggathu #0" = 20
 	"Gadzabadi #0" = 20
@@ -72,10 +72,10 @@ leader_names = {
 	Zulkifli 
 }
 
-ship_names = {
-	Siak Samandara
-	"Malik ul Salih" "Malik Al-Salih"
-	Teunom Peusangen Jamboaye Alas Tripa "Simpang-kiri"
-	"Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe"
-	"Pulau we" "Pulau Breueh"
+ship_names = { 
+	"Sungai Tenang"	"Serampas" "Peratin Tuo" "Senggrahan" "Pembarap" "Mestong" "Awin" "Jambi" "Kecil" "Kumpe Ulu" "Jebus" "Maro" "Sebo" "Kumpe Ilir" "Muara" "Sabak"	
+	"Dendang"	"Berbak"	"Tungka lIlir"	"Tungkal Ulu"	"Mara Sebo Ilir"	"Pemayung Ulu"	"Pemayung Ilir"	"Kembang Paseban"	"Mara Sebo Ulu"	
+	"Batin"	"Petajin Ulu"	"Petajin Ilir"	"Tabir Ilir"	"Sumai"	"Jujuhan"	"Sanggrahan"	"Pratin Tuo"	"Serampas"	"Nalo"	"Tanah Renah"	"Lubuk Gaung"	
+	"Tiga Helai Kain"	"Pangkalan Jambu"	"Sarolangun"	"Pelawan"	"Cermin Nan Gedang"	"Datuk Nan Tigo"	"Bukit Bulan"	"Batang Asai"	
+	"Sungai Pinang"	"Batin Pengambang"	"Air Hitam"	"Simpang"	"Batin Ulu"	"Batin Ilir"	"Tanah Sepenggal"	"Pelepat"
 }
