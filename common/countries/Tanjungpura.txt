@@ -26,30 +26,30 @@ historical_units = {
 	reformed_asian_musketeer
 }
 monarch_names = { 
-	Bhindu  
-	Lidi  
-	Tedung  
-	Jamal Megah  
-	Upak  
-	Bujang  
-	Amal  
-	Tela  
-	Para  
-	Gunung  
-	Kina  
-	Keladi  
-	Sasap  
-	Tela  
-	Kujan  
-	Gani  
-	Busun  
-	Bungsu  
-	Tabrani  
-	Suhita  
-	Cinta  
-	Wangi  
-	Gayatri  
-	Indreswari  
+	"Bhindu"  
+	"Lidi"  
+	"Tedung"  
+	"Jamal Megah"  
+	"Upak"  
+	"Bujang"  
+	"Amal"  
+	"Tela"  
+	"Para"  
+	"Gunung"  
+	"Kina"  
+	"Keladi"  
+	"Sasap"  
+	"Tela"  
+	"Kujan"  
+	"Gani"  
+	"Busun"  
+	"Bungsu"  
+	"Tabrani"  
+	"Suhita"  
+	"Cinta"  
+	"Wangi"  
+	"Gayatri"  
+	"Indreswari"  
 }
 leader_names = { 
 	Hamengku
