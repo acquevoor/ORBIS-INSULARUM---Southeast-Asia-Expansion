@@ -56,11 +56,6 @@ monarch_names = {
 	"Ahmad Nasiruddin #0" = 20
 	"Muhammad Muhieddin #0" = 20
 	"Thaha Saifuddin #0" = 20
-
-	"Amritpal #0" = -1
-	"Dara Jingga #0" = -1
-	"Hamatun #0" = -1
-	"Janji #0" = -1
 }
 
 leader_names = { 
