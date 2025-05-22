@@ -29,18 +29,16 @@ historical_units = {
 }
 
 monarch_names = {
-	"Abdul Jalil Rahmad Syah #0" = 50
-	"Abdul Jalil Jalaluddin Syah #0" = 50
-	"Abdul Jalil Alamuddin Syah #0" = 50
-	"Inayat #0" = 20
-	"'Alî Mugâyat #0" = 20
-	"Iskandar Tanî #0" = 20
-	"Husayn 'Alî Ri'âyat #0" = 20
-	"Menradza #0" = 20
-	"Tsalenggathu #0" = 20
-	"Gadzabadi #0" = 20
-	"Tsau-Lha #0" = 20
-	"Mengtsekya #0" = 20
+	"Gocah Pahlawan #0" = 50
+	"Perunggit #0" = 50
+	"Paderap #0" = 50
+	"Pasutan #0" = 20
+	"Gandar Wahid #0" = 20
+	"Mangendar #0" = 20
+	"Perkasa Alam Shah #0" = 20
+	"Mahmud Al Rashid #0" = 20
+	"Amaluddin Al Sani #0" = 20
+	"Osman #0" = 20
 	
 	"Amritpal #0" = -1
 	"Dara Jingga #0" = -1
