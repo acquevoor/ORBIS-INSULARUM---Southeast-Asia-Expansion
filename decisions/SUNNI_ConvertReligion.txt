@@ -8,6 +8,7 @@ country_decisions = {
 			OR = {
 				culture_group = malay
 				culture_group = filipino_g
+                                culture_group = sulawesi_g
 			}
 			NOT = { 
 				has_country_flag = malay_sunni_conv_rel_decision_enabled_flag
