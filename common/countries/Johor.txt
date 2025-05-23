@@ -129,12 +129,7 @@ monarch_names = {
 }
 
 ship_names = {
-	Parameswara "Sultan Iskandar" Bendahara Laksamana
-	Temenggung "Penghulu bendahari" Shahbandar
-	"Hukum Kanun" "Undang-Undang" "Pulau Bakung"
-	"Pulau Lingga" Kepulauan "Pulau Singkep" "Kepulauan Riau"
-	"Pulau Rempang" "Pulau Kundur" "Pulau Padang"
-	"Pulau Bengkaus" "Pulau Tinggi" "Pulau Sibu"
-	"Pulau Tioman" "Pulau Aur" "Pulau Rupat"
-	"Pulau Rangsang" "Pulau Tebing Tinggi"
+	Johor "Batu Sawar" "Kota Tinggi" "Batu Pahat" "Pulau Bentan" "Pulau Karimun" "Pulau Bintan" "Pulau Kundur" "Pulau Galang" "Pulau Bulang" "Pulau Tambelan" "Pulau Lingga" 
+	"Tanjung Pinang" Pontian Endau Mersing 	Segamat Kluang Rengit Pengerang Benut Labis Pagoh "Ayer Hitam" "Sungai Ujong" Rembau Naning Melaka Singapura Riau Siak Indragiri 
+	Kampar Pelalawan Pekan Kuantan Rompin Temerloh Chenor "Kuala Lipis" Jerantut Maran Natuna
 }
