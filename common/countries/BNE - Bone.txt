@@ -77,6 +77,6 @@ monarch_names = {
 	"La Pabbenteng #0" = 20  
 }
 ship_names = { 
-	Balla Bulu Lompo Sallo Karaeng Bambang Cipuru Doe Iyo Tena
-	Tabe Apa Lakeko Battu Keko 
+	Watampone Cina Cenrana Awangpone Palakka "Tellu Siattinge" "Tanete Riattang" 
+	Kahu Lappariaja Lamuru Ulaweng Amali Bengo Libureng Ajangale Barebbo Mare Sibulue 
 }
