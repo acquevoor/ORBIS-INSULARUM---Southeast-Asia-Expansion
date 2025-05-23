@@ -129,5 +129,5 @@ leader_names = {
 }
 
 ship_names = {
-	Sukadana "Pulau Maya" "Simpang Hilir" "Simpang Hulu" Sandai "Sungai Laur" "Hulu Sungai" Tumbang Titi Jelai Kendawangan Marau Ketapang 
+	"Tanjung Pura" Sukadana "Pulau Maya" "Simpang Hilir" "Simpang Hulu" Sandai "Sungai Laur" "Hulu Sungai" Tumbang Titi Jelai Kendawangan Marau Ketapang 
 }
