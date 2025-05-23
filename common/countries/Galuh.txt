@@ -134,8 +134,5 @@ leader_names = {
 }
 
 ship_names = {
-	Pendet Legong Baris Topeng Barong
-	Kecak Batur Catur Bratan Pohen Lesong
-	Sangyang Batukaru Patas Musi Mesehe
-	Agong Seraya Merbuk Sanglang Kelatakan
+	Kawali Ciamis Banjar Garut Tasikmalaya Sumedang Cirebon Majalengka Kuningan Indramayu Subang Purwakarta Cikalong Cipanas Sagalaherang Cipatat Rancah Panjalu Sindangkasih
 }
