@@ -23,13 +23,13 @@ historical_units = {
 	reformed_asian_cavalry
 }
 monarch_names = { 
-	"Paruwa #0" = 10
-	"Pamayan #0" = 10
-	"Cini #0" = 10
-	"Gowa #0" = 10
-	"Bantan Datu Loka #0" = 10
+	"Dewa Maja Paruwa #0" = 10
+	"Dewa Mas Pamayan #0" = 10
+	"Dewa Mas Cini #0" = 10
+	"Dewa Mas Gowa #0" = 10
+	"Dewa Mas Bantan Datu Loka #0" = 10
 	"Harunnurrasyid #0" = 10
-	"Madina #0" = 10
+	"Dewa Mas Madina #0" = 10
 	"Jalaluddin Muhammad Syah #0" = 10
 	"Datu Bala Sawo #0" = 10
 	"Datu Seran #0" = 10

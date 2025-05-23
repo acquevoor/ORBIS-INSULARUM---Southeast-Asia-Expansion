@@ -27,83 +27,37 @@ historical_units = {
 	reformed_asian_cavalry
 }
 
-leader_names = {
-	Anwar Azmi Batuta Chairul Hamzah Hasanuddin Ibnu
-	Kyai Mahat Mukhtar Najamuddin Natzar Nazmizan Roem Zulkifli
-	"Lawalata" Ulunjadi Soumeru Babiat Zai Risamusu Tambunan Sinusinga Sampono Tanjung Ralahalu
-        Nahulae Banuhaji Latoel Daulay Gersang Katipana Banurea Sopamena Bondong Sopacua Larosa
-        Daparik Malawat Aratuaman Baeha Hehamahua Uwir Salampessy Sinaga Sirait Bachmid Patawala
-        Serhalawan Jurung Tutuarima Beringin Fauzi Sibayang Toisutta Saributua Witoelar Surihani
+leader_names = { 
+	Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
+	Shehryar Ibtisham Javaid Jafar Tahir Razzaq Yunus Suleyman Murtaza Hyder Amir Saif Zulfikar Imron Hafiz  Akbar 
+	Yakub Abdurrashid Mokhtar Hamzah Syuaib Salman Kadir Salim Rasyid Farhan Karim Fauzan Fawwaz Ghulam Sayid Imran Adil
+	Arif Azam Nadim Rizwan Ridwan Nasir Khalid Idris Zahir Nuh Soleh Munir Hamid Yusuf Ihsan Faisal Majid Rafiq Ashrof Iqbal 
+	Jamil Rizki Ridho Isa Yusuf Adam Nuh Saleh Ibrahim Ishak Zulkifli Musa Harun Daud Sulaiman Yunus Ilyas Yahya Zakaria Umar
+	Usman Tholib Malik Alif Amir Amran Aqil Anwar Aziz Faiz Fuad Gozali Hamzah Ilham Ikhwan Israfil Izroil Jauhari Kamal Khalid
+	Lukman Lutfi Mustofa Raihan Rahman Rahim Rahmat Taufik Syarif Wahid Zulkarnain
+	Bayan Sirrullah Boheyat Cico Gapi Baguna Gapi-ma-lamo Kalabata Komalo Pulu Mamole Momole Ngolo-ma-Caya Paji-ma-lamo Patisarang-ma-lamo Poit Siale Sidang Sidang Arif-ma-lamo Syah 	Alam Tolu-ma-lamo
+	Aka Biadut Biagel Degi Desu Dupu Gilang Kabuan Kaksan Kibakar Kudur Ian Igang Lati Lintik Liteub Patud Pamalak Pamintuan Rugus Sagnit Tapuk Tekak Tiglao Ukat Udungan Wadi Yumanam 	Aldew Pawiran Annipig Baringaw Ma-dideg Ma-sulu Yangat Kayli Taynip Bangibang Kimat Wling Odit Dilaw Kayik Hmak Kadang Kodpa Lawag Yabi Allo Kili Uwip Udan Kudol Kilat Emot Lay-ip 	Tibya Holyaw Ngitit Inpih Kugpa Hapiy Way Ngid Diglim Nga-amot Ak-wal Idem Giglep Agani Gulek Leteg Tannag Lewwa Rungtut Sanga Ramut Bulus Pasung Diklem Nabunab Puned Addur Degnin 	Rangu Madi Yopyop Basassag Dettun Dut Uding Pullaw Sulu Killek Kaman Apirit Illayug Legpis Pasi Buru Rakat Biyunget Dagun Dibbi Sipang Tallip Panga Gamu Lappaw Kaddo Bebay Kayyu 	Labbang Kunam Alittugaw Padak Inini Maga Putu Tuggian Ujjo-jin Ngila Baddi Alina Neppi Kanak Taki Pia Jikku Kurrug Agga Tutu Ammune Gukak Aranni Katlub Seweng Tilbad Sengol Gitgit 	Be-ek Matawu Pelengot Ga-an Gemes Hinew Diklem Lim-at Buktit Belag Dekan Lati Kuyeng Ames Litid Tapur Rebi Babak Pelek Purab 			Lapul Lumlum Tugkuk Ibeng Ngusu 	Bungur Sipang Telip Abututi Aisake Ajuk Akali Akeakamai Akikonu Ambua Anewa Aputi Asao Auwebe Bailom Bapak Beworpits Boas Buchtar Bunop Busoate Darawa Darew Daru
+	Dicim Doyam Elape Enod-anem Enoka Ewago Fumeripits Gasowe Ginu Gurabesi Hakopa Halit Heremana Hubugaiyo Hune Ibatiri Ihaka Isini Jagik Japusuok
+	Kelape Kewago Khanduop Kilikili Kilu Kiluwa Kinim Korpore Kurelu Leiron Lemeane Lepeadon Maigi Mako Mangasesse Mangaueru Manuwai Marunogere
+	Mbakwi Mbuirepits Momakowa Munipumb Nakmatugi Nemayokh Nesoipits Nilik Nugu Obi Opeko-anem Pako Pakure Phuba Piru Popaya Pore Pua Pumpa
+	Pupurpits Refafu Repes Rukas Selanbelot Sefanpo Seitakap Sosom Taras Tewer Tomaiang Tukum Tumbrenjak U-mue Ukumhearik Umue Waba Wak Wali Wamena
+	Wawa Wea Weake Weaklekek Wejakhe Wena Weru Weyak Wiro Wiwa Wiwil Yakor Yali Yasa Yawi Yugil Yusak
 }
-
 monarch_names = {
-	"Tunitangkalopi #0" = 10
-	"Batara Gowa #0" = 10
-	"Tuni Djallori #0" = 10
-	"Tuni Parisi #0" = 10
-	"Tuni Palonga #0" = 10
-	"Tuni Butta #0" = 10
-	"Tunyachoka-ri #0" = 10
-	"Karaeng Tunibatta #0" = 10
-	"Tuni Djallo #0" = 10
-	"Parabung #0" = 10
-	"Tuni Pasulu #0" = 10
-	"Maoge #0" = 10
-	"Patipasaung #0" = 10
-	"Mu'taz #0" = 10
-	"Batari Toja #0" = 10
-	"We Tenri #0" = 10
-	"Arung Majang #0" = 10
-	"Toampanangi #0" = 10
-	"Hamaza Tumammalianga #0" = 10
-	"Batara Guru #0" = 10
-	"Fakhr #0" = 10
-	"Shahab #0" = 10
-	"Dewaraja #0" = 10
-	"Settiaraja #0" = 10
-	"Tojang #0" = 10
-	"Batari #0" = 10
-	"Zain #0" = 10
-	"Zaynal-'Abid”n #0" = 10
-	"Sankilang #0" = 10
-	"Limbangparang #0" = 10
-
-    "Fakhr #0" = 0
-    "Shahab #0" = 0
-    "Zain #0" = 0
-    "Maoge #0" = 0
-    "Elihu #0" = 0
-    "Cain #0" = 0
-    "Saabir #0" = 0
-    "Wate #0" = 0
-    "Mu'taz #0" = 0
-    "Zephaniah #0" = 0
-    "Elkanah #0" = 0
-    "Ira #0" = 0
-    "Lemuel #0" = 0
-    "Nashat #0" = 0
-    "Ithamar #0" = 0
-    "Juust #0" = 0
-    "Rufus #0" = 0
-    "Taufik #0" = 0
-    "Batari #0" = 0
-    "Tojang #0" = 0
-    "Toampanangi #0" = 0
-    "Risaolebbi #0" = 0
-    "Tosangkawana #0" = 0
-
-    "Sri Gitarja #1" = -10
-    "Suhita #0" = -10
-    "Cinta #0" = -1
-    "Wangi #0" = -1
-    "Prajnaparamitha #0" = -1
-    "Tribhuawana #0" = -10
-    "Gayatri #0" = -10
-    "Narendra Duhita #0" = -1
-    "Indreswari #0" = -1
+	"Wariyang #0" = 20
+	"Nawai #0" = 20
+	"Nansoerai #0" = 20
+	"Maraitat #0" = 20
+	"Parar #0" = 20
+	"Baniki #0" = 20
+	"Tewar #0" = 20
+	"Mafa #0" = 20
+	"Kamarudin #0" = 20
+	"Ahmad #0" = 20
 }
-
 ship_names = {
-	Balla Bulu Lompo Sallo Karaeng Bambang
-	Cipuru Doe Iyo Tena Tabe Apa Lakeko Battu Keko
+	"Abisay"	"Afasedanya"	"Affar"	"Alua"	"Apaseray"	"Awi"	"Awinero,"	"Bano"	"Bemei"	"Beno"	"Chay"	"Choe"	"Danya"	"Dawir"	"Deda"	"Demena"			"Demetouw"	"Diawaiotuw"	"Dwa"	"Eluay"	"Epaa"	"Felle"	"Fingkreuw"	"Haay"	"Hababuk"	"Hamadi"	"Hamokwarong"	"Hanasbey"	"Hembring"			"Hengga"		"Ibo"	"Injagrang"	"Ireeuw"	"Itaar"	"Kaigere"	"Karuway"	"Makanway"	"Mano"	"Mebri"	"Merahabia"	"Meraudje"			"Modouw"	"MraMra"	"Mbrabano"	"MeraNero"	"Nerotouw"	"Nerre"	"Offide"	"Ohee"	"Okoseray"	"Olua"	"Ondoafo"	"Ormuseray"			"Owaiytouw"	"Pangkali"	"Pangkatana"	"Pepuho"	"Pow"	"Puhili"	"Pulalo"	"Pulanda"	"Puraro"	"Puy"	"Samon"	"Sanggrangbano"	"Sem"		"Seseray"	"Sewali"	"Sibi"	"Sibri"	"Siriyei"	"Sorindemi"	"Soro"	"Sorondana"	"Soumilena"	"Suebu"	"Suwae"	"Tablaseray"	"Takaitouw"	"Tamon"		"Tegai"	"Toam"	"Tokoro"	"Tongrotouw"	"Toto"	"Trapen"	"Wadi"	"Waicang"	"Waisimon"	"Wali"	"Wally"	"Wambukomo"	"Wamiau"	"Wamuar"		"Warimilena"	"Waru"	"Wersay"	"Yakadewa"	"Yakarimelina"	"Yambeyabdi"	"Yaram"	"Yarona"	"Yaru"	"YekuSamon"	"YepasedanYa"	"Yerisetouw"			"Yewi"	"Youwe"	 "Aragay"	"Asmuruf"	"Bleskadit"	"Boloin"	"Fachiri"	"Flassy"	"Jarollo"	"Jitmau"	"Kailele"	"Kalilago"		"Kalokomik"	"Kambu"	"Kambuaya"	"Kemesok"	"Kemesrar"	"Kolonggea"	"Komendi"	"Kondologit"	"Kondororik"	"Krenak"	"Kumabado"			"Kunjol"	"Mabruharu"	"Maga"	"Mecibaru"	"Meeles"	"Meres"	"Metefat"	"Momot"	"Murafer"	"Naa"	"Saflebolo"	"Saflessa"	"Sagrim"		"Salambaw"	"Segetmena"	"Sereifi"	"Serekia"	"Sesa"	"Simat"	"Solossa"	"Sranik"	"Srefle"	"Tarfi"	"Thesia"	"Airori"			"Ananai"	"Anderi"	"Ansanai"	"Arebo"	"Arisoi"	"Ataruri"	"Ayomi"	"Doom"	"Fonataba"	"Imbiri"	"Iwanggin"	"JebiJebi"			"Kabiay"	"Kaiba"	"Kandipi"	"Karubaba"	"Maitindoom"	"Makabori"	"Mambay"	"Maniani"	"Manupapami"	"Muabuay"	"Nenepath"			"Nuboba"	"Numberi"	"Nussy"	"Rapami"	"Rewang"	"Rumakewi"	"Rumbairussy"	"Rumbindi"	"Runtuboy"	"Samber"	"Sayuri"			"Sineri"	"Sumbari"	"Tanaty"	"Tanawani"	"Tomamba"	"Wamdamani"	"Wanggai"	"Warinussy"	"Waromi"	"Waroy"	"Watory"			"Wayeni"	"Wayngkau"	"Wayoi"	"Wondiwoi"	"Woru"	"Worumi"	"Yobe"	"Yowei"	"Almung"	"Alwolka"	"Alwolmabin"	"Apintamon"	"Asemki"	
+	"Bamu"	"Bamulki"	"Birdana"	"Deal"	"Dilam"	"Kaladana"	"Kalaka"	"Kalakmabin"	"Kalevala"	"Kasipdana"	"Kasipka"	"Kasipmabin"	"Kimki"		"Lagura"	"Lepki"	"Malo"	"Mimin"	"Mitne"	"Mul"	"MulnengMurkim"	"Napyal"	"Ningdana"	"Opki"	"Purwi"	"Salawal"	"Sasaka"	"Setamanki"			"Siktaop"	"Singpanki"	"Sipka"	"Sipyan"	"Sitokdana"	"Sitokmabin"	"Taplo"	"Tepmul"	"Uropdana"	"Uropka"	"Uropmabin"	"Urpon"	"Urwam"		"Yawalka"	"Agaki"	"Aibini"	"Aiboy"	"Apainabo"	"Aronggear"	"Bebai"	"Betawi"	"Bindosano"	"Bisai"	"Buiney"	"Diwi"	"Dom"	"Dotiri"		"Duwiri"	"Erari"	"Faisei"	"Gandeguwai"	"Gedi"	"Imbenai"	"Jandeday"	"Kaggenapa"	"Kay"	"Koibai"	"Koridama"	"Kumei"	"Kurei"			"Mambrasar"	"Wanai"	"Maniagasi"	"Maniburi"	"Manobi"	"Manuburi"	"Marini"	"Masini"	"Mauri"	"Mayai"	"Mediri"	"Mesiri"			"Modumi"	"Niki"	"Nuborai"	"Nuburi"	"Paiki"	"Paisei"	"Pandori"	"Paprindei"	"Patai"	"Pedai"	"Ramandey"	"Rambausa"	"Repasi"		"Reumi"	"Rifurareani"	"Rogi"	"Ruatakurei"	"Rudamaga"	"Rumaniowi"	"Rumayomi"	"Rumboisano"	"Rumboy"	"Rumi"	"Ruwayeri"	"Saidui"			"Samanui"	"Sanggenafa"	"Saori"	"Sapari"	"Saroi"	"Sasarari"	"Satya"	"Sawaki"	"Saway"	"Sembay"	"Sererewani"	"Serewi"	"Serewoi"		"Sikowai"	"Simonapendi"	"Sirami"	"Soindemi"	"Suweni"	"Tata"	"Tironi"	"Uyai"	"Wafari"	"Waiferiri"	"Waimbo"	"Wairara"		"Waisiri"	"Wanda"	"Warami"	"Warjukur"	"Waromboy"	"Watopa"	"Wenggi"	"Windesi"	"Woisiri"	"Wonatorey"	"Wopari"			"Worabay"	"Worumboi"	"Wutoy"	"Yandedai"	"Yendiboy"	"Yenusi"	"Abidondifu"	"Abrauw"	"Adadikam"	"Aibekop"	"Aibembrok"			"Aidokor"	"Aiwor"	"Akobiarek"	"Ampobukor"	"Andarek"	"Andoba"	"Anggradifu"	"Ansek"	"Ap"	"Apyem"	"Arfayan"	"Arfusau"	"Arobaya"		"Arompauw"	"Arwahon"	"Arwakom"	"Arwam"	"Asaribo"	"Asyerem"	"Awak"	"Awendu"	"Awom"	"Ayer"	"Ayorbaba"	"Bab"	"Banggaibo"			"Baransano"	"Barbarndio"	"Bargas"	"Binur"	"Bonay"	"Bonsapia"	"Boserem"	"Boukorsyom"	"Brabar"	"Bukorpyopar"	"Burdam"	"Burdames"		"Burwos"	"Dasem"	"Daundi"	"Dawan"	"Dimara"	"Duaramuri"	"Faidiban"	"Fairyo"	"Faisenem"	"Fakdawer"	"Farwas"	"Fitowin"		"Griapon"	"Imbab"	"Imbir"	"Inarkombu"	"Inas"	"Infaidan"	"Infandi"	"Inggabouw"	"Inggamer"	"Insyur"	"Inur"	"Iryou"	"Kabes"	"Kabiai"		"Kabo"	"Kafiar"	"Kaiseppo"	"Kaiway"	"Kandenafa"	"Kapissa"	"Kapitarauw"	"Karafir"	"Karma"	"Kawer"	"Khabarek"	"Kmur"	"Kmurawak"		"Koibur"	"Komboy"	"Korua"	"Korwa"	"Krey"	"Krisifu"	"Kurni"	"Majar"	"Makbon"	"Maker"	"Makmaker"	"Makuker"	"Mambenas"	"Mambyeuw"		"Mamirisau"	"Mampioper"	"Mampokem"	"Mandibobo"	"Mandobar"	"Mandosir"	"Mandowen"	"Manduwes"	"Manggaprouw"	"Manggara"	"Manggobo"		"Manggoimbras"	"Maninem"	"Maningwarba"	"Manpyoper"	"Mansawan"	"Mansbawar"	"Mansmor"	"Mansnandifu"	"Mansnembra"	"Mansoben"	"Manufandu"		"Maran"	"Marandof"	"Marisan"	"Marsyom"	"Maryar"	"Maryen"	"Mayer"	"Mayor"	"Meokbun"	"Mesido"	"Meysiren"	"Mirino"			"Mniber"	"Mnsiren"	"Mnusefer"	"Mofu"	"Morin"	"Mosesendifu"	"Msen"	"Nap"	"Noriwari"	"Obinarum"	"Ojaba"	"Opada"	"Opur"	"Orboi"	"Orisu"			"Osbabur"	"Osenem"	"Padur"	"Padwa"	"Pae"	"Paryaribo"	"Pay"	"Penasifu"	"Pombos"	"Pondayar"	"Prawar"	"Randongkir"	"Rayar"	"Rejau"		"Ronsumbre"	"Rumabar"	"Rumadas"	"Rumainum"	"Rumakik"	"Rumaluto"	"Rumanasen"	"Rumansara"	"Rumaropen"	"Rumasep"	
+	"Rumbaibak"	"Rumbarak"	"Rumbarar"	"Rumbekwan"	"Rumbepon"	"Rumbepur"	"Rumbewas"	"Rumbiak"	"Rumbino"	"Rumboirussi"	"Rumboryas"		"Rumbrapuk"	"Rumbrar"	"Rumbrawer"	"Rumere"	"Rumfabe"	"Rumfakem"	"Rumkabas"	"Rumkabu"	"Rumkorem"	"Rumpaidus"	"Rumpaisum"		"Rumpampam"	"Rumpumgo"	"Rumrumren"	"Rumsarwir"	"Rumsayor"	"Rumsowek"	"Saba"	"Sabarofek"	"Sada"	"Sanadi"	"Sanggew"	"Sanyar"		"Sapyoper"	"Sarakan"	"Sarawan,"	"Sarwa"	"Sarwamu"	"Sawen"	"Sawor"	"Sermumes"	"Sikora"	"Simbiak"	"Simopiaref"	"Simyapen"			"Sobuber"	"Sombuk"	"Sorbu"	"Sormof"	"Sroyer"	"Sukan"	"Sundey"	"Swarba"	"Urbinas"	"Uron"	"Vairnap"	"Wabiser"	"Wader"		"Wakman"	"Wakris"	"Wakum"	"Wamafma"	"Wambrauw"	"Wandosa"	"Wanggober"	"Wanma"	"Waramori"	"Warer"	"Warfandu"	"Warikar"			"Warnares"	"Warpinggon"	"Warpur"	"Warwe"	"Warwer"	"Weyai"	"WOF"	"Wokrar"	"Wompere"	"Womsiwor"	"Wonar"	"Wospakrik"	"Yafdas"		"Yapen"		"Yarangga"	"Yawan"	"Yembise"	"Yeninar"	"Yensenem"	"Yewun"	"Asso"	"Doga"	"Elopere"	"Haluk"	"Hesegem"	"Heselo"			"Hisage"		"Itlay"	"Jogobi"	"Kalouk"	"Kilungga"	"Kogoya"	"Kossay"	"Kurisi"	"Lagoan"	"Logo"	"Mabel"	"Maryan"		"Matuan"	"Molama"	"Pahabol"	"Pase"	"Peragiye"	"Sabulay"	"Salak"	"SIEP"	"Silak"	"Surabut"	"Tabuni"	"Tilapok"	"Walela"		"Walilo"	"Wantik"	"Wenda"	"Wetapo"	"Wetipo"	"Yelemaken"	"Ahek"	"Alhamid"	"Alkatian"	"Atamimi"	"Dandarmana"	"Garamatan"		"Gewab"	"Ginuni"	"Gredenggo"	"Guas"	"Hanaba"	"Hegemur"	"Heremba"	"Hertetringgi"	"Hindom"	"Hobrouw"	"Homba"	"Hombore"	"Horik"		"Iba"	"Iha"	"Iribaram"	"Irwanas"	"Kacong"	"Kanangtare"	"Kaningai"	"Kapaur"	"Kastela"	"Komber"	"Krispul"	"Kutanggas"		"Minditkendit"	"Musaad"	"Pagesa"	"Patipi"	"Pattiran"	"Pihibi"	"Rimosan"	"Rumagesan"	"Rumanais"	"Rumbati"	"Padwai"		"Ramar"	"Saiba"	"Sarumi"	"Sayori"	"Suwabey"	"Tawansiba"	"Titohu"	"Torei"	"TrirboWandauu"	"Waran"	"Weryanggi"	"Wiyai"	"Wonemseba"			"Makuba"	"Mehri"	"Ohodo"	"Okoka"	"Tukayo"	"Wamblolo"	"Ongge"	"Asabo"	"Kere"	"Nere"	"Soangbraro"	"Thaime"	"Walli"	"Aufa"	"Ehaa"	"Hikinda"		"Lali"	"Awaitouw"	"Feobetouw"	"Mimitouw"	"Wahei"	"Kalem"	"Sokoy"	"Daime"	"Kopeuw"	"Kubia"	"Mehue"	"Ondi"	"Palle"	"Yoku"	
+	"Dainoe"	"Dike"	"Marbase"	"Marwery"	"Pangkareuw"	"Daimoe"	"Dauwe"	"Enek"	"Entong"	"Eritetena"	"Tokoy"	"Ebe"	"Kaway"	"Kreuta"		"Manuri"	"Naebey"	"Nukuboy"	"Tuwairo"	"Yapo"	"Abaiso"	"Baso"	"Bausa"	"Cawem"	"Dasigo"	"Foisa"	"Irotti"	"Ruwaro"	"Tou"		"Towao"
 }
