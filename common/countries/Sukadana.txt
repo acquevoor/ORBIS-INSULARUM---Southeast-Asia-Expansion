@@ -26,15 +26,6 @@ historical_units = {
 }
 
 monarch_names = {
-	"Brawijaya #0" = 10  
-	"Bapurung #0" = 10  
-	"Panembahan Karang Tanjung #0" = 10  
-	"Pundong Asap #0" = 10  
-	"Panembahan Bendala #0" = 10  
-	"Anom #0" = 10  
-	"Panembahan Baroh #0" = 10  
-	"Panembahan Sorgi #0" = 10  
-	"Ratu Mas Jaintan #0" = 10  
 	"Giri Mustaka #0" = 10  
 	"Gusti Kesuma Matan #0" = 10 
 	"Gusti Jakar Kencana #0" = 10  
