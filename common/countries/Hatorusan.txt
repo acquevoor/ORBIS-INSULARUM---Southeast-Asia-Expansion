@@ -36,15 +36,15 @@ monarch_names = {
 	"Mombang Napitu #0" = 20
 	"Talaibabana #0" = 20
 	"Sindar Mata Ni Ari #0" = 20
-	"Pagaruyung #0" = -1
-	"Sori #0" = -1
-	"Tembong #0" = -1
-	"Lenggogeni  #0" = -1
-	"Saruaso #0" = -1
-	"Gapuak #0" = -1
-	"Mariam #0" = -1
-	"Sumpu #0" = -1
-	"Fatimah #0" = -1
+	"Isombaon #0" = 20
+	"Biak-Biak #0" = 20
+	"Saribu Raja #0" = 20
+	"Limbong Maulana  #0" = 20
+	"Sagala Raja #0" = 20
+	"Silau Raja #0" = 20
+	"Tuan Sorimangaraja #0" = 20
+	"Asiasi #0" = 20
+	"Sangkar Somalidang #0" = 20
 }
 leader_names = { 
 	Anggiat Abet Anju Agam Andos Ambolas Anggi Aganan Angkang Ampin Arian Baoa Bangun Binsar Benget Bonor Bontor Bargas Barani Basar Batara
