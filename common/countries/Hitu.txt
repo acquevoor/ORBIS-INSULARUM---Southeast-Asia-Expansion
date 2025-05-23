@@ -22,12 +22,12 @@ historical_units = {
 	reformed_asian_cavalry
 }
 monarch_names = { 
-	"Zainal Abidin #0" = 10
-	"Maulana Imam Ali Mahdum Ibrahim #0" = 10
-	"Pattilain #0" = 10
-	"Popo Ehu #0" = 10
-	"Mateuna #0" = 10
-	"Hunilamu #0" = 10
+	"Zainal Abidin #0" = 20
+	"Maulana Imam Ali Mahdum Ibrahim #0" = 20
+	"Pattilain #0" = 20
+	"Popo Ehu #0" = 20
+	"Mateuna #0" = 20
+	"Hunilamu #0" = 20
 }
 leader_names = { 
 	Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
