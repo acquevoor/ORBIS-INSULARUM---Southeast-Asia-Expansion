@@ -23,47 +23,111 @@ historical_units = {
 	reformed_asian_cavalry
 }
 monarch_names = { 
-	"Sharif ul Hashim #0" = 20
-	"Kamal ud Din #0" = 20
-	"Sharif Sayyid Ala ud Din #0" = 20
-	"Amirul Umara #0" = 20
-	"Muizz ul Mutawadiin #0" = 20
-	"Batarah Shah Tengah #0" = 20
-	"Muwallit Wasit #0" = 20
-	"Muhammad Alimuddin #0" = 20
-	"Muhammad al Halim #0" = 20
-	"Muizz ul Din #0" = 20
-	"Nasir ud Din #0" = 10
-	"Azimuddin #0" = 10
-	"Salah ud Din Bakhtiyar #0" = 10
-	"Shihab ud Din #0" = 10
-	"Mustafa Shafi #0" = 10
-	"Muhammad Badaruddin #0" = 10
-	"Muizz ud Din Bantilan #0" = 10
+	"Sharif ul-Hashim #0" = 10
+	"Kamal ud-Din #0" = 10
+	"Alaud-Din #0" = 10
+	"Amirul-Umara #0" = 10
+	"Muizzul-Mutawadi-in #0" = 10
+	"Nasirud-Din #0" = 10
+	"Muhammad ul-Halim #0" = 10
+	"Batarah Shah Tengah #0" = 10
+	"Muwallil Wasit #0" = 10
+	"Salahud-Din Bakhtiar #0" = 10
+	"Ali Shah #0" = 10
+	"Nur ul-Azam #0" = 10
+	"Al Haqunu Ibn Wali ul-Ahad #0" = 10
+	"Shahabud-Din #0" = 10
+	"Mustafa Shafi ud-Din #0" = 10
+	"Badarud-Din #0" = 10
+	"Nasarud-Din #0" = 10
+	"Alimud-Din #0" = 10
+	"Bantilan Muizzud-Din #0" = 10
 	"Muhammad Israil #0" = 10
-	"Muhammad Sharafuddin #0" = 10
-	"Aliyuddin #0" = 10
-	"Shakirullah #0" = 10
-	"Anela #0" = -1
-	"'Umniya #0" = -1
-	"Hafeeza #0" = -1
-	"Aisha #0" = -1
-	"Azura #0" = -1
+	"Shakirul-Lah #0" = 10
+	"Jamalul Kiram I #0" = 10
+	"Moh. Pulalun Kiram #0" = 10
+	"Jamal ul-Azam #0" = 10
+	"Harun Ar-Rashid #0" = 10
 }
 leader_names = { 
-	Agung
-	Batara
-	Bima
-	Elok
-	Karna
-	Rimba
-	Saleh
-	Satria
-	Sentosa
-	Yuda
+	Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
+	Shehryar Ibtisham Javaid Jafar Tahir Razzaq Yunus Suleyman Murtaza Hyder Amir Saif Zulfikar Imron Hafiz  Akbar 
+	Yakub Abdurrashid Mokhtar Hamzah Syuaib Salman Kadir Salim Rasyid Farhan Karim Fauzan Fawwaz Ghulam Sayid Imran Adil
+	Arif Azam Nadim Rizwan Ridwan Nasir Khalid Idris Zahir Nuh Soleh Munir Hamid Yusuf Ihsan Faisal Majid Rafiq Ashrof Iqbal 
+	Jamil Rizki Ridho Isa Yusuf Adam Nuh Saleh Ibrahim Ishak Zulkifli Musa Harun Daud Sulaiman Yunus Ilyas Yahya Zakaria Umar
+	Usman Tholib Malik Alif Amir Amran Aqil Anwar Aziz Faiz Fuad Gozali Hamzah Ilham Ikhwan Israfil Izroil Jauhari Kamal Khalid
+	Lukman Lutfi Mustofa Raihan Rahman Rahim Rahmat Taufik Syarif Wahid Zulkarnain
+	Abimanyu	Abiyasa	Adhiswara	Adidewalancana	Adikerma	Adiwarna	Adityawangsa	Adityawarman	Adwayabrahma	Adwayawaja	Adwayawarman	Agam		Agrajasama	Dudung	Dudun Airlangga	Ajar	Ajnajabharitamawakana	Aji	Akarendrawarman	Ametung	Amurwabhumi	Ananggawarman	Ananta	Anantawikramottunggadewa Andi
+	Anggira	Angkawijaya	Adun	Dulur Angkerawarman	Anidhana	Aniruda	Aniwariwirya	Antasena	Anusapati Arijamuka	
+	Arjjaya	Arkajacihna Arok	Arya Aryanagara	"Arya Belog"	"Arya Damar"	Eba Dunungan "Dapunta Hyang" Harep	Hardi	Hampura Dharmaswara	Halis	Heulang	Henhen
+	"Arya Kenceng"	"Arya Kutawandira"	"Arya Sentong"	Aryana	Aryeswara	Arjuna	Astasura	Aswawarman	Awataranindita	Ayuddha	Bacung	Baduga	Bagas	Duriat	
+	Bahubajrapratipaksaksaya	Baila	Balaputradewa	Balawa	Bambang	Bameswara	Barmawijaya	Balitung	Balu	Basi	Baskara	Basu	Basuki	Baturenggong	
+	Bayu Benawa	Bhadra	Bhagadatta	Bhanu	Bhanuwijaya	Bhasura	Bhiswara	Bhuwana	Bhuwanatala	Bima	Bimayasawirya	Bisawa	Blondo	Brajawisesa	Bratasena
+	Bratasenawa	Bratasennawaputra	Brawijaya	Budana	Bumi	Buminagara	Bunisora	Buntar	Buwana	Cakra	Cakradhara	Cakrawarman	Cahyadi	Candra	Ece
+	Candrabhanu	Candrabhaya	Candrasurya	Candrawarman	Candrawijaya	Citragandha	Cudamani	Dakat	Daksa	Daksottama	Damodara	Danta	Danu	
+	Darmakusuma	Darmalokapala	Darmaraksa	Darmasiksa	Darmaswara	Darmawirya	Dengjaya	Dermasetia	Dewana	Dewang	Dewasingha	Dewawarman	
+	Dewendra	Dhanada	Dhananjaya	Dhaneswara	Dharma	Dharmaja	Dharmasatya	Dharmasatyadewa	Dharmasetu	Dharanindra	Dharmasuparnawahana	
+	Dharmawangsa	Dharmayawarman	Dharmeswara	Dhawala	Digjaya	Digwijaya	Digwijayakasa	Dipanagara	Drampuan	Dumadi	Eka	Ekajayalancana	Ekanagara		Ekawijaya	Gajayanalingga	Galuh	Ganawirya	Gandra	Garalek	Garasakan	Geda	Girindrawardhana	Girishawardhana	Godog	Gowna	Graswa	Grihita	Gujil
+	Gula	Guna	Hadinagara	Hadiwijaya	Hadiwinta	Handabhuwanapadalaka	Harigana	Harimurti	Harisdarma	Hariwangsa	Hariwangsawarman	
+	Hayamwuruk Indera	Hareup	Haneut	Inderawangsa	Indrawarmadewa	Indrawarman Iswarakeswarasamarottungga	Iswarakesawalingga	Iswaralingga	Iswarawijaya	
+	Jagatnata	Jaka	Janardanawatara Rengku	Rawaya	Aep Aam	Deden 	Janasadhu	Jatiningrat	Jaya	Jayabaya	Jayabupati	Jayadrata	Jayakatwang		Jayakirtiwardhana Jayakusuma	Jayanagara	Jayananda	Jayanasa Jayaningrat	Jayantaka	Rhangkem Jayapangus	Jayasakti	Jayasingawarman	Jayawardana	
+	Jayawangsa	Jayawarsa	Jitendrakara	Julay	Kabayan	Kalula	Kameswara Kamesywara Kanaka	Kandara	Roem Karengean	Karna	Karnnakesana	Kartikeyasingha	Kebha	
+	Kertabhumi	Kertajaya	Kertanagara	Kertarajasa	Kertawardhana	Kertawarman Kertawangsa	Kertawijaya	Ajat	Asep	Kesara	Kesari	Ketana	Khatwangga	
+	Kiratasingha	Kirtisingha	Koncaryadipa	Ksatrabhimaparakrama	Kudungga	Kusala	Kusumayudha	Kutak	Kutawandira	Atang	Yogaswara
+	Kutur	Landuka	Langlangbumi	Lewih	Limwana	Linggabhumi	Linggabhuwana	Linggabuana	Linggabuanawisesa	Linggadewata	Linggasakti	Linggawarman	Ijang	
+	Harkat	Yudhistira Linggawisesa	Lokapala	Luhurprabawa	Luwdira	Mada	Madhusudana	Madhusudanawatara	Mahadipusat	Mahamoksha	Mahawangsa	
+	Mahawarman	Mahisa	Makoputadhanu		Vamana	Makutawangsawardhana	Manarah	Maneser	Manghu	Mangkubumi	Mangkunagara	Mangusir	Manu	Manuku	
+	"Mapanji Garasakan"	Mapanjialanjung	Mara	Marmadewa	Mencang	Khandra Merong	Mudgalyana	Mudita	Mulawarman	Murteja	Mustaya	Nagajayawarman	Naladewa	
+	Nandawangsa	Narayana	Natapura	Nawanamanitaniddhita	Nila	Nilakendra	Prawara
+	Nilautama	Nilawangsa	Ningratkencana	Niskalawastukencana	Pala	Palar	Panangkaran	Panaraban	Pancapana	Panda	Panjaluan	Panji	Panuluh	
+	Panunggalan	Sahasya Parakrama	Parakramawardhana	Parameswara	Pasukala	Pikatan	Pikramawira	Pipul	Prabasuyasa	Prajna	Prapanca	
+	Pratapaparakrama	Prayanta	Pundut	Aom	Agus	Purbanagara	Purbasora	Purnama	Purnamanagara	Purnawarman	Purnawijaya	Purwawisesa	
+	Ragajaya	Raharja	Raiwana	Ralua	Rajakusuma	Rajasa	Rajasanagara	Gumbira Rajasawardhana	Ramawijaya	Ramawangsa	Ramawarman	Ramawarna	Ranan	
+	Ranawijaya	Ranawikrama	Ranggawarman	Ranggawuni	Ranjang	Ratnabhumibanten	Gugun	Gugum	Yasawirya Ratnapangkaja	Ratnasangkha	Rasuk	Rayung	
+	Rudrawarman	Rudrawikrama	Sabdang	Sadhana	Sajjana	Saka	Sakalabhuwana	Sakalendukirana	Sakranta	Saladu	Ajang Samahita	Samaragrawira	Samaratungga	
+	Samarawijaya	Samarotsaha	Samawijaya	Sana	Sanggrama	Sanggramadhananjaya	Sanggramawijaya	Sangrama	Sanjaya	Geunjleung	Gerimis	Dana
+	Sanmatanuraga	Sarikaburangan	Sarjuna	Sarwana	Sarwaniwariwirya	Sarwarimadawimathana	Sarweswara	Sastrahetajnadewati	Satyaganapati	Satyanagara	Rama		Raket	Ragasuci	Ragaji	Ageng	Sayawasanatunggadewa	Sayyawasanottunggadewa	Sedah	Sekarsungsang	Sena	Senakusuma	Senawijaya	Siliwangi	Sindok	
+	Singasagara	Singhadani	Gembira	Jejen	Gerilap	Genep Singhawikramawardhana	Sigit	Siwastra	Sodai	Sojasa	Sudarya	Sudhawarman	Sudirman	Sugandi		Suhtrisingha	Sujana	Sukarama	Sukarna	Sulong	Sumadi	Sunarya	Sundarawarman	Sundarawijaya	Sundarapandya	Supardi	Suradewata	Suradhipa	Suradipati		Suragana	Suraprabhawa	Surawardhani	Surawijaya	Raray	Raraosan	Rampa
+	Surawisesa	Suriadiwangsa	Suryanagara	Suryawangsa	Suryawarman	Suryawikrama	Suryawijaya	Susila	Sutanagara	Sutawijaya					Tabanendra	Tanjungan	Tawa	Ace	Aceng	Tohjaya	Trailokyaraja	Tribhuwanaraja	Tribuana	Triwikramawatara	Tulodong	Tumenggung			Tunggalningrat	Tunggawijaya	Udayaditya				Udayadityawarman Junaedi	Kamandaka  Kosasih Keumari Udayana	Ugrasena	Utipati			Uttunggadewa	Uttunggawijaya 	Wadua	Wagiswara	Wahyu	Wairiwarawiramardana	Walajayakertaningrat Walaprabu	Wana	Wanayasa 	Jajaka	Jajang				Wangan	Wariga	Warmadewa	Warmeswara	Wasudewa	Wasugeni	Wasukawi	Wasumurti	Wawa	Widada	Wijaya	Wijayakumara					Wijayarajasa	Wijayalokanamottungga	
+	Wijayatunggawarman	Wijayawarman	Wikramadharmottunggadewa	Wikramawardhana	Wikramawira	Winduraja	Wira	Wirabumi	Wirakelana	Wirakeranda	
+	Koswara	Maman	Markasih Memed	Supriatna Wiralandagopala Wirama	Wiranagara Wirawairimathana	Wiryawawahan	Wikrama	Wisnu	Wisnuwardhana	Wisnuwarman			Wisuddha	Wudi	Wurutuk	Wuryyawiryya	Suhendar	Sutrisna Yuddhanagara	Yudhenipuna	Yudistira Yuda	Yuwana	
+	Barna	Bagja	Cahya	Ence	Engkus	Enjang	Endang	Repe	Sujoni	Dedeng	Abisatya	Adwaya	Adanu	Adhinatha	Argani	Agra	Abista	Abyakta				Adara	Adibrata	Bena	Byakta	Biantara	Bryatta	Bhadrika
+	Cakara	Cipta	Cahari	Casugraha	Chalis	Cayapata	Cakrajiya	Cawisadi	Ciptana	Dierja	Djani	Dihyan	Daryata	Dewandaru	Dalirin
+	Estiawan	Elang	Enda	Enes	Estu	Endaru	Fusena	Fazaira	Gamya	Giyanta	Gumilar	Giandra	Ganendra	Garjita	Hardana
+	Hadyan	Hastanta	Hanenda	Hardiyata	Hattala	Hestamma	Idhang	Ismawan	Indurasmi	Ihatra	Imba	Inir	Hiranya	Jagadita	Jamanika
+	Jatmika	Jumanta	Jagat	Karsa	Kantata	Kuswan	Kacaya	Kagendra	Kama	Kanigara	Kawanda	Kawiswara	Labda	Laksana	Lawana
+	Madaharsa	Magani	Mahasura	Mandaka	Marma	Mardhi	Makuta	Marsudi	Martaka	Nadindra	Nala	Nandana	Nararya	Nismara	Nataya
+	Opal	Pacima	Rembulan	Padantya	Padmana	Pandita	Pandya	Ujang	Payada	Pirata	Pradaya	Pangestu	Paramudya	Perbawa	Prama
+	Ruri	Respati	Rupadi	Rion	Sambara	Sangaji	Sahadya	Sadran	Sahasika	Sakuta	Tadakara	Taraka	Trengginas	Tyaga	Tanaya
+	Untungga	Upasama	Utama	Uraga	Wita	Wacika	Wagindra	Wahyatma	Wajendra	Wakaya	Wangkawa	Wasista	Wihita	Wursita	Wiyasa
+	Bahuwirya	Bhagawanta	Baswara	Bajradaka	Suganda	Elan	Risnandar	Enu	Engkos	Engke	Enggal	Endeur	Endeung	Encep	Eman
+	Damar	Danumaya	Darya	Endra	Yada	Yoda	Gumelar	Dudu	Dodo	Dodi	Djaka	Didin	Didi	Dian	Herang
+	Hasya	Hengkara	Kebanggaan	Sudarsana	Yuwa	Jalu	Yukti	Hampang	Hamdalah	Halimpu	Halabab	Gungun	Gunawan	Gumujeng	Gumilang
+	Jantaka	Janitra	Jayastu	Jiwatrisna	Sobarna	Hendri	Agah	Gede	Gatot	Ganjar	Gandana	Gancang	Gampil	Galur	Galing
+	Lakeswara	Lingga	Layana	Luhur	Lesmana	Cucu	Maduswara	Rada	Putra	Purwanegara	Purwadinata	Purun	Aa	Adang	Ade
+	Nayaka	Nitijana	Nohan	Ogya	Osta	Aang	Ojwala	Entang	Tatang	Galih	Gilang	Ginanjar	Idang	Kidang	Idi
+	Ragnala	Rahagi	Rajendra	Raksa	Raynar	Restisalya	Agan	Nandang	Nataprawira	Oded	Pepen	Pradana	Prawiraharja	Raka	Rukmana
+	Tawang	Turmukti	Tresna	Ugraha	Umbara	Utungga	Ulung	Sutresna	Tisna	Udin	Uu	Wisesa	Wawan	Yana	Adeng
+	Wismaya	Wilalung	Waksa	Widagda	Widura	Yajna	Yudanta	Saidi	Eep	Edi	Eces	Dedi	Dadan	Dadang	Ayi
+	Cingceng	Celak	Guntur	Ceceng	Cece	Caringin	Etang	Senjaya	Haur	Harti	Harja	Andika	Antana	Anusanatha	Apul
+	Abidin	Adnan	Agung	Hamengku	Ahnani	Roslan	Ajisaka	Along	Amangku	Amangkurat	Ardianto	Ariga	Cahyono	Cecep	Burhan
+	Atok	Awang	Badan	Balihung	Harijit	Bambong	Banta	Meor	Batuta	Matulesia	Bejo	Bhumiswara	Bintang	Budi	Bonjol
+	Chairil	Chairul	Dahari	Rosdi	Dato	Debata	Dewantara	Duman	Embong	Entji	Erlangga	Eyo	Galang	Ganuhpatih	Gapaeuh
+	Hatta	Hiawang	Hulanapo	Iswaramurti	Janggam	Gapi	Jarot	Jasni	Jatawaman	Jayakatong	Kamarul	Kartanegara	Kartodirdjo	Kasumenagara	Kersen
+	Khoen	Kiani	Kundugga	Kurniawan	Kusnasosro	Ladhuanpuguh	Lemboe	Lokman	Madi	Madja	Mah	Mangkubuni	Manjolong	Maraja	Marturak
+	Meurah	Mochtar	Mukmin	Nanta	Narotama	Nik	Pak	Panembahan	Tjipto	Patarsuar	Purnadi	Puteh	Raden	Ranga	Rayek
+	Rosli	Rosman	Tisundimahrai	Saktiraydapatih	Sandang	Seudang	Sanusi	Sarmini	Sartoro	Satyawati	Sinduk	Singa	Siwanandana	Sopan	Sugriwa
+	Sukanlah	Mat	Sukiman	Suluang	Sumitra	Sugeng	Suparman	Surapati	Susuhanan	Suyana	Taha	Takdir	Tandi	Teungku	Tilo
+	Tjokroaminoto	Suhaimi	Triago	Tun	Tunggul	Widhyananda		Wijayananda	Wiranta	Wirapandya	Yapto	Yatim	Yudhayana	Yudistra	Yusri
+	Abbiyya	Abinawa	Abirama	Aditya	Agha	Agya	Akandra	Akhilendra	Alsaki	Amartya	Angga	Ardika	Ardiya	Arkatama	Arnawama
+	Adiyaksa	Adyatama	Affandra	Agasthya	Kiran	Kivandra	Madhava	Mahadevan	Mahavira	Mahendra	Mahesa	Maheswara			Manggala	Mavendra	Nafeda
+	Arsa	Arsyanendra	Aryandra	Aryasetya	Atharya	Atmadeva	Atreya	Auriga	Bagaspati	Balaaditya	Bayanaka	Bhalendra	Bhupendra		Bimantara	Birendra Brahma	Caraka	Chandra	Chandrakanta	Daiva	Danadyaksa	Danantya	Danapati	Danar	Danendra	Daneswara	Danindra		Darmawangsa	Davanka	Davendra Davka	Devabrata	Devananta	Devanka	Dipta	Diratama	Diraya	Eknath	Enzi	Evan	Falan	Farraz	Fazwan	Ganesh	Gasendra
+	Gautama	Hara	Hirawan	Indra	Indrayan	Iravan	Ishan	Jahan	Jayakrishna	Jayendra	Kaivan	Kalingga	Kavi	Kayana	Upendra
+	Nagendra	Nalendra	Nanda	Naradipta	Naranaya	Naratama	Narendra	Parama	Prabawa	Pradipta	Praditya	Pramadana		
+	Pramudya	Pranaya	Umapati Priyatama	Radeva	Radhika	Rafandra	Rahandika	Rahardja	Rakyan	Ramanda	Ranendra	Rasendriya	Ratan	
+	Ravindra	Sadendra	Sagara	Tarendra Vardhaman	Varen	Vasant	Vijendra	Vikrama	Vilas	Virendra	Wandra	Waradana	Widyanata	
+	Wiradharma	Wirasana	Wistara	Yasa	Tarangga Samana	Samanta	Sandya	Sangga	Sailendra	Shankara	Sidharta	Suma	Surendra	Tara
 }
 ship_names = { 
-	Kulassein Pangutaran Panducan Marunggas Cap Laparan Dammail Lapac Siasi Lungus
-	Tapul Cabingaan Julu Pata Kalingalan Capual Bangalao Simsa Balanguingle Bucutua
-	Suluan 
+	Jolo Basilan "Tawi - Tawi" Siasi Tapul Lugus Pandami Simunul Bangaan Patikul Indanan Maimbung Panglima Sugala Hadji Panglima Tahil Sulu Sabah
 }
