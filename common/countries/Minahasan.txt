@@ -23,78 +23,60 @@ historical_units = {
 	reformed_asian_cavalry
 }
 leader_names = { 
-	Anwar Azmi Batuta Chairul Hamzah Hasanuddin Ibnu Kyai Mahat Mukhtar
-	Najamuddin Natzar Nazmizan Roem Zulkifli "Lawalata" Ulunjadi Soumeru Babiat Zai
-	Risamusu Tambunan Sinusinga Sampono Tanjung Ralahalu Nahulae Banuhaji Latoel Daulay
-	Gersang Katipana Banurea Sopamena Bondong Sopacua Larosa Daparik Malawat Aratuaman
-	Baeha Hehamahua Uwir Salampessy Sinaga Sirait Bachmid Patawala Serhalawan Jurung
-	Tutuarima Beringin Fauzi Sibayang Toisutta Saributua Witoelar Surihani 
+	Andi Daeng Ambo Akku Ampa Arung Atu Benga Bombang Eja Enre Esa Gatta Gau Kasii Keteng Lalo Matta Makkawaru Besse
+	Malomo Nyompa Pada Jeru La Laba Palalo Pallawarukka Takko Tinro Tunrung Uleng Putra Perdana Tinro Tojeng
+	Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+	Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+	Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 	Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+	Matasa Isakka Latahang Baco Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Aso Nyalla Mattalitti Ramang
+	Batara Butta Djallo Djallori Gowa Karaeng Limbangparang Palonga Parabung Parisi Pasulu Sankilang Tumammalianga Tuni Sudding Paliwang Oddang
+	Tunibatta Tunitangkalopi Tunyachoka-ri Palaloi Mattalatta Kaduk Massepe Pajongga Ngalie Ranggong Radja Mallaranggeng Beddu Amang Mariok Dira
+	Peppang Makkarumpa Djemma Pawawoi Pati Palakka Madukelleng Saelan Uno Tumpa
 }
 monarch_names = { 
-	"Tunitangkalopi #0" = 10
-	"Batara Gowa #0" = 10
-	"Tuni Djallori #0" = 10
-	"Tuni Parisi #0" = 10
-	"Tuni Palonga #0" = 10
-	"Tuni Butta #0" = 10
-	"Tunyachoka-ri #0" = 10
-	"Karaeng Tunibatta #0" = 10
-	"Tuni Djallo #0" = 10
-	"Parabung #0" = 10
-	"Tuni Pasulu #0" = 10
-	"Maoge #0" = 10
-	"Patipasaung #0" = 10
-	"Mu'taz #0" = 10
-	"Batari Toja #0" = 10
-	"We Tenri #0" = 10
-	"Arung Majang #0" = 10
-	"Toampanangi #0" = 10
-	"Hamaza Tumammalianga #0" = 10
-	"Batara Guru #0" = 10
-	"Fakhr #0" = 10
-	"Shahab #0" = 10
-	"Dewaraja #0" = 10
-	"Settiaraja #0" = 10
-	"Tojang #0" = 10
-	"Batari #0" = 10
-	"Zain #0" = 10
-	"Zaynal-'Abidîn #0" = 10
-	"Sankilang #0" = 10
-	"Limbangparang #0" = 10
-	"Fakhr #0" = 0
-	"Shahab #0" = 0
-	"Zain #0" = 0
-	"Maoge #0" = 0
-	"Elihu #0" = 0
-	"Cain #0" = 0
-	"Saabir #0" = 0
-	"Wate #0" = 0
-	"Mu'taz #0" = 0
-	"Zephaniah #0" = 0
-	"Elkanah #0" = 0
-	"Ira #0" = 0
-	"Lemuel #0" = 0
-	"Nashat #0" = 0
-	"Ithamar #0" = 0
-	"Juust #0" = 0
-	"Rufus #0" = 0
-	"Taufik #0" = 0
-	"Batari #0" = 0
-	"Tojang #0" = 0
-	"Toampanangi #0" = 0
-	"Risaolebbi #0" = 0
-	"Tosangkawana #0" = 0
-	"Sri Gitarja #1" = -10
-	"Suhita #0" = -10
-	"Cinta #0" = -1
-	"Wangi #0" = -1
-	"Prajnaparamitha #0" = -1
-	"Tribhuawana #0" = -10
-	"Gayatri #0" = -10
-	"Narendra Duhita #0" = -1
-	"Indreswari #0" = -1
+	"Wintu-wintu #0" = 10
+	"Dotulango #0" = 10
+	"Mosolaingo #0" = 10
+	"Mokodoludut #0" = 10
+	"Bangkai #0" = 10
+	"Damopolii #0" = 10
+	"Busisi #0" = 10
+	"Mokodompit #0" = 10
+	"Tadohe #0" = 10
+	"Mangat Tona #0" = 10
+	"Watu Tuminting #0" = 10
+	"Pontoh #0" = 10
+	"Lumimuut #0" = 10
+	"Tumbelaka #0" = 10
+	"Daopayago #0" = 10
+	"Damopoli #0" = 10
+	"Pasuma #0" = 10
+	"Imimingo #0" = 10
+	"Mogolaigo #0" = 10
+	"Sangian Datu #0" = 10
+	"Gobel #0" = 10
+	"Mokolisi #0" = 10
+	"Polingala #0" = 10
+	"Pulubulawa #0" = 10
+	"Matoko #0" = 10
+	"Bagule #0" = 10
+	"Napu #0" = 10
+	"Katili #0" = 10
+	"Matoka #0" = 10
+	"Tuako #0" = 10
+	"Unonongo #0" = 10
 }
-ship_names = { 
-	Balla Bulu Lompo Sallo Karaeng Bambang Cipuru Doe Iyo Tena
-	Tabe Apa Lakeko Battu Keko 
-}
+ship_names = {
+        "Abutan"	"Agou"	"Akay"	"Akil"	"Aling"	"Alow"	"Alui"	"Amoi"	"Ampow"	"Andu"	"Anes"	"Angkuw"	"Angow"	"Anis"	"Antou"	"Aray"	"Arina"	"Aruperes"	"Assa"	"Atuy"	"Awondatu"	"Awuy"	"Arikalang"		"Atotoy"	"Asseif"	"Bangkang"	"Barahamin"	"Batas"	"Belung"	"Bentang"	"Besouw"	"Bogar"	"Bogia"	"Bokau"	"Bokong"	"Bolang"	"Bolung"	"Bororing"	"Biya"	"Gobel"		"Laleno"	"Monoarfa"	"Boseke"	"Botto"	"Botu"	"Boyoh"	"Buyung"	"Badja"	"Choandy"	"Ciwulusan"	"Coloay"	"Domili"	"Damongilala"	"Damopoli"	"Damopoli'i"	"Dalos"	"Dapu"		"Datu"	"Datumbanua"	"Dayoh"	"Dededaka"	"Deeng"	"Dendeng"	"Dengah"	"Dagi"	"Daipaha"	"Dewat"	"Dimpudus"	"Dipan"	"Dissa"	"Dodu"	"Dollo"	"Dolot"	"Dompis"	"Dompas"	"Dompasa"		"Dondo"	"Dondokambey"	"Donsu"	"Doodoh"	"Dopong"	"Doringin"	"Dorongpangalo"	"Dotulong"	"Dumais"	"Dumanauw"	"Dumbi"	"Dungus"	"Dusaw"	"Eman"	"Emon"	"Emor"	"Endei"	"Engka"	"Engko"		"Ering"	"Erungan"	"Egeten"	"Gerungan"	"Ginsu"	"Golijot"	"Golose"	"Golung"	"Goni"	"Goniwala"	"Gandaria"	"Gontha"	"Gontung"	"Gosal"	"Gumalag"	"Gumansalangi"		"Gumansing"	"Gumion" "Gundong"	"Ganda"	"Gerung"	"Gumolung"	"Handuran"	"Haling"	"Imbar"	"Inaray"	"Inkiriwang"	"Inolatan"	"Intama"	"Item"	"Imbang"	"Iroth"			"Jusung"	"Katupayan"	"Kaat"	"Kaawoan"	"Kaendo"	"Kaeng"	"Kaes"	"Kainde"	"Kairupan"	"Kalangi"	"Kalempou"	"Kalempouw"	"Kalengkongan"	"Kalesaran"	"Kalici"			"Kaligis"	"Kalitow"	"Kalalo"	"Kaloh"	"Kalonta"	"Kalumata"	"Kamagi"	"Kamasi"	"Kambey"	"Kambong"	"Kamu"	"Kandio"	"Kandoli"	"Kandou"	"Kanter"		"Kandouw"	"Kandowangko"	"Kapahang"	"Kapantouw"	"Kaparang"	"Kapele"	"Kapero"	"Kapoh"	"Kapoyos"	"Kapugu"	"Karamoy"	"Karau"	"Karauwan"	"Karouw"	"Karinda"		"Karisoh"	"Karuh"	"Karundeng"	"Karuntu"	"Karuyan"	"Karwur"	"Kasenda"	"Katopo"	"Katuuk"	"Kaumpungan"	"Kaunang"	"Kawatu"	"Kawengian"	"Kawilarang"			"Kawohan"	"Kawulur"	"Kawulusan"	"Kawung"	"Kawuwung"	"Keincem"	"Kekung"	"Kelah"	"Keles"	"Kelung"	"Kembal"	"Kembau"	"Kembuan"	"Kemur"	"Kenap"	"Kepel"	"Keraf"		"Kereh"	"Kesek"	"Kewas"	"Khodong"	"Killala"	"Kilapong"	"Kimbal"	"Kindangen"	"Kirangen"	"Kiroh"	"Kiroiyan"	"Koagouw"	"Koapaha"	"Kodongan"	"Kodoatie"	
+	"Koessoy"	"Kojongian"	"Koleangan"	"Kolibu"	"Kolinug"	"Koloay"	"Kolompoy"	"Kolondam"	"Kolonio"	"Koly"	"Komaling"	"Komalig"	"Komansilan"	"Kombaitan"			"Komimbin"	"Kondoi"	"Kontu"	"Kontul"	"Kopalit"	"Kopitoy"	"Koraah"	"Korah"	"Korengkeng"	"Koroh"	"Korinus"	"Korompis"	"Koropitan"	"Korouw"	"Korua"	"Kosijungan"		"Kotambunan"	"Kountul"	"Kourow"	"Kowaas"	"Kowal"	"Kowonbon"	"Kowu"	"Kowulur"	"Koyansouw"	"Koyong"	"Kuhu"	"Kulit"	"Kullit"	"Kumaat"	"Kumaseh"	"Kumarurung"		"Kumaunang"	"Kumayas"	"Kumendong"	"Kumesan"	"Kumolontang"	"Kumontoy"	"Kuntag"	"Kupon"	"Kusen"	"Kussoy"	"Karaeng"	"Komambong"	"Kukus"	"Kaseger"	"Kondolia"	"Kotel"		"Kasenda"	"Kasombang"	"Kumaseh"	"Kawet"	"Lalamentik"	"Laloan"	"Lalowang"	"Laloh"	"Lalu"	"Lalujan"	"Lapepo"	"Lambey"	"Lambogia"	"Lamoh"	"Lampah"	"Lampus"		"Langie"	"Langitan"	"Langkai"	"Languyu"	"Lantang"	"Lantu"	"Laoh"	"Lapian"	"Lapong"	"Lasut"	"Legi"	"Legoh"	"Lekes"	"Lelemboto"	"Lelengboto"	"Lembong"	"Lempash"		"Lempas"	"Lempou"	"Lempoy"	"Lenak"	"Lengkey"	"Lendeng"	"Lengkoan"	"Lengkong"	"Lensun"	
+	"Leong"	"Lepar"	"Lesar"	"Lewu"	"Liando"	"Limbat"	"Limbong"	"Limpele"	"Linelejan"	"Lintjewas"	"Lintang"	"Lintong"	"Liogu"	"Litow"	"Liotohe"	"Liow"	"Liu"	"Liwe"	"Loho"		"Loindong"	"Loing"	"Loloang"	"Lolombulan"	"Lolong"	"Lolowang"	"Lomban"	"Lombogia"	"Lomboan"	"Lomboto"	"Lompoliu"	"Lonan"	"Londa"	"Londok"	"Longdong"			"Londong"	"Lonteng"	"Longkutoy"	"Lonta"	"Lontaan"	"Lontah"	"Lontoh"	"Losung"	"Lotulung"	"Lowai"	"Lowing"	"Ludong"	"Lumanau"	"Lumangkun"	"Lumantow"		"Lumatau"	"Lumbuun"	"Lumempouw"	"Lumenta"	"Lumentut"	"Lumi"	"Lumingas"	"Lumingkewas"	"Lumintang"	"Luminuut"	"Lumoindong"	"Lumondong"	"Lumongdong"	"Lumowa"			"Lumunon"	"Luntungan"	"Lutulung"	"Lakoy"	"Losu"	"Langow"	"Lohonauman Kumambow"	"Lowongan"	"Maoekari"	"Macawalang"	"Magonta"	"Maengkom"	"Mahan"	"Makaampoh"	"Maidangkay"		"Mandiara"	"Madias"	"Mailangkay"	"Mailensun"	"Mailoor"	"Maindoka"	"Mainsouw"	"Mait"	"Makadada"	"Makal"	"Makalew"	"Makaliwe"	"Makangares"	"Makanoneng"	"Makaoron"		"Makarawis"	"Makarawung"	"Makatuuk"	"Makawalang"	"Makawulur"	"Makiolol"	
+	"Makisanti"	"Maleke"	"Malingkas"	"Maliangkay"	"Malingkay"	"Malonda"	"Mamahit"	"Mamangkey"	"Mamantouw"	"Mamanua"	"Mamarimbing"	"Mamba"	"Mambo"	"Mambu"	"Mamengko"			"Mamentu"	"Mamesah"	"Mamitoho"	"Mamu"	"Mamoto"	"Mamusung"	"Mamuaja"	"Mamuntu"	"Manampiring"	"Manangkabo"	"Manangkod"	"Manapa"	"Manasal"	"Manarisip"			"Manaroinsong"	"Manayang"	"Mandagi"	"Mandang"	"Mandey"	"Mandolang"	"Mandow"	"Manembu"	"Manese"	"Manengkei"	"Manganang"	"Mangare"	"Mangangantung"	"Mangempis"		"Mangindaan"	"Mangkey"	"Mangowal"	"Mangundap"	"Manimporok"	"Maningkas"	"Manopo"	"Manorek"	"Mantik"	"Mantiri"	"Mantoauw"	"Manua"	"Manueke"	"Manurip"	"Manus"		"Mapaliey"	"Maramis"	"Marentek"	"Maringka"	"Masael"	"Masengi"	"Masinambau"	"Masing"	"Masiruw"	"Masoko"	"Massie"	"Matandung"	"Matindas"	"Maukar"		"Mawei"	"Maweru"	"Mawikere"	"Mawitjere"	"Mawuntu"	"Mekel"	"Mema"	"Menayang"	"Mende"	"Mendur"	"Mengko"	"Mentang"	"Mentu"	"Meray"	"Mezak"	"Mewengkang"	"Mewoh"	"Midas"	"Mince"		"Mincelungan"	"Minder"	"Mingkid"	"Mioyo"	"Mirah"	"Mogigir"	"Mogot"	"Mogonta"	"Mokalu"	
+	"Mokodaser"	"Mokodompit"	"Mokodongan"	"Mokobombang"	"Momongan"	"Momor"	"Momuat"	"Monangin"	"Mondigir"	"Mondong"	"Mondoringin"	"Mondou"	"Mogi"	"Mongi"	"Mongilala"			"Mongisidi"	"Mongkaren"	"Mongkau"	"Mongkol"	"Mongula"	"Moniaga"	"Moninca"	"Moningka"	"Moningkey"	"Moniung"	"Moniyong"	"Mononimbar"	"Mononutu"	"Montolalu"		"Montong"	"Montung"	"Morong"	"Moto"	"Mowilos"	"Muaja"	"Muaya"	"Mudeng"	"Muke"	"Mukuan"	"Mumbunan"	"Mumek"	"Mumu"	"Munaiseche"	"Mundung"	"Muntu"	"Muntuan"			"Muntuuntu"	"Musak"	"Musu"	"Mowoka"	"Mawey"	"Manese"	"Makaliwe"	"Nangley"	"Nangka"	"Narawangsa"	"Nangon"	"Nangoy"	"Naray"	"Nayoan"	"Nelwan"	"Neman"			"Nender"	"Ngala"	"Ngangi"	"Ngantung"	"Ngayouw"	"Ngenget"	"Ngion"	"None"	"Nongka"	"Nangin"	"Ogi"	"Ogot"	"Ogotan"	"Olar"	"Oleng"	"Ohy"	"Oley"	"Ombeng"	"Ombu"		"Ompi"	"Ondang"	"Onibala"	"Onsu"	"Opit"	"Orah"	"Oroh"	"Otay"	"Oping"	"Ombingo"	"Raintung"	"Rakian"	"Rambi"	"Rambing"	"Rambitan"	"Rampangilei"	"Rampen"	"Rampengan"		"Rampi"	"Rangkang"	"Ransun"	"Ransingin"	"Ranti"	"Rantung"	"Rapar"	"Raranta"	"Rares"	
+	"Rarun"	"Rarungkuan"	"Rarumangkay"	"Rasu"	"Ratag"	"Rattu"	"Ratu"	"Ratulangi"	"Ratuliu"	"Ratumbuisang"	"Raturandang"	"Ratuwalangaouw"	"Ratuwalangon"	"Ratuwandang"	"Rau"	"Rawis"	"Rawung"		"Rayo"	"Regar"	"Rei"	"Rembang"	"Rembet"	"Rempas"	"Rende"	"Rengku"	"Rengkuan"	"Rengkung"	"Repi"	"Retor"	"Rimper"	"Rimporok"	"Rindengan"	"Rindorindo"	"Ringkuangan"		"Robot"	"Roeroe"	"Rogahang"	"Rogi"	"Rolangon"	"Rolos"	"Rombang"	"Rombot"	"Rompas"	"Rompis"	"Rondo"	"Rondonuwu"	"Rooroh"	"Ropa"	"Rori"	"Roringkon"	"Rorimpandey"		"Roring"	"Rorintulus"	"Rorong"	"Rosok"	"Rotikan"	"Rotinsulu"	"Rottie"	"Roway"	"Ruata"	"Ruaw"	"Rugian"	"Ruidengan"	"Ruindungan"	"Rumagit"	"Rumambi"	"Rumampen"		"Rumampuk"	"Rumangkang"	"Rumangun"	"Rumansi"	"Rumantir"	"Rumawung"	"Rumayar"	"Rumate"	"Rumawas"	"Rumbay"	"Rumbayan"	"Rumeen"	"Rumende"	"Rumengan"		"Rumenser"	"Rumetor"	"Rumimper"	"Rumimpunu"	"Rumincap"	"Rumokoy"	"Rumondor"	"Rumpesak"	"Rumuat"	"Rundengan"	"Rungkat"	"Runtu"	"Runtukahu"	"Runtunuwu"			"Runturambi"	"Runtuwailan"	"Runtuwene"	"Runtuwarouw"	"Ruray"	
+	"Ruru"	"Roeroe"	"Rurugala"	"Regoh"	"Ratumbanua"	"Runtulalo"	"Rya"	"Rahamis"	"Pando"	"Paat"	"Pai"	"Paila"	"Pajow"	"Pakasi"	"Palangiten"	"Palar"	"Palandeng"	"Palembatas"			"Palendeng"	"Palenewen"	"Palenteng"	"Palilingan"	"Palit"	"Paalupi"	"Panambunan"	"Panda"	"Pandaleke"	"Pandean"	"Pandeiroth"	"Pandeiroot"	"Pandelaki"	"Pandey"	"Pandi"			"Pandong"	"Pangalila"	"Pangkahila"	"Pangau"	"Pangemanan"	"Panggey"	"Pangila"	"Pangkerego"	"Pangkey"	"Pangkong"	"Pangerapan"	"Pantonuwu"	"Pantou"	"Pantouw"		"Pantow"	"Palupi"	"Palusi"	"Parapak"	"Parengkuan"	"Parera"	"Paruntu"	"Paseki"	"Pasla"	"Pasumiin"	"Pateh"	"Pauner"	"Paoki"	"Pelealu"	"Pelle"	"Peleh"			"Pelenkahu"	"Pelengkahu"	"Pelleng"	"Pelango"	"Pelawiten"	"Pendang"	"Pepah"	"Pesik"	"Pesot"	"Piay"	"Piyoh"	"Pinangkaan"	"Pinantik"	"Pinaria"	"Pinontoan"	"Pioh"	"Piri"			"Pitong"	"Pitoy"	"Pojoh"	"Podung"	"Pogalin"	"Pola"	"Polakitan"	"Poli"	"Polii"	"Polimpung"	"Politon"	"Poluakan"	"Poluan"	"Pomantouw"	"Pomantow"	"Pomohon"			"Ponamon"	"Pondaag"	"Pondaaga"	"Pongantung"	"Pongayouw"	"Ponggawa"	
+	"Pongilatan"	"Pongoh"	"Ponosingon"	"Pontoan"	"Pontoan"	"Ponto"	"Pontoh"	"Pontonuwu"	"Pontororing"	"Porayow"	"Poraweouw"	"Porayouw"	"Porajow"	"Porong"			"Posumah"	"Potu"	"Poyouw"	"Pratasik"	"Pua"	"Pungus"	"Punu"	"Purasa"	"Purukan"	"Pusung"	"Putong"	"Putang"	"Prok"	"Salindeho"	"Saroinsong"	"Sabar"			"Saerang"		"Sampel"	"Sahelangi"	"Sahensolar"	"Sajangbati"	"Sajow"	"Sakul"	"Salangka"	"Salem"	"Salendu"	"Salu"	"Sambouw"	"Sambow"	"Sambuaga"	"Sambul"			"Sambur"		"Samola"	"Sampouw"	"Sandehang"	"Sangari"	"Sanger"	"Sangeroki"	"Sanggor"	"Sangian"	"Sangkaeng"	"Sangkoy"	"Sangkal"	"Sarapung"			"Saraun"		"Sarayar"	"Sariowan"	"Sarmanella"	"Sarundajang"	"Saweho"	"Seke"	"Seko"	"Sembel"	"Sembung"	"Semeke"	"Semet"	"Senduk"	"Sendow"	"Senewe"		"Sengke"	"Sengkey"	"Senouw"	"Sepang"	"Sewow"	"Sigar"	"Sigarlaki"	"Simbar"	"Simbawa"	"Sinaulan"	"Sinatrya"	"Singal"	"Sinjal"	"Sinombor"	"Singkoh"		"Sinolungan"	"Sirang"	"Siwu"	"Siwi"	"Siwy"	"Solang"	"Solambela"	"Somba"	"Sompi"	"Sompie"	"Sompotan"	"Sondakh"	"Sondey"	"Soputan"	"Sopacoly"	"Soriton"	
+	"Sorongan"	"Spaer"	"Suak"	"Sualang"	"Suatan"	"Sulu"	"Sumaiku"	"Sumakud"	"Sumoked"	"Suawa"	"Sumakul"	"Sumampouw"	"Sumangkud"	"Sumanti"	"Sumarab"	"Sumarandak"		"Sumarauw"	"Sumayow"	"Sumele"	"Sumenge"	"Sumendap"	"Sumesei"	"Sumigar"	"Sumilat"	"Sumlang"	"Sumolang"	"Sumual"	"Sumuan"	"Sumuweng"	"Sundah"		"Sungkudon"	"Suot"	"Supit"	"Surentu"	"Suwu"	"Saren"	"Sumerah"	"Sagai"	"Sumangando"	"Salainti"	"Singon Sumandag"	"Sasaw"	"Sahal"	"Samboh"	"Sparingga"	"Taas"	"Tairas"			"Tabiman"	"Tabalujan"	"Talumepa"	"Talumewo"	"Talumantak"	"Talumikir"	"Tamaka"	"Tampongagoy"	"Tambahani"	"Tambalean"	"Tambani"	"Tambarici"	"Tamara"	"Tambariki"		"Tambayong"	"Tambengi"	"Tambingon"	"Tamboto"	"Tamuntuan"	"Tamburian"	"Tambuwun"	"Tamon"	"Tampa"	"Tampanatu"	"Tampanguma"	"Tampatty"	"Tampemawa"	"Tampenawas"	"Tampi"			"Tampilang"	"Tampomuri"	"Tampinongkol"	"Tamuntuan"	"Tangkuman"	"Tandayu"	"Tangka"	"Tangkau"	"Tangkere"	"Tatendang"	"Tangel"	"Tangkow"	"Tangkudung"	"Tangkilisan"		"Tangkulung"	"Tangon"	"Tapada"	"Tanod"	"Tanor"	"Tanos"	"Tarandung"	"Taroreh"	"Tarumingi"	"Tarumingkeng"	"Tatilu"	"Tatontos"	"Taulu"	"Tawaang"	"Tawalujan"	"Tawas"	"Temo"		"Tenda"	"Tendean"	"Tengker"	"Tengges"	"Tenggor"	"Tentero"	"Terok"	"Tetengean"	"Teteregoh"	"Tewuh"	"Tewal"	"Thuda"	"Tidayoh"	"Tirajoh"	"Tirie"	"Tielung"	"Tiendas"		"Tijow"	"Tikoalu"	"Tikonuwu"	"Tilaar"	"Timbuleng"	"Timpal"	"Timporok"	"Timporog"	"Tinangon"	"Tinamberan"	"Tindengen"	"Tinggogoy"	"Tintene"	"Tintingon"			"Tirayoh"		"Tirie"	"Tiwa"	"Tiwon"	"Tiwow"	"Toalu"	"Toad"	"Toar"	"Todar"	"Togas"	"Tolandang"	"Tololiu"	"Tolukun"	"Tombeng"	"Tombiling"	"Tombokan"	"Tomboelu"	"Tompodung"			"Tompunu"	"Tombuku"	"Tondatuon"	"Tonggari"	"Tongkeles"	"Tongkotow"	"Tooi"	"Tontei"	"Torar"	"Toreh"	"Torek"	"Terok"	"Tontey"	"Towo"	"Tualangi"	"Tuda"	"Tuegeh"		"Tuela"	"Tuera"	"Tuerah"	"Tuilan"	"Tulandi"	"Tulaar"	"Tular"	"Tulenan"	"Tulung"	"Tulus"	"Tulusan"	"Tumanduk"	"Tumangkeng"	"Tumatar"	"Tumbei"	"Tumbel"		"Tumbelaka"	"Tumbol"	"Tumbuan"	"Tumembouw"	"Tumengkol"	"Tumewu"	"Tumilaar"	"Tumilesar"	"Tumimomor"	"Tumion"	"Tumiwa"	"Tumiwang"	"Tumober"	
+	"Tumondo"	"Tumonggor"	"Tumundo"	"Tumurang"	"Tumuyu"	"Tunas"	"Tundalangi"	"Tungka"	"Turambi"	"Turang"	"Turangan"	"Tuuk"	"Tuwaidan"	"Tuwo"	"Tuyu"	"Tuyuwale"		"Tulangouw"	"Tombey"	"Tumilantou"	"Uguy"	"Ukus"	"Ulaan"	"Umbas"	"Umboh"	"Umarisa"	"Umpel"	"Undap"	"Unibala"	"Unsulangi"	"Untu"	"Unu"	"Ulus"	"Uway"	"Waani"	"Wagei"	"Wagey"	"Wagiu"	"Waha"		"Wahani"	"Wahon"	"Wakari"	"Wakkary"	"Wala"	"Walalangi"	"Walanda"	"Waladou"	"Walandouw"	"Walangare"	"Walangitan"	"Walean"	"Walebangko"	"Walansendow"	"Walewangko"		"Walelang"	"Waleleng"	"Walian"	"Walintukan"	"Waloni"	"Walukow"	"Waluyan"	"Warouw"	"Wanei"	"Wangania"	"Wanget"	"Wangkar"	"Wangke"	"Wangko"			"Wantah"	"Wantalangi"	"Wantania"	"Wantasen"	"Warbung"	"Warankiran"	"Wariki"	"Warokka"	"Watah"	"Watania"	"Watti"	"Watugigir"	"Watulangkouw"	"Watulingas"	"Watuliu"		"Watuna"	"Watung"	"Watupongoh"	"Waturandang"	"Watuseke"	"Wauran"	"Wawoh"	"Wawointama"	"Wawolangi"	"Wawolumaya"	"Wawondatu"	"Wawonsingal"	"Waworuntu"	"Woruntu"			"Wayong"	"Wajongkere"	"Wehantouw"	"Weku"	"Welan"	"Weley"	
+	"Welong"	"Wenas"	"Wengkang"	"Wensen"	"Wenur"	"Wentuk"	"Weol"	"Wereh"	"Werung"	"Wetik"	"Wewengkang"	"Wilar"	"Windah"	"Winerungan"	"Winokan"	"Winowatan"	"Wohon"			"Woimbon"	"Wokas"	"Wola"	"Wolayan"	"Wondal"	"Wongkar"	"Wonok"	"Wontas"	"Wonte"	"Wooy"	"Worang"	"Worek"	"Worotikan"	"Worung"	"Wotulo"	"Wowilang"	"Wowiling"		"Wowor"	"Wuaten"	"Wuisan"	"Wuisang"	"Wulung"	"Wulur"	"Wungkana"	"Wungow"	"Wuntu"	"Wurangian"	"Wurara"	"Wuwung"	"Wuwungan"	"Wuysang"	"Waworundeng"
+    }
