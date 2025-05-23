@@ -26,40 +26,30 @@ historical_units = {
 }
 
 monarch_names = {
-	"Girindrawardhana #0" = 20
-	"Girishawardhana #0" = 20
-	"Kertabumi #0" = 20
-	"Kertawijaya #0" = 20
-	"Rajasawardhana #0" = 20
-	"Suraprabhawa #0" = 20
-	"Wikramawardhana #0" = 20
-	"Hayam Wuruk #1" = 15
-	"Kalagamet #1" = 15
-	"Raden Wijaya #1" = 15
-	"Suhita #0" = -15
-	"Sri Gitarja #1" = -10
-	"Kertawardhana #0" = 10
-	"Raden Sotor #0" = 10
-	"Raden Sumirat #0" = 10
-	"Singhawardhana #0" = 10
+	"Sangen #0" = 10
+	"Sangiang #0" = 10
+	"Bunu #0" = 10
+	"Antang Bajelu Bulau #0" = 10
+	"Lanting #0" = 10
+	"Kerangka Amban Penyang #0" = 10
+	"Kameluh Kambang Garing #0" = 10
+	"Lambung #0" = 10
+	"Petak Kalabien Bulan #0" = 10
+	"Sengalang Burong #0" = 10
+	"Sikhan #0" = 10
+	"Litih #0" = 10
+	"Jatha #0" = 10
+	"Bujang Bedjie #0" = 10
 }
 
-leader_names = {
-	Hamengku
-	Agung
-	Slamet
-	Budi
-	Harto
-	Karno
-	Wani
-	Mas
-	Kencono
-	Ratri
+leader_names = { 
+	Ampong Binti Labih Rumbun Sipet Purok Mamut Menteng Hanjak Nanjan Djata Lawai Jau Keling Ngau Lisu Ullok Apoi Wan Dehen
+	Djatta Ekot Hanyi Labih Mantikei Mantir Simpei Segah Saloh Selong Teras Simbun Saduri Sangkurun Salundik Taladjan During
+	Suli Tumon Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja
+	Sulin Usun Ubong Long Puynag Bulan Asie Ambon Bungas Bungeh Bawin Enon Jenta Hawon Harum Hanyam Kalawa Kambang Lamiang
+	Manyang Mantoh Rimbun Nyelong Paris Pumpong Rimpong Siwoh Sindai Simpon Sarita Sallie Sullie Timpong Tindoh
 }
 
 ship_names = {
-	Pendet Legong Baris Topeng Barong
-	Kecak Batur Catur Bratan Pohen Lesong
-	Sangyang Batukaru Patas Musi Mesehe
-	Agong Seraya Merbuk Sanglang Kelatakan
+	"Asuy" "Gamas" "Naras" "Rampan" "Siluq" "Singo" "Bodjer" "Bulatn" "Kamuntik" "Karna" "Malat" "Ngayoh" "Parayu" "Ubad"
 }
