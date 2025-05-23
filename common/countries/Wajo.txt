@@ -89,6 +89,5 @@ monarch_names = {
 	"La Tenrioddang #0" = 10
 }
 ship_names = { 
-	Balla Bulu Lompo Sallo Karaeng Bambang Cipuru Doe Iyo Tena
-	Tabe Apa Lakeko Battu Keko 
+	Lamuru Sengkang Tempe Bola Wajo Sabbang Sajoangnge Tanasitolo Pitumpanua Belawa "Mariori Wawo" 
 }
