@@ -24,57 +24,60 @@ historical_units = {
 	reformed_asian_cavalry
 }
 leader_names = { 
-	Abdulfatah Ahmad Amir Anwar Azmi Batuta
-	Chairul
-	Hamzah Hasanuddin Ibnu
-	Kyai
-	Mahat Mukhtar Najamuddin Natzar Nazmizan Roem
-	Syarifuddin
-	Zulkifli
+	Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
+	Shehryar Ibtisham Javaid Jafar Tahir Razzaq Yunus Suleyman Murtaza Hyder Amir Saif Zulfikar Imron Hafiz  Akbar 
+	Yakub Abdurrashid Mokhtar Hamzah Syuaib Salman Kadir Salim Rasyid Farhan Karim Fauzan Fawwaz Ghulam Sayid Imran Adil
+	Arif Azam Nadim Rizwan Ridwan Nasir Khalid Idris Zahir Nuh Soleh Munir Hamid Yusuf Ihsan Faisal Majid Rafiq Ashrof Iqbal 
+	Jamil Rizki Ridho Isa Yusuf Adam Nuh Saleh Ibrahim Ishak Zulkifli Musa Harun Daud Sulaiman Yunus Ilyas Yahya Zakaria Umar
+	Usman Tholib Malik Alif Amir Amran Aqil Anwar Aziz Faiz Fuad Gozali Hamzah Ilham Ikhwan Israfil Izroil Jauhari Kamal Khalid
+	Lukman Lutfi Mustofa Raihan Rahman Rahim Rahmat Taufik Syarif Wahid Zulkarnain
+	Andi Daeng Ambo Akku Ampa Arung Atu Benga Bombang Eja Enre Esa Gatta Gau Kasii Keteng Lalo Matta Makkawaru Besse
+	Malomo Nyompa Pada Jeru La Laba Palalo Pallawarukka Takko Tinro Tunrung Uleng Putra Perdana Tinro Tojeng
+	Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+	Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+	Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 	Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+	Matasa Isakka Latahang Baco Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Aso Nyalla Mattalitti Ramang
+	Batara Butta Djallo Djallori Gowa Karaeng Limbangparang Palonga Parabung Parisi Pasulu Sankilang Tumammalianga Tuni Sudding Paliwang Oddang
+	Tunibatta Tunitangkalopi Tunyachoka-ri Palaloi Mattalatta Kaduk Massepe Pajongga Ngalie Ranggong Radja Mallaranggeng Beddu Amang Mariok Dira
+	Peppang Makkarumpa Djemma Pawawoi Pati Palakka Madukelleng Saelan Uno Tumpa
 }
 monarch_names = { 
-	"Tunitangkalopi #0" = 10
-	"Batara Gowa #0" = 10
-	"Tuni Djallori #0" = 10
-	"Tuni Parisi #0" = 10
-	"Tuni Palonga #0" = 10
-	"Tuni Butta #0" = 10
-	"Tunyachoka-ri #0" = 10
-	"Karaeng Tunibatta #0" = 10
-	"Tuni Djallo #0" = 10
-	"Parabung #0" = 10
-	"Tuni Pasulu #0" = 10
-	"All‚h ad-DÓn #0" = 10
-	"Muhammad Malik #0" = 10
-	"Muhammad Sa'Ód #0" = 10
-	"Amir Hamza #0" = 10
-	"'Abd al-JalÓl #0" = 10
-	"Shih‚b ad-DÓn Ism‚'Ól #0" = 10
-	"Muhammad Bakr Hasan #0" = 10
-	"Hamaza Tumammalianga #0" = 10
-	"Muhammad 'Ali #0" = 10
-	"Fakhr #0" = 10
-	"Shahab #0" = 10
-	"Siraj ad-DÓn #0" = 10
-	"'Abd al-Khayr al-Mans˚r #0" = 10
-	"'Abd al-Qudus #0" = 10
-	"'Uthm‚n #0" = 10
-	"Muhammad Imad #0" = 10
-	"Zain #0" = 10
-	"'Im‚d ad-DÓn #0" = 10
-	"Zaynal-'AbidÓn #0" = 10
-	"Sankilang #0" = 10
-	"'Abd al-H‚dÓ #0" = 10
-	"'Abd al-Khaliq #0" = 10
-	"Limbangparang #0" = 10
-	"Cinta #0" = -1
-	"Wangi #0" = -1
-	"'Umniya #0" = -1
-	"Hafeeza #0" = -1
-	"Aisha #0" = -1
-	"Azura #0" = -1
+	"Simpurusiang #0" = 10
+	"Anakaji #0" = 10
+	"W√© Matengngna√©mpong #0" = 10
+	"Tampabalusu #0" = 10
+	"Tanrabalusu #0" = 10
+	"To Appanangi #0" = 10
+	"Batara Guru #0" = 10
+	"To Sangkawana #0" = 10
+	"La Busatana #0" = 10
+	"D√©waraja #0" = 10
+	"Sangaria #0" = 10
+	"Kellali #0" = 10
+	"Datu ri Saolebbi #0" = 10
+	"Maningo ri Bajo #0" = 10
+	"We Tenrirawe #0" = 10
+	"Andi Pattiware #0" = 10
+	"Patipasaung #0" = 10
+	"La Basso #0" = 10
+	"La Pak√©ubangan #0" = 10
+	"Settiaraja #0" = 10
+	"Raja Opu La Maddusila #0" = 10
+	"La Onro Topalaguna #0" = 10
+	"Batari Tungk√© #0" = 10
+	"Batari Toja #0" = 10
+	"W√© Tenril√©l√©ang #0" = 10
+	"Tosibengngareng #0" = 10
+	"La Tenripeppang #0" = 10
+	"We Tenri Awaru #0" = 10
+	"La Oddang P√©ro #0" = 10
+	"Patipatau #0" = 10
+	"W√© Addi Luwu #0" = 10
+	"Iskandar Opu Da√©ng Paliq #0" = 10
+	"Andi Kambo #0" = 10
+	"Andi Djemma #0" = 10
 }
 ship_names = { 
-	Balla Bulu Lompo Sallo Karaeng Bambang Cipuru Doe Iyo Tena
-	Tabe Apa Lakeko Battu Keko 
+	Palopo Malangke Baebunta "Bone-bone" Masamba Rongkong Sabbang Wotu Burau Larompong Suli Belopa Bua Bajo Ponrang Towuti Nuha Malili 
 }
