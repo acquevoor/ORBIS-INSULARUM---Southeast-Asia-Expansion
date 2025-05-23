@@ -131,7 +131,5 @@ leader_names = {
 	Wiradharma	Wirasana	Wistara	Yasa	Tarangga Samana	Samanta	Sandya	Sangga	Sailendra	Shankara	Sidharta	Suma	Surendra	Tara
 }
 ship_names = { 
-	Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen
-	Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk Sanglang
-	Kelatakan 
+	Empang Plampang Lunyuk Moyo Ropang Batulanteh Lape Maronge Alas Utan Rhee Labuhan Badas Labangka Orong Telu Lenangguar Buer Tarano "Pulau Sumbawa"
 }
