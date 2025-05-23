@@ -187,7 +187,7 @@ monarch_names = {
 	"Cokorda Gede Agung Sukawati #0" = 10
 	"Prabhu Bandana #0" = 10
 	"Gusti Ngurah Papak #0" = 10
-	"Gusti Jambe Pule #0
+	"Gusti Jambe Pule #0 = 10
 }
 
 leader_names = { 
