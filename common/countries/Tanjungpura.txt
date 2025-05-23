@@ -108,4 +108,6 @@ leader_names = {
 	Ravindra	Sadendra	Sagara	Tarendra Vardhaman	Varen	Vasant	Vijendra	Vikrama	Vilas	Virendra	Wandra	Waradana	Widyanata	
 	Wiradharma	Wirasana	Wistara	Yasa	Tarangga Samana	Samanta	Sandya	Sangga	Sailendra	Shankara	Sidharta	Suma	Surendra	Tara
 }
-"Tanjung Pura" Sukadana "Pulau Maya" "Simpang Hilir" "Simpang Hulu" Sandai "Sungai Laur" "Hulu Sungai" Tumbang Titi Jelai Kendawangan Marau Ketapang 
+ship_names = {
+	"Tanjung Pura" Sukadana "Pulau Maya" "Simpang Hilir" "Simpang Hulu" Sandai "Sungai Laur" "Hulu Sungai" Tumbang Titi Jelai Kendawangan Marau Ketapang 
+}
