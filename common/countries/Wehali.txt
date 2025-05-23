@@ -24,111 +24,36 @@ historical_units = {
 	reformed_asian_cavalry
 }
 monarch_names = { 
-	"Mas Kuning #0" = 20
-	"Dato Hata #0" = 20
-	"Ketut Ngulesir #0" = 20
-	"Watu Renggong #0" = 20
-	"Dalem Bekung #0" = 20
-	"Dalem Di Made #0" = 20
-	"Dewa Agung Jambe #0" = 20
-	"Dewa Agung Di Made #0" = 20
-	"Dewa Agung Sakti #0" = 20
-	"Dewa Agung Putra #0" = 20
-	"Dewa Ketut #0" = 20
-	"Sri Aji Baturenggong #0" = 20
-	"Dewa Bekung #0" = 20
-	"Anglurah Agung #0" = 20
-	"Dewa Pacekan #0" = 20
-	"Pua Dayu #0" = 20
-	"Maja Paruwa #0" = 20
-	"Jalaluddin #0" = 20
-	"Sugi Karaeng #0" = 20
-	"Jereweh #0" = 20
-	"Demung Mumbul #0" = 20
-	"Prabu Indrajaya #0" = 20
-	"Raden Mas Panji #0" = 20
-	"Dalem Di Made #0" = 20
-	"Watu Renggong #0" = 20
-	"Dalem Bekung #0" = 20
-	"Dalem Di Made #0" = 20
-	"Dewa Agung #0" = 20
-	"Sugi Karaeng #0" = 20
-	"Jereweh #0" = 20
-	"Jereweh #0" = 0
-	"Jalaluddin #0" = 0
-	"Suhita #0" = 0
-	"Raden #0" = 0
-	"Dalem #0" = 0
-	"Suhita #0" = 0
-	"Sutikno #0" = 0
-	"Tirto #0" = 0
-	"Guntur #0" = 0
-	"Adi #0" = 0
-	"Sudiroprojo #0" = 0
-	"Sukarno #0" = 0
-	"Indreswari #0" = 0
-	"Purnama #0" = 0
-	"Budi #0" = 0
-	"Damarwulan #0" = 0
-	"Bambang #0" = 0
-	"Wulan #0" = 0
-	"Amangkurat #0" = 0
-	"Eko #0" = 0
-	"Batang #0" = 0
-	"Banawati #0" = 0
-	"Sriwidadi #0" = 0
-	"Raharjo #0" = 0
-	"Slamet #0" = 0
-	"Dian #0" = 0
-	"Susilo #0" = 0
-	"Tribhuwana #0" = 0
-	"Darma #0" = 0
-	"Suratman #0" = 0
-	"Budiono #0" = 0
-	"Angkasa #0" = -1
-	"Melatie #0" = -1
-	"Suri #0" = -1
-	"Neneng #0" = -1
-	"Lilis #0" = -1
-	"Itoh #0" = -1
-	"Ratu #0" = -1
-	"Sinar #0" = -1
-	"Ani #0" = -1
-	"Tri #0" = -1
-	"Khodijah #0" = -1
-	"Imas #0" = -1
-	"Ratih #0" = -1
-	"Lina #0" = -1
-	"Ira #0" = -1
-	"Lestari #0" = -1
-	"Engkom #0" = -1
-	"Sadiyah #0" = -1
-	"Tirta #0" = -1
-	"Sri Gitarja #0" = -1
-	"Metetini #0" = -1
-	"Sumantri #0" = -1
-	"Miri #0" = -1
-	"Dewi #0" = -1
-	"Jaya #0" = -1
-	"Malati #0" = -1
-	"Tatang #0" = -1
-	"Ceceng #0" = -1
-	"Gareng #0" = -1
-	"Harja #0" = -1
-	"Nang #0" = -1
-	"Rengganis #0" = -1
-	"Idah #0" = -1
+	"Lakki Lorok #0" = 10  
+	"Berek #0" = 10  
+	"Halau Tuan #0" = 10  
+	"Sera Berek Tuan #0" = 10  
+	"Baria Korat #0" = 10  
+	"Baria Fahuk Tuan #0" = 10  
+	"Bere Klau #0" = 10  
+	"Seran Berek #0" = 10  
+	"Barai Korak #0" = 10  
+	"Baria Fahuk #0" = 10  
+	"Baria Baek #0" = 10  
+	"Baria Nahak #0" = 10  
+	"Seran Nahak #0" = 10    
+	"Loro Ramaë #0" = 10  
+	"Nai Tei #0" = 10  
+	"Nai Liu #0" = 10  
+	"Loro Mamas #0" = 10  
+	"Nahak Maroe Rai #0" = 10  
+	"Nai Kalau Serang Badak #0" = 10
 }
 leader_names = { 
-	Hamengku Panji Agung Slamet Budi Harto Dewa Karno Wani Mas
-	Ngulesir Kencono Ratri Sakti Putra Hamengku Agung Slamet Budi Harto
-	Karno Wani Mas Kencono Ratri Adi Purnomo Raharjo Santoso Aman
-	Damar Bimo Harjuno Kresno Puntodewo Hamengku Agung Slamet Budi Wani
-	Kencono Ratri Batara Bima Elok Karna Rimba Saleh Satria Sentosa
-	Yuda 
+	Bayan Sirrullah Boheyat Cico Gapi Baguna Gapi-ma-lamo Kalabata Komalo Pulu Mamole Momole Ngolo-ma-Caya Paji-ma-lamo Patisarang-ma-lamo Poit Siale Sidang Sidang Arif-ma-lamo Syah Alam Tolu-ma-lamo
+	Aka Biadut Biagel Degi Desu Dupu Gilang Kabuan Kaksan Kibakar Kudur Ian Igang Lati Lintik Liteub Patud Pamalak Pamintuan Rugus Sagnit Tapuk Tekak Tiglao Ukat Udungan Wadi Yumanam Aldew Pawiran Annipig Baringaw Ma-dideg Ma-sulu 	Yangat Kayli Taynip Bangibang Kimat Wling Odit Dilaw Kayik Hmak Kadang Kodpa Lawag Yabi Allo Kili Uwip Udan Kudol Kilat Emot Lay-ip 	Tibya Holyaw Ngitit Inpih Kugpa Hapiy Way Ngid Diglim Nga-amot Ak-wal Idem Giglep Agani 	Gulek Leteg Tannag Lewwa Rungtut Sanga Ramut Bulus Pasung Diklem Nabunab Puned Addur Degnin 	Rangu Madi Yopyop Basassag Dettun Dut Uding Pullaw Sulu Killek Kaman Apirit Illayug Legpis Pasi Buru Rakat Biyunget Dagun Dibbi 	Sipang Tallip Panga Gamu Lappaw Kaddo Bebay Kayyu 	Labbang Kunam Alittugaw Padak Inini Maga Putu Tuggian Ujjo-jin Ngila Baddi Alina Neppi Kanak Taki Pia Jikku Kurrug Agga Tutu Ammune Gukak Aranni Katlub Seweng Tilbad Sengol 	Gitgit 	Be-ek Matawu Pelengot Ga-an Gemes Hinew Diklem Lim-at Buktit Belag Dekan Lati Kuyeng Ames Litid Tapur Rebi Babak Pelek Purab Lapul Lumlum Tugkuk Ibeng Ngusu Bungur Sipang Telip Abututi Aisake 	
+	Ajuk Akali Akeakamai Akikonu Ambua Anewa Aputi Asao Auwebe Bailom Bapak Beworpits Boas Buchtar Bunop Busoate Darawa Darew Daru
+	Dicim Doyam Elape Enod-anem Enoka Ewago Fumeripits Gasowe Ginu Gurabesi Hakopa Halit Heremana Hubugaiyo Hune Ibatiri Ihaka Isini Jagik Japusuok
+	Kelape Kewago Khanduop Kilikili Kilu Kiluwa Kinim Korpore Kurelu Leiron Lemeane Lepeadon Maigi Mako Mangasesse Mangaueru Manuwai Marunogere
+	Mbakwi Mbuirepits Momakowa Munipumb Nakmatugi Nemayokh Nesoipits Nilik Nugu Obi Opeko-anem Pako Pakure Phuba Piru Popaya Pore Pua Pumpa
+	Pupurpits Refafu Repes Rukas Selanbelot Sefanpo Seitakap Sosom Taras Tewer Tomaiang Tukum Tumbrenjak U-mue Ukumhearik Umue Waba Wak Wali Wamena
+	Wawa Wea Weake Weaklekek Wejakhe Wena Weru Weyak Wiro Wiwa Wiwil Yakor Yali Yasa Yawi Yugil Yusak
 }
-ship_names = { 
-	Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen
-	Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk Sanglang
-	Kelatakan 
-}
+ship_names = {
+		"Adoe"	"Amalo"	"Atamang"	"Betti"	"Dhakidae"	"Fukun"	"Hurek"	"Kabisu"	"Keraf"	"Kleden"	"Lala"	"Lalang"	"Lelang"	"Lenggu"	"Lewar"	"Longginus"	"Lonwah"	"Mambait"	"Mandalangi"	"Mauboi"	"Mesak"	"Mitang"	"Moa"	"Mooy"	"Nome"	"Nonot"	"Nope"			"Pani"	"Puu"	"Seda"	"Sepimawa"	"Sila"	"Sukun"	"Takaeb"	"Taopan"	"Udu"	"Usu"	"Wala"	"Gedang"	"Woe"	"Wungu"	"Tende Dewa"
+	}
