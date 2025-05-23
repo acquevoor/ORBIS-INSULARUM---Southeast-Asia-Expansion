@@ -50,6 +50,14 @@ monarch_names = {
 	"Ibrahimsyah #0" = 10
 	"Abidinsyah Pasaribu #0" = 10
 	"Buchari Muslim Pasaribu #0" = 10
+	"Ibrahimsyah Pasaribu #0" = 10
+	"Yusuf Pasaribu #0" = 10
+	"Adil Pasaribu #0" = 10
+	"Emas Pasaribu #0" = 10
+	"Kesyari Pasaribu #0" = 10
+	"Main Alam Pasaribu #0" = 10
+	"Perhimpunan Pasaribu #0" = 10
+	"Marah Laut #0" = 10
 }
 
 leader_names = { 
