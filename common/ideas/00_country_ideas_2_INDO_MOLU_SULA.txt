@@ -714,7 +714,7 @@ LUW_ideas = {
 
     LUW_smiths_of_luwu = {
         # Legendary highland ironworks and war gear
-        infantry_power = 0.10
+        infantry_power = 0.05
     }
 
     LUW_tomanurung_of_luwu = {
@@ -730,7 +730,6 @@ LUW_ideas = {
     LUW_kings_of_metal = {
         # Royal control over iron and trade from the interior
         production_efficiency = 0.10
-        infantry_power = 0.05
     }
 
     LUW_worldly_knowledge = {
@@ -753,7 +752,7 @@ LUW_ideas = {
 MKS_ideas = {
     start = {
         global_trade_power = 0.15
-        naval_morale = 0.10
+        naval_morale = 0.15
     }
 
     bonus = {
