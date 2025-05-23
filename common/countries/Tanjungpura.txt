@@ -26,30 +26,15 @@ historical_units = {
 	reformed_asian_musketeer
 }
 monarch_names = { 
-	"Bhindu #0" = 20
-	"Lidi #0" = 20
-	"Tedung #0" = 40
-	"Jamal Megah #0" = 20
-	"Upak #0" = 20
-	"Bujang #0" = 20
-	"Amal #0" = 20
-	"Tela #0" = 15
-	"Para #0" = 15
-	"Gunung #0" = 15
-	"Kina #0" = 10
-	"Keladi #0" = 10
-	"Sasap #0" = 10
-	"Tela #0" = 10
-	"Kujan #0" = 10
-	"Gani #0" = 10
-	"Busun #0" = 10
-	"Bungsu #0" = 10
-	"Tabrani #0" = 10
-	"Suhita #0" = -1
-	"Cinta #0" = -1
-	"Wangi #0" = -1
-	"Gayatri #0" = -1
-	"Indreswari #0" = -1
+	"Brawijaya #0" = 20  
+	"Bapurung #0" = 20  
+	"Panembahan Karang Tanjung #0" = 20  
+	"Pundong Asap #0" = 20  
+	"Panembahan Bendala #0" = 20  
+	"Panembahan Anom #0" = 20  
+	"Panembahan Baroh #0" = 20  
+	"Panembahan Sorgi #0" = 20  
+	"Ratu Mas Jaintan #0" = 20  
 }
 leader_names = { 
 	Hamengku
