@@ -78,6 +78,5 @@ monarch_names = {
 	"Marioriawa #0" = 10
 }
 ship_names = { 
-	Balla Bulu Lompo Sallo Karaeng Bambang Cipuru Doe Iyo Tena
-	Tabe Apa Lakeko Battu Keko 
+	Watansoppeng Lalabata Marioriawa Lalambata Lalolae Lalebbata Tanete Riattang Tanete Riattang Barat Tanete Lalusu "Tana Toa" Lalancang Lalumpang. 
 }
