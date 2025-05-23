@@ -9,7 +9,7 @@
     relswap.1.d: "As trade routes from the Middle East and India strengthen, Islamic merchants and missionaries have arrived in the Malay Archipelago, bringing the teachings of the Prophet Muhammad. The Sultan, seeing the benefit of forging closer ties with the growing Sunni powers in the region, is considering adopting the new faith. Will the kingdom embrace Sunni Islam, or continue to follow the traditional beliefs?"
     
     # The option to convert the religion to Sunni
-    malay_sunni_conv_rel_title: "£piety_text_icon£ Convert Ruler to Sunni Islam"
+    malay_sunni_conv_rel_title: "£piety_text_icon£Convert Ruler to §GSunni Islam§"
     malay_sunni_conv_rel_desc: "Embrace the teachings of Islam, align with the Sunni faith, and strengthen ties with other Muslim powers. This will cost -1 stability, 300 Diplo and a significant effort, but the rewards may be great."
     
     # Religious events leading to the conversion

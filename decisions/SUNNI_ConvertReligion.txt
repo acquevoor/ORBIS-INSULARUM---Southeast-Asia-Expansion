@@ -8,20 +8,11 @@ country_decisions = {
 			OR = {
 				culture_group = malay
 				culture_group = filipino_g
-                                culture_group = sulawesi_g
+                culture_group = sulawesi_g
 			}
 			NOT = { 
 				has_country_flag = malay_sunni_conv_rel_decision_enabled_flag
 				religion = sunni
-			}
-			OR = {
-				any_ally = {
-					religion = sunni
-					has_opinion = {
-					who = ROOT
-					value = 150
-					}
-				}
 			}
 		}
 
@@ -29,6 +20,13 @@ country_decisions = {
 			stability = 1
 			dip_power = 300
 			is_free_or_tributary_trigger = yes
+			any_ally = {
+					religion = sunni
+					has_opinion = {
+					who = ROOT
+					value = 150
+					}
+				}
 		}
 
 		effect = {
