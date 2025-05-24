@@ -14,6 +14,7 @@ bookmark = {
 	country = PSA
 	country = MKS
 	country = MNA
+	country = SUL
 	#country = TER
 	#country = CEB
 	

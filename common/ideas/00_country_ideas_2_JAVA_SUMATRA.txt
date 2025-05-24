@@ -707,7 +707,7 @@ MAJ_ideas = {
 PLB_ideas = {
     start = {
         tolerance_own = 2
-        diplomats = 1
+        improve_relation_modifier = 0.1
     }
 
     bonus = {
