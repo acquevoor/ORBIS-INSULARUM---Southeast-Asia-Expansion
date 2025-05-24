@@ -6,7 +6,7 @@ technology_group = chinese
 capital = 2673	# Pasai
 religious_school = shafii_school
 
-historical_friend = MLC
+historical_rival = MLC 
 historical_rival = ATJ 
 historical_rival = MAJ
 historical_rival = HTR
