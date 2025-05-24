@@ -10,11 +10,11 @@ religious_school = shafii_school
 historical_friend = BNG
 historical_friend = GUJ
 historical_friend = MNG
-historical_rival = MLC 
-historical_rival = ARU 
-historical_rival = PSA 
-historical_rival = ARU 
-historical_rival = MAJ 
+historical_rival = MLC
+historical_rival = ARU
+historical_rival = PSA
+historical_rival = ARU
+historical_rival = MAJ
 
 1399.1.1 = {
 	monarch = {

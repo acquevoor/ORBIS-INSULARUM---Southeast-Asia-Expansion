@@ -13,12 +13,13 @@ bookmark = {
 	country = PLB
 	country = PSA
 	country = MKS
-	country = TER
-	country = CEB
+	country = MNA
+	#country = TER
+	#country = CEB
 	
 	easy_country = MAJ
 	easy_country = ATJ
 	easy_country = MLC
 	easy_country = BEI
-	easy_country = PLB
+	#easy_country = PLB
 }

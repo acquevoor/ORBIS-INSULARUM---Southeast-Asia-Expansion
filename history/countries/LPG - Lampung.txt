@@ -5,6 +5,7 @@ religion = hinduism
 technology_group = chinese
 capital = 623# Tulangbewang
 religious_school = shafii_school
+secondary_religion = animism
 
 historical_friend = MNG
 historical_friend = MLC
