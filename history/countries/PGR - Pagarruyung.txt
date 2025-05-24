@@ -3,8 +3,18 @@ add_government_reform = mandala_reform
 government_rank = 1
 primary_culture = minag
 religion = buddhism
+secondary_religion = hinduism
 technology_group = chinese
 capital = 2681# Pagarruyung
+
+historical_friend = DHR
+historical_friend = IND
+historical_rival = BRS 
+historical_rival = HTR 
+historical_rival = PSA 
+historical_rival = MLC 
+historical_rival = JMB 
+
 1347.1.1 = { 
 	monarch = { 
 		name = "Adityawarman"

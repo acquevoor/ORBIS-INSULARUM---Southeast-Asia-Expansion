@@ -12,7 +12,7 @@ base_manpower = 1
 trade_goods = fish
 
 culture = orang_laut
-religion = animism
+religion = hinduism
 capital = "Lingga"
 
 is_city = yes

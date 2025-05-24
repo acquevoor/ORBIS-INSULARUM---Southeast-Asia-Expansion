@@ -8,6 +8,11 @@ capital = 617	# Lamuri
 fixed_capital = 617
 religious_school = shafii_school
 
+historical_rival = ATJ 
+historical_rival = MLC
+historical_rival = MAJ
+historical_friend = MNG
+
 1444.1.1 = {
 	monarch = { # fictional
 		name = "Ale Ri'eyatt"

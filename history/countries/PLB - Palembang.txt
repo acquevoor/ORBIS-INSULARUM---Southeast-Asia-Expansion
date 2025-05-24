@@ -5,6 +5,15 @@ religion = hinduism
 technology_group = chinese
 capital = 622# Palembang
 religious_school = shafii_school
+
+historical_friend = MNG
+historical_friend = PSA
+historical_rival = PGR 
+historical_rival = JMB 
+historical_rival = MLC
+historical_friend = GUJ
+historical_friend = MAJ
+
 1399.1.1 = { 
 	add_piety = -0.1
 }

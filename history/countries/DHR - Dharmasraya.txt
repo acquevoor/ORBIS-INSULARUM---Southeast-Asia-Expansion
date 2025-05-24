@@ -2,10 +2,16 @@ government = monarchy
 add_government_reform = mandala_reform
 government_rank = 1
 primary_culture = melayu
-religion = animism
-secondary_religion = hinduism
+religion = buddhism
+secondary_religion = sunni
 technology_group = chinese
 capital = 2677#jambi
+
+historical_friend = MNG
+historical_rival = MAJ 
+historical_rival = PSA 
+historical_rival = JMB 
+
 1444.1.1 = { 
 	monarch = { 
 		name = "Adityawarman"# His rule ended earlier, but his descendants could be ruling

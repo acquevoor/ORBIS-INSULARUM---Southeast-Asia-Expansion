@@ -26,12 +26,6 @@ dependency = {
 
 
 #maja vassal
-vassal = {
-	first = PLB
-	second = DHR
-	start_date = 1111.1.1
-	end_date = 1450.1.1
-}
 
 #maja vassal
 vassal = {
@@ -79,8 +73,16 @@ alliance = {
 
 dependency = {
 	subject_type = "tributary_state"
-	first = MAJ
-	second = PLB
+	first = PLB
+	second = LPG
+	start_date = 1300.1.1
+	end_date = 1450.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = PGR
+	second = DHR
 	start_date = 1300.1.1
 	end_date = 1450.1.1
 }

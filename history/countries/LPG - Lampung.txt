@@ -5,6 +5,15 @@ religion = hinduism
 technology_group = chinese
 capital = 623# Tulangbewang
 religious_school = shafii_school
+
+historical_friend = MNG
+historical_friend = MLC
+historical_friend = MAJ
+historical_friend = DMK
+historical_rival = PLB 
+historical_rival = IND
+#banten needs to be to
+
 1399.1.1 = { 
 	add_piety = -0.1
 }
