@@ -145,5 +145,6 @@ leader_names = {
 	Wiradharma	Wirasana	Wistara	Yasa	Tarangga Samana	Samanta	Sandya	Sangga	Sailendra	Shankara	Sidharta	Suma	Surendra	Tara
 }
 ship_names = {
-        "Ulu Abes" "Muara Aman"	"Talang Liak" "Selupuak Lebong"	"Bemanai Jekalang" "Bemanai Ai"	"Selupuak Jang"	"Migai Kelobak"	"Bemanai Lot" "Migai Kelindang"	"Jekalang" "Smitoa" 		"Bemanai Paliak" "Bioa Besai" "Lai"	"Bioa Padang"	"Btunen" "Ketawen" "Bemanai Perbo" "Bang Ajai" "Kap"
+        "Ulu Abes" "Muara Aman"	"Talang Liak" "Selupuak Lebong"	"Bemanai Jekalang" "Bemanai Ai"	"Selupuak Jang"	"Migai Kelobak"	"Bemanai Lot" "Migai Kelindang"	"Jekalang" "Smitoa" "Bemanai Paliak" "Bioa Besai" "Lai"	
+	"Bioa Padang"	"Btunen" "Ketawen" "Bemanai Perbo" "Bang Ajai" "Kap"
 }
