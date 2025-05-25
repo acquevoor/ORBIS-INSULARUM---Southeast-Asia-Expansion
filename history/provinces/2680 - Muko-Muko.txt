@@ -4,8 +4,8 @@
 add_core = IND
 add_core = BKL
 add_core = PGR
-owner = BKL
-controller = BKL
+owner = IND
+controller = IND
 base_tax = 2
 base_production = 3
 base_manpower = 2
