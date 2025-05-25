@@ -2,9 +2,10 @@
 # 2680 Muko-Muko - 5/16/2025 12:37:50 PM 
  
 add_core = IND
+add_core = BKL
 add_core = PGR
-owner = IND
-controller = IND
+owner = BKL
+controller = BKL
 base_tax = 2
 base_production = 3
 base_manpower = 2
