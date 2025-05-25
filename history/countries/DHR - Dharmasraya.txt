@@ -14,7 +14,7 @@ historical_rival = JMB
 
 1444.1.1 = { 
 	monarch = { 
-		name = "Adityawarman"# His rule ended earlier, but his descendants could be ruling
+		name = "Tiang Panjang"# from Siguntur
 		dynasty = "Mauli"# The historical ruling dynasty of Dharmasraya
 		adm = 5
 		dip = 2
