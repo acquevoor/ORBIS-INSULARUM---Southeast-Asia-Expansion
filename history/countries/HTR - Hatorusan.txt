@@ -3,7 +3,6 @@
 government = tribal
 add_government_reform = mandala_reform
 primary_culture = batak
-add_accepted_culture = abenaki
 religion = animism
 secondary_religion = buddhism
 technology_group = chinese
