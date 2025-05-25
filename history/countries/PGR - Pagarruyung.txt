@@ -35,7 +35,7 @@ historical_rival = JMB
 }
 1417.1.1 = { 
 	monarch = { 
-		name = "Inayat"# fictional
+		name = "Wijayawarman"# fictional
 		dynasty = "Mauli"
 		adm = 3
 		dip = 4
