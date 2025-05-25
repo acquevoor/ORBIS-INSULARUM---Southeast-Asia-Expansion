@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+primary_culture = bidayuh
+technology_group = chinese
+religion = hinduism
+capital = 4802
+1444.1.1 = { 
+	monarch = { 
+		name = "Patih Nyabakng"
+		dynasty = "Sidiniang"
+		birth_date = 1380.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
