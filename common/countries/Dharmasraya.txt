@@ -23,13 +23,24 @@ historical_units = {
 	reformed_asian_cavalry
 }
 monarch_names = { 
-	"Maulibhusana Warmadewa #0" = 20
-	"Mauli Warmadewa #0" = 20
-	"Akarendrawarman #0" = 20
-	"Ananggawarman #0" = 20
-	"Adityawarman #0" = 20
-	"Bijayendrawarman #0" = 20
-	"Wijayawarman #0" = 20
+	"Maulibhusana Warmadewa #0" = 10
+	"Mauli Warmadewa #0" = 10
+	"Akarendrawarman #0" = 10
+	"Ananggawarman #0" = 10
+	"Adityawarman #0" = 10
+	"Bijayendrawarman #0" = 10
+	"Wijayawarman #0" = 10
+	"Sora Lembu Sora #0" = 10
+	"Pramesywara #0" = 10
+	"Kanakamedinindra #0" = 10
+	"Adikerma Putra Paramesora #0" = 10
+	"Guci Rajo Angek Garang #0" = 10
+	"Tiang Panjang #0" = 10
+	"Abdul Jalil Sutan Syah #0" = 10
+	"Abdul Qadir #0" = 10
+	"Amiruddin #0" = 10
+	"Ali Akbar #0" = 10
+	"Abu Bakar #0" = 10
 }
 leader_names = { 
 	Abimanyu	Abiyasa	Adhiswara	Adidewalancana	Adikerma	Adiwarna	Adityawangsa	Adityawarman	Adwayabrahma	Adwayawaja	Adwayawarman	Agam		Agrajasama	Dudung	Dudun Airlangga	Ajar	Ajnajabharitamawakana	Aji	Akarendrawarman	Ametung	Amurwabhumi	Ananggawarman	Ananta	Anantawikramottunggadewa Andi
