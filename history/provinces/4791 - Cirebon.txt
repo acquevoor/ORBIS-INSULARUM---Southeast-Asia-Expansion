@@ -25,7 +25,7 @@ discovered_by = ottoman
 
 
 
-1482.1.1 = {
+1445.1.1 = {
 	owner = CRB
 	controller = CRB
 	add_core = CRB
