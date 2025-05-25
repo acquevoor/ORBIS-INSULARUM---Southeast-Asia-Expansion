@@ -5,7 +5,7 @@ primary_culture = rejang
 religion = animism
 secondary_religion = buddhism
 technology_group = chinese
-capital = 621
+capital = 621# Bengkulu
 religious_school = shafii_school
 
 historical_friend = MNG
