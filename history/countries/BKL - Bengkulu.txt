@@ -18,7 +18,6 @@ historical_rival = IND
 1444.1.1 = {
 	monarch = {
 		name = "Empat Petulai"
-		dynasty = "Bangkahulu"
 		adm = 4
 		dip = 3
 		mil = 2
