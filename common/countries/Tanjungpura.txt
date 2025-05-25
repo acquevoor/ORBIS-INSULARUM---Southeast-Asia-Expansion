@@ -37,6 +37,13 @@ monarch_names = {
 	"Ratu Mas Jaintan #0" = 20  
 }
 leader_names = { 
+	Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
+	Shehryar Ibtisham Javaid Jafar Tahir Razzaq Yunus Suleyman Murtaza Hyder Amir Saif Zulfikar Imron Hafiz  Akbar 
+	Yakub Abdurrashid Mokhtar Hamzah Syuaib Salman Kadir Salim Rasyid Farhan Karim Fauzan Fawwaz Ghulam Sayid Imran Adil
+	Arif Azam Nadim Rizwan Ridwan Nasir Khalid Idris Zahir Nuh Soleh Munir Hamid Yusuf Ihsan Faisal Majid Rafiq Ashrof Iqbal 
+	Jamil Rizki Ridho Isa Yusuf Adam Nuh Saleh Ibrahim Ishak Zulkifli Musa Harun Daud Sulaiman Yunus Ilyas Yahya Zakaria Umar
+	Usman Tholib Malik Alif Amir Amran Aqil Anwar Aziz Faiz Fuad Gozali Hamzah Ilham Ikhwan Israfil Izroil Jauhari Kamal Khalid
+	Lukman Lutfi Mustofa Raihan Rahman Rahim Rahmat Taufik Syarif Wahid Zulkarnain
 	Abimanyu	Abiyasa	Adhiswara	Adidewalancana	Adikerma	Adiwarna	Adityawangsa	Adityawarman	Adwayabrahma	Adwayawaja	Adwayawarman	Agam		Agrajasama	Dudung	Dudun Airlangga	Ajar	Ajnajabharitamawakana	Aji	Akarendrawarman	Ametung	Amurwabhumi	Ananggawarman	Ananta	Anantawikramottunggadewa Andi
 	Anggira	Angkawijaya	Adun	Dulur Angkerawarman	Anidhana	Aniruda	Aniwariwirya	Antasena	Anusapati Arijamuka	
 	Arjjaya	Arkajacihna Arok	Arya Aryanagara	"Arya Belog"	"Arya Damar"	Eba Dunungan "Dapunta Hyang" Harep	Hardi	Hampura Dharmaswara	Halis	Heulang	Henhen
@@ -108,6 +115,7 @@ leader_names = {
 	Ravindra	Sadendra	Sagara	Tarendra Vardhaman	Varen	Vasant	Vijendra	Vikrama	Vilas	Virendra	Wandra	Waradana	Widyanata	
 	Wiradharma	Wirasana	Wistara	Yasa	Tarangga Samana	Samanta	Sandya	Sangga	Sailendra	Shankara	Sidharta	Suma	Surendra	Tara
 }
+
 ship_names = {
 	"Tanjung Pura" Sukadana "Pulau Maya" "Simpang Hilir" "Simpang Hulu" Sandai "Sungai Laur" "Hulu Sungai" Tumbang Titi Jelai Kendawangan Marau Ketapang 
 }
