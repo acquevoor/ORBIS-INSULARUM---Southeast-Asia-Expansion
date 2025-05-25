@@ -12,9 +12,9 @@ capital = 625	# Kawali (Ciamis)
 1444.1.1 = { 
 	monarch = { 
 		name = "Niskala Wastu Kancana"
-    dynasty = "Galuh"
+    		dynasty = "Galuh"
 		adm = 2
 		dip = 3
-		mil = 5
+		mil = 2
 	}
 }
