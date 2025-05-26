@@ -1,6 +1,7 @@
 # Banten
 # 624 Banten - 5/16/2025 12:37:49 PM 
- 
+
+add_core = BAN
 add_core = SUN
 owner = SUN
 controller = SUN
