@@ -20,6 +20,7 @@ ARU = "countries/Aru.txt"
 LMI = "countries/Lamuri.txt"
 LPG = "countries/Lampung.txt"
 BKL = "countries/Bengkulu.txt"
+NIA = "countries/Nias.txt"
 DHR = "countries/Dharmasraya.txt"
 ### MOLUCCAS ################################################
 JLO = "countries/Jailolo.txt"
@@ -32,6 +33,7 @@ SPP = "countries/Soppeng.txt"
 BGI = "countries/Banggai.txt"
 KNW = "countries/Konawe.txt"
 BOW = "countries/Minahasan.txt"
+TRJ = "countries/Toraja.txt"
 # OTHER / PENINSULAR MALAYSIA
 TGG = "countries/Terengganu.txt"
 
