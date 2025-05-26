@@ -842,8 +842,7 @@ NIA_ideas = {
     }
 
     NIA_spirit_ancestor = {
-        idea_cost = -0.05
-        stability_cost_modifier = -0.10
+        religious_unity = 0.5
     }
 }
 
