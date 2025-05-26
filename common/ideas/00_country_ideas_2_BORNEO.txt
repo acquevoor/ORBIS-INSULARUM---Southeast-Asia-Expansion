@@ -337,7 +337,7 @@ MPW_ideas = {
     }
 
     MPW_river_and_sea_trade = {
-        caravan_power = 0.2
+        caravan_power = 0.3
     }
 
     MPW_harmony_of_believes = {
@@ -350,7 +350,7 @@ MPW_ideas = {
     }
 
     MPW_jungle_coastal_forts = {
-        defensiveness = 0.15
+        local_defensiveness = 0.15
     }
 }
 
