@@ -898,6 +898,53 @@ WJO_ideas = {
     }
 }
 
+#Toraja
+TRJ_ideas = {
+    start = {
+       	tolerance_heathen = 1
+	core_creation = -0.2
+    }
+
+    bonus = {
+        army_tradition_from_battle = 0.15
+    }
+
+    trigger = {
+        tag = TRJ
+    }
+
+    free = yes
+
+    TRJ_tongkonan = {
+        stability_cost_modifier = -0.1
+    }
+
+    TRJ_ritual_hierarchy = {
+        prestige = 1
+    }
+
+    TRJ_lembang_federations = {
+       	liberty_desire = -10
+    }
+
+    TRJ_rambu_solo = {
+        legitimacy = 1
+    }
+
+    TRJ_upperland_people = {
+       	hostile_attrition = 1
+    }
+
+    TRJ_bufallo_ceremony = {
+        production_efficiency = 0.25
+    }
+
+    TRJ_mararang_legacy = {
+        discipline = 0.03
+    }
+}
+
+
 # Konawe (KNW)
 KNW_ideas = {
     start = {
