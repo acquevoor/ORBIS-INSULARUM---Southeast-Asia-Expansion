@@ -496,7 +496,6 @@ BOW_ideas = {
     # IDEA 1 — Legacy of Toar and Lumimuut
     BOW_toar_lumimuut_legacy = {
         stability_cost_modifier = -0.10
-        diplomatic_reputation = 1
     }
 
     # IDEA 2 — Maritime Bonds of the Northern Wind
@@ -506,7 +505,7 @@ BOW_ideas = {
 
     # IDEA 3 — Ritual Harmony of the Ancestors
     BOW_ritual_veneration = {
-        tolerance_heathen = 1
+        tolerance_heathen = 2
     }
 
     # IDEA 4 — Valleys of Resistance
@@ -526,8 +525,7 @@ BOW_ideas = {
 
     # IDEA 7 — Council of the Walak
     BOW_walak_council = {
-        advisor_cost = -0.10
-        governing_capacity_modifier = 0.10
+        advisor_cost = -0.15
     }
 
 }
@@ -626,7 +624,7 @@ BNW_ideas = {
     }
     
     BNW_guardians_of_the_kaili_coast = {
-        naval_morale = 0.075
+        naval_morale = 0.1
     }
 
     BNW_the_myth_of_tumotoiboko = {
@@ -675,7 +673,7 @@ BTN_ideas = {
     }
 
     BTN_state_islamic_scholarship = {
-        idea_cost = -0.10
+        idea_cost = -0.05
     }
 
     BTN_fortress_of_buton = {
@@ -932,7 +930,7 @@ TRJ_ideas = {
     }
 
     TRJ_upperland_people = {
-       	hostile_attrition = 1
+       	hostile_attrition = 2
     }
 
     TRJ_bufallo_ceremony = {

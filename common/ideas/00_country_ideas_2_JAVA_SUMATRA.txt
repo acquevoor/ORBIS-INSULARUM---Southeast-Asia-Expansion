@@ -206,7 +206,7 @@ PSA_ideas = {
     }
 
     bonus = {
-        trade_efficiency = 0.10
+        trade_efficiency = 0.15
     }
 
     trigger = {
@@ -226,13 +226,11 @@ PSA_ideas = {
     }
 
     PSA_qadi_and_sufi_networks = {
-        advisor_cost = -0.10
-        tolerance_heathen = 1
+        advisor_cost = -0.15
     }
 
     PSA_gold_currency_mint = {
         inflation_reduction = 0.05
-        global_trade_power = 0.10
     }
 
     PSA_aceh_trade_corridor = {
@@ -240,8 +238,7 @@ PSA_ideas = {
     }
 
     PSA_persian_indian_diplomacy = {
-        institution_spread_from_true_faith = 0.1
-        improve_relation_modifier = 0.10
+        global_institution_spread = 0.1
     }
 
     PSA_royal_patronage_of_ulama = {
@@ -288,7 +285,7 @@ ATJ_ideas = {
     }
 
     ATJ_links_to_mecca_and_ottomans = {
-        institution_spread_from_true_faith = 0.1
+        global_institution_spread = 0.1
     }
 
     ATJ_struggle_against_foreign_infidels = {
