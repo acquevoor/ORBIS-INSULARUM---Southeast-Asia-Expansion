@@ -800,6 +800,53 @@ BKL_ideas = {
     }
 }
 
+#Nias
+NIA_ideas = {
+    start = {
+        tolerance_own = 2
+        development_cost = -0.1
+    }
+
+    bonus = {
+        manpower_recovery_speed = 0.15
+    }
+
+    trigger = {
+        tag = NIA
+    }
+
+    free = yes
+
+    NIA_megalith_builder = {
+        build_cost = -0.1
+    }
+
+    NIA_balugu_warrior = {
+        infantry_shock = 1
+    }
+
+    NIA_island_resilience = {
+        yearly_army_professionalism = 0.05
+    }
+
+    NIA_omo_hada = {
+        prestige = 1
+    }
+
+    NIA_maritime_raider = {
+        galley_power = 0.15
+    }
+
+    NIA_intervillage_diplomacy = {
+        ae_impact = -0.2
+    }
+
+    NIA_spirit_ancestor = {
+        idea_cost = -0.05
+        stability_cost_modifier = -0.10
+    }
+}
+
 #Selaperang
 SPR_ideas = {
     start = {
