@@ -731,7 +731,6 @@ PLB_ideas = {
 
     PLB_masjid_agung_and_ilm = {
         prestige = 0.5
-        tolerance_heathen = 1
     }
 
     PLB_musirawas_uplands_expeditions = {
@@ -747,7 +746,7 @@ PLB_ideas = {
     }
 
     PLB_tolerance_through_trade = {
-        improve_relation_modifier = 0.10
+        tolerance_heathen = 1
         tolerance_heretic = 1
     }
 }
