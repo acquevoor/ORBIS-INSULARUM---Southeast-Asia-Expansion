@@ -81,6 +81,34 @@ HTR_island_vassalage_desc:0 "Through marriage alliances and tribute treaties, Ha
 HTR_belongoran_councils:0 "Belongoran Councils"
 HTR_belongoran_councils_desc:0 "The Belongoran Councils—assemblies of clan elders, ulama, and Datu—adjudicate disputes, levy levies, and consecrate new rulers. Their consultative nature, documented in bark manuscripts dated 1610, balanced centralized authority with local autonomy."
 
+NIA_ideas:0 "Nias Ideas"
+NIA_ideas_desc:0 "Forged in the island’s megalithic stone traditions and the valor of the Balugu warrior class, Nias begins its path with proud warriors and a drive for self-made development."
+
+NIA_ideas_start:0 "Tano Niha Society"
+NIA_ideas_bonus:0 "Legacy of Raja Siro"
+
+NIA_megalith_builder:0 "Megalithic Builder"
+NIA_megalith_builder_desc:0 "The people of Nias built monumental stone structures for generations, carving civilization out of rugged stone. This tradition of construction lives on in our cities and temples."
+
+NIA_balugu_warrior:0 "Balugu Heritage"
+NIA_balugu_warrior_desc:0 "Becoming a Balugu, or warrior-noble, required prestige and military valor. Our people honor strength and reward martial merit with power and legacy."
+
+NIA_island_resilience:0 "Island Resilience"
+NIA_island_resilience_desc:0 "Isolated but never idle, Nias resisted conquest through generations of inter-clan warfare and fierce independence. The warrior spirit is preserved through ceaseless readiness"
+
+NIA_omo_hada:0 "Omo Hada"
+NIA_omo_hada_desc:0 "Our homes are more than dwellings—they are sacred, elaborately carved symbols of our identity. Nias art and architecture inspire awe in allies and rivals alike"
+
+NIA_maritime_raider:0 "Maritime Raiders"
+NIA_maritime_raider_desc:0 "Our seafarers are not only traders but warriors who raid and defend with equal skill. We master the sea lanes of the western archipelago."
+
+NIA_intervillage_diplomacy:0 "Inter-Village Diplomacy"
+NIA_intervillage_diplomacy_desc:0 "Nias’s confederations of villages required constant negotiation and alliances to maintain peace and influence. This experience grants us diplomatic deftness when dealing with outsiders."
+
+NIA_spirit_ancestor:0 "Spirit of the Ancestors"
+NIA_spirit_ancestor_desc:0 "Our animist traditions venerate ancestral spirits who bind our communities together. This deep spirituality enables us to embrace religious plurality while maintaining internal cohesion."
+
+
 LMI_ideas:0 "Lamuri Ideas"
 LMI_ideas_desc:0 "The Kingdom of Lamuri, known in Arabic texts as Rāmnī and appearing in Persian and Chinese sources from the 9th century, stood as a vital entry point for Islam into the Indonesian archipelago. Located on the northern tip of Sumatra, it served as a nexus between Arab, Persian, Indian, and Chinese traders. While later overshadowed by Samudera Pasai and Aceh, Lamuri played a foundational role in establishing Islamic institutions, building masjids, and translating religious texts into local languages. Its ports flourished as early entrepôts in the trans-Asian trade, especially in camphor, gold, and pepper. With Sufi mystics and Arab missionaries setting up waqf-funded schools and shrines, Lamuri evolved into a spiritual and commercial bastion at the mouth of the Melakan world."
 
