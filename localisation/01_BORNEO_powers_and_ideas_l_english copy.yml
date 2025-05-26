@@ -135,6 +135,7 @@ LDA_fortified_riverine_settlements_desc:0 "Wooden palisades and earthen ramparts
 LDA_borneo_coppercraft:0 "Borneo Coppercraft"
 LDA_borneo_coppercraft_desc:0 "Landak’s artisans smelted rich copper deposits into ceremonial gongs, jewelry, and trade ingots from the 13th century onward. 17th-century Dutch inventories list Landak copperware among the most prized Bornean exports. Copper guilds enjoyed royal patronage, linking metalwork to political prestige and economic stability."
 
+
 SMB_ideas:0 "Sambas Ideas"
 SMB_ideas_desc:0 "Emerging in the early 17th century under Prince Tengah of Brunei, the Sultanate of Sambas controlled the fertile delta of the Sambas River, linking inland Dayak hinterlands with the South China Sea. By the 18th century, Dutch records list Sambas among Borneo’s key pepper and sago exporters, its riverine flotillas carrying cargoes to Malacca and Batavia. Local rulers balanced Islamic scholarship with adat councils, codifying customs in shura assemblies that tempered sultanic power. Fortified river forts defended against Bugis raiders and inland uprisings, while artisan guilds produced intricate textiles traded at coastal markets. Sambas’s legacy endures in surviving ketjak gamelan music, mosque inscriptions, and the remains of stilted timber palaces along its waterways."
 
@@ -161,6 +162,35 @@ SMB_defensive_river_forts_desc:0 "Wooden palisades and earthen ramparts anchored
 
 SMB_sambas_textile_guilds:0 "Sambas Textile Guilds"
 SMB_sambas_textile_guilds_desc:0 "Artisans organized in guilds produced woven songket and batik textiles prized by Malay and Chinese merchants alike. Workshop ledgers from 1735 list intricate patterns symbolizing royal crests and folk motifs. Textile exports diversified Sambas’s economy and underwrote cultural patronage in courtly arts."
+
+
+MPW_ideas:0 "Mempawah Ideas"
+MPW_ideas_desc:0 "Mempawah is taken from the term "Mempauh", which is the name of a tree that grows in the upper reaches of the river, also known as the Mempawah River. In its development, Mempawah became known as the name of one of the kingdoms and sultanates that developed in West Borneo."
+
+MPW_ideas_start:0 "Unity, Strength, and Destiny!"
+MPW_ideas_bonus:0 "Mempauh River Heritage"
+
+MPW_heirs_of_sidiniang:0 "Heirs of Sidiniang"
+MPW_heirs_of_sidiniang_desc:0 "We descend from the noble rulers of the ancient Sidiniang kingdom, inheriting both their lands and their legitimacy."
+
+MPW_malay_dayak_alliance:0 "Malay - Dayak Alliance"
+MPW_malay_dayak_alliance_desc:0 "We do not rule over the Dayak peoples—we stand with them. Our strength comes from uniting the hills and the shore."
+
+MPW_gate_to_borneo:0 "Gateways to the Borneo"
+MPW_gate_to_borneo_desc:0 "From the seas of Natuna to the jungles of Sambas, all pass through Mempawah. We are the threshold to Borneo."
+
+MPW_river_and_sea_trade:0 "From the River to the Sea"
+MPW_river_and_sea_trade_desc:0 "With access to inland rivers and seaborne trade, Mempawah sits where Dayak gold and jungle goods meet maritime commerce."
+
+MPW_harmony_of_believes:0 "Harmony of Believes"
+MPW_harmony_of_believes_desc:0 “Even as we embrace Islam, the spirits of the jungle, mountain, and river are honored. This balance strengthens us.”
+
+MPW_sufism_refugees:0 "Sufism Refugees"
+MPW_sufism_refugees_desc:0 "Sufi scholars and wandering saints bring blessing to our land. We protect them, and in return, we gain divine favor and learned counsel."
+
+MPW_jungle_coastal_forts:0 "Nature Fortifications"
+MPW_jungle_coastal_forts_desc:0 "We build our defenses not with stone alone, but with jungle, river, and mountain. Enemies lose their way before they breach our borders."
+
 
 NGJ_ideas:0 "Ngaju Ideas"
 NGJ_ideas_desc:0 "In the dense rainforests and winding channels of Central Kalimantan, the Ngaju Dayaks developed a resilient riverine culture centered on the Kaharingan faith and the annual Harvest Festival of Kalinaw. Their longhouses along the Kapuas and Kahayan rivers hosted elaborate rituals to honor ancestral spirits, ensuring communal harmony and bountiful crops. By the 16th century, Ngaju traders navigated upriver routes exchanging resin, pepper, and forest goods with coastal sultanates. Skilled carvers in artisan guilds produced the famed wood totems and ceremonial masks integral to both spiritual and political life. Though Dutch records from the 1670s note periodic raids, Ngaju headmen maintained autonomy through ancestral valor and consultative pantun councils."
