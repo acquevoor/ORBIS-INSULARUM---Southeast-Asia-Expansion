@@ -790,8 +790,8 @@ BKL_ideas = {
         trade_steering = 0.15
     }
 
-    BKL_coastal_federation = {
-        vassal_income = 0.1
+    BKL_rejang_script = {
+        idea_cost = -0.05
     }
 
     BKL_tui_kutei = {
