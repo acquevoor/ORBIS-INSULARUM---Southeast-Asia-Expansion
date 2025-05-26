@@ -1,0 +1,58 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 226 236 15 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Sirao #0" = 20
+	"Inada Sirici #0" = 20
+	"Bauwa Dano Hia #0" = 20
+	"Lakindro Lai #0" = 20
+	"Balugu Luo Mewona #0" = 20
+	"Hia Walangi Adu #0" = 20
+	"Luo Mewona #0" = 20
+	"Gojo Hela Hela Dano #0" = 20
+	"Simanga Bua #0" = 20
+	"Sirao Uwu Zihono #0" = 20
+	"Lulu Hada Ana'a #0" = 20
+	"Daeli #0" = 20
+}
+
+leader_names = { 
+	Amizaro Anötöna Aroziduhu Arosökhi Arozisökhi Arofati Arota Arozato Arozatulö Bezatulö Bezisökhi Duhusökhi Faduhusi Mesarudi Yaatulo Foarota Fanötöna Foahonoa Fotani Haga Lakhömizaro Mohaga Motani Saro Siga Sio Sohaga Sanolo Sanauölö Sondroro Sökhiatolo Sozanolo Sökhi Vanötöna Vanalida Yasona Yaaro Zanolo Zondroro Zotani
+}
+ship_names = {
+       "Amazihönö"	"Baeha"	"Baewa"	"Bago"	"Bagolö"	"Balazi"	"Bali"	"Baru"	"Batee"	"Baŵaloŵalangi"	"Baŵameneŵi"	"Baŵaulu"	"Bawö"	"Bazikho"	"Boha"	"Bohalima"	"Böröhili"	"Börömezaya"	"Böwo"	"Bu'ulölö"
+	"Buaya"	"Bulu'aro"	"Bunaŵölö"	"Daeli"	"Dachi"	"Dafulu"	"Dandrosa"	"Dao"	"Daru"	"Dauwö"	"Daŵölö"	"Delau"	"Delötö"	"Dilalö"	"Dohare"	"Dohöna"	"Dohude"	"Dolea"	"Döwa"	"Duha"	"Duru"	
+	"Duwulani"	"Fakho"	"Famaugug"	"Fanaetu"	"Farokha"	"Fau"	"Fawura"	"Finowa'a"	"Fondrahi"	"Gafore"	"Gaho"	"Gamazu"	"Gamainö"	"Gamarö"	"Gamöfö"	"Ganumba"	"Garamba"	
+	"Gari"	"Gaurifa"	"Ge'e"		"Gea"	"Gehomo"	"Giawa"	"Göri"	"Gowa"	"Gowi"	"Goŵasa"	"Gulla"	"Gulo"	"Halawa"	"Halu"	"Harefa"	"Haria"	"Harimao"	"Harita"	"Hawa"	"Hendri"	"Hia"	"Hinare"
+	"Hondrö"	"Hulu"		"Humendru"	"Hura"	"Laia"	"Lafau"	"Lahu"	"Lalu"	"Laoli"	"Laoŵö"	"Laŵölö"	"Larosa"	"Lase"	"Lature"	"Lauwö"	"Lazira"	"Limbu"	"Lowalani"	"Lö'i"	"Lombu"	"Luaha"	"Luahamboŵo"	"Luo"	
+	"Maduŵu"	"Manaö"	"Manaraja"	"Mangiwadanö"			"Maru'ao"	"Maruhawa"	"Marundruri"	"Ma'uwu"	"Mazulai"	"Mendröfa"	"Meziwa"	"Mola"	"Möhö"	"Maru"	"Abaya"	"Nadoya"	"Nahono"	"Nakhe"	"Namölö"
+	"Nanehe"	"Naya"			"Nazara"	"Nauru"	"Ndraha"	"Ndruru"	"Nehe"	"Nene"	"Owasaluo"	"Sabuanafulu"	"Sadumba"	"Sao'iagö"	"Saota"	"Sarahönö"	"Sarumaha"	"Saufala"	"Siawa"	"Siba'a"	"Sifalaete"	
+	"Sihura"	"Siyawa"	"Si'owasa"	"Sisobaene"			"Siwaehe"	"Solokhoi"	"Siwanahönö"	"Tabalihili"	"Taföna'ö"	"Telaumbanua"	"Waha"	"Wahuwusa"	"Wakho"	"Wandru"	"Waö"	"Ŵaoma"	"Ŵarai"	"Warökha"	
+	"Ŵarasi"	"Ŵaruwu"	"Ŵate"	"Waya"	"Waulolo"	"Wea"	"Wehalö"	"Yawazihönö"	"Zabölö'ani"	"Zagö"	"Zagötö"	"Zai"	"Zalukhu"	"Zamili"	"Zamöno"	"Zandroto"	"Zebua"	"Zega"	"Zendratö"	"Ziawa"	
+	"Zidömi"	"Zihono"	"Zikhamo"	"Ziliŵu"	"Zimali"	"Zina"		"Ziraluo"	"Zolobö"	"Zörömi"	"Zahuwa"
+}
