@@ -3,7 +3,6 @@ add_government_reform = mandala_reform
 government_rank = 1
 primary_culture = nias
 religion = animism
-secondary_religion = hinduism
 technology_group = chinese
 capital = 2684
 
