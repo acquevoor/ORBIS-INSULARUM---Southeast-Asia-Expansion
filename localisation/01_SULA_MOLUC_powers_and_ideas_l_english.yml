@@ -868,3 +868,31 @@ BGI_ambition_desc:0 "Banggai’s ambition is to continue expanding its naval pow
 
 BGI_village_union:0 "Village Union"
 BGI_village_union_desc:0 "Banggai’s political unity is built on the strength of its village unions, where local leaders collaborate to maintain harmony and defend their shared land. These alliances help to reduce internal instability and maintain stability within the area."
+
+TRJ_ideas:0 "Torajan Ideas"
+TRJ_ideas_desc:0 "Toraja's spiritual tolerance and ability to unify diverse highland groups under ritual authority make administration of new lands more efficient."
+
+TRJ_ideas_start:0 "Powers of the Uplander"
+
+TRJ_tongkonan:0 "Tongkonan"
+TRJ_tongkonan_desc:0 "Torajan ancestral houses are more than buildings—they are our ties to the past and each other."
+
+TRJ_ritual_hierarchy :0 "Ritual Hierarchy"
+TRJ_ritual_hierarchy _desc:0 "Through ritual we know our place, our role, and our duty."
+
+TRJ_lembang_federations:0 "Lembang Federation"
+TRJ_lembang_federations_desc:0 "Though many, we are bound by custom and alliance."
+
+TRJ_rambu_solo:0 "Rambu Solo"
+TRJ_rambu_solo_desc:0 "The tradition of gotong royong Rambu Solo' is a funeral ceremony performed by the Toraja people. This tradition aims to honor the deceased and send their souls to the spirit world."
+
+TRJ_upperland_people:0 "People from the Upperland"
+TRJ_upperland_people_desc:0 "The steep valleys and ridges are both home and fortress."
+
+TRJ_bufallo_ceremony:0 "Buffalo Wealth and Ceremonial Power"
+TRJ_bufallo_ceremony_desc:0 "A man is judged not just by his land, but by his buffalo."
+
+TRJ_ideas_bonus:0 "Uplander Legacy"
+
+TRJ_mararang_legacy:0 "Mararang and the Warrior Nobles"
+TRJ_mararang_legacy_desc:0 "The mararang are warriors who lead not only by might, but by bloodline and bravery."
