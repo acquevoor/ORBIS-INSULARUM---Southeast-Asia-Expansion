@@ -1,5 +1,8 @@
 # Sumba
-# 634 Sumba - 5/16/2025 12:37:49 PM 
+# 634 Sumba - 5/16/2025 12:37:49 PM
+add_core = SMW
+owner = SMW
+controller = SMW 
 base_tax = 1
 base_production = 2
 base_manpower = 3

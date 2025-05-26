@@ -1,6 +1,9 @@
 # Bulungan
 # 2711 Bulungan - 5/16/2025 12:37:50 PM 
- 
+
+add_core = BEU
+owner = BEU
+controller = BEU
 base_tax = 1
 base_production = 1
 base_manpower = 1
