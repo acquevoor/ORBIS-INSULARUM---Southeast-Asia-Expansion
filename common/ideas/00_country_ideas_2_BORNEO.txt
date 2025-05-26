@@ -305,6 +305,56 @@ SMB_ideas = {
     }
 }
 
+#Mempawah
+MPW_ideas = {
+    start = {
+        tolerance_own = 1
+        garrison_size = 0.10
+    }
+
+    bonus = {
+        trade_range_modifier = 0.15
+    }
+
+    trigger = {
+        tag = MPW
+    }
+
+    free = yes
+
+    MPW_heirs_of_sidiniang = {
+        legitimacy = 1
+	prestige = 0.5
+    }
+
+    MPW_malay_dayak_alliance = {
+        manpower_recovery_speed = 0.10
+	infantry_cost = -0.10
+    }
+
+    MPW_gate_to_borneo = {
+        trade_efficiency = 0.15
+    }
+
+    MPW_river_and_sea_trade = {
+        caravan_power = 0.2
+    }
+
+    MPW_harmony_of_believes = {
+        tolerance_heathen = 1
+        religious_unity = 0.05
+    }
+
+    MPW_sufism_refugees = {
+        idea_cost = -0.5
+    }
+
+    MPW_jungle_coastal_forts = {
+        defensiveness = 0.15
+    }
+}
+
+
 #Ngaju
 NGJ_ideas = {
     start = {
@@ -386,7 +436,7 @@ BEI_ideas = {
     }
 
     BEI_kedatuan_vassalage = {
-		reduced_liberty_desire = 10 # −10% Liberty desire in subjects
+	reduced_liberty_desire = 10 # −10% Liberty desire in subjects
         vassal_sailors_bonus = 0.05
     }
 
