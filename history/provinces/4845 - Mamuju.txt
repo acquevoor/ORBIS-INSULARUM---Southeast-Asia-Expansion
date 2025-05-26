@@ -1,9 +1,12 @@
 # Mamuju
-# 4845 Mamuju - 5/16/2025 12:37:50 PM 
+# 4845 Mamuju - 5/16/2025 12:37:50 PM
+add_core = TRJ
+owner = TRJ
+controller = TRJ
 base_tax = 1
-base_production = 1
-base_manpower = 1
-trade_goods = unknown
+base_production = 2
+base_manpower = 2
+trade_goods = coffee
 culture = toraja
 religion = animism
 capital = "Mamuju"
