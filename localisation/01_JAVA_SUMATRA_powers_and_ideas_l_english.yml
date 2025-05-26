@@ -374,6 +374,32 @@ LPG_lampung_script_and_literacy_desc:0 "The Aksara Lampung script, influenced by
 LPG_coalition_of_marga:0 "Coalition of Marga"
 LPG_coalition_of_marga_desc:0 "Tulang Bawang society was organized into 'marga'—clan-based polities that governed local affairs under customary law. Rulers often formed confederations of marga for defense, trade, and diplomacy. These coalitions allowed for decentralized but coordinated governance, bolstering resilience and autonomy in the region."
 
+BKL_ideas:0 "Petulai Federation Ideas"
+BKL_ideas_desc:0 "Though small in size and forgotten, Bangkahulu stands resilient between the jungle-covered highlands and the wide Indian Ocean. With its pepper-rich coasts attracting merchants and invaders alike, it has learned to navigate the pressures of empire, tradition, and trade. As empires rise and fall, the people of Bangkahulu endure—trading, fighting, and preserving their customs across the ages."
+
+BKL_ideas_start:0 "Hinterland Tribal Federation"
+BKL_ideas_bonus:0 "Legacy of the Petulai's"
+
+BKL_empat_petulai:0 "Four Petulai's"
+BKL_empat_petulai_desc:0 "Pat Petulai comes from the word "Pat Itu Loi" which means "Four Big Doors". Starting from the four priests who stopped by, becoming leaders of the Rejang land, because of their wise advices to the locals."
+
+LPG_pepper_coast_of_lampung:0 "Pepper Coast of Lampung"
+LPG_pepper_coast_of_lampung_desc:0 "From the early medieval period, Lampung's black pepper was a coveted commodity across Asia and the Middle East. Tulang Bawang's lords organized coastal plantations and levied tariffs on sea trade. With rising global demand, the region grew rich, becoming indispensable to spice-hungry empires."
+
+LPG_umpu_lineage_legitimacy:0 "Umpu Lineage Legitimacy"
+LPG_umpu_lineage_legitimacy_desc:0 "The title 'Umpu' was bestowed upon hereditary chiefs who traced their ancestry to sacred lineages believed to descend from gods or early Malay kings. Their rule was seen as divinely sanctioned, bolstered by kris-bearing warriors and spiritual advisors. These lineages preserved continuity, maintaining regional authority through turbulent eras."
+
+LPG_syncretic_spiritual_traditions:0 "Syncretic Spiritual Traditions"
+LPG_syncretic_spiritual_traditions_desc:0 "Even as Islam spread, Tulang Bawang retained ancient customs rooted in animism, ancestor veneration, and Hindu-Buddhist relics. Local traditions—like the Nengah Nyappur council or the Segata adat rituals—enabled peaceful cohabitation of faiths. This spiritual syncretism fostered tolerance, communal stability, and cultural richness."
+
+LPG_naga_guardians_of_the_grove:0 "Naga Guardians of the Grove"
+LPG_naga_guardians_of_the_grove_desc:0 "Myths tell of naga serpents who guard sacred trees and springs along the Tulang Bawang River. Pilgrims and rulers alike paid tribute to these protectors, believed to bestow fertility and shield against calamities. These stories reinforced stewardship of the land and spiritual legitimacy of the ruling class."
+
+LPG_lampung_script_and_literacy:0 "Lampung Script and Literacy"
+LPG_lampung_script_and_literacy_desc:0 "The Aksara Lampung script, influenced by Pallava and Old Malay forms, was used in royal edicts, poetry, and treaties. Literacy in this script became a marker of elite status, with scholars known as 'Piwulang' preserving legal codes and adat. This tradition enhanced bureaucratic governance and cultural identity."
+
+LPG_coalition_of_marga:0 "Coalition of Marga"
+LPG_coalition_of_marga_desc:0 "Tulang Bawang society was organized into 'marga'—clan-based polities that governed local affairs under customary law. Rulers often formed confederations of marga for defense, trade, and diplomacy. These coalitions allowed for decentralized but coordinated governance, bolstering resilience and autonomy in the region."
 
 IND_ideas:0 "Indrapura Ideas"
 IND_ideas_desc:0 "Perched on Sumatra’s western shore, Indrapura—‘City of Indra’—emerged as a sacred and strategic polity bridging the Minangkabau Highlands with the Indian Ocean. Legends recount its founding by celestial decree, as the god Indra struck the earth and raised the city from sea-spray and thunder. Throughout centuries, Indrapura absorbed the layered legacies of Srivijaya’s maritime networks, Indian religious thought, and the oral laws of the Minangkabau matrilineal adat. The kingdom’s rulers were known as 'Raja Alam' or 'Ruler of the Natural World', symbolizing divine kingship underpinned by nature, myth, and law. The city thrived as both a harbor and a holy place, where mountains met waves, and priests debated cosmology beside gold-weighing merchants. As Islam swept through the archipelago, Indrapura embraced a mystical synthesis of Sufi Islam and earlier beliefs, transforming temples into mosques while preserving the ancestral soul of the land."
