@@ -1,6 +1,9 @@
 # Nias
 # 2684 Nias - 5/16/2025 12:37:50 PM 
- 
+
+add_core = NIA
+owner = NIA
+controller = NIA
 base_tax = 1
 base_production = 1
 base_manpower = 1
