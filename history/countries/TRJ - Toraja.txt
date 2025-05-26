@@ -1,0 +1,17 @@
+government = tribal
+add_government_reform = mandala_reform
+government_rank = 1
+primary_culture = toraja
+religion = animism
+secondary_religion = buddhism
+technology_group = chinese
+capital = 4845
+
+1444.1.1 = {
+	monarch = {
+		name = "Tribal Council"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
