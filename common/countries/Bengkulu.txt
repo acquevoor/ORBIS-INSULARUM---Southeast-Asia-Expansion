@@ -27,6 +27,10 @@ historical_units = {
 }
 
 monarch_names = {
+	"Tubei #0" = 10
+	"Manai Sakti #0" = 10
+	"Selepuak Jang Sakti #0" = 10
+	"Jekalang #0" = 10
 	"Remindang Sakti #0" = 10
 	"Simbang Gumay #0" = 10
 	"Bintang Ruanau #0" = 10
