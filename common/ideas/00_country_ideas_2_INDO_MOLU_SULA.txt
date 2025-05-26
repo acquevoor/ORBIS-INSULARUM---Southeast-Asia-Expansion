@@ -902,7 +902,7 @@ WJO_ideas = {
 TRJ_ideas = {
     start = {
        	tolerance_heathen = 1
-	core_creation = -0.2
+	core_creation = -0.15
     }
 
     bonus = {
@@ -924,7 +924,7 @@ TRJ_ideas = {
     }
 
     TRJ_lembang_federations = {
-       	liberty_desire = -10
+       	liberty_desire = -15
     }
 
     TRJ_rambu_solo = {
@@ -936,11 +936,11 @@ TRJ_ideas = {
     }
 
     TRJ_bufallo_ceremony = {
-        production_efficiency = 0.25
+        production_efficiency = 0.15
     }
 
     TRJ_mararang_legacy = {
-        discipline = 0.03
+        discipline = 0.05
     }
 }
 
