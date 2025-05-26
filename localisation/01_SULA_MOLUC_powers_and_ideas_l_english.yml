@@ -869,7 +869,6 @@ BGI_ambition_desc:0 "Banggai’s ambition is to continue expanding its naval pow
 BGI_village_union:0 "Village Union"
 BGI_village_union_desc:0 "Banggai’s political unity is built on the strength of its village unions, where local leaders collaborate to maintain harmony and defend their shared land. These alliances help to reduce internal instability and maintain stability within the area."
 
-#Torajan
 # Toraja (TRJ) Ideas
 TRJ_ideas:0 "Toraja Ideas"
 TRJ_ideas_desc:0 "High in the mountainous interior of South Sulawesi, the Toraja people developed a distinct and enduring culture marked by elaborate rituals, strong community ties, and a fierce independence. Their society was structured around a hierarchical yet cooperative adat system, with the tongkonan ancestral houses as centers of power and memory. Through rich funerary traditions and federated lembang alliances, the Toraja maintained spiritual legitimacy and social cohesion. Despite external pressures, the highland terrain and warrior ethos allowed them to preserve their autonomy and cultural identity."
@@ -877,30 +876,23 @@ TRJ_ideas_desc:0 "High in the mountainous interior of South Sulawesi, the Toraja
 TRJ_ideas_start:0 "Guardians of the Highlands"
 TRJ_ideas_bonus:0 "Legacy of the Ancestors"
 
-# Tongkonan
 TRJ_tongkonan:0 "Tongkonan Ancestral Houses"
-TRJ_tongkonan_desc:0 "Tongkonan are the ancestral homes of the Toraja, serving not only as residences but as sacred symbols of family lineage and political authority. These houses form the backbone of Torajan society, guiding governance, inheritance, and spiritual rites."
+TRJ_tongkonan_desc:0 "Tongkonan are the ancestral homes of the Toraja, serving not only as residences but as sacred symbols of family lineage and political authority. These houses form the backbone of Torajan society, guiding governance, inheritance, and spiritual rites. Their construction follows ancient cosmological principles, linking heaven, earth, and the underworld in Torajan belief."
 
-# Ritual Hierarchy
 TRJ_ritual_hierarchy:0 "Ritual Hierarchy"
-TRJ_ritual_hierarchy_desc:0 "The ritual calendar of the Toraja, managed by a complex hierarchy of priests and nobles, reinforced social order and divine favor. These ceremonies elevated the prestige of families and sustained the cosmic balance central to Torajan belief."
+TRJ_ritual_hierarchy_desc:0 "The ritual calendar of the Toraja, managed by a complex hierarchy of priests and nobles, reinforced social order and divine favor. These ceremonies elevated the prestige of families and sustained the cosmic balance central to Torajan belief. Nobles were expected to sponsor major rituals to legitimize their rank, binding wealth to spiritual duty."
 
-# Lembang Federations
 TRJ_lembang_federations:0 "Lembang Federations"
-TRJ_lembang_federations_desc:0 "The lembang, or confederations of villages, allowed the Toraja to unite in mutual defense while preserving local autonomy. These flexible alliances helped maintain internal harmony and discouraged vassal defiance."
+TRJ_lembang_federations_desc:0 "The lembang, or confederations of villages, allowed the Toraja to unite in mutual defense while preserving local autonomy. These flexible alliances helped maintain internal harmony and discouraged vassal defiance. In times of external threat, lembang cooperation ensured collective military mobilization across highland regions."
 
-# Rambu Solo
 TRJ_rambu_solo:0 "Rambu Solo Funerary Rites"
-TRJ_rambu_solo_desc:0 "The Rambu Solo, the Toraja's elaborate funerary ceremonies, affirmed the social status of the deceased and strengthened the legitimacy of their descendants. These rituals tied spiritual belief directly to the political continuity of noble houses."
+TRJ_rambu_solo_desc:0 "The Rambu Solo, the Toraja's elaborate funerary ceremonies, affirmed the social status of the deceased and strengthened the legitimacy of their descendants. These rituals tied spiritual belief directly to the political continuity of noble houses. Some rites could last for weeks and required months or even years of preparation and buffalo collection."
 
-# Upperland People
 TRJ_upperland_people:0 "People of the Upperlands"
-TRJ_upperland_people_desc:0 "Living in rugged highland terrain shaped the Toraja into resilient warriors. Their intimate knowledge of the land and fierce defense of their autonomy made incursions into Toraja territory costly and dangerous for any aggressor."
+TRJ_upperland_people_desc:0 "Living in rugged highland terrain shaped the Toraja into resilient warriors. Their intimate knowledge of the land and fierce defense of their autonomy made incursions into Toraja territory costly and dangerous for any aggressor. Oral traditions recount repeated repulsion of lowland expansionists and slave raiders over centuries."
 
-# Buffalo Ceremony
 TRJ_bufallo_ceremony:0 "Buffalo Sacrifices"
-TRJ_bufallo_ceremony_desc:0 "Buffaloes held immense spiritual and economic value in Torajan culture. Their sacrifice during major rituals not only honored the ancestors but also demonstrated wealth and power, reinforcing social status and stimulating local production."
+TRJ_bufallo_ceremony_desc:0 "Buffaloes held immense spiritual and economic value in Torajan culture. Their sacrifice during major rituals not only honored the ancestors but also demonstrated wealth and power, reinforcing social status and stimulating local production. The Tedong Bonga, a rare breed of spotted buffalo, became prized as a status symbol, often fetching exorbitant prices."
 
-# Mararang Legacy
 TRJ_mararang_legacy:0 "Legacy of the Mararang"
-TRJ_mararang_legacy_desc:0 "The Mararang, a traditional class of noble warriors, embodied the martial spirit of the Toraja. Their legacy of discipline and leadership ensured the survival of Torajan values through centuries of regional strife and colonial pressure."
+TRJ_mararang_legacy_desc:0 "The Mararang, a traditional class of noble warriors, embodied the martial spirit of the Toraja. Their legacy of discipline and leadership ensured the survival of Torajan values through centuries of regional strife and colonial pressure. Trained from youth, they played a central role in inter-village warfare, ritual combat, and dispute arbitration."

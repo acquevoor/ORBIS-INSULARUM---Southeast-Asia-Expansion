@@ -402,33 +402,6 @@ LPG_lampung_script_and_literacy_desc:0 "The Aksara Lampung script, influenced by
 LPG_coalition_of_marga:0 "Coalition of Marga"
 LPG_coalition_of_marga_desc:0 "Tulang Bawang society was organized into 'marga'—clan-based polities that governed local affairs under customary law. Rulers often formed confederations of marga for defense, trade, and diplomacy. These coalitions allowed for decentralized but coordinated governance, bolstering resilience and autonomy in the region."
 
-BKL_ideas:0 "Petulai Federation Ideas"
-BKL_ideas_desc:0 "Though small in size and forgotten, Bangkahulu stands resilient between the jungle-covered highlands and the wide Indian Ocean. With its pepper-rich coasts attracting merchants and invaders alike, it has learned to navigate the pressures of empire, tradition, and trade. As empires rise and fall, the people of Bangkahulu endure—trading, fighting, and preserving their customs across the ages."
-
-BKL_ideas_start:0 "Hinterland Tribal Federation"
-BKL_ideas_bonus:0 "Legacy of the Petulai's"
-
-BKL_empat_petulai:0 "Four Petulai's"
-BKL_empat_petulai_desc:0 "Pat Petulai comes from the word "Pat Itu Loi" which means "Four Big Doors". Starting from the four monks who stopped by, becoming leaders of the Rejang land, because of their wise advices to the locals."
-
-BKL_jungle_fortifications:0 "Jungle Fortifications"
-BKL_jungle_fortifications_desc:0 " "Dense rainforests cover the hills and coasts of Bangkahulu, forming a natural barrier against invaders. Our people know these paths intimately, and even the strongest armies falter in the thick undergrowth and hidden ravines. With strategic fort building deep within the jungle, we make every siege costly and every advance perilous."
-
-BKL_bangkahulu_hinterland_band:0 "Hinterland Tribal Warriors"
-BKL_bangkahulu_hinterland_band_desc:0 " "The rugged hills and dense forests of the Bangkahulu interior have bred resilient and fearsome warriors. Among the Rejang, Pasemah, and Serawai peoples, every able youth is trained to defend their land with blade, bow, and ambush. These warriors, though decentralized, bring unmatched knowledge of the terrain and a relentless spirit to any fight."
-
-BKL_barrier_between_powers:0 "Barrier Between Powers"
-BKL_barrier_between_powers_desc:0 "Surrounded by larger powers, we mastered the art of diplomacy and subtle strength, ensuring our survival and autonomy between larger powers interests."
-
-BKL_gateway_indian_ocean:0 "Gateway to the Indian Ocean"
-BKL_gateway_indian_ocean_desc:0 "Facing the vast Indian Ocean, Bangkahulu is a natural port for merchants sailing between Africa, India, and Southeast Asia. We must harness our strategic location to dominate the trade lanes."
-
-BKL_rejang_script:0 "Rejang Alphabet"
-BKL_rejang_script_and_literacy_desc:0 "The Rejang script is an abugida of the Brahmic family that is related to other scripts of their neighbors the Uluan Script."
-
-BKL_tui_kutei:0 "Tui Kutei Custom"
-BKL_tui_kutei_desc:0 "Rejang noble family will also be selected and are the main choice to occupy strategic traditional positions and form a traditional leadership system called Kutêi, which giving their role on guarding traditional Rejang customs."
-
 IND_ideas:0 "Indrapura Ideas"
 IND_ideas_desc:0 "Perched on Sumatra’s western shore, Indrapura—‘City of Indra’—emerged as a sacred and strategic polity bridging the Minangkabau Highlands with the Indian Ocean. Legends recount its founding by celestial decree, as the god Indra struck the earth and raised the city from sea-spray and thunder. Throughout centuries, Indrapura absorbed the layered legacies of Srivijaya’s maritime networks, Indian religious thought, and the oral laws of the Minangkabau matrilineal adat. The kingdom’s rulers were known as 'Raja Alam' or 'Ruler of the Natural World', symbolizing divine kingship underpinned by nature, myth, and law. The city thrived as both a harbor and a holy place, where mountains met waves, and priests debated cosmology beside gold-weighing merchants. As Islam swept through the archipelago, Indrapura embraced a mystical synthesis of Sufi Islam and earlier beliefs, transforming temples into mosques while preserving the ancestral soul of the land."
 
@@ -511,3 +484,32 @@ dmk_trade_city_desc:0 "Demak’s capital flourished as a bustling entrepôt wher
 
 dmk_sufi_schools:0 "Sufi Schools"
 dmk_sufi_schools_desc:0 "Centers of Sufi learning and spirituality in Demak nurtured Islamic scholars who spread mystical teachings and reinforced religious authority. These schools elevated the sultanate’s prestige and enhanced missionary zeal, embedding Islam deeply within Javanese society while fostering intellectual and cultural development."
+
+
+
+BKL_ideas:0 "Petulai Federation Ideas"
+BKL_ideas_desc:0 "Though small in size and often overlooked, Bangkahulu stands resilient between the jungle-covered highlands and the wide Indian Ocean. With its pepper-rich coasts attracting merchants and invaders alike, it has learned to navigate the pressures of empire, tradition, and trade. Once a crucial node in the pepper trade linking Sumatra with the broader Indian Ocean world, its communities developed decentralized yet enduring social structures. As empires rose and fell, the people of Bangkahulu endured—trading, fighting, and preserving their customs across the ages."
+
+BKL_ideas_start:0 "Hinterland Tribal Federation"
+BKL_ideas_bonus:0 "Legacy of the Petulai's"
+
+BKL_empat_petulai:0 "Four Petulai's"
+BKL_empat_petulai_desc:0 "Pat Petulai comes from the phrase 'Pat Itu Loi', meaning 'Four Big Doors'. This refers to the four ancestral monks who settled in the region and were accepted as leaders for their wisdom. Their teachings became the foundation of Petulai governance, forming the basis of communal law and customary hierarchy that still shape political life today."
+
+BKL_jungle_fortifications:0 "Jungle Fortifications"
+BKL_jungle_fortifications_desc:0 "Dense rainforests cover the hills and coasts of Bangkahulu, forming a natural barrier against invaders. Our people know these paths intimately, and even the strongest armies falter in the thick undergrowth and hidden ravines. During periods of external pressure, entire villages were moved deeper into the jungle, and layered fortifications made pursuit nearly impossible."
+
+BKL_bangkahulu_hinterland_band:0 "Hinterland Tribal Warriors"
+BKL_bangkahulu_hinterland_band_desc:0 "The rugged hills and dense forests of the Bangkahulu interior have bred resilient and fearsome warriors. Among the Rejang, Pasemah, and Serawai peoples, every able youth is trained to defend their land with blade, bow, and ambush. Warfare was rooted in clan defense, and local militias employed guerrilla tactics long before formalized states adopted them."
+
+BKL_barrier_between_powers:0 "Barrier Between Powers"
+BKL_barrier_between_powers_desc:0 "Surrounded by larger powers, we mastered the art of diplomacy and subtle strength, ensuring our survival and autonomy. Historically, Bangkahulu balanced relations between coastal sultanates and inland polities, often serving as a buffer zone that preserved its own sovereignty by playing rivals against each other."
+
+BKL_gateway_indian_ocean:0 "Gateway to the Indian Ocean"
+BKL_gateway_indian_ocean_desc:0 "Facing the vast Indian Ocean, Bangkahulu is a natural port for merchants sailing between Africa, India, and Southeast Asia. From the early medieval period, its harbors supplied pepper, camphor, and gold, connecting it with Gujarati, Arab, and later European traders. Its strategic coastal settlements became both commercial hubs and targets of conquest."
+
+BKL_rejang_script:0 "Rejang Alphabet"
+BKL_rejang_script_desc:0 "The Rejang script is an abugida of the Brahmic family that is related to other scripts of their neighbors the Uluan Script. Inscriptions and bamboo manuscripts suggest a literate tradition used for ritual and customary law, possibly influenced by early Hindu-Buddhist courts and sustained through oral transmission in village schools."
+
+BKL_tui_kutei:0 "Tui Kutei Custom"
+BKL_tui_kutei_desc:0 "Rejang noble families were traditionally selected to occupy strategic traditional positions, forming a hereditary leadership system called Kutêi. These leaders oversaw village alliances and sacred rituals, reinforcing social cohesion. The Kutêi also served as guardians of adat (customary law), balancing spiritual authority with clan-based politics."

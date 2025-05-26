@@ -9,7 +9,7 @@ DHR_ideas = {
     }
 
     bonus = {
-        production_efficiency = 0.10
+        production_efficiency = 0.15
     }
 
     trigger = {
@@ -45,7 +45,6 @@ DHR_ideas = {
     }
 
     DHR_legal_code_of_dharmasraya = {
-        idea_cost = -0.05
         stability_cost_modifier = -0.10
     }
 }
@@ -54,7 +53,7 @@ DHR_ideas = {
 ARU_ideas = {
     start = {
         tolerance_own = 2
-        global_trade_power = 0.10
+        global_trade_power = 0.15
     }
 
     bonus = {
@@ -68,7 +67,7 @@ ARU_ideas = {
     free = yes
 
     ARU_spice_archipelago = {
-        trade_efficiency = 0.15
+        trade_efficiency = 0.10
     }
 
     ARU_shipbuilder_pride = {
@@ -87,16 +86,15 @@ ARU_ideas = {
 
     ARU_balian_trade_fairs = {
         stability_cost_modifier = -0.10
-        tolerance_heathen = 1
     }
 
     ARU_malay_pantun_poets = {
-        prestige = 1
+        prestige = 0.5
         idea_cost = -0.05
     }
 
     ARU_spice_madrasas = {
-        global_missionary_strength = 0.02
+        global_missionary_strength = 0.01
         legitimacy = 0.5
     }
 }
@@ -134,7 +132,6 @@ HTR_ideas = {
 
     HTR_shamanic_resilience = {
         stability_cost_modifier = -0.10
-        tolerance_heathen = 1
     }
 
     HTR_south_sea_trade = {
@@ -159,7 +156,7 @@ LMI_ideas = {
     }
 
     bonus = {
-        trade_efficiency = 0.10
+        trade_efficiency = 0.15
     }
 
     trigger = {
@@ -183,8 +180,7 @@ LMI_ideas = {
     }
 
     LMI_strategic_coastal_forts = {
-        fort_maintenance_modifier = -0.10
-        defensiveness = 0.10
+        fort_maintenance_modifier = -0.15
     }
 
     LMI_masjid_networks = {
@@ -198,7 +194,7 @@ LMI_ideas = {
     }
 
     LMI_sufi_merchants = {
-        trade_steering = 0.15
+        trade_steering = 0.10
     }
 }
 
@@ -225,7 +221,7 @@ PSA_ideas = {
     }
 
     PSA_mecca_of_the_malay_world = {
-        global_missionary_strength = 0.02
+        global_missionary_strength = 0.01
         monthly_piety = 0.01
     }
 
@@ -250,7 +246,6 @@ PSA_ideas = {
 
     PSA_royal_patronage_of_ulama = {
         idea_cost = -0.05
-        devotion = 1
     }
 }
 
@@ -278,7 +273,6 @@ ATJ_ideas = {
 
     ATJ_aceh_madrasa_networks = {
         idea_cost = -0.05
-        advisor_cost = -0.10
     }
 
     ATJ_warriors_of_the_faith = {
@@ -286,23 +280,19 @@ ATJ_ideas = {
     }
 
     ATJ_bustling_pepper_ports = {
-        trade_efficiency = 0.10
-        global_trade_power = 0.05
+        global_trade_power = 0.15
     }
 
     ATJ_female_leadership_and_sharia = {
-        tolerance_heathen = 1
-        stability_cost_modifier = -0.10
+        stability_cost_modifier = -0.15
     }
 
     ATJ_links_to_mecca_and_ottomans = {
         institution_spread_from_true_faith = 0.1
-        diplomatic_reputation = 1
     }
 
     ATJ_struggle_against_foreign_infidels = {
-        global_unrest = -1
-        land_forcelimit_modifier = 0.10
+        land_forcelimit_modifier = 0.15
     }
 }
 
@@ -329,12 +319,10 @@ GLU_ideas = {
     }
 
     GLU_pasar_islamic_centers = {
-        global_trade_power = 0.05
         institution_spread_from_true_faith = 0.1
     }
 
     GLU_sundanese_conversion_effort = {
-        tolerance_heathen = 1
         culture_conversion_cost = -0.10
     }
 
@@ -344,7 +332,6 @@ GLU_ideas = {
 
     GLU_warlords_of_the_priangan = {
         infantry_shock = 1
-        army_tradition = 0.5
     }
 
     GLU_heartland_of_java = {
@@ -353,7 +340,6 @@ GLU_ideas = {
 
     GLU_kingdom_and_ummah = {
         improve_relation_modifier = 0.15
-        tolerance_heretic = 1
     }
 }
 
@@ -380,32 +366,29 @@ SUN_ideas = {
     }
 
     SUN_sunda_strategic_ports = {
-        trade_efficiency = 0.10
-        global_institution_spread = 0.05
+        global_institution_spread = 0.10
     }
 
     SUN_kabuyutan_and_ancestral_law = {
-        stability_cost_modifier = -0.15
+        stability_cost_modifier = -0.10
     }
 
     SUN_mountain_fortresses = {
         defensiveness = 0.10
-        fort_maintenance_modifier = -0.10
     }
 
     SUN_niskala_and_sacred_kingship = {
-        tolerance_heathen = 1
-        devotion = 0.5
+        tolerance_heathen = 2
+        devotion = 0.1
     }
 
     SUN_sundanese_diplomatic_flexibility = {
         improve_relation_modifier = 0.15
-        envoy_travel_time = -0.25
+        envoy_travel_time = -0.15
     }
 
     SUN_legacy_of_tarumanagara = {
         idea_cost = -0.05
-        development_cost = -0.05
     }
 }
 
@@ -444,7 +427,7 @@ LPG_ideas = {
     }
 
     LPG_naga_guardians_of_the_grove = {
-        stability_cost_modifier = -0.15
+        stability_cost_modifier = -0.10
     }
 
     LPG_lampung_script_and_literacy = {
@@ -459,7 +442,7 @@ LPG_ideas = {
 
 IND_ideas = {
     start = {
-        legitimacy = 1
+        land_attrition = -0.10
         trade_efficiency = 0.10
     }
 
@@ -488,7 +471,6 @@ IND_ideas = {
     }
 
     IND_minangkabau_matriarchal_adat = {
-        tolerance_own = 1
         governing_capacity_modifier = 0.10
     }
 
@@ -498,8 +480,7 @@ IND_ideas = {
     }
 
     IND_guardians_of_the_three_peaks = {
-        defensiveness = 0.05
-        army_tradition = 0.5
+        defensiveness = 0.10
     }
 
     IND_gold_and_rain_miracles = {
@@ -531,18 +512,15 @@ BLM_ideas = {
     }
 
     BLM_tawang_alun_dharma = {
-        devotion = 0.5
         idea_cost = -0.05
     }
 
     BLM_balinese_exile_link = {
-        diplomatic_upkeep = 1
         improve_relation_modifier = 0.15
     }
 
     BLM_banyuwangi_trade_harbor = {
         trade_efficiency = 0.10
-        global_trade_power = 0.05
     }
 
     BLM_mountain_temple_resilience = {
@@ -551,13 +529,11 @@ BLM_ideas = {
     }
 
     BLM_watu_dodot_heroic_legends = {
-        global_unrest = -1
         stability_cost_modifier = -0.10
     }
 
     BLM_eastern_javanese_warriors = {
         infantry_shock = 1
-        leader_land_shock = 1
     }
 }
 
@@ -580,16 +556,16 @@ BLI_ideas = {
 
     BLI_bali_dvipa_dharma_stronghold = {
         legitimacy = 1
-        tolerance_heathen = 1
+        devotion = 0.5
+        tolerance_heathen = 2
     }
 
     BLI_ritualized_kingship = {
-        devotion = 0.5
         idea_cost = -0.05
     }
 
     BLI_ancestral_mountain_temples = {
-        stability_cost_modifier = -0.15
+        stability_cost_modifier = -0.10
     }
 
     BLI_keris_and_kshatriya_valor = {
@@ -602,13 +578,13 @@ BLI_ideas = {
     }
 
     BLI_resistance_to_foreign_faiths = {
-        global_missionary_strength = 0.02
+        global_missionary_strength = 0.01
         global_unrest = -1
     }
 
     BLI_tirta_trade_and_temple_economy = {
-        trade_efficiency = 0.10
-        production_efficiency = 0.05
+        trade_efficiency = 0.075
+        production_efficiency = 0.075
     }
 }
 
@@ -653,9 +629,9 @@ DMK_ideas = {
 #Majapahit
 MAJ_ideas = {
     start = {
-        diplomatic_reputation = 2
-        global_ship_cost = -0.15
-        global_trade_power = 0.15
+        diplomatic_upkeep = 2
+        global_ship_cost = -0.10
+        global_trade_power = 0.10
     }
 
     bonus = {
@@ -688,17 +664,15 @@ MAJ_ideas = {
     }
 
     MAJ_kawasan_majapahit = {
-        trade_efficiency = 0.10
-        sailors_recovery_speed = 0.10
+        sailors_recovery_speed = 0.15
     }
 
     MAJ_keraton_and_dharmadwipa = {
         idea_cost = -0.10
-        tolerance_heathen = 1
     }
 
     MAJ_mahamantri_and_datu_kerajaan = {
-        governing_capacity = 100
+        governing_capacity = 50
         governing_capacity_modifier = 0.1
     }
 }
@@ -707,11 +681,11 @@ MAJ_ideas = {
 PLB_ideas = {
     start = {
         tolerance_own = 2
-        improve_relation_modifier = 0.1
+        core_creation = -0.1
     }
 
     bonus = {
-        land_forcelimit_modifier = 0.10
+        land_forcelimit_modifier = 0.15
     }
 
     trigger = {
@@ -721,8 +695,7 @@ PLB_ideas = {
     free = yes
 
     PLB_srivijayan_legacy = {
-        trade_efficiency = 0.05
-        naval_forcelimit_modifier = 0.10
+        naval_forcelimit_modifier = 0.15
     }
 
     PLB_muslim_scholars_of_beringin = {
@@ -730,7 +703,7 @@ PLB_ideas = {
     }
 
     PLB_masjid_agung_and_ilm = {
-        prestige = 0.5
+        prestige = 1
     }
 
     PLB_musirawas_uplands_expeditions = {
@@ -770,7 +743,7 @@ BKL_ideas = {
 
     BKL_empat_petulai = {
         legitimacy = 1
-        improve_relation_modifier = 0.15
+        improve_relation_modifier = 0.10
     }
 
     BKL_jungle_fortifications = {
@@ -795,7 +768,6 @@ BKL_ideas = {
     }
 
     BKL_tui_kutei = {
-        idea_cost = -0.05
         stability_cost_modifier = -0.10
     }
 }
@@ -850,7 +822,7 @@ NIA_ideas = {
 SPR_ideas = {
     start = {
         tolerance_own = 2
-        global_missionary_strength = 0.03
+        stability_cost_modifier = -0.10
     }
 
     bonus = {
@@ -874,7 +846,6 @@ SPR_ideas = {
 
     SPR_adat_laws_of_pemali = {
         idea_cost = -0.05
-        stability_cost_modifier = -0.10
     }
 
     SPR_sasak_warrior_traditions = {
@@ -891,7 +862,7 @@ SPR_ideas = {
     }
     SPR_hindu_resistance_legacy = {
         global_unrest = -1.0
-        global_missionary_strength = 0.02
+        global_missionary_strength = 0.01
 }
 
 }
@@ -900,7 +871,7 @@ SPR_ideas = {
 BRS_ideas = {
     start = {
         tolerance_own = 2
-        global_trade_goods_size_modifier = 0.10  
+        global_trade_goods_size_modifier = 0.15
     }
 
     bonus = {
@@ -914,11 +885,11 @@ BRS_ideas = {
     free = yes
 
     BRS_spice_route_merchant_guilds = {
-        global_trade_power = 0.10
+        global_trade_power = 0.15
     }
 
     BRS_sultanate_fortifications = {
-        defensiveness = 0.15
+        defensiveness = 0.10
     }
 
     BRS_maritime_mastery = {
@@ -931,16 +902,14 @@ BRS_ideas = {
     }
 
     BRS_barus_cedar_trade = {
-        production_efficiency = 0.10  # Legendary cedar and camphor trade, prized in ancient markets
+        production_efficiency = 0.15  # Legendary cedar and camphor trade, prized in ancient markets
     }
 
     BRS_cultural_syncretism = {
-        diplomatic_reputation = 1  # Barus as a melting pot of Malay, Indian, Arab influences
         improve_relation_modifier = 0.10
     }
 
     BRS_ancient_pantheon_invocation = {
         stability_cost_modifier = -0.10  # Mythic belief in local deities (like Beruas, guardian spirits)
-        prestige = 0.5
     }
 }
