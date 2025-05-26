@@ -751,6 +751,55 @@ PLB_ideas = {
     }
 }
 
+#Bengkulu
+BKL_ideas = {
+    start = {
+        tolerance_own = 2
+        diplomatic_reputation = 2
+    }
+
+    bonus = {
+        discipline = 0.05
+    }
+
+    trigger = {
+        tag = BKL
+    }
+
+    free = yes
+
+    BKL_empat_petulai = {
+        legitimacy = 1
+        improve_relation_modifier = 0.15
+    }
+
+    BKL_jungle_fortifications = {
+        defensiveness = 0.15
+    }
+
+    BKL_bangkahulu_hinterland_band = {
+        infantry_shock = 1
+        leader_land_shock = 1
+    }
+
+    BKL_barrier_between_powers = {
+        naval_forcelimit_modifier = 0.10
+    }
+
+    BKL_gateway_indian_ocean = {
+        trade_steering = 0.15
+    }
+
+    BKL_coastal_federation = {
+        vassal_income = 0.1
+    }
+
+    BKL_tui_kutei = {
+        idea_cost = -0.05
+        stability_cost_modifier = -0.10
+    }
+}
+
 #Selaperang
 SPR_ideas = {
     start = {
