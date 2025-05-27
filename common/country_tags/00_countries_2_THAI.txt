@@ -1,0 +1,12 @@
+# GOLDEN AXE
+### THAILAND ###############################################
+
+# Chao Phraya
+UTH = "countries/Uthong.txt"
+SUP = "countries/Suphan.txt"
+LAV = "countries/Lavo.txt"
+
+#Lanna
+NAN = "countries/Nan.txt"
+LPH = "countries/Lamphun.txt"
+CNM = "countries/ChiangMai.txt"

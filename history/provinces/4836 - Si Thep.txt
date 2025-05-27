@@ -2,6 +2,7 @@
 # 4836 Si Thep - 5/16/2025 12:37:50 PM 
  
 add_core = AYU
+add_core = ISH
 owner = AYU
 controller = AYU
 base_tax = 3

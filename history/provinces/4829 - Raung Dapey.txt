@@ -2,6 +2,7 @@
 # 4829 Raung Dapey - 5/16/2025 12:37:50 PM 
  
 add_core = KHM
+add_core = CTK
 owner = KHM
 controller = KHM
 base_tax = 2

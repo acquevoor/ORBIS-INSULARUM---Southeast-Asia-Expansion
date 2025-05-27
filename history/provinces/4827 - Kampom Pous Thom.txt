@@ -2,6 +2,7 @@
 # 4827 Kampom Pous Thom - 5/16/2025 12:37:50 PM 
  
 add_core = KHM
+add_core = LVK
 owner = KHM
 controller = KHM
 base_tax = 2

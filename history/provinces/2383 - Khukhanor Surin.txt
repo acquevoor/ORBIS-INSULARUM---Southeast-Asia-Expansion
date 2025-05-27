@@ -2,6 +2,7 @@
 # 2383 Khukhanor Surin - 5/16/2025 12:37:50 PM 
  
 add_core = LXA
+add_core = ISH
 add_core = CHK
 owner = LXA
 controller = LXA
