@@ -21,12 +21,23 @@ filipino_g = {
 			Macatangay Makuha Magboo Magsino Malana Malibiran Marasigan
 			Matibay Panganiban Parungao Pasahol Ptacsil Pilapi Silang
 			Sumaya Sumilang Sumulong Timbol Tumanda Yanga
+			"Abalahin" "Abayan" "Abiog" "Abog" "Abot" "Agawin" "Alalay" "Alampay" "Alinsangan" "Alon" "Alunan" "Ampon" "Angara" "Angat" "Atabay" "Atangan" "Atay" "Awa" 				"Awitan" "Babalato" "Babao" "Babasa" "Baccay" "Bacunawa" "Baga" "Bagaoisan" "Bagay" "Bagayan" "Bagong_gahasa" "Bagsic" "Bagtas" "Bahaghari" "Balagot" "Balagtas" 			"Balandra" "Balane" "Balita" "Balitaan" "Balitactac" "Balot" "Balubal" "Baluyot" "Banaag" "Banal" "Banayat" "Bancain" "Bancod" "Baniaga" "Banta" "Bantay" "Bantog" 			"Baon" "Basa" "Bataanon" "Batacan" "Batao" "Batas" "Bati" "Bato" "Batongbacal" "Batongmalaque" "Batucan" "Bayani" "Bigayan" "Biglang_awa" "Bihis" "Binaohan" 				"Bitao" "Bohol" "Bondoc" "Bonga" "Bonoan" "Bonotan" "Bual" "Buan" "Buaya" "Bugnos" "Bugtong" "Buhay" "Buhayin" "Bunye" "Caacbay" "Cabasa" "Caccam" "Caganap" 				"Cahambing" "Caharian" "Cajucom" "Calajati" "Calaycay" "Calumpang" "Calupitan" "Camaganacan" "Caoili" "Capili" "Capinpin" "Capoy" "Capulong" "Capuno" "Carag" 				"Casama" "Casuco" "Catacataca" "Catacutan" "Catambay" "Catig" "Cayabyab" "Caylao" "Conti" "Corotan" "Dagdag" "Dagdagan" "Dahan" "Dakila" "Dalandan" "Dalangib" 				"Dalao" "Dalisay" "Dasalan" "Dasig" "Datingginoo" "Daya" "Dayanghirang" "Dayap" "Dayo" "Dilag" "Dimaaliw" "Dimaano" "Dimaapi" "Dimabasa" "Dimacuha" "Dimaculangan" 			"Dimadukot" "Dimagiba" "Dimailig" "Dimaisip" "Dimaiuga" "Dimalaluan" "Dimalanta" "Dimapasoc" "Dimarumba" "Dimasalang" "Dimasuay" "Dimasupil" "Dimatulac" 				"Dimaunahan" "Dimawili" "Dinguinbayan" "Diwa" "Domagas" "Doon" "Dumagat" "Dumapias" "Galang" "Galos" "Gapusan" "Gapuz" "Gubatan" "Guinto" "Gulay" "Gumabay" 				"Halili" "Halina" "Hangad" "Hilaga" "Hinagpis" "Hinahon" "Hinampas" "Ilacad" "Ilag" "Ilagan" "Ilao" "Impoc" "Isip" "Juni" "Kabaitan" "Kabigting" "Kaibigan" 				"Kalangitan" "Kalaw" "Kalinisan" "Karunungan" "Katapang" "Katigbak" "Katipunan" "Labis" "Labo" "Lacanilao" "Lagatoc" "Lagda" "Lalamunan" "Lamanilao" "Lamug" 				"Landas" "Langit" "Lansangan" "Licud" "Ligaya" "Lipat" "Litao" "Liwanag" "Lualhati" "Lumapas" "Lumungsub" "Mababangloob" "Mabilangan" "Mabilog" "Mabini" "Mabunga" 			"Mabutas" "Macaalay" "Macabuhay" "Macalinaw" "Macalintal" "Macapagal" "Macaraeg" "Macaranas" "Macatangay" "Macatulad" "Macatunao" "Macuha" "Madali" "Madamba" 				"Madla" "Madlabayan" "Madlangbayan" "Madlangsacay" "Madlangsakit" "Magadia" "Magana" "Magbual" "Magbuhat" "Magcalas" "Magkawas" "Maglaya" "Maglipon" "Magpantay" 			"Magpayo" "Magpuri" "Magsaysay" "Magsino" "Magsombol" "Magtanggol" "Magtanong" "Magtoto" "Mahusay" "Makiling" "Malaki" "Malamug" "Malicsi" "Maligalig" "Maligaya" 			"Malinao" "Malinsangan" "Maliwanag" "Manahan" "Manalaysay" "Manalo" "Manansala" "Manas" "Mangabay" "Mangahas" "Manibog" "Manlangit" "Mapili" "Maquindang" 				"Marikit" "Masakayan" "Masangga" "Masangkay" "Masikip" "Mata" "Matamis" "Matanguihan" "Matulin" "Maturan" "Mauban" "Mauhay" "Maulit" "Mulingtapang" "Nacalaban" 			"Nasino" "Nilooban" "Obusan" "Ona" "Ontog" "Orongan" "Pagaspas" "Pagkalinawan" "Pagkatipunan" "Pagtalunan" "Pagud" "Pakingan" "Palacpac" "Palicpic" "Palongpalong" 			"Pamulaklakin" "Panahon" "Panaligan" "Pandac" "Panganiban" "Panimdim" "Pasamba" "Patacsil" "Pilapil" "Pinpin" "Puno" "Punongbayan" "Putong" "Puyat" "Puzon" 				"Sabacan" "Sacay" "Salamat" "Salang" "Salaysay" "Salonga" "Salop" "Sambeli" "Sampayan" "Sayoc" "Sibug" "Sicat" "Simsiman" "Soliman" "Suguitan" "Sumulong" "Tabang" 			"Tabil" "Tabing" "Tablan" "Tagalicod" "Tala" "Talaba" "Tampipi" "Tandang" "Tangkilik" "Taupo" "Tibay" "Tibayan" "Tigas" "Timbancaya" "Timbang" "Tinapay" "Tosoc" 			"Tumangan" "Tumibay" "Ugali" "Ulap" "Ulit" "Una" "Yabut" "Yacapin"	
 		}
 		male_names = {
-			Harana Alon Mithi Sinag Bituin Tala Kaya Sana Lila Hayaan Katha Hiraya Kaya Bantay Bayan Unlad Habagat Bagwis Mulawin Langit Ambon Ulan Habagat Bayani Kidlat Luningning Dakila Kalaw Buwaya Malakas Bakal Bangkaw Alma
+			Harana Alon Mithi Sinag Bituin Tala Kaya Sana Lila Hayaan Katha Hiraya Kaya Bantay Bayan Unlad Habagat Bagwis Mulawin Langit Ambon Ulan Habagat Bayani Kidlat 
+			Luningning Dakila Kalaw Buwaya Malakas Bakal Bangkaw Alma Abuwang Aguhu Aldaw Alem Alimpuyu Aliruan Alug Ambun Andap Anwang Apdu Apis Asud Atang Awat Bagiyu Baha
+			Bait Bakal Baklad Baladaw Balalang Balenaw Balida Balituk Baliwis Bambangen Banaag Banal Bangaw Bangkudu Banisa Banuang Banuy Banyat Basbas Basi Batik Batu Bauk
+			Bayang Bayu Begaw Begus Belad Bengis Benguit Beynat Binehi Bingkung Binuang Bituen Bu-aw Bu-et Buaya Bugtung Buhangin Buhus Bukal Bulah Bulan Bulaw Bunguran
+			Dailisan Dalan Dalupang Dalupani Damo Darat Daup Dawa Dayap Dayu Dunung Duyung Ebes Gabi-i Gabuk Galang Gapu Garaw Gasang Gaud Gayak Guang Gudang Habagat Hangin
+			Hapedi Hikon Hilaw Hirig Idap Ilog Ingas Iruk Kabeling Kabli Kahuy Kaitlog Kalaw Kalaw Kalayu Kambang Karat Kasulasi Kasumuran Katang Katuna Katunaw Kinyang
+			Kubeli Kulasi Kupang Kurapu Kuyugan Labuyu Langit Ligetas Lindur Lubo Lumanatlan Lungebuy Lungkut Magat Malong Masana Musang Nakit Narah Padaw Pagbuaya Pagi
+			Palimanuk Pandung Pantuk Pawikan Pudun Pulu Puyu Rabung Ruwag Salatan Sapa Sarapang Sidak Silah Suba Sumangga Tangepi Tarutungan Tukung Turauk Turingan Ubak Ugtu
+			Yati
 		}
 		female_names = {
-			Tala Bittuin Ligaya Puri Maliwag Maliwanag Maligaya Ligaya Dalisay Liwayway Luwalhati Mutya Paraluman Mayumi Marikit Mahal Amihan Hiyas Anahaw Tala Sabiyak Marol Alwina
+			Tala Bittuin Ligaya Puri Maliwag Maliwanag Maligaya Ligaya Dalisay Liwayway Luwalhati Mutya Paraluman Mayumi Marikit Mahal Amihan Hiyas Anahaw Tala Sabiyak Marol 
+			Alwina Alangkasalat Angkatan Balanuin Bina Bingi Binuya Bolindanan Daga Daha Dahitim Danan Gada Galang Ginyamat Ilig Ilogin Irangin Itta Kagit Kalong Kinang Laran
+			Makiling Malay Mandig Mati Morahin Muldung Pagiyo Paigitan Pamandan Panginawanan Payuan Soloin Sadye Salamatak Salapi Sanguy Sinakumanglugod Tahilan
 		}
 	}
 
@@ -120,13 +131,12 @@ filipino_g = {
 			Sumaya Sumilang Sumulong Timbol Tumanda Yanga
 		}
 		male_names = {
-			"Sharif ul Hashim" "Kamal ud Din" "Sharif Sayyid Ala ud Din" "Amirul Umara" "Muizz ul Mutawadiin" "Batarah Shah Tengah" "Muwallit Wasit" "Muhammad Alimuddin" "Muhammad al Halim" "Muizz ul Din" "Nasir ud Din" 
-			"Azimuddin" "Salah ud Din Bakhtiyar" "Shihab ud Din" "Mustafa Shafi" "Muhammad Badaruddin" "Muizz ud Din Bantilan"
-			"Muhammad Israil" "Muhammad Sharafuddin" "Aliyuddin" "Shakirullah" 
+			"Sharif ul Hashim" "Kamal ud Din" "Sharif Sayyid Ala ud Din" "Amirul Umara" "Muizz ul Mutawadiin" "Batarah Shah Tengah" "Muwallit Wasit" "Muhammad Alimuddin" 				"Muhammad al Halim" "Muizz ul Din" "Nasir ud Din" "Azimuddin" "Salah ud Din Bakhtiyar" "Shihab ud Din" "Mustafa Shafi" "Muhammad Badaruddin" 
+			"Muizz ud Din Bantilan"	"Muhammad Israil" "Muhammad Sharafuddin" "Aliyuddin" "Shakirullah" 
 		}
 		female_names = {
-			"Anela" Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu�utea Orama Poe Pear Poehina Poenui Poerava Puaiti 
-			Puatea Puaura Ra�ihau Ra�imere Ra�inui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua Tautiare Tehani 
+			"Anela" Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu'utea Orama Poe Pear Poehina Poenui Poerava Puaiti 
+			Puatea Puaura Ra'ihau Ra'imere Ra'inui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua Tautiare Tehani 
 			Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea 
 			Vaite Vaitiare 
 		}
