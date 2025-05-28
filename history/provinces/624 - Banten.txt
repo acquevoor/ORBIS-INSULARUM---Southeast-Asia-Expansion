@@ -1,8 +1,8 @@
 # Banten
 # 624 Banten - 5/16/2025 12:37:49 PM 
-
-add_core = BAN
+ 
 add_core = SUN
+add_core = BAN
 owner = SUN
 controller = SUN
 base_tax = 5
@@ -12,7 +12,7 @@ base_manpower = 5
 center_of_trade = 1
 trade_goods = sugar
 
-culture = banten #sundanese
+culture = sundanese
 religion = hinduism
 capital = "Banten"
 
@@ -35,8 +35,8 @@ discovered_by = ottoman
 1527.1.1 = {
 	owner = BAN
 	controller = BAN
-	add_core = BAN
 	remove_core = SUN
+	culture = banten #sundanese
 }
 1530.1.1 = {
 	religion = sunni
