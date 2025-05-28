@@ -1,9 +1,10 @@
 # Pariaman
 # 2682 Pariaman - 5/16/2025 12:37:50 PM 
  
+add_core = PRI
 add_core = PGR
-owner = PGR
-controller = PGR
+owner = PRI
+controller = PRI
 base_tax = 3
 base_production = 4
 base_manpower = 3
