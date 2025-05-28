@@ -1,5 +1,5 @@
 government = tribal
-add_government_reform = mandala_reform
+add_government_reform = stateless_society
 government_rank = 1
 primary_culture = rejang
 religion = animism
