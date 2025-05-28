@@ -8,13 +8,6 @@ technology_group = chinese
 capital = 621# Bengkulu
 religious_school = shafii_school
 
-historical_friend = MNG
-historical_friend = MLC
-historical_friend = MAJ
-historical_friend = DMK
-historical_rival = PLB 
-historical_rival = IND
-
 1444.1.1 = {
 	monarch = {
 		name = "Empat Petulai"
