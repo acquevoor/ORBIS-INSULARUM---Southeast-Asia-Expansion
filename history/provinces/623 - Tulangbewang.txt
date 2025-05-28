@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 4
 base_manpower = 3
 
-trade_goods = spices
+trade_goods = cotton
 
 culture = lampung
 religion = hinduism
