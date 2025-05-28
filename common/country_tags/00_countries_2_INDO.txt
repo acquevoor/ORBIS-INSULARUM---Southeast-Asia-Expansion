@@ -22,6 +22,7 @@ LPG = "countries/Lampung.txt"
 BKL = "countries/Bengkulu.txt"
 NIA = "countries/Nias.txt"
 DHR = "countries/Dharmasraya.txt"
+PRI = "countries/Pariaman.txt"
 ### MOLUCCAS ################################################
 JLO = "countries/Jailolo.txt"
 HTU = "countries/Hitu.txt"
