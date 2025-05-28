@@ -4,12 +4,12 @@
 #Kutai
 KUT_ideas = {
     start = {
-        tolerance_own = 2
         garrison_size = 0.10
+        merchants = 1
     }
 
     bonus = {
-        defensiveness = 0.10
+        defensiveness = 0.15
     }
 
     trigger = {
@@ -24,13 +24,11 @@ KUT_ideas = {
     }
 
     KUT_mahakam_river_control = {
-        trade_efficiency = 0.10
         naval_forcelimit_modifier = 0.15
     }
 
     KUT_kartanegara_majesty = {
         idea_cost = -0.05
-        diplomatic_reputation = 1
     }
 
     KUT_hindu_buddhist_syncretism = {
@@ -45,7 +43,6 @@ KUT_ideas = {
 
     KUT_majalaya_military_reform = {
         infantry_power = 0.10
-        leader_land_shock = 1
     }
 
     KUT_pasar_tenggarong_commerce = {
@@ -56,12 +53,12 @@ KUT_ideas = {
 #Berau
 BEU_ideas = {
     start = {
-        tolerance_own = 2
         garrison_size = 0.10
+        merchants = 1
     }
 
     bonus = {
-        defensiveness = 0.10
+        defensiveness = 0.15
     }
 
     trigger = {
@@ -71,8 +68,7 @@ BEU_ideas = {
     free = yes
 
     BEU_ancient_sambaliung_port = {
-        merchants = 1
-        global_institution_spread = 0.05
+        global_institution_spread = 0.1
     }
 
     BEU_mahakam_bangka_experts = {
@@ -80,8 +76,7 @@ BEU_ideas = {
     }
 
     BEU_ritual_balian_gatherings = {
-        stability_cost_modifier = -0.10
-        tolerance_heathen = 0.5
+        stability_cost_modifier = -0.15
     }
 
     BEU_sambaliung_coppercraft = {
@@ -90,7 +85,6 @@ BEU_ideas = {
 
     BEU_islamic_riverside_schools = {
         global_missionary_strength = 0.02
-        legitimacy = 0.25
     }
 
     BEU_freemen_alliances = {
@@ -98,8 +92,7 @@ BEU_ideas = {
     }
 
     BEU_coastal_sultanate_ties = {
-        diplomatic_reputation = 1
-        envoy_travel_time = -0.10
+        diplomatic_reputation = 2
     }
 }
 
@@ -111,7 +104,7 @@ NDP_ideas = {
     }
 
     bonus = {
-        vassal_sailors_bonus = 0.15
+        vassal_sailors_bonus = 0.20
     }
 
     trigger = {
@@ -131,39 +124,35 @@ NDP_ideas = {
     }
 
     NDP_yakan_maritime_hubs = {
-        naval_morale = 0.05
-        galley_cost = -0.1
+        naval_morale = 0.15
     }
 
     NDP_earthfiery_ceremonies = {
-        stability_cost_modifier = -0.10
-        devotion = 0.5
+        stability_cost_modifier = -0.15
     }
 
     NDP_sultans_shura_council = {
-        legitimacy = 1
-        improve_relation_modifier = 0.10
+        improve_relation_modifier = 0.15
     }
 
     NDP_bruneian_coppercraft = {
-        global_trade_power = 0.15
+        global_trade_power = 0.10
     }
 
     NDP_riyal_and_trade_circuits = {
-        trade_efficiency = 0.10
+        trade_efficiency = 0.15
     }
 }
 
 #Tanjungpura
 TNP_ideas = {
     start = {
-        tolerance_own = 2
-        diplomatic_reputation = 1
+        navy_tradition = 1
+        global_sailors_modifier = 0.15
     }
 
     bonus = {
-        land_morale = 0.05
-        trade_efficiency = 0.05
+        land_morale = 0.15
     }
 
     trigger = {
@@ -173,8 +162,8 @@ TNP_ideas = {
     free = yes
 
     TNP_yupa_inscription_legacy = {
-        prestige = 0.5
-        legitimacy = 0.25
+        prestige = 1
+        legitimacy = 0.5
     }
 
     TNP_kapuas_river_trade = {
@@ -208,8 +197,8 @@ TNP_ideas = {
 #Landak
 LDA_ideas = {
     start = {
-        tolerance_own = 1
-        diplomatic_reputation = 2
+        garrison_size = 0.15
+        land_morale = 0.10
     }
 
     bonus = {
@@ -223,17 +212,15 @@ LDA_ideas = {
     free = yes
 
     LDA_srivijayan_heritage = {
-        prestige = 0.5
-        global_unrest = -0.5
+        prestige = 1
     }
 
     LDA_kapuas_trade_routes = {
-        trade_efficiency = 0.10
+        trade_efficiency = 0.15
     }
 
     LDA_headman_councils = {
-        governing_cost = -0.1
-        improve_relation_modifier = 0.10
+        improve_relation_modifier = 0.15
     }
 
     LDA_hindu_buddhist_legacies = {
@@ -243,12 +230,10 @@ LDA_ideas = {
 
     LDA_islamic_scholarship = {
         global_missionary_strength = 0.02
-        legitimacy = 0.5
     }
 
     LDA_fortified_riverine_settlements = {
-        defensiveness = 0.10
-        land_attrition = -0.05
+        defensiveness = 0.15
     }
 
     LDA_borneo_coppercraft = {
@@ -259,8 +244,8 @@ LDA_ideas = {
 #Sambas
 SMB_ideas = {
     start = {
-        tolerance_own = 1
-        build_cost = -0.1
+        garrison_size = 0.15
+        land_morale = 0.10
     }
 
     bonus = {
@@ -274,16 +259,16 @@ SMB_ideas = {
     free = yes
 
     SMB_foundation_of_sambas = {
-        legitimacy = 1
-        prestige = 0.25
+        legitimacy = 0.5
+        prestige = 1
     }
 
     SMB_riverine_trade_routes = {
-        trade_efficiency = 0.10
+        trade_efficiency = 0.15
     }
 
     SMB_pepper_and_sago_croplands = {
-        production_efficiency = 0.10
+        production_efficiency = 0.15
     }
 
     SMB_syncretic_malay_adat = {
@@ -296,8 +281,7 @@ SMB_ideas = {
     }
 
     SMB_defensive_river_forts = {
-        fort_maintenance_modifier = -0.05
-        defensiveness = 0.10
+        defensiveness = 0.15
     }
 
     SMB_sambas_textile_guilds = {
@@ -308,8 +292,8 @@ SMB_ideas = {
 #Mempawah
 MPW_ideas = {
     start = {
-        tolerance_own = 1
-        garrison_size = 0.10
+        garrison_size = 0.15
+        land_morale = 0.10
     }
 
     bonus = {
@@ -323,30 +307,29 @@ MPW_ideas = {
     free = yes
 
     MPW_heirs_of_sidiniang = {
-        legitimacy = 1
-	prestige = 0.5
+    legitimacy = 0.5
+	prestige = 1
     }
 
     MPW_malay_dayak_alliance = {
-        manpower_recovery_speed = 0.10
-	infantry_cost = -0.10
+    manpower_recovery_speed = 0.15
     }
+
+    MPW_sufism_refugees = {
+        idea_cost = -0.5
+    }    
 
     MPW_gate_to_borneo = {
         trade_efficiency = 0.15
     }
 
     MPW_river_and_sea_trade = {
-        caravan_power = 0.3
+        caravan_power = 0.2
     }
 
     MPW_harmony_of_believes = {
         tolerance_heathen = 1
         religious_unity = 0.05
-    }
-
-    MPW_sufism_refugees = {
-        idea_cost = -0.5
     }
 
     MPW_jungle_coastal_forts = {
@@ -358,12 +341,12 @@ MPW_ideas = {
 #Ngaju
 NGJ_ideas = {
     start = {
-        tolerance_own = 2
+        garrison_size = 0.15
         land_morale = 0.10
     }
 
     bonus = {
-        global_garrison_growth = 0.10
+        global_garrison_growth = 0.15
     }
 
     trigger = {
@@ -378,11 +361,15 @@ NGJ_ideas = {
 
     NGJ_kaharingan_spirit_path = {
         tolerance_heathen = 1
-        global_unrest = -0.5
+        global_unrest = -1
     }
 
+    NGJ_courts_of_pantun_oral_poets = {
+        idea_cost = -0.05
+    }    
+
     NGJ_upper_mahakam_trade = {
-        trade_efficiency = 0.10
+        trade_efficiency = 0.15
     }
 
     NGJ_bangka_and_river_ferries = {
@@ -395,24 +382,20 @@ NGJ_ideas = {
 
     NGJ_headhunting_ancestral_valor = {
         infantry_shock = 1
-        leader_land_shock = 1
     }
 
-    NGJ_courts_of_pantun_oral_poets = {
-        prestige = 0.5
-        idea_cost = -0.05
-    }
+
 }
 
 #Brunei
 BEI_ideas = {
     start = {
-        navy_tradition = 1
-        global_sailors_modifier = 0.10
+        navy_tradition = 1.5
+        global_sailors_modifier = 0.2
     }
 
     bonus = {
-        naval_morale = 0.10
+        naval_morale = 0.15
     }
 
     trigger = {
@@ -422,8 +405,8 @@ BEI_ideas = {
     free = yes
 
     BEI_sultanate_foundation = {
-        legitimacy = 1
-        prestige = 0.5
+        legitimacy = 0.5
+        prestige = 1
     }
 
     BEI_maritime_domination = {
@@ -432,7 +415,6 @@ BEI_ideas = {
 
     BEI_diplo_maritime_courts = {
         advisor_cost = -0.15
-        diplomatic_reputation = 1
     }
 
     BEI_kedatuan_vassalage = {
@@ -441,8 +423,7 @@ BEI_ideas = {
     }
 
     BEI_sharia_law_codification = {
-        tolerance_heretic = 1
-        global_missionary_strength = 0.02
+        missionaries = 1
     }
 
     BEI_oruan_trade_companies = {
@@ -450,7 +431,6 @@ BEI_ideas = {
     }
 
     BEI_coastal_alliance_networks = {
-        improve_relation_modifier = 0.10
-        fabricate_claims_cost = -0.10
+        improve_relation_modifier = 0.15
     }
 }
