@@ -684,13 +684,13 @@ MAJ_ideas = {
 
     free = yes
 
-    MAJ_sumpah_palemahan_nusantara = {
-        core_creation = -0.25
-    }
-
     MAJ_mpu_tantular_and_kakawin = {
         prestige = 1.5
         legitimacy = 1
+    }
+
+    MAJ_sumpah_palemahan_nusantara = {
+        core_creation = -0.25
     }
 
     MAJ_keraton_and_dharmadwipa = {
@@ -698,7 +698,7 @@ MAJ_ideas = {
     }
 
     MAJ_wani_ing_pagelengan = {
-        land_morale = 0.10
+        land_morale = 0.15
     }
 
     MAJ_sistem_mandala_politik = {
