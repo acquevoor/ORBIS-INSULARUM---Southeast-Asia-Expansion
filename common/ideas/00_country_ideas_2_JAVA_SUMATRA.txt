@@ -120,7 +120,7 @@ PRI_ideas = {
     PRI_high_education = {
 		global_institution_spread = 0.1
     }
-    
+
     PRI_gold_trade = {
 		global_trade_power = 0.1
     }
@@ -161,8 +161,8 @@ HTR_ideas = {
     free = yes
 
     HTR_foundation_of_hatorussan = {
-        legitimacy = 1
-        prestige = 0.5
+        prestige = 1
+        legitimacy = 0.5
     }
 
     HTR_talaud_maritime_roads = {
@@ -260,8 +260,8 @@ PSA_ideas = {
     free = yes
 
     PSA_first_islamic_sultanate = {
-        prestige = 1
-        legitimacy = 0.5
+        prestige = 1.5
+        legitimacy = 1
     }
 
     PSA_persian_indian_diplomacy = {
@@ -450,30 +450,30 @@ LPG_ideas = {
 
     free = yes
 
-    LPG_riverine_trade_hubs = {
-        global_trade_goods_size_modifier = 0.15
+    LPG_umpu_lineage_legitimacy = {
+        prestige = 1
+        legitimacy = 0.5
     }
 
-    LPG_pepper_coast_of_lampung = {
-        trade_steering = 0.15
+    LPG_riverine_trade_hubs = {
+        global_trade_goods_size_modifier = 0.15
     }
 
     LPG_lampung_script_and_literacy = {
         idea_cost = -0.05
     }    
 
-    LPG_umpu_lineage_legitimacy = {
-        legitimacy = 0.5
-        prestige = 1
+    LPG_naga_guardians_of_the_grove = {
+        stability_cost_modifier = -0.15
+    }
+
+    LPG_pepper_coast_of_lampung = {
+        trade_steering = 0.15
     }
 
     LPG_syncretic_spiritual_traditions = {
         tolerance_heathen = 1
         religious_unity = 0.1
-    }
-
-    LPG_naga_guardians_of_the_grove = {
-        stability_cost_modifier = -0.15
     }
 
     LPG_coalition_of_marga = {
@@ -689,16 +689,16 @@ MAJ_ideas = {
     }
 
     MAJ_mpu_tantular_and_kakawin = {
-        prestige = 1
-        legitimacy = 0.5
+        prestige = 1.5
+        legitimacy = 1
     }
 
     MAJ_keraton_and_dharmadwipa = {
-        idea_cost = -0.05
+        idea_cost = -0.1
     }
 
     MAJ_wani_ing_pagelengan = {
-        land_morale = 0.15
+        land_morale = 0.10
     }
 
     MAJ_sistem_mandala_politik = {
@@ -733,13 +733,15 @@ PLB_ideas = {
 
     free = yes
 
-    PLB_srivijayan_legacy = {
-        naval_forcelimit_modifier = 0.15
-    }
+
 
     PLB_masjid_agung_and_ilm = {
         prestige = 1
         legitimacy = 0.5
+    }
+
+    PLB_srivijayan_legacy = {
+        naval_forcelimit_modifier = 0.15
     }
 
     PLB_muslim_scholars_of_beringin = {
@@ -827,6 +829,11 @@ NIA_ideas = {
 
     free = yes
 
+    NIA_omo_hada = {
+        prestige = 1
+        legitimacy = 0.5
+    }
+
     NIA_megalith_builder = {
         build_cost = -0.1
     }
@@ -837,11 +844,6 @@ NIA_ideas = {
 
     NIA_island_resilience = {
         yearly_army_professionalism = 0.05
-    }
-
-    NIA_omo_hada = {
-        prestige = 1
-        legitimacy = 0.5
     }
 
     NIA_maritime_raider = {

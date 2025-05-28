@@ -20,7 +20,7 @@ MLC_ideas = {
 
     MLC_sultanate_legitimacy = {
         legitimacy = 1
-        prestige = 0.5
+        prestige = 1.5
     }
 
     MLC_madrasa_institutions = {
@@ -68,8 +68,8 @@ PAH_ideas = {
     free = yes
 
     PAH_founding_of_pahang = {
-        legitimacy = 1
-        prestige = 0.5
+        legitimacy = 0.5
+        prestige = 1
     }
 
     PAH_kuala_pahang_estuary = {
@@ -116,8 +116,8 @@ PRK_ideas = {
     free = yes
 
     PRK_foundation_of_sultanate = {
-        legitimacy = 1
-        prestige = 0.5
+        legitimacy = 0.5
+        prestige = 1
     }
 
     PRK_tin_riches_of_kinta = {
@@ -210,8 +210,8 @@ KEL_ideas = {
     free = yes
 
     KEL_sultanate_foundation = {
-        legitimacy = 1
-        prestige = 0.5
+        legitimacy = 0.5
+        prestige = 1
     }
 
     KEL_pasir_puteh_trade_hub = {
@@ -257,8 +257,8 @@ PAT_ideas = {
     free = yes
 
     PAT_foundation_of_langkasuka = {
-        legitimacy = 1
-        prestige = 0.5
+        legitimacy = 0.5
+        prestige = 1
     }
 
     PAT_srivijaya_thalassocracy = {
@@ -305,8 +305,8 @@ TGG_ideas = {
     free = yes
 
     TGG_sultanate_foundation = {
-        legitimacy = 1
-        prestige = 0.5
+        legitimacy = 0.5
+        prestige = 1
     }
 
     TGG_kuala_terengganu_harbor = {
@@ -356,6 +356,11 @@ KOH_ideas = {
 
     free = yes
 
+    KOH_ancestral_songlines = {
+        legitimacy = 0.5
+        prestige = 1
+    }
+
     KOH_rattan_forest_knowledge = {
         movement_speed = 0.05
         max_hostile_attrition = 10
@@ -376,10 +381,6 @@ KOH_ideas = {
 
     KOH_ambush_warrior_traditions = {
         infantry_shock = 1
-    }
-
-    KOH_ancestral_songlines = {
-        prestige = 1
     }
 
     KOH_rice_pounded_granaries = {
@@ -404,6 +405,11 @@ RHA_ideas = {
 
     free = yes
 
+    RHA_gong_festival_tradition = {
+        legitimacy = 0.5
+        prestige = 1
+    }
+
     RHA_wet_rice_terraces = {
         production_efficiency = 0.15
     }
@@ -414,10 +420,6 @@ RHA_ideas = {
 
     RHA_matrilineal_clan_structure = {
         global_autonomy = -0.05
-    }
-
-    RHA_gong_festival_tradition = {
-        prestige = 1
     }
 
     RHA_ancestral_spirit_fortifications = {
@@ -450,6 +452,11 @@ JAR_ideas = {
 
     free = yes
 
+    JAR_gong_ensemble_heritage = {
+        legitimacy = 0.5
+        prestige = 1
+    }
+
     JAR_highland_forest_crafts = {
         production_efficiency = 0.10
     }
@@ -464,10 +471,6 @@ JAR_ideas = {
 
     JAR_verbal_competition_eloquence = {
         diplomatic_reputation = 1
-    }
-
-    JAR_gong_ensemble_heritage = {
-        prestige = 1
     }
 
     JAR_matrilineal_inheritance = {
@@ -500,7 +503,7 @@ CHA_ideas = {
 
     CHA_champa_royal_lineage = {
         legitimacy = 1
-        prestige = 1
+        prestige = 1.5
     }
 
     CHA_hindu_temple_fortresses = {

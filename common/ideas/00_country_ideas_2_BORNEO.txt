@@ -20,7 +20,7 @@ KUT_ideas = {
 
     KUT_mulawarman_yupa_legacy = {
         prestige = 1
-        legitimacy = 0.5
+        global_institution_spread = 0.05
     }
 
     KUT_mahakam_river_control = {
@@ -28,7 +28,7 @@ KUT_ideas = {
     }
 
     KUT_kartanegara_majesty = {
-        idea_cost = -0.05
+        idea_cost = -0.1
     }
 
     KUT_hindu_buddhist_syncretism = {
@@ -68,7 +68,8 @@ BEU_ideas = {
     free = yes
 
     BEU_ancient_sambaliung_port = {
-        global_institution_spread = 0.1
+        prestige = 1
+        global_institution_spread = 0.05
     }
 
     BEU_mahakam_bangka_experts = {
