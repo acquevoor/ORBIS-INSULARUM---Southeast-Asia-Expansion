@@ -2,8 +2,9 @@
 # 4835 Kanchanburi - 5/16/2025 12:37:50 PM 
  
 add_core = AYU
-owner = AYU
-controller = AYU
+add_core = SUP
+owner = SUP
+controller = SUP
 base_tax = 2
 base_production = 2
 base_manpower = 2

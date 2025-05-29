@@ -3,8 +3,9 @@
  
 add_core = AYU
 add_core = ISH
-owner = AYU
-controller = AYU
+add_core = LAV
+owner = LAV
+controller = LAV
 base_tax = 2
 base_production = 2
 base_manpower = 1

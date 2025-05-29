@@ -92,9 +92,17 @@ vassal = {
 
 # Ayutthaya and Sukhothai
 vassal = {
-	first = AYU
+	first = SUP
 	second = SUK
 	start_date = 1438.1.1
+	end_date = 1530.1.1
+}
+
+# Suphannaphum and Uthong
+vassal = {
+	first = SUP
+	second = LAV
+	start_date = 1408.1.1
 	end_date = 1530.1.1
 }
 
@@ -115,7 +123,7 @@ vassal = {
 
 # Ligor (Nakhon Si Thammarat)
 vassal = {
-	first = AYU
+	first = SUP
 	second = LIG
 	start_date = 1400.1.1
 	end_date = 1570.1.1
@@ -123,7 +131,7 @@ vassal = {
 
 # Pattani
 vassal = {
-	first = AYU
+	first = SUP
 	second = PAT
 	start_date = 1500.1.1
 	end_date = 1632.1.1

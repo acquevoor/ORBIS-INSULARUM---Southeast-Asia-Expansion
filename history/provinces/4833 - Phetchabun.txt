@@ -2,8 +2,9 @@
 # 4833 Phetchabun - 5/16/2025 12:37:50 PM 
  
 add_core = AYU
-owner = AYU
-controller = AYU
+add_core = LAV
+owner = LAV
+controller = LAV
 base_tax = 3
 base_production = 3
 base_manpower = 3

@@ -2,8 +2,10 @@
 # 600 Ayutthaya - 5/16/2025 12:37:49 PM 
  
 add_core = AYU
-owner = AYU
-controller = AYU
+add_core = SUP
+add_core = UTH
+owner = SUP
+controller = SUP
 base_tax = 8
 base_production = 8
 base_manpower = 4
