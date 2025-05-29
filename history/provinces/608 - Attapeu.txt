@@ -3,8 +3,9 @@
  
 add_core = LXA
 add_core = CHK
-owner = LXA
-controller = LXA
+add_core = KUY
+owner = KUY
+controller = KUY
 base_tax = 2
 base_production = 2
 base_manpower = 1
