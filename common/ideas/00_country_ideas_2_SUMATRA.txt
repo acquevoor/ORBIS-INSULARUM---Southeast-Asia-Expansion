@@ -290,7 +290,7 @@ PSA_ideas = {
     }
 }
 
-#Aceh Atjeh
+#Aceh/Atjeh
 ATJ_ideas = {
     start = {
         missionaries = 1
@@ -434,6 +434,7 @@ SUN_ideas = {
 
 }
 
+#Lampung tag
 LPG_ideas = {
     start = {
         trade_efficiency = 0.15
@@ -481,6 +482,7 @@ LPG_ideas = {
     }
 }
 
+#Indapura?
 IND_ideas = {
     start = {
         land_attrition = -0.10
@@ -530,189 +532,97 @@ IND_ideas = {
     }
 }
 
-
-#Blambangan
-BLM_ideas = {
+#Barus (BRS)
+BRS_ideas = {
     start = {
         tolerance_own = 2
-        defensiveness = 0.10
+        global_trade_goods_size_modifier = 0.15
     }
 
     bonus = {
-        land_morale = 0.10
+        trade_efficiency = 0.15
     }
 
     trigger = {
-        tag = BLM
+        tag = BRS
     }
 
     free = yes
 
-    BLM_last_light_of_majapahit = {
+    BRS_spice_route_merchant_guilds = {
+        global_trade_power = 0.15
+    }
+
+    BRS_sultanate_fortifications = {
+        defensiveness = 0.10
+    }
+
+    BRS_maritime_mastery = {
+        naval_forcelimit_modifier = 0.10
+    }
+
+    BRS_islamic_scholars = {
+        global_missionary_strength = 0.02
+        tolerance_own = 1
+    }
+
+    BRS_barus_cedar_trade = {
+        production_efficiency = 0.15  # Legendary cedar and camphor trade, prized in ancient markets
+    }
+
+    BRS_cultural_syncretism = {
+        improve_relation_modifier = 0.15
+    }
+
+    BRS_ancient_pantheon_invocation = {
+        stability_cost_modifier = -0.10  # Mythic belief in local deities (like Beruas, guardian spirits)
+    }
+}
+
+#Nias
+NIA_ideas = {
+    start = {
+        tolerance_own = 2
+        development_cost = -0.1
+    }
+
+    bonus = {
+        manpower_recovery_speed = 0.15
+    }
+
+    trigger = {
+        tag = NIA
+    }
+
+    free = yes
+
+    NIA_omo_hada = {
         prestige = 1
         legitimacy = 0.5
     }
 
-    BLM_balinese_exile_link = {
-        improve_relation_modifier = 0.15
+    NIA_megalith_builder = {
+        build_cost = -0.1
     }
 
-    BLM_tawang_alun_dharma = {
-        idea_cost = -0.05
-    }
-
-    BLM_banyuwangi_trade_harbor = {
-        trade_efficiency = 0.15
-    }
-
-    BLM_mountain_temple_resilience = {
-        religious_unity = 0.25
-        tolerance_heathen = 1
-    }
-
-    BLM_watu_dodot_heroic_legends = {
-        stability_cost_modifier = -0.15
-    }
-
-    BLM_eastern_javanese_warriors = {
+    NIA_balugu_warrior = {
         infantry_shock = 1
     }
-}
 
-#Bali
-BLI_ideas = {
-    start = {
-        garrison_size = 0.15
-        religious_unity = 0.20
+    NIA_island_resilience = {
+        yearly_army_professionalism = 0.05
     }
 
-    bonus = {
-        infantry_power = 0.10
+    NIA_maritime_raider = {
+        galley_power = 0.15
     }
 
-    trigger = {
-        tag = BLI
+    NIA_intervillage_diplomacy = {
+        ae_impact = -0.2
     }
 
-    free = yes
-
-    BLI_bali_dvipa_dharma_stronghold = {
-        legitimacy = 1
-        devotion = 0.5
-        tolerance_heathen = 1
-    }
-
-    BLI_ancestral_mountain_temples = {
-        stability_cost_modifier = -0.15
-    }
-
-    BLI_ritualized_kingship = {
-        idea_cost = -0.05
-    }
-
-    BLI_keris_and_kshatriya_valor = {
-        land_morale = 0.10
-    }
-
-    BLI_purwa_tattwa_sacred_law = {
-        core_creation = -0.15
-    }
-
-    BLI_resistance_to_foreign_faiths = {
-        global_missionary_strength = 0.01
-        global_unrest = -1
-    }
-
-    BLI_tirta_trade_and_temple_economy = {
-        trade_efficiency = 0.075
-        production_efficiency = 0.075
-    }
-}
-
-#Demak
-DMK_ideas = {
-    start = {
-        num_accepted_cultures = 1
-        core_creation = -0.20
-    }
-    bonus = {
-        global_ship_trade_power = 0.15
-    }
-    trigger = {
-        tag = DMK
-    }
-    free = yes
-    dmk_sultanate_founding = {
-        legitimacy = 1
-        yearly_absolutism = 0.1
-    }
-    dmk_maritime_power = {
-        global_ship_trade_power = 0.10
-    }
-    dmk_wali_song_influence = {
-        advisor_cost = -0.15
-    }
-    dmk_kris_warriors = {
-        land_morale = 0.10
-    }
-    dmk_paddy_rice = {
-        global_tax_modifier = 0.10
-    }
-    dmk_trade_city = {
-        trade_efficiency = 0.15
-    }
-    dmk_sufi_schools = {
-        global_missionary_strength = 0.03
-    }
-}
-
-
-#Majapahit
-MAJ_ideas = {
-    start = {
-        diplomatic_upkeep = 2
-        global_ship_cost = -0.15
-    }
-
-    bonus = {
-        discipline = 0.05
-    }
-
-    trigger = {
-        tag = MAJ
-    }
-
-    free = yes
-
-    MAJ_mpu_tantular_and_kakawin = {
-        prestige = 1.5
-        legitimacy = 1
-    }
-
-    MAJ_sumpah_palemahan_nusantara = {
-        core_creation = -0.25
-    }
-
-    MAJ_keraton_and_dharmadwipa = {
-        idea_cost = -0.1
-    }
-
-    MAJ_wani_ing_pagelengan = {
-        land_morale = 0.15
-    }
-
-    MAJ_sistem_mandala_politik = {
-        liberty_desire = -10
-        autonomy_change_time = -0.15
-    }
-
-    MAJ_kawasan_majapahit = {
-        sailors_recovery_speed = 0.15
-    }
-
-    MAJ_mahamantri_and_datu_kerajaan = {
-        governing_capacity = 100
-        governing_capacity_modifier = 0.1
+    NIA_spirit_ancestor = {
+        religious_unity = 0.5
     }
 }
 
@@ -809,148 +719,5 @@ BKL_ideas = {
 
     BKL_tui_kutei = {
         stability_cost_modifier = -0.15
-    }
-}
-
-#Nias
-NIA_ideas = {
-    start = {
-        tolerance_own = 2
-        development_cost = -0.1
-    }
-
-    bonus = {
-        manpower_recovery_speed = 0.15
-    }
-
-    trigger = {
-        tag = NIA
-    }
-
-    free = yes
-
-    NIA_omo_hada = {
-        prestige = 1
-        legitimacy = 0.5
-    }
-
-    NIA_megalith_builder = {
-        build_cost = -0.1
-    }
-
-    NIA_balugu_warrior = {
-        infantry_shock = 1
-    }
-
-    NIA_island_resilience = {
-        yearly_army_professionalism = 0.05
-    }
-
-    NIA_maritime_raider = {
-        galley_power = 0.15
-    }
-
-    NIA_intervillage_diplomacy = {
-        ae_impact = -0.2
-    }
-
-    NIA_spirit_ancestor = {
-        religious_unity = 0.5
-    }
-}
-
-#Selaperang
-SPR_ideas = {
-    start = {
-        tolerance_own = 2
-        stability_cost_modifier = -0.10
-    }
-
-    bonus = {
-        land_morale = 0.10
-    }
-
-    trigger = {
-        tag = SPR
-    }
-
-    free = yes
-
-    SPR_hindu_rituals_of_the_lands = {
-        legitimacy = 1
-    }
-
-    SPR_lombok_temples_legacy = {
-        tolerance_heathen = 1
-        culture_conversion_time = 0.15
-    }
-
-    SPR_adat_laws_of_pemali = {
-        idea_cost = -0.05
-    }
-
-    SPR_sasak_warrior_traditions = {
-        infantry_shock = 1
-        leader_land_shock = 1
-    }
-
-    SPR_bali_like_cultural_harmony = {
-        improve_relation_modifier = 0.15
-    }
-
-    SPR_strategic_strait_control = {
-        trade_efficiency = 0.10
-    }
-    SPR_hindu_resistance_legacy = {
-        global_unrest = -1.0
-        global_missionary_strength = 0.01
-}
-
-}
-
-#Barus (BRS)
-BRS_ideas = {
-    start = {
-        tolerance_own = 2
-        global_trade_goods_size_modifier = 0.15
-    }
-
-    bonus = {
-        trade_efficiency = 0.15
-    }
-
-    trigger = {
-        tag = BRS
-    }
-
-    free = yes
-
-    BRS_spice_route_merchant_guilds = {
-        global_trade_power = 0.15
-    }
-
-    BRS_sultanate_fortifications = {
-        defensiveness = 0.10
-    }
-
-    BRS_maritime_mastery = {
-        naval_forcelimit_modifier = 0.10
-    }
-
-    BRS_islamic_scholars = {
-        global_missionary_strength = 0.02
-        tolerance_own = 1
-    }
-
-    BRS_barus_cedar_trade = {
-        production_efficiency = 0.15  # Legendary cedar and camphor trade, prized in ancient markets
-    }
-
-    BRS_cultural_syncretism = {
-        improve_relation_modifier = 0.15
-    }
-
-    BRS_ancient_pantheon_invocation = {
-        stability_cost_modifier = -0.10  # Mythic belief in local deities (like Beruas, guardian spirits)
     }
 }

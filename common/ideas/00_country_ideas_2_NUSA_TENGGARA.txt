@@ -1,0 +1,144 @@
+#############################################################################
+
+#### NUSA
+
+#Bima
+BMA_ideas = {
+    start = {
+        tolerance_own = 2
+        global_missionary_strength = 0.02
+    }
+
+    bonus = {
+        defensiveness = 0.10
+    }
+
+    trigger = {
+        tag = BMA
+    }
+
+    free = yes
+
+    BMA_bima_royal_guard = {
+        land_morale = 0.10
+        leader_land_shock = 1
+    }
+
+    BMA_cowrie_wall_fortifications = {
+        defensiveness = 0.15
+    }
+
+    BMA_mount_tambora_refuge = {
+        manpower_recovery_speed = 0.15
+    }
+
+    BMA_rituals_of_kawuri = {
+        global_unrest = -1.0
+        tolerance_heathen = 1
+    }
+
+    BMA_lombok_channel_watch = {
+        naval_morale = 0.10
+    }
+
+    BMA_kanjeng_shrine_legacy = {
+        prestige = 1
+    }
+
+    BMA_stalwart_sumbawan_defiance = {
+        stability_cost_modifier = -0.15
+    }
+}
+
+#Wehali
+WHL_ideas = {
+    start = {
+        tolerance_own = 2
+        global_missionary_strength = 0.02
+    }
+
+    bonus = {
+        garrison_size = 0.15
+    }
+
+    trigger = {
+        tag = WHL
+    }
+
+    free = yes
+
+    WHL_wehali_maromak_legitimacy = {
+        legitimacy = 0.5
+        prestige = 1
+    }
+
+    WHL_liurai_customary_authority = {
+        global_unrest = -2
+    }
+
+    WHL_ulibari_federation_law = {
+        stability_cost_modifier = -0.15
+    }
+
+    WHL_wehali_warrior_traditions = {
+        leader_land_shock = 1
+    }
+
+    WHL_nusa_tanimbar_cultural_unity = {
+        improve_relation_modifier = 0.15
+    }
+
+    WHL_spice_island_trade_networks = {
+        trade_efficiency = 0.15
+    }
+
+    WHL_ancestral_spirit_veneration = {
+        global_missionary_strength = 0.02
+    }
+}
+
+#Sumbawa
+SMW_ideas = {
+    start = {
+        tolerance_own = 2
+        cavalry_power = 0.10                     # +10% Cavalry power (importance of horses to the kingdom)
+    }
+
+    bonus = {
+        land_forcelimit_modifier = 0.15          # +15% Land forcelimit modifier (Sumbawa's vast terrain and feudal structure)
+    }
+
+    trigger = {
+        tag = SMW
+    }
+
+    free = yes
+
+    SMW_fertile_lands = {
+        production_efficiency = 0.15
+    }
+
+    SMW_horses_of_sumbawa = {
+        cavalry_power = 0.10                     # +10% Cavalry power (Sumbawa is known for breeding horses)
+    }
+
+    SMW_sakeco_tradition = {
+        diplomatic_reputation = 1                # +1 Diplomatic reputation (Sakeco tradition elevates the kingdom’s prestige)
+    }
+
+    SMW_feudal_conflict = {
+        global_unrest = -2                       # -2 Global unrest (Sumbawa's feudal struggles)
+    }
+
+    SMW_trade_in_horses = {
+        cavalry_cost = -0.15                     # -10% Cavalry cost (due to Sumbawa's horse trade dominance)
+    }
+
+    SMW_agricultural_excellence = {
+        global_trade_goods_size_modifier = 0.15
+    }
+
+    SMW_unity_in_diversity = {
+        stability_cost_modifier = -0.15
+    }
+}

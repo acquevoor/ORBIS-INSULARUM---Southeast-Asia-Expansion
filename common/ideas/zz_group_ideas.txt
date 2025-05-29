@@ -76,7 +76,6 @@ trading_city_ideas = {
 	}
 }
 
-
 colonial_ideas = {
 	start = {
 		development_cost = -0.1
@@ -257,7 +256,6 @@ cossack_ideas = {
 	}
 }
 
-
 berber_ideas = {
 	start = {
 		naval_attrition = -0.25
@@ -298,7 +296,6 @@ berber_ideas = {
 		galley_power = 0.20
 	}
 }	
-
 
 rajput_ideas = {
 	start = {
@@ -341,8 +338,6 @@ rajput_ideas = {
 		trade_efficiency = 0.10
 	}
 }
-
-
 
 telugu_ideas = { #Telugu Ideas
 	start = {
@@ -429,7 +424,6 @@ dravidian_ideas = {
 		merchants = 1
 	}
 }
-
 
 bengali_ideas = {
 	start = {
@@ -566,8 +560,6 @@ indian_muslim_ideas = {
 	
 }
 
-
-
 horde_ideas = {
 	start = {
 		ae_impact = -0.10
@@ -605,7 +597,6 @@ horde_ideas = {
 		#global_manpower_modifier = 0.25 (effect taken in OIR_ideas)
 	}
 }
-
 
 theocracy_ideas = {
 	start = {
@@ -648,7 +639,6 @@ theocracy_ideas = {
 	}
 }
 
-
 anatolian_beyliks_ideas = {
 	start = {
 		discipline = 0.05
@@ -687,7 +677,6 @@ anatolian_beyliks_ideas = {
 		prestige = 1
 	}
 }		
-
 
 daimyo_ideas = {
 	start = {
@@ -818,7 +807,6 @@ swabian_ideas = {
 	}
 }
 
-
 german_ideas = {
 	start = {
 		infantry_power = 0.1
@@ -857,7 +845,6 @@ german_ideas = {
 		prestige = 1
 	}
 }
-
 
 malayan_ideas = {
 	start = {
@@ -905,7 +892,6 @@ malayan_ideas = {
 	}
 }
 
-
 arabian_ideas = {
 	start = {
 		global_manpower_modifier = 0.15
@@ -945,7 +931,6 @@ arabian_ideas = {
 		prestige = 1
 	}
 }
-
 
 latin_ideas = {
 	start = {
@@ -1079,7 +1064,6 @@ native_ideas = {
 		global_colonial_growth = 25
 	}
 }
-
 
 central_indic_ideas = { #Gond Ideas
 	start = {
@@ -1890,44 +1874,6 @@ somali_ideas = {
 	}
 }
 
-CHA_ideas = {
-	start = {
-		navy_tradition = 1
-		light_ship_power = 0.15
-	}
-
-	bonus = {
-		naval_forcelimit_modifier = 0.25
-	}
-	
-	trigger = {
-		primary_culture = cham
-	}
-	free = yes		
-	
-	cha_my_son_temples = {
-		tolerance_own = 2
-	}
-	cham_seafaring_people = {
-		light_ship_cost = -0.20
-	}
-	cha_indian_influences = {
-		global_trade_power = 0.1
-	}
-	cha_cham_migrations = {
-		global_colonial_growth = 15
-	}
-	cha_che_man_legacy = {
-		improve_relation_modifier = 0.2
-	}
-	cha_agarwood = {
-		trade_efficiency = 0.1
-	}
-	cha_resisting_foreign_rule = {
-		defensiveness = 0.1
-	}
-}
-
 mayan_ideas = {
 	start = {
 		global_unrest = -1
@@ -2290,7 +2236,6 @@ caspian_ideas = {
 		merchants = 1
 	}
 }
-
 
 highland_scottish_ideas = {
 	start = {
