@@ -11,7 +11,7 @@ base_manpower = 4
 
 trade_goods = grain
 
-culture = vietnamese
+culture = muong
 religion = mahayana
 capital = "Thanh Hoa"
 
