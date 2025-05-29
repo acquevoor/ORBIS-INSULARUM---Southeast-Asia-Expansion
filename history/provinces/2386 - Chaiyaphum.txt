@@ -12,7 +12,7 @@ base_manpower = 1
 
 trade_goods = grain
 
-culture = isan
+culture = khmer
 religion = buddhism
 capital = "Chaiyaphum"
 
@@ -23,7 +23,9 @@ discovered_by = indian
 
 
 
-
+1490.1.1 = {
+	culture = lao
+}
 1535.1.1 = {
 	discovered_by = POR
 }
@@ -49,7 +51,7 @@ discovered_by = indian
 	remove_core = LXA
 }
 1817.1.1 = {
-	culture = lao
+	culture = isan
 }
 
 
