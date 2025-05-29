@@ -535,6 +535,7 @@ CEB_ideas = {
 
     bonus = {
         galley_power = 0.1
+        prestige_decay = -0.01
     }
 
     trigger = {
@@ -565,8 +566,7 @@ CEB_ideas = {
     }
     
     CEB_first_contact_legacies = {
-        global_institution_spread = 0.10
-        prestige_decay = -0.01
+        global_institution_spread = 0.15
     }
 
     CEB_sandugo_ritual_pacts = {
