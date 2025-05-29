@@ -193,9 +193,9 @@ l_english:
   UTH_ADJ:0 "Uthong"
   UTH_desc:0 "Uthong"
   
-  SUP:0 "Suphan"
-  SUP_ADJ:0 "Suphan"
-  SUP_desc:0 "Suphan"
+  SUP:0 "Suphannabhum"
+  SUP_ADJ:0 "Suphannabhumi"
+  SUP_desc:0 "Suphannabhumi"
   
   LAV:0 "Lavo"
   LAV_ADJ:0 "Lavo"
@@ -212,3 +212,7 @@ l_english:
   CNM:0 "Chiang Mai"
   CNM_ADJ:0 "Chiang Mai"
   CNM_desc:0 "Chiang Mai"
+  
+  unite_ayutthaya_desc:0 "Centralize Ayutthaya Confederation."
+  unite_ayutthaya_title:0 "The Basin of Chao Phraya long served as gateway of great wealth and power, while our combined might have long been stifled by intrigue and dispute, our kingdom rose above others and now wield it's full potential. It is time we proclaim the mantle and enforce our power across Suvanabhum!"
+  ayutthaya_centralized_tooltip:0 "All §YSiamese subjects§! will be instantly integrated."
