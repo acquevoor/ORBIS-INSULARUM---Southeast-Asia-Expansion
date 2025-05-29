@@ -3,16 +3,15 @@
  
 add_core = AYU
 add_core = ISH
-add_core = LAV
-owner = LAV
-controller = LAV
+owner = AYU
+controller = AYU
 base_tax = 3
 base_production = 3
 base_manpower = 3
 
 trade_goods = grain
 
-culture = khmer
+culture = isan
 religion = buddhism
 capital = "Si Thep"
 

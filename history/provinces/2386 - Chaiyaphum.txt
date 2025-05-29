@@ -12,7 +12,7 @@ base_manpower = 1
 
 trade_goods = grain
 
-culture = khmer
+culture = isan
 religion = buddhism
 capital = "Chaiyaphum"
 
