@@ -12,7 +12,7 @@ base_manpower = 3
 
 trade_goods = grain
 
-culture = isan
+culture = khmer
 religion = buddhism
 capital = "Si Thep"
 
@@ -28,6 +28,9 @@ discovered_by = ottoman
 
 1535.1.1 = {
 	discovered_by = POR
+}
+1600.1.1 = {
+	culture = central_thai
 }
 
 
