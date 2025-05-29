@@ -171,3 +171,45 @@ l_english:
 
   SKD:0 "Sukadana"
   SKD_ADJ:0 "Sukadanan"
+  
+#Kampuchea
+  OUD:0 "Oudong"
+  OUD_ADJ:0 "Oudong"
+  OUD_desc:0 "Oudong"
+  
+  CTK:0 "Chaktomuk"
+  CTK_ADJ:0 "Chaktomuk"
+  CTK_desc:0 "Chaktomuk"
+  
+  LVK:0 "Lavek"
+  LVK_ADJ:0 "Lavek"
+  LVK_desc:0 "Lavek"
+  
+  ISH:0 "Ishana"
+  ISH_ADJ:0 "Ishana"
+  ISH_desc:0 "Ishana"
+  
+#Mueang Thai
+  UTH:0 "Uthong"
+  UTH_ADJ:0 "Uthong"
+  UTH_desc:0 "Uthong"
+  
+  SUP:0 "Suphan"
+  SUP_ADJ:0 "Suphan"
+  SUP_desc:0 "Suphan"
+  
+  LAV:0 "Lavo"
+  LAV_ADJ:0 "Lavo"
+  LAV_desc:0 "Lavo"
+  
+  NAN:0 "Nan"
+  NAN_ADJ:0 "Nan"
+  NAN_desc:0 "Nan"
+  
+  LPH:0 "Lamphun"
+  LPH_ADJ:0 "Lamphun"
+  LPH_desc:0 "Lamphun"
+  
+  CNM:0 "Chiang Mai"
+  CNM_ADJ:0 "Chiang Mai"
+  CNM_desc:0 "Chiang Mai"
