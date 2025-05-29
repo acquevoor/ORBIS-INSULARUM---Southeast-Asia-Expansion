@@ -10,7 +10,7 @@ base_manpower = 3
 
 trade_goods = gems
 
-culture = central_thai
+culture = pearic
 religion = buddhism
 capital = "Nakhon Thung Yai"
 
