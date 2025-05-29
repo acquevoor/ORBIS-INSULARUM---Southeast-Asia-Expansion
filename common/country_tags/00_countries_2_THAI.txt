@@ -10,3 +10,8 @@ LAV = "countries/Lavo.txt"
 NAN = "countries/Nan.txt"
 LPH = "countries/Lamphun.txt"
 CNM = "countries/ChiangMai.txt"
+
+### CAMBODIA ###############################################
+
+#Lanxang
+KUY = "countries/TboungKhmum.txt"
