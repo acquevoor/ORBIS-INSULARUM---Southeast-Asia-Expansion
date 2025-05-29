@@ -13,7 +13,7 @@ base_manpower = 2
 
 trade_goods = grain
 
-culture = yi
+culture = lisu
 religion = animism
 capital = "Jianchang"
 

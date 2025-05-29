@@ -10,7 +10,7 @@ base_manpower = 2
 
 trade_goods = tea
 
-culture = shan
+culture = hani
 religion = buddhism
 capital = "Sibsongbanna"
 

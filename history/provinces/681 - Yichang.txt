@@ -12,7 +12,7 @@ base_manpower = 2
 
 trade_goods = tea
 
-culture = sichuanese
+culture = tujia
 religion = confucianism
 capital = "Yichang"
 

@@ -12,7 +12,7 @@ base_manpower = 2
 
 trade_goods = grain
 
-culture = khmer
+culture = isan
 religion = buddhism
 capital = "Khukhan"
 
@@ -56,9 +56,6 @@ discovered_by = indian
 	controller = CHK
 	add_core = CHK
 	remove_core = VIE
-}
-1817.1.1 = {
-	culture = isan
 }
 
 

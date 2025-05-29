@@ -11,7 +11,7 @@ base_manpower = 1
 
 trade_goods = tea
 
-culture = bai
+culture = nakhi
 religion = buddhism
 capital = "Lijiang"
 

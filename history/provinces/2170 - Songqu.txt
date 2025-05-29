@@ -11,7 +11,7 @@ base_manpower = 1
 
 trade_goods = livestock
 
-culture = tibetan
+culture = baima
 religion = vajrayana
 capital = "Songqu"
 

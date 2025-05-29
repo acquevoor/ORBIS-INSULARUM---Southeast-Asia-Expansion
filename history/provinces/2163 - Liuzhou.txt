@@ -10,7 +10,7 @@ base_manpower = 2
 
 trade_goods = salt
 
-culture = zhuang
+culture = miao
 religion = confucianism
 capital = "Liuzhou"
 

@@ -12,7 +12,7 @@ base_manpower = 3
 
 trade_goods = gold
 
-culture = xiang
+culture = yao
 religion = animism
 capital = "Hengyang"
 

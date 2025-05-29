@@ -10,7 +10,7 @@ base_manpower = 2
 
 trade_goods = tea
 
-culture = tibetan
+culture = pumi
 religion = vajrayana
 capital = "Tachienlu"
 
