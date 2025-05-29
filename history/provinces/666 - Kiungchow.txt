@@ -10,7 +10,7 @@ base_manpower = 1
 
 trade_goods = tropical_wood
 
-culture = chimin
+culture = be
 religion = confucianism
 capital = "Kingchow"
 
