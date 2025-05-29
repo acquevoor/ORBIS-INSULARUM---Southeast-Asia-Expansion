@@ -166,8 +166,19 @@ l_english:
   PAT:0 "Langkasuka"
   PAT_ADJ:0 "Langkasukan"
   
-
   TER:0 "Gapi"
+
+  ISH:0 "Ishana"
+  ISH_ADJ:0 "Ishanan"
+  
+  LVK:0 "Lavek"
+  LVK_ADJ:0 "Lavekan"
+
+  CTK:0 "Chatoumuk"
+  CTK_ADJ:0 "Chatoumukan"
+
+  OUD:0 "Oudong"
+  OUD_ADJ:0 "Oudongan"
 
   SKD:0 "Sukadana"
   SKD_ADJ:0 "Sukadanan"
