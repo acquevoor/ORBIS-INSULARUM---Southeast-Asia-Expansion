@@ -70,6 +70,18 @@ southeastasian_group = {
 			"Mya" "Shin Sawbu"
 		}	
 	}
+	khasi = {
+		dynasty_names = {
+			Pegu Dagon Thaton Martaban
+		}
+		male_names = {
+			"Razadarit" "Binnya Dhammaraza" "Binnya Ran" "Binnya Waru" "Binnya Kyan" "Leik Mawdaw" "Mawdaw" 
+			"Dhammazedi" "Takayutpi" "Smim Sawhtut" "Smim Htaw" "Binnya Dala"
+		}
+		female_names = {
+			"Mya" "Shin Sawbu"
+		}	
+	}
 	mon = {
 		primary = PEG
 		dynasty_names = {
@@ -98,7 +110,7 @@ southeastasian_group = {
 	vietnamese = {
 		primary = DAI
 		dynasty_names = {
-			"Lê" "Tran" "Mac" "Nguyen" "Trinh" "Vu" "Nguyen Phuc" "Nguyen Quang"
+			"LÃª" "Tran" "Mac" "Nguyen" "Trinh" "Vu" "Nguyen Phuc" "Nguyen Quang"
 		}
 		male_names = {
 			"An" "Quy Ly" "Han Thuong" "Ngoi" "Quy Khoang" "Loi" "Nguyen Long" "Bang Co" "Nghi Dan" "Tu Thanh" "Tranh" 
@@ -113,7 +125,7 @@ southeastasian_group = {
 	khmu = {
 		primary = DAI
 		dynasty_names = {
-			"Lê" "Tran" "Mac" "Nguyen" "Trinh" "Vu" "Nguyen Phuc" "Nguyen Quang"
+			"LÃª" "Tran" "Mac" "Nguyen" "Trinh" "Vu" "Nguyen Phuc" "Nguyen Quang"
 		}
 		male_names = {
 			"An" "Quy Ly" "Han Thuong" "Ngoi" "Quy Khoang" "Loi" "Nguyen Long" "Bang Co" "Nghi Dan" "Tu Thanh" "Tranh" 
@@ -128,7 +140,7 @@ southeastasian_group = {
 	muong = {
 		primary = DAI
 		dynasty_names = {
-			"Lê" "Tran" "Mac" "Nguyen" "Trinh" "Vu" "Nguyen Phuc" "Nguyen Quang"
+			"LÃª" "Tran" "Mac" "Nguyen" "Trinh" "Vu" "Nguyen Phuc" "Nguyen Quang"
 		}
 		male_names = {
 			"An" "Quy Ly" "Han Thuong" "Ngoi" "Quy Khoang" "Loi" "Nguyen Long" "Bang Co" "Nghi Dan" "Tu Thanh" "Tranh" 
