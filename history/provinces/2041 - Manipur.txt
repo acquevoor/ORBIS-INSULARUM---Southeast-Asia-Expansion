@@ -10,7 +10,7 @@ base_manpower = 1
 
 trade_goods = cloth
 
-culture = chin
+culture = meitei
 religion = animism
 capital = "Imphal"
 
