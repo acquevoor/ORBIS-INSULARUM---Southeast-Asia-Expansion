@@ -10,7 +10,7 @@ base_manpower = 1
 
 trade_goods = tea
 
-culture = assamese
+culture = chutia
 religion = hinduism
 capital = "Narayanpur"
 

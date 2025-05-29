@@ -10,7 +10,7 @@ base_manpower = 1
 
 trade_goods = naval_supplies
 
-culture = pahari
+culture = kumaoni
 religion = hinduism
 capital = "Champawat"
 

@@ -10,7 +10,7 @@ base_manpower = 2
 
 trade_goods = cotton
 
-culture = assamese
+culture = lhomon
 religion = hinduism
 capital = "Gauhauti"
 

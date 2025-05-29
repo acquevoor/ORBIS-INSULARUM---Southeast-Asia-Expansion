@@ -11,7 +11,7 @@ base_manpower = 1
 
 trade_goods = wool
 
-culture = nepali
+culture = tamang
 religion = vajrayana
 capital = "Yuksom"
 

@@ -10,7 +10,7 @@ base_manpower = 3
 
 trade_goods = silk
 
-culture = assamese
+culture = tani
 religion = hinduism
 capital = "Koliabar"
 
