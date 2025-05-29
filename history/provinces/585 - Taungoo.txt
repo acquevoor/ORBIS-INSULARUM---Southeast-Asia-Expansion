@@ -10,7 +10,7 @@ base_manpower = 4
 
 trade_goods = chinaware
 
-culture = burmese
+culture = pao
 religion = buddhism
 capital = "Toungoo"
 

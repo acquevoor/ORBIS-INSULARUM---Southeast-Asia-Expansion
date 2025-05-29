@@ -10,7 +10,7 @@ base_manpower = 1
 
 trade_goods = ivory
 
-culture = chin
+culture = mizo
 religion = animism
 capital = "Kale"
 

@@ -10,7 +10,7 @@ base_manpower = 1
 
 trade_goods = tropical_wood
 
-culture = shan
+culture = palaungic
 religion = buddhism
 capital = "Mong Kung"
 

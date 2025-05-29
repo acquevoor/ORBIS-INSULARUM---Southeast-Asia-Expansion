@@ -11,7 +11,7 @@ base_manpower = 2
 
 trade_goods = grain
 
-culture = khmer
+culture = bahnaric
 religion = animism
 capital = "Stung Treng"
 

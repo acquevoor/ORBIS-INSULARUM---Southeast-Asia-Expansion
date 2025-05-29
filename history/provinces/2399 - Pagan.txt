@@ -10,7 +10,7 @@ base_manpower = 3
 
 trade_goods = tropical_wood
 
-culture = burmese
+culture = zo
 religion = buddhism
 capital = "Pagan"
 

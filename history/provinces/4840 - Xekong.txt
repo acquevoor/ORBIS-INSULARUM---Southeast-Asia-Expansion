@@ -11,7 +11,7 @@ base_manpower = 1
 
 trade_goods = ivory
 
-culture = lao
+culture = katuic
 religion = animism
 capital = "Xekong"
 

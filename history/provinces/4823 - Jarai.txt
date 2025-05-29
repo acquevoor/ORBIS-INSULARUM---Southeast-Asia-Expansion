@@ -10,7 +10,7 @@ base_manpower = 2
 
 trade_goods = tea
 
-culture = cham
+culture = bahnaric
 religion = animism
 capital = "Jarai"
 

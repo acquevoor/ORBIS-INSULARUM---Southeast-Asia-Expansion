@@ -10,7 +10,7 @@ base_manpower = 3
 
 trade_goods = copper
 
-culture = shan
+culture = palaungic
 religion = buddhism
 capital = "Mong Yang"
 
