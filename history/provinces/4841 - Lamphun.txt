@@ -2,6 +2,7 @@
 # 4841 Lamphun - 5/16/2025 12:37:50 PM 
  
 add_core = LNA
+add_core = LPH
 owner = LNA
 controller = LNA
 base_tax = 4
