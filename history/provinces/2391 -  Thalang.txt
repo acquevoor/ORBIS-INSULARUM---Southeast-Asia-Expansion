@@ -10,7 +10,7 @@ base_manpower = 3
 
 trade_goods = fish
 
-culture = asli
+culture = orang_laut
 religion = sunni
 capital = "Thalang"
 
