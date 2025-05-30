@@ -71,7 +71,6 @@ thai_group = {
 		}
 	}
 	kradai = {
-		primary = LUA
 		dynasty_names = { 
 			"Chiang Mai" "Chiang Rai" "Chet Ton" Lampang Lamphun
 		}
@@ -85,7 +84,6 @@ thai_group = {
 		}
 	}
 	kamsui = {
-		primary = CMI
 		dynasty_names = { 
 			"Chiang Mai" "Chiang Rai" "Chet Ton" Lampang Lamphun
 		}

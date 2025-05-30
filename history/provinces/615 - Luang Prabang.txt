@@ -11,7 +11,7 @@ base_manpower = 3
 
 trade_goods = chinaware
 
-culture = kradai
+culture = lao
 religion = animism
 capital = "Xieng Tong"
 
