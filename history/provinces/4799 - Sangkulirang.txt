@@ -10,7 +10,7 @@ base_manpower = 2
 
 trade_goods = tropical_wood
 
-culture = kayan
+culture = sama
 religion = animism
 capital = "Sangkulirang"
 

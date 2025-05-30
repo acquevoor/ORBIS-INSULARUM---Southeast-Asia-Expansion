@@ -10,7 +10,7 @@ base_manpower = 3
 
 trade_goods = fish
 
-culture = orang_laut
+culture = moklen
 religion = sunni
 capital = "Thalang"
 
