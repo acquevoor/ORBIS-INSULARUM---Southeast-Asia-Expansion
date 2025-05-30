@@ -10,7 +10,7 @@ base_manpower = 1
 
 trade_goods = iron
 
-culture = jharkhandi
+culture = munda
 religion = hinduism
 capital = "Palamau"
 
