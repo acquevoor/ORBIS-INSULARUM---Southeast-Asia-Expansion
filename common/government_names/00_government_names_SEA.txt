@@ -345,17 +345,17 @@ sumatra_rajanate = {
     }
 }
 
-southern_sumatera_rajanate = {
+southern_rajanate = {
     rank = {
         1 = KEDATUAN
-        2 = KEDATUAN
+        2 = KERAJAAN
         3 = KESULTANAN
     }
 
     ruler_male = {
         1 = DATUK
         2 = RAJA
-        3 = MAHARAJA
+        3 = SULTAN
     }
 
     ruler_female = {
@@ -366,14 +366,14 @@ southern_sumatera_rajanate = {
 
     consort_male = {
         1 = PENGIRAN
-        2 = RAJA
-        3 = MAHARAJA
+        2 = PENGIRAN_RATU
+        3 = RAJA
     }
 
     consort_female = {
         1 = PUTRI
-        2 = RATU
-        3 = MAHARATU
+        2 = PENGIRAN_RATU
+        3 = RATU
     }
 
     heir_male = {
@@ -396,7 +396,8 @@ southern_sumatera_rajanate = {
             primary_culture = palembang
             primary_culture = lampung
             primary_culture = bengkulu
-	    primary_culture = orang_rimba 
+	    primary_culture = orang_rimba
+	    primary_culture = banjar
         }
     }
 }
