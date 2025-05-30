@@ -219,14 +219,20 @@ borneo_rajanate = {
         government = native
         government = tribal
         OR = {
-            primary_culture = bornean
-            primary_culture = Asli
+            primary_culture = asli
             primary_culture = kayan
+	    primary_culture = dayak
+	    primary_culture = bidayuh
+ 	    primary_culture = murut
+ 	    primary_culture = kayan
             primary_culture = kutai
-            primary_culture = banjar
+            primary_culture = maanyan_dayak
+	    primary_culture = danum_dayak
             primary_culture = orang_rimba
             primary_culture = orang_laut
-            primary_culture = dusun     
+            primary_culture = dusun
+	    primary_culture = iban
+	    primary_culture = sama
         }
     }
 }
@@ -280,9 +286,14 @@ java_rajanate = {
         government = tribal
         OR = {
             primary_culture = javanese
+	    primary_culture = banten
+	    primary_culture = bali
+	    primary_culture = madura
+	    primary_culture = cirebonese
             primary_culture = sundanese
-			primary_culture = nusa_tenggara
-            primary_culture = lampung 
+	    primary_culture = lombok
+	    primary_culture = sasak
+	    primary_culture = nusa_tenggara 
         }
     }
 }
@@ -340,7 +351,9 @@ sumatra_rajanate = {
             primary_culture = acehnese
             primary_culture = batak
             primary_culture = melayu
-            primary_culture = minag      
+            primary_culture = minag
+            primary_culture = bornean
+	    primary_culture = kedah
         }
     }
 }
