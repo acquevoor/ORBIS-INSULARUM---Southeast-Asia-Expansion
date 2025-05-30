@@ -50,12 +50,17 @@
   
   # Sumatra & West Malaysia Rajanate
   NAGARI:0 "Nagari"
-  
+  KERAJAAN:0 "Kerajaan"
+  KEDATUAN:0 "Kedatuan"
   DATUK:0 "Datuk"
+  DATIN:0 "Datin"
   RAJA:0 "Raja"
   MAHARAJA:0 "Maharaja"
   RATU:0 "Ratu"
-  
+  PENGIRAN:0 "Pengiran"
+  PENGIRAN_RATU:0 "Pangeran Ratu"
+  MAHARATU:0 "Maharatu"
+
   PRINCE_CONSORT:0 "Prince Consort"
   PRINCESS:0 "Princess"
   
