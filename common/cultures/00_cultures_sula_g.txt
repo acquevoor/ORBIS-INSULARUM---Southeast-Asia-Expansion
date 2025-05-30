@@ -340,7 +340,53 @@ toraja = {
 		Cinta Wangi Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu_utea Orama Poe Pear Poehina Poenui Poerava Puaiti Puatea Puaura Ra'ihau Ra'imere Ra'inui 
 		Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Tenriolle Taurua Tautiare Tehani Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea Vaite Vaitiare
 	}
-}	
+}
+mandar = {
+    primary = LUW
+    dynasty_names = {
+        "Andi"	"Arung"	"Bau"	"Daeng"	"Datu"	"Opu"	"Petta"	"Puang"	"Sulewatang"	"Tenri"	"Tinro"	"Karaeng"	"Kare"	"Tanjeng"	"Sombaya"	"Puang"	"La"	"We"	"Areng"	"Dondo-dondo"	"Torau"	"Awundapu"		"Banumbu"	"Bali'e"	"Baloga"	"Belala"	"Betalino"	"Beto"	"Botilangi"		"Bulinde"	"Bungkundapu"	"Bungu"	"Buntinge"	"Dike"	"Dongalemba"	"Gilirante"	"Gimbaro"		"Gugu"	"Gundo"	"Kampindo"	"Kambodji"	"Kalembiro"	"Kalengke"	"Karape"	"Karebungu"	"Kayori"	"Kayupa"	"Koedio"	"Kogege"	"Kolombuto"	"Kolobinti"	"Kuko"			"Lakiu"	"Langgari"	"Lambangasi"	"Labiro"	"Liante"	"Lidongi"	"Lu'o"	"Lumaya"	"Lolongudju"	"Manganti"	"Meringgi"	"Mossepe"	"Mowose"	"Monipo"	"Nyolo-nyolo"		"Nggau"	"Nggo'u"	"Nua"	"Nyaua"	"Pakuli"	"Palaburu"	"Parimo"	"Pariu"	"Paroda"	"Pasunu"	"Patara"	"Pebadja"	"Penina"	"Penyami"	"Pesudo"	"Poa"			"Pobonde"	"Podala"	"Polempe"	"Purasongka"	"Ratengku"	"Pusuloka"	"Rampalino"	"Rampalodji"	"Rantelangi"	"Rare'a"	"Ruagadi"	"Rubo"	"Ruutana"	"Sancu'u"			"Sawiri"	"Sigilipu"	"Sipatu"	"So'e"	"Sowolino"	"Tabanci"	"Tadanugi"	"Tadalangi"	"Tadadja"	"Tadjaji"	
+	"Talasa"	"Tarante"	"Tasiabe"	"Tawuku"	"Tawurisi"	"Tekora"	"Tepara"	"Tiladuru"	"Tolala"	"Mogadi"	"Tobondo"	"Tolimba"	"Toumbo"	"Turuka"		"Ule"	"Ululai"	"Warara"	"Wenali"	"Werokila"	"Wuri"	"Wutabisu"
+    }
+    	male_names = {
+			Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
+			Shehryar Ibtisham Javaid Jafar Tahir Razzaq Yunus Suleyman Murtaza Hyder Amir Saif Zulfikar Imron Hafiz  Akbar 
+			Yakub Abdurrashid Mokhtar Hamzah Syuaib Salman Kadir Salim Rasyid Farhan Karim Fauzan Fawwaz Ghulam Sayid Imran Adil
+			Arif Azam Nadim Rizwan Ridwan Nasir Khalid Idris Zahir Nuh Soleh Munir Hamid Yusuf Ihsan Faisal Majid Rafiq Ashrof Iqbal 
+			Jamil Rizki Ridho Isa Yusuf Adam Nuh Saleh Ibrahim Ishak Zulkifli Musa Harun Daud Sulaiman Yunus Ilyas Yahya Zakaria Umar
+			Usman Tholib Malik Alif Amir Amran Aqil Anwar Aziz Faiz Fuad Gozali Hamzah Ilham Ikhwan Israfil Izroil Jauhari Kamal Khalid
+			Lukman Lutfi Mustofa Raihan Rahman Rahim Rahmat Taufik Syarif Wahid Zulkarnain
+			Andi Daeng Ambo Akku Ampa Arung Atu Benga Bombang Eja Enre Esa Gatta Gau Kasii Keteng Lalo Matta Makkawaru Besse
+			Malomo Nyompa Pada Jeru La Laba Palalo Pallawarukka Takko Tinro Tunrung Uleng Putra Perdana Tinro Tojeng
+			Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+			Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+			Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 			Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+			Matasa Isakka Latahang Baco Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Aso Nyalla Mattalitti Ramang
+			Batara Butta Djallo Djallori Gowa Karaeng Limbangparang Palonga Parabung Parisi Pasulu Sankilang Tumammalianga Tuni Sudding Paliwang Oddang
+			Tunibatta Tunitangkalopi Tunyachoka-ri Palaloi Mattalatta Kaduk Massepe Pajongga Ngalie Ranggong Radja Mallaranggeng Beddu Amang Mariok Dira
+			Peppang Makkarumpa Djemma Pawawoi Pati Palakka Madukelleng Saelan Uno Tumpa
+		}
+
+		female_names = {
+			Aliyah	Amira	Hafsa	Lailah	Zahira	Damia	Elina	Mariya	Mariyam	Maimunah	Rukaya	Hasnah	Umi	Zainab	Kamalia	Amirah	Thahirah Umaiyah Tazkia
+			Aisyah	Anisah	Balqis	Badriah	Afiqah	Basira	Fadilah	Farah	Ghina	Hanisah	Imanina	Irhamna	Jasmin	Lutfia	Laila	Nabila	Qairina	Qistina	Rania
+			Ulfah	Widad	Yasmin	Barirah	Dzakirah	Fathiah	Dalilah	Ezzah	Fauziah	Halimah	Layyinah	Jauharah	Khalidah	Qalbi	Madihah	Safiyyah Tasnim	Rafidah	Wafiyah
+			Wahida	Yumna	Zafirah	Abirah	Hafizah	Dania	Fatimah	Hidayah	Ikram	Jannah	Kamilah	Lina	Mardhiah	Nafisah	Qamar	Raudhah	Umaima	Yusra	Safiya
+			Wardah	Yaqutah	Zahirah	Aminah	Jamaliah	Khairunnisa	Habibah	Izzah	Jamilah	Khadijah	Rasyidah	Mariah	Na’imah	Zulaikha	Rawdah	Salma	Uzma	Zahra	Tihani
+			Asma	Bilqis	Dana	Faridah	Lutfiah	Munirah	Nabilah	Qisthi	Saadah	Thufailah	Mahirah	Nadira	Hanisa	Hamira	Salsabila	Syafirah	Nurul	Nur	Siti
+			Andi Puang Akko Indo Akko Ampa Arung Atu Benga Bombang Cenning Daramang Eja Esa Gatta Gau Kasii Keteng Lalo Makatenga Matta Putri Welang
+			Malomo Marauleng Nyompa Ola Pada Jeru La Laba Palalo Pallawarukka Rawallangi Sanna Sompa Takko Tang Tenri Tinro Tunrung Tuo Uleng Upe Risaju
+			Unru Wellang Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga
+			Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong
+			Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu
+ 			Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng
+			Matasa Isakka Latahang Becce Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Areng Dondo-dondo
+			Cinta Wangi Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu_utea Orama Poe Pear Poehina Poenui Poerava Puaiti Puatea Puaura Ra'ihau Ra'imere Ra'inui 
+			Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Tenriolle Taurua Tautiare Tehani Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea 
+			Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea Vaite Vaitiare
+		}
+	}
+
 bugis = {
     primary = MKS
     dynasty_names = {
