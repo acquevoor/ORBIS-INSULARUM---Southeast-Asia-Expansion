@@ -25,7 +25,7 @@ burman = {
 		}
 	}
 	chin = {
-		primary = MLB
+		primary = BNG
 		dynasty_names = {
 			Shubol Chandrakirti Ganavira Marjit Charajit Pitambara Moduchandra Harshachandra Nara Devendra
 		}
