@@ -50,6 +50,8 @@ filipino_rajanate = {
             		primary_culture = luzones
             		primary_culture = bisaya
             		primary_culture = mindanawan
+			primary_culture = minahasa
+			primary_culture = gorontalo
 		}
 	}
 }
@@ -164,6 +166,8 @@ moluccan_rajanate = {
         government = tribal
         OR = {
             primary_culture = moluccan
+	    primary_culture = north_halmaheran
+	    primary_culture = south_halmaheran
         }
     }
 }
@@ -220,6 +224,7 @@ borneo_rajanate = {
         government = tribal
         OR = {
             primary_culture = asli
+	    primary_culture = moklen
             primary_culture = kayan
 	    primary_culture = dayak
 	    primary_culture = bidayuh
