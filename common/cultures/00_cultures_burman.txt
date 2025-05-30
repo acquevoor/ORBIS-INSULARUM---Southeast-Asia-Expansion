@@ -40,6 +40,7 @@ burman = {
 		}
 	}
 	naga = {
+		primary = KAC
 		dynasty_names = {
 			Shubol Chandrakirti Ganavira Marjit Charajit Pitambara Moduchandra Harshachandra Nara Devendra
 		}
@@ -54,6 +55,7 @@ burman = {
 		}
 	}
 	meitei = {
+		primary = MLB
 		dynasty_names = {
 			Shubol Chandrakirti Ganavira Marjit Charajit Pitambara Moduchandra Harshachandra Nara Devendra
 		}
@@ -68,6 +70,7 @@ burman = {
 		}
 	}
 	tripuri = {
+		primary = TPR
 		dynasty_names = {
 			Shubol Chandrakirti Ganavira Marjit Charajit Pitambara Moduchandra Harshachandra Nara Devendra
 		}
@@ -82,6 +85,7 @@ burman = {
 		}
 	}
 	mizo = {
+		primary = KAL
 		dynasty_names = {
 			Shubol Chandrakirti Ganavira Marjit Charajit Pitambara Moduchandra Harshachandra Nara Devendra
 		}
@@ -96,6 +100,7 @@ burman = {
 		}
 	}
 	zo = {
+		primary = AVA
 		dynasty_names = {
 			Shubol Chandrakirti Ganavira Marjit Charajit Pitambara Moduchandra Harshachandra Nara Devendra
 		}
@@ -110,6 +115,7 @@ burman = {
 		}
 	}
 	karen = {
+		primary = MPA
 		dynasty_names = {
 			"An" "She" "Liu" "Longzan" "Feng" "Pu"
 		}
@@ -124,6 +130,7 @@ burman = {
 		}
 	}
 	pao = {
+		primary = PEG
 		dynasty_names = {
 			"An" "She" "Liu" "Longzan" "Feng" "Pu"
 		}
@@ -138,6 +145,7 @@ burman = {
 		}
 	}
 	kachin = {
+		primary = MKA
 		dynasty_names = {
 			"Duan" "Gao" "Meng"
 		}
@@ -152,6 +160,7 @@ burman = {
 		}
 	}
 	achang = {
+		primary = MKA
 		dynasty_names = {
 			"Duan" "Gao" "Meng"
 		}
