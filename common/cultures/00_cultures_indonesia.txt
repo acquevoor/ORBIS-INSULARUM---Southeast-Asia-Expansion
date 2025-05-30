@@ -498,7 +498,7 @@ moluccan = {
 	}
 }
 nusa_tenggara = {
-		primary = BLI
+		primary = SPR
 		dynasty_names = {
 			Banten Demak Surabaya Cirebon Samprangan
 		}
@@ -652,7 +652,7 @@ nusa_tenggara = {
 		}
 	}
 lampung = {
-		primary = PLB
+		primary = LPG
 		dynasty_names = {
 			"Seputih"	"Sebadak"	"Selimau"	"Sepekhtiwi"	"Sekelumbayan"	"Teluk Betung"	"Sabu Menanga"	"Retai"	"Punduh"	"Pugung"
 			"Pubian"	"Badak"	"Putih"	"Limau"	"Kelumbaian" "Pertiwi"	"Putih Doh"	"Talang Padang"	"Belenguh" "Bunawang" "Way Ngarip Semang" "Pematang Sawah"	"Selawai Kunang" 
@@ -816,7 +816,7 @@ lampung = {
 		}
 	}
 orang_rimba = {
-		primary = DHR
+		primary = JMB
 		dynasty_names = {
 			"Sungai Tenang"	"Serampas" "Peratin Tuo" "Senggrahan" "Pembarap" "Mestong" "Awin" "Jambi" "Kecil" "Kumpe Ulu" "Jebus" "Maro" "Sebo" "Kumpe Ilir" "Muara" "Sabak"	
 			"Dendang"	"Berbak"	"Tungka lIlir"	"Tungkal Ulu"	"Mara Sebo Ilir"	"Pemayung Ulu"	"Pemayung Ilir"	"Kembang Paseban"	"Mara Sebo Ulu"	
@@ -961,7 +961,7 @@ orang_rimba = {
 		}
 	}
 banjar = {
-		primary = NDP
+		primary = BNJ
 		dynasty_names = {
 			Banjar Banjarmasin Martapura Hulu Sungai Negara "Diwai"	"Engkem" "Gandrung" "Hawini" "Kinseng" "Koroy" "Saan" "Gamur" "Satak" "Ukur" "Wawoh" "Waning" "Manseng"	"Sahandrian"
 		}
@@ -1733,7 +1733,7 @@ iban = {
 	}
 }
 bidayuh = {
-    primary = LDA
+     LDA
     dynasty_names = {
         "Gonyep"	"Abieng"	"Abon"	"Abui"	"Adan"	"Adun"	"Aget"	"Agu"	"Aham"	"Ahem"	"Aheng"	"Ahin"	"Ahu"	"Ajiam"	"Ajien"	"Ajin"	"Ajis"	"Ajit"	"Ajok"	"Ajong"	"Ajun"	"Akam"	"Akaw"	"Akeng"	"Akin"	"Akuan"	"Akui"	"Amau"	"Ambol"	"Ambun"	"Anap"	"Anen"	"Angkan"	"Angos"	"Anyon"	"Apin"	"Apuk"	"Arin"		"Arong"	"Arum"	"Asan"	"Asau"	"Aseh"	"Asem"	"Aseng"	"Asiew"	"Asong"	"Atam"	"Atek"	"Atet"	"Atit"	"Aton"	"Atong"	"Atos"	"Atub"	"Atung"	"Auh"	"Aung"	"Awam"	"Awang"	"Awen"	"Ayai"	"Ayot"	"Baee"	"Baet"	"Bagang"	"Bahak"	"Bahas"	"Baien"	"Bain"	"Bajing"	"Bakeh"	"Bakel"	"Baki"	"Bakir"	"Bangik"		"Bangol"	"Banyan"	"Baom"	"Bareng"	"Baret"		"Barieng"	"Basong"	"Bateh"	"Batis"	"Bawin"	"Bawing"	"Bedali"	"Bedu"	"Beti"	"Bian"	"Bichu"	"Bidi"	"Bidon"	"Bigar"	"Bijug"	"Bimbeum"	"Bimol"	"Bingam"	"Binia"	"Binin"	"Bisot"	"Bitang"	"Boda"	"Bodus"	"Bogeg"		"Bojeng"	"Bojing"	"Bongkoi"	"Borit"	"Bosaw"	"Boson"	"Boyai"	"Boyer"	"Bugong"	"Bugud"	"Bujem"	"Bujoi"	"Bunchong"	"Bungkau"	"Buntan"	"Butan"	"Chakam"	"Chawat"	"Chikok"	"Chimbeng"	"Dabok"	"Dae"	"Daek"	
 	"Daes"	"Dagok"	"Daho"	"Damu"	"Dandu"	"Dange"			"Danien"	"Dano"	"Danuk"	"Daom"	"Dappon"	"Dasing"	"Daweg"	"Dawer"	"Dawit"	"Dawos"	"Dayok"	"Denang"	"Denek"	"Dengi"	"Deres"	"Derop"	"Deros"	"Dewen"	"Dewih"	"Dewod"	"Diaw"	"Dibos"	"Dieip"	"Dihin"	"Dihoi"	"Dikow"	"Dila"	"Dilup"	"Dimin"	"Dimong"	"Dindug"	"Dinduk"	"Dinen"	"Dinga"		"Dingol"	"Diop"	"Dipos"	"Dirom"	"Disem"	"Disen"	"Disew"	"Disien"	"Disin"	"Disot"	"Diway"	"Diwen"	"Diyeng"	"Diyom"	"Diyong"	"Dohem"	"Dolah"	"Dolik"	"Domek"	"Dorem"	"Doret"	"Dorong"	"Dorop"	"Doros"	"Dotim"	"Dowel"	"Dowet"	"Duai"	"Duen"	"Duli"	"Dumbun"	"Dundon"	"Dunget"		"Barage"	"Dupes"	"Durit"	"Duser"	"Duwat"	"Duwek"	"Duwet"	"Duya"	"Duyah"	"Endom"	"Engki"	"Enyek"	"Ering"	"Eroh"	"Eson"	"Gadong"	"Gagui"	"Galeh"	"Gambong"	"Ganai"	"Gani"	"Ganjun"	"Ganyoi"	"Gapsi"	"Garih"	"Garing"	"Garoh"	"Gasah"	"Gaseh"	"Gatut"	"Gau"	"Gaud"	"Gaup"	"Gayeng"		"Gayu"	"Gayut"	"Gebang"	"Gedang"	"Gendek"	"Geres"	"Gerik"	"Geseh"	"Giam"	"Giheng"	"Gihien"	"Gileng"	"Gilim"	"Gindis"	"Gindok"	"Ginep"	"Ginien"	"Ginjos"	
@@ -1956,7 +1956,7 @@ mentawai = {
 }
 
 rejang = {
-    primary = IND
+    primary = BKL
     dynasty_names = {
         "Ulu Abes" "Muara Aman"	"Talang Liak" "Selupuak Lebong"	"Bemanai Jekalang" "Bemanai Ai"	"Selupuak Jang"	"Migai Kelobak"	"Bemanai Lot" "Migai Kelindang"	"Jekalang" "Smitoa" "Bemanai Paliak" "Bioa Besai" "Lai"	"Bioa Padang"	"Btunen" "Ketawen" "Bemanai Perbo" "Bang Ajai" "Kap"
     }
@@ -2145,7 +2145,7 @@ gayo = {
 }
 
 banten = {
-	primary = SUN
+	primary = BAN
 	dynasty_names = {
 		Tarumanagara Salakanagara Banten Girang Pulosari Kujang Sunda
 	}
@@ -2453,6 +2453,7 @@ cirebonese = {
 		}
 	}
 danum_dayak = {
+	primary = NDP
 	dynasty_names = {
 		"Asuy" "Gamas" "Naras" "Rampan" "Siluq" "Singo" "Bodjer" "Bulatn" "Kamuntik" "Karna" "Malat" "Ngayoh" "Parayu" "Ubad"
 	}
@@ -3463,7 +3464,7 @@ south_halmahera = {
 		}
 	}
 asli = { 
-		primary = DHR
+		primary = TGG
 		dynasty_names = { 
 			Semang Jakun Temiar Bateq Mahmeri Temuan Jahai Chewong Semoq
 		}
@@ -3604,7 +3605,7 @@ asli = {
 		}
 	}
 sumatran = {
-		primary = PLB
+		primary = DHR
 		dynasty_names = {
  			"Srivijaya" "Sailendra" "Sanjaya" "Mahisa" "Dharmasetu" "Adityawarman" "Jayanasa" "Balaputradewa"
 		}
@@ -3947,7 +3948,7 @@ acehnese = {
 		}
 	}
 javanese = {
-		primary = MAJ
+		primary = MTR
 		dynasty_names = {
 			Banten Demak Surabaya Cirebon Samprangan
 		}
@@ -4735,6 +4736,7 @@ melayu = {
 		}
 	}
 batak = {
+		 HTR
 		dynasty_names = {
 			"Ajartambun"	"Angkat"	"Babiat"	"Babo"	"Bako"	"Bancin"	"Banjarnahor"	"Bakkara"	"Bariba" "Baringbing"	"Barotbot"	"Baruara" "Batuara"	"Baumi"	"Benjerang"	"Berampu"	"Beras"	"Berasa"
 			"Beringin"	"Barutu"	"Boangmanalu" "Bondar"	"Bondong "Brahmana" "Bukit"	"Bukit Uweh"	"Bukit Lah"	"Buniaji"	"Busuk"	"Butarbutar" "Capah"	"Cibro"	"Cibero" "Colia"	"Dajawak"	"Damunthei" "Dasalak"
