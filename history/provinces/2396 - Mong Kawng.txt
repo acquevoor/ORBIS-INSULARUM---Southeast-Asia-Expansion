@@ -10,7 +10,7 @@ base_manpower = 2
 
 trade_goods = gems
 
-culture = kachin
+culture = achang
 religion = buddhism
 capital = "Mong Kawng"
 
