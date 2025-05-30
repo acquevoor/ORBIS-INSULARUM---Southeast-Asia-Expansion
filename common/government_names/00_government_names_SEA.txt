@@ -337,3 +337,59 @@ sumatra_rajanate = {
         }
     }
 }
+
+southern_sumatera_rajanate = {
+    rank = {
+        1 = KEDATUAN
+        2 = KEDATUAN
+        3 = KESULTANAN
+    }
+
+    ruler_male = {
+        1 = DATUK
+        2 = RAJA
+        3 = MAHARAJA
+    }
+
+    ruler_female = {
+        1 = DATIN
+        2 = RATU
+        3 = MAHARATU
+    }
+
+    consort_male = {
+        1 = PENGIRAN
+        2 = RAJA
+        3 = MAHARAJA
+    }
+
+    consort_female = {
+        1 = PUTRI
+        2 = RATU
+        3 = MAHARATU
+    }
+
+    heir_male = {
+        1 = HEIR
+        2 = HEIR
+        3 = HEIR
+    }
+
+    heir_female = {
+        1 = HEIR_fem
+        2 = HEIR_fem
+        3 = HEIR_fem
+    }
+
+    trigger = {
+        government = monarchy
+        government = native
+        government = tribal
+        OR = {
+            primary_culture = palembang
+            primary_culture = lampung
+            primary_culture = bengkulu
+	    primary_culture = orang_rimba 
+        }
+    }
+}
