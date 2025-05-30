@@ -35,6 +35,7 @@ southeastasian_group = {
 		}
 	}
 	pearic = {
+		primary = UTH
 		dynasty_names = {
 			Pegu Dagon Thaton Martaban
 		}
@@ -47,6 +48,7 @@ southeastasian_group = {
 		}	
 	}
 	katuic = {
+		primary = KUY
 		dynasty_names = {
 			Pegu Dagon Thaton Martaban
 		}
@@ -59,6 +61,7 @@ southeastasian_group = {
 		}	
 	}
 	bugan = {
+		primary = CGS
 		dynasty_names = {
 			Pegu Dagon Thaton Martaban
 		}
@@ -71,6 +74,7 @@ southeastasian_group = {
 		}	
 	}
 	bahnaric = {
+		primary = RHA
 		dynasty_names = {
 			Pegu Dagon Thaton Martaban
 		}
@@ -83,6 +87,7 @@ southeastasian_group = {
 		}	
 	}
 	khasi = {
+		primary = BNG
 		dynasty_names = {
 			Pegu Dagon Thaton Martaban
 		}
@@ -108,6 +113,7 @@ southeastasian_group = {
 		}	
 	}
 	wa = {
+		primary = HSE
 		dynasty_names = {
 			Pegu Dagon Thaton Martaban
 		}
@@ -120,6 +126,7 @@ southeastasian_group = {
 		}	
 	}
 	palaungic = {
+		primary = MNI
 		dynasty_names = {
 			Pegu Dagon Thaton Martaban
 		}
@@ -147,7 +154,7 @@ southeastasian_group = {
 		}
 	}
 	khmu = {
-		primary = DAI
+		primary = MPH
 		dynasty_names = {
 			"Lê" "Tran" "Mac" "Nguyen" "Trinh" "Vu" "Nguyen Phuc" "Nguyen Quang"
 		}
@@ -162,7 +169,7 @@ southeastasian_group = {
 		}
 	}
 	muong = {
-		primary = DAI
+		primary = ANN
 		dynasty_names = {
 			"Lê" "Tran" "Mac" "Nguyen" "Trinh" "Vu" "Nguyen Phuc" "Nguyen Quang"
 		}
