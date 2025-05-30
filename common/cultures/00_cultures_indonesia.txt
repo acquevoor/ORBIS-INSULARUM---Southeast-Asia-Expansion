@@ -1287,6 +1287,22 @@ kayan = {
 			Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja
 		}
 	}
+murut = {
+	dynasty_names = {
+		"Kawanding"	"Killip"	"Kinukuban"	"Kolod"	"Kolor"	"Koronob"	"Labotao"	"Lachir"	"Lalandang"	"Lambok"	"Lang"	"Lawing"			"Layaman"	"Libot"	"Likinan"	"Likor"	"Likuran"	"Linggam"	"Lingkidon"	"Lingkong"	"Lipang"	"Luak"	"Luhari"	"Lumayau"			"Lumbis"	"Mandalan"	"Mandau"	"Mandis"	"Mansiang"	"Marusin"	"Masang"	"Melayak"	"Milasi"	"Muari"	"Muau"	"Muna"			"Okok"	"Ongol"	"Ontoros"	"Oyan"	"Panamban"	"Pilaabang"	"Rujit"	"Rungkapal"	"Saliwang"	"Saluangon"	"Sambah"	"Sambilor"				"Sanaran"	"Sangaling"	"Sangarau"	"Sariau"	"Saudin"	"Senangkuban"	"Sigoh"	"Sih"	"Silip"	"Sinidol"	"Sinikin"	"Sulakol"			"Tagal"	"Tahol"	"Tampisan"	"Tangaulun"	"Taringa"	"Tikus"	"Tilik"	"Timugon"	"Tirong"	"Toson"	"Tulangkau"	"Turuhon"	"Ubon"	"Ubot"			"Uiong"	"Ukit"	"Ulah"	"Umbon"	"Usin"	"Yamingku"	"Yangkamin"	"Aginan"	"Agubat"	"Ambawah"	"Ambok"	"Ambuh"	"Ambuis"	"Ampakot"			"Ampaloh"	"Ampar"	"Ampating"	"Amplin"	"Ampungit"	"Amusara"	"Andatu"	"Andawa"	"Andingos"	"Andugot"	"Angail"			"Angalon"	"Angalot"	"Angasap"	"Angasau"	"Angau"	"Angirau"	"Angkaas"	"Angkap"	"Angkasang"	"Angula"	"Angulinda"			"Angusi"	"Anguyony"	"Angoh"	"Ansalai"	"Ansapar"	"Ansih"	"Ansokul"	"Antaim"	"Antanom"	"Antarus"	"Arurung"	"Asang"			"Assanar"	"Atak"	"Awang"	"Balob"	"Bandaling"	"Bangali"	"Batuda"	"Bawar"	"Belayong"	"Binungkol"	"Boukum"	"Bularoh"				"Bulong"	"Bungkias"	"Butong"	"Dalimpos"	"Dowon"	"Dulah"	"Dulat"	"Endin"	"Galok"	"Gangasing"	"Gatian"	"Giang"	"Giden"	"Ingas"				"Jaintang"	"Kahal"	"Kailoh"	"Kalur"	"Kandai"	"Kandoi"	"Kandui"
+		}
+		male_names = {
+			Ampong Binti Labih Rumbun Sipet Purok Mamut Menteng Hanjak Nanjan Djata Lawai Jau Keling Ngau Lisu Ullok Apoi Wan Dehen
+			Djatta Ekot Hanyi Labih Mantikei Mantir Simpei Segah Saloh Selong Teras Simbun Saduri Sangkurun Salundik Taladjan During
+			Suli Tumon Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja
+		}
+
+		female_names = {
+			Sulin Usun Ubong Long Puynag Bulan Asie Ambon Bungas Bungeh Bawin Enon Jenta Hawon Harum Hanyam Kalawa Kambang Lamiang
+			Manyang Mantoh Rimbun Nyelong Paris Pumpong Rimpong Siwoh Sindai Simpon Sarita Sallie Sullie Timpong Tindoh
+			Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja
+		}
+}
 dusun = {
 	primary = BEU
 	dynasty_names = {
