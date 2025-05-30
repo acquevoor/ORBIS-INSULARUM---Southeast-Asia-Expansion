@@ -7,7 +7,7 @@ base_manpower = 1
 
 trade_goods = unknown
 
-culture = kayan
+culture = dayak
 religion = animism
 capital = "Kapit"
 

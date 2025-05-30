@@ -10,7 +10,7 @@ base_manpower = 4
 
 trade_goods = incense
 
-culture = kayan
+culture = murut
 religion = hinduism
 capital = "Sambaliung"
 

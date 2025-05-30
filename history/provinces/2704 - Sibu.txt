@@ -10,7 +10,7 @@ base_manpower = 2
 
 trade_goods = spices
 
-culture = iban
+culture = melanau
 religion = animism
 capital = "Sibu"
 
