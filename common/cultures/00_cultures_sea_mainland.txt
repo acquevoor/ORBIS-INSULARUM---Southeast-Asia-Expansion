@@ -35,7 +35,6 @@ southeastasian_group = {
 		}
 	}
 	pearic = {
-		primary = UTH
 		dynasty_names = {
 			Pegu Dagon Thaton Martaban
 		}
