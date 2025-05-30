@@ -340,7 +340,7 @@ sumatra_rajanate = {
             primary_culture = acehnese
             primary_culture = batak
             primary_culture = melayu
-            primary_culture = Minag      
+            primary_culture = minag      
         }
     }
 }
