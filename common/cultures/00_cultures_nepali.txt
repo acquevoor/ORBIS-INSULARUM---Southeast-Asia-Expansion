@@ -33,6 +33,7 @@ eastern_aryan = {
 		}
 	}
 	chutia = {
+		primary = ASS
 		dynasty_names = {
 			"Khen" "Ahom" "Nagas" "Chutiya" "Raikat" "Koch"
 			"Sutiya" "Kachari" "Barobhyan"
@@ -54,6 +55,7 @@ eastern_aryan = {
 		}
 	}
 	lhoba = {
+		primary = SDY
 		dynasty_names = {
 			"Khen" "Ahom" "Nagas" "Chutiya" "Raikat" "Koch"
 			"Sutiya" "Kachari" "Barobhyan"
@@ -75,6 +77,7 @@ eastern_aryan = {
 		}
 	}
 	tani = {
+		primary = ASS
 		dynasty_names = {
 			"Khen" "Ahom" "Nagas" "Chutiya" "Raikat" "Koch"
 			"Sutiya" "Kachari" "Barobhyan"
@@ -267,6 +270,7 @@ eastern_aryan = {
 		}
 	}
 	magar = {
+		primary = GRK
 		dynasty_names = {
 			"Malla" "Ghorka" Limbu
 		}
@@ -286,25 +290,7 @@ eastern_aryan = {
 		}
 	}
 	lhomon = {
-		dynasty_names = {
-			"Malla" "Ghorka" Limbu
-		}
-		male_names = {
-			Jayajyotimalla Jayayakshamalla Ratmamalla Suryamalla Amaramalla Narendramalla Mahendramalla Sadashivamalla 
-			Shivasimhamalla Lakshminarasimhamalla Pratapamalla Jayanripendramalla Parthivendramalla Bhupendramalla 
-			Bhaskaramalla Mahendrasimhamalla Jayaprakasamalla Bhimsen Amar Singh Ranjur Singh Bhakti
-		}
-		female_names = {
-			Devaladevi Kaushalyawati Rajendralakshmi Maiya Nanu Nani Maya Pragya Anu Chameli Nirmala Anushka Sarmila Komal 
-			Rita Kamala Goma Srijana Bhawana Pramila Saraswati Laxmi Ganga Radha Radhika Krishna Bishnu Sarita Kalpana 
-			Shanti Aayusha Ramita Gita Sita Sangita Mira Ranjita Ranju Manju Punam Maili Kaili Saili Jamuna Shova Pratiksha 
-			Sanjila Anita Nilam Nira Urmila Kopila Pavitra Iswari Khusbhu Rina Junu Tika Kali Rasmi Rupa Puja Aarati 
-			Mankumari Dhankumari Bechani Mangita Uru Lalita Rekha Prabha Shushila Laila Renu Muna Amrita Seti Gauri 
-			Kaushilya Rama Madhu Madhurima Renuka Chandrakala Fulkumari Indrakala Sabitri Archana Kamana Puspa Putali 
-			Suntali Dipa Ambika Dipshika Sabita Suravi Ramabati Mainabati Kabita Champa Kusum Rampyari
-		}
-	}
-	lhomon = {
+		primary = KMT
 		dynasty_names = {
 			"Malla" "Ghorka" Limbu
 		}
@@ -324,6 +310,7 @@ eastern_aryan = {
 		}
 	}
 	lepcha = {
+		primary = BHU
 		dynasty_names = {
 			"Malla" "Ghorka" Limbu
 		}
@@ -343,6 +330,7 @@ eastern_aryan = {
 		}
 	}
 	limbu = {
+		primary = LWA
 		dynasty_names = {
 			"Malla" "Ghorka" Limbu
 		}
@@ -362,6 +350,7 @@ eastern_aryan = {
 		}
 	}
 	kirati = {
+		primary = LWA
 		dynasty_names = {
 			"Malla" "Ghorka" Limbu
 		}
@@ -381,6 +370,7 @@ eastern_aryan = {
 		}
 	}
 	mishmi = {
+		primary = PHA
 		dynasty_names = {
 			"Malla" "Ghorka" Limbu
 		}
@@ -400,6 +390,7 @@ eastern_aryan = {
 		}
 	}
 	kumaoni = {
+		primary = KMN
 		dynasty_names = {
 			"Malla" "Ghorka" Limbu
 		}
@@ -419,6 +410,7 @@ eastern_aryan = {
 		}
 	}
 	khas = {
+		primary = DNG
 		dynasty_names = {
 			"Malla" "Ghorka" Limbu
 		}
@@ -438,6 +430,7 @@ eastern_aryan = {
 		}
 	}
 	tamang = {
+		primary = SKK
 		dynasty_names = {
 			"Malla" "Ghorka" Limbu
 		}
