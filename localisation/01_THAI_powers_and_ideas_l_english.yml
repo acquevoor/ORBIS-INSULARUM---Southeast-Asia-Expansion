@@ -1,0 +1,114 @@
+﻿l_english:
+SUP_ideas:0 "Suphannaphum Ideas"
+SUP_ideas_desc:0 "Suphannabhum was a Siamese city-state, that emerged in the early "Siam proper" which stretched from present-day west central Thailand to the north of the Kra Isthmus.Via Royal intermarriage, Suphannabhum united with the eastern neighboring Lavo Kingdom, to establish a confederated polity seat in Ayodhya in 1351. Suphannabhum gained recognition in the mid-13th century when the state leaders named ‘Khun Laung Pao Ngouy’ (later Ayutthaya's Borommarachathirat I) and ‘Jao Nakhon In’ (later Ayutthaya's Intharacha) extended their political economy influence and eventually ruled Ayutthaya."
+
+SUP_ideas_start:0 "Victor of Ayutthaya Contention."
+SUP_ideas_bonus:0 "Mantle of Angkor."
+
+SUP_frontier_of_uthong:0 "Frontier of Uthong."
+SUP_frontier_of_uthong_desc:0 "Originally established by settler from Dvaravati(Nakhon Pathom), the city eventually became frontier as the ruling Suphannaphum clan formed Confederacy with Kingdom of Lavo."
+
+SUP_gateway_of_chao_phraya:0 "Gateway of Chao Phraya."
+SUP_gateway_of_chao_phraya_desc:0 "Among the Four Major Cities of Menam Valley, Suphanburi was the one who controlled the economy of all Tha Chin Rivers. It power grew so vast that it overpowered other cities such as Samphukapatthana, Ratburi, and Phetburi until Suphanburi itself was annexed by Sukhotai Kingdom."
+
+SUP_phya_gong_temple_building:0 "Phaya Phan's Temple."
+SUP_phya_gong_temple_building_desc:0 "Phra Pathom Chedi, the Grand Stupa, was built by Phaya Phan using a very big gong and his bed as a foundation after The Arhant recommendation to atone for the sin of patricide and matricide. It was said that it is of great height that even a bird can not fly higher"
+
+SUP_mahout_mastery:0 "Mahout Mastery."
+SUP_mahout_mastery_desc:0 "."
+
+SUP_fertile_land:0 "Fertile Land."
+SUP_fertile_land_desc:0 "."
+
+SUP_tie_with_sukhotai:0 "Ties with Sukhotai."
+SUP_tie_with_sukhotai_desc:0 "."
+
+SUP_leader_of_ayutthaya:0 "Leader of Ayutthaya."
+SUP_leader_of_ayutthaya_desc:0 "Despite Suphan's submission toward Phra Ruang and Uthong lineage, they will eventually rise in power and establish the Kingdom of Ayutthaya that will last until it's fall at the hand of Toungoo."
+
+#Uthong
+ 
+UTH_ideas:0 "Uthong Ideas"
+UTH_ideas_desc:0 "Ayutthaya was officially founded in 1351 by King U Thong, who went there to escape a smallpox outbreak in Lopburi and proclaimed it the capital of his kingdom, often referred to as the Ayutthaya Kingdom or Siam."
+
+UTH_ideas_start:0 "Uthong Architectures."
+UTH_ideas_bonus:0 "Ayutthaya, Undefeated."
+
+UTH_ascendent_of_uthong:0 "Ascendency of Uthong."
+UTH_ascendent_of_uthong_desc:0 "."
+
+UTH_glistering_cradle:0 "Glistering Cradle."
+UTH_glistering_cradle_desc:0 "."
+
+UTH_specialized_canalwork:0 "Specialized Canalwork."
+UTH_specialized_canalwork_desc:0 "."
+
+UTH_land_of_siam:0 "Land of Siam."
+UTH_land_of_siam_desc:0 "."
+
+UTH_emerging_mandala:0 "Emerging Mandala."
+UTH_emerging_mandala_desc:0 "."
+
+UTH_rivalry_with_angkor:0 "Rivalry with Angkor."
+UTH_rivalry_with_angkor_desc:0 "."
+
+UTH_founder_of_ayutthaya:0 "Founder of Ayutthaya."
+UTH_founder_of_ayutthaya_desc:0 "."
+
+#Lavo
+
+LAV_ideas:0 "Lavo Ideas"
+LAV_ideas_desc:0 "The Lavo Kingdom was a political entity (mandala) on the left bank of the Chao Phraya River in the Upper Chao Phraya valley from the end of Dvaravati civilization, in the 7th century, until 1388. The original center of Lavo was Lavapura and was shifted to Ayodhya (Xiān) in the 1080s."
+
+LAV_ideas_start:0 "Lavo's Literacy Program."
+LAV_ideas_bonus:0 "Legion of Ayutthaya."
+
+LAV_son_of_rama:0 "Son of Rama."
+LAV_son_of_rama_desc:0 "."
+
+LAV_khmer_spire:0 "Khmer-influenced Architectures."
+LAV_khmer_spire_desc:0 "."
+
+LAV_mon_lawa_synthesis:0 "Mon-Lawa Synthesis."
+LAV_mon_lawa_synthesis_desc:0 "."
+
+LAV_heart_of_chao_phraya:0 "Beating Heart of Chao Phraya."
+LAV_heart_of_chao_phraya_desc:0 "."
+
+LAV_tie_with_angkor:0 "Ties with Angkor."
+LAV_tie_with_angkor_desc:0 "."
+
+LAV_father_to_uthong:0 "Father to Uthong."
+LAV_father_to_uthong_desc:0 "."
+
+LAV_citadel_of_chao_phraya:0 "Citadel of Chao Phraya."
+LAV_citadel_of_chao_phraya_desc:0 "."
+
+#Khon Muang
+
+NTH_ideas:0 "Khon Muang Ideas"
+NTH_ideas_desc:0 "."
+
+NTH_ideas_start:0 "Yonok's Prosperity."
+NTH_ideas_bonus:0 "Muang Building."
+
+NTH_scion_of_yonok:0 "Scion of Yonok."
+NTH_scion_of_yonok_desc:0 "."
+
+NTH_valley_of_terrace:0 "Valley of Terraces."
+NTH_valley_of_terrace_desc:0 "."
+
+NTH_satsana_phi:0 "Satsana Phi."
+NTH_satsana_phi_desc:0 "."
+
+NTH_temple_building:0 "Temple-Building."
+NTH_temple_building_desc:0 "."
+
+NTH_ivory_and_teak:0 "Ivory and Teak."
+NTH_ivory_and_teak_desc:0 "."
+
+NTH_elephant_charge:0 "Elephant Charge."
+NTH_elephant_charge_desc:0 "."
+
+NTH_water_oath:0 "Water-Oath."
+NTH_water_oath_desc:0 "."
