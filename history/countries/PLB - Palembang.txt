@@ -5,7 +5,7 @@ religion = hinduism
 technology_group = chinese
 capital = 622# Palembang
 religious_school = shafii_school
-secondary_religion = buddhism
+secondary_religion = therevada
 
 historical_friend = MNG
 historical_friend = PSA
@@ -26,88 +26,160 @@ historical_friend = MAJ
 		dip = 3
 		mil = 3
 		culture = wu
+		religion = sunni
 	}
 }
-1550.1.1 = { 
-	monarch = { 
-		name = "Tsalenggathu"# Fictional
-		dynasty = "Palembang"
-		adm = 2
-		dip = 3
-		mil = 2
-	}
-}
-1580.1.1 = { 
-	monarch = { 
-		name = "Tsau-Lha"# Fictional
-		dynasty = "Palembang"
-		adm = 2
-		dip = 2
-		mil = 3
-	}
-}
-1610.1.1 = { 
-	monarch = { 
-		name = "Mengtsekya"# Fictional
-		dynasty = "Palembang"
-		adm = 3
-		dip = 2
-		mil = 2
-	}
-}
-1640.1.1 = { 
-	monarch = { 
-		name = "Menradza"# Fictional
-		dynasty = "Palembang"
-		adm = 3
-		dip = 2
-		mil = 2
-	}
-}
-1670.1.1 = { 
+1535.1.1 = {
 	religion = sunni
 	monarch = { 
-		name = "Inayat"# Fictional
+		name = "Ki Gede Ing Suro Tuo"
+		dynasty = "Palembang"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1572.1.1 = { 
+	monarch = { 
+		name = "Ki Gede Ing Suro Ilir"
+		dynasty = "Palembang"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+1589.1.1 = { 
+	monarch = { 
+		name = "Pangeran Kemas Depati"
 		dynasty = "Palembang"
 		adm = 3
 		dip = 2
-		mil = 2
+		mil = 3
 	}
 }
-1700.1.1 = { 
+1594.1.1 = { 
 	monarch = { 
-		name = "Gadzabadi"# Fictional
+		name = "Pangeran Madi Angsoka"
+		dynasty = "Palembang"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+1627.1.1 = { 
+	monarch = { 
+		name = "Pangeran Madi Alit"
 		dynasty = "Palembang"
 		adm = 2
 		dip = 2
 		mil = 3
 	}
 }
-1730.1.1 = { 
+1629.1.1 = { 
 	monarch = { 
-		name = "Amritpal"# Fictional
+		name = "Pangeran Side Ing Puro"
 		dynasty = "Palembang"
-		adm = 2
+		adm = 3
 		dip = 3
-		mil = 2
-		female = yes
+		mil = 4
 	}
 }
-1760.1.1 = { 
+1636.1.1 = { 
 	monarch = { 
-		name = "Mengtsekya"# Fictional
-		dynasty = "Palembang"
-		adm = 2
-		dip = 3
-		mil = 2
-	}
-}
-1790.1.1 = { 
-	monarch = { 
-		name = "Husayn"# Fictional
+		name = "Pangeran Side Ing Kenayan"
 		dynasty = "Palembang"
 		adm = 3
 		dip = 2
+		mil = 2
+	}
+}
+1652.1.1 = { 
+	monarch = { 
+		name = "Pangeran Side Ing Pesariyan"
+		dynasty = "Palembang"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1653.1.1 = { 
+	monarch = { 
+		name = "Pangeran Side Ing Rajek"
+		dynasty = "Palembang"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+1659.1.1 = { 
+	monarch = { 
+		name = "Ki Mas Hindi"
+		dynasty = "Palembang"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1706.1.1 = { 
+	monarch = { 
+		name = "Sultan Mahmud Mansyur Jayo Ing Lago"
+		dynasty = "Palembang"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+1714.1.1 = { 
+	monarch = { 
+		name = "Sultan Agung Komaruddin Sri Truno"
+		dynasty = "Palembang"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+1724.1.1 = { 
+	monarch = { 
+		name = "Sultan Mahmud Badaruddin I Jayo Wikramo"
+		dynasty = "Palembang"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1758.1.1 = { 
+	monarch = { 
+		name = "Sultan Najamuddin I"
+		dynasty = "Palembang"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1776.1.1 = { 
+	monarch = { 
+		name = "Sultan Muhammad Bahauddin"
+		dynasty = "Palembang"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1803.1.1 = { 
+	monarch = { 
+		name = "Sultan Mahmud Badaruddin II"
+		dynasty = "Palembang"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+1821.1.1 = { 
+	monarch = { 
+		name = "Sultan Ahmad Najamuddin III"
+		dynasty = "Palembang"
+		adm = 3
+		dip = 3
 		mil = 2
 	}
 }
