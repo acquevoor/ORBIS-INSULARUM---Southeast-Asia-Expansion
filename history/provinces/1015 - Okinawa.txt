@@ -10,7 +10,7 @@ base_manpower = 1
 
 trade_goods = chinaware
 
-culture = kyushuan
+culture = ryukyu
 religion = animism
 capital = "Shuri"
 
