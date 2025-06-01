@@ -1333,7 +1333,7 @@ cham = {
 			"Ko cheng" "Jaya Sinhavarman" "Maija Vijaya" "Moho Kouei-Lai" "Maha Kui Yu" "Maha P'an-lo-yue" "Po Saktirai" "Po Ganvuh" "Po Thuttirai" "Po Rattirai" "Po Tathun" "Po Tithuntirai" "Chei Krei Brei" "Po Tithun" "Po Lathun" "Po Chong Chan" "Che Anan" "Tra Hoa" "Che Bong Nga" "Ko Cheng" "Jaya Indravarman"
 			Agam Antana Ariga Banta Bentara	Gadee Galang Gapi Lhem Madi Meurah Nanta Rhangkem Tandi Teuku Yusniar	
 			"Akes" "Bacha" "Binasuor" "Biyeng" "Brahmanra" "Cahya" "Dharma" "Dijuq" "Gama" "Gelang" "Habo" "Inra" "Inrasara" "Jamlen" "Jihia" 
-			"Katip" "Kok" "Komary" "Kurama" "Langgiri" "Le" "Ling" "Loh" "Mach" "Math" "Musa" "Ni" "Punyamin" "Raden" "Ramut" "Salan" "Saleh" "San" "Senapati" "Sles" "Sokha" 			"Soprey" "Sunan" "Teath" "Teri" "Tol" "Wan"  "Yashya"
+			"Katip" "Kok" "Komary" "Kurama" "Langgiri" "Le" "Ling" "Loh" "Mach" "Math" "Musa" "Ni" "Punyamin" "Raden" "Ramut" "Salan" "Saleh" "San" "Senapati" "Sles" "Sokha" 			"Soprey" "Sunan" "Teath" "Teri" "Tol" "Wan" "Yashya"
 		}
 	
 		female_names = {
@@ -2115,7 +2115,7 @@ gayo = {
 	dynasty_names = {
 		"Bukit"	"Gunung"	"Along"	"Daksa"	"Kersen"	"Narotama"	"Narotama"	"Kob"	"Uning"	"Jongok"	"Apul"	"Dato"	"Khoen"	"Nik"	"Has"	"Msas"			"Lot"	"Kala"	"Arok"	"Debata"	"Lemboe"	"Pak"	"Porome" "Paing"	"Reje Guru"	"Ariga"	"Atok"	"Duman"	"Mah"	"Suluang"	"Amadh"	"Math"			"Cibero"	"Awang"	"Entji"	"Maraja"	"Taha"	"Amath"	"Sabo"	"Munte"	"Badan"	"Eyo"	"Marturak"	"Teungku"	"Amu"	"Sen"	"Melala" "Bahadur" 			"Hiawang"	"Mat"	"Tilo"	"Nos"	"Chao"	"Tebe"	"Bahari"	"Hulanapo"	"Matulesia"	"Triago"	"Sith"	"Sumat"	"Linge"	"Balihung"
 		"Janggam"	"Meor"	"Tun"	"Sman"	"Poong"	"Gading"	"Bambong" "Jarot"	"Nanggroe"	"Gan"	"Sem"	"Hroi"	"Par"	"Kramula"	"Ksor"				"Dahari"	"Jasni"	"Kosem"	"Puih"	"Ku"	"Bangko"	"Desky"	"Pale Dese"	"Keruas"	"Pegan"	"Selian"	"Acih"	"Beruh"	"Datubara"	"Gale"
-		"Kekaro" "Mahe"  "Menalu" "Mencawan" "Munthe"	"Pelis"	"Pinim"	"Ramin"	"Ramud"	"Sekedang"	"Sepayung"	"Sebayang"	"Bencawan"	"Pinem"	"Caniago"			"Barat"	"Buluara"	"Gurinci"	"Kembang"	"Palis"	"Peranik"	"Pokan"	"Gunung"	"Jongok"
+		"Kekaro" "Mahe" "Menalu" "Mencawan" "Munthe"	"Pelis"	"Pinim"	"Ramin"	"Ramud"	"Sekedang"	"Sepayung"	"Sebayang"	"Bencawan"	"Pinem"	"Caniago"			"Barat"	"Buluara"	"Gurinci"	"Kembang"	"Palis"	"Peranik"	"Pokan"	"Gunung"	"Jongok"
 		"Bangko"	"Cibro"	"Desky"	"Keling"	"PaleDese"	"Keruas"	"Pegan"	"Selian"	"Acih"	"Beruh"	"Datubara"	"Gale"	"Kekaro"	"Mahe"			"Menalu"	"Mencawan"	"Munthe"	"Sinaga"	"Pase"	"Pelis"	"Pinim"	"Ramin"	"Ramud"	"Sambo"	"Sekedang"	"Sugihen"	"Sepayung"				"Sebayang"	"Tarigan"	"Bencawan"	"Pinem"	"Caniago"	"Bako"	"Barat"	"Buluara"	"Gurinci"	"Kembang"	"Kombih"	"Limbong"			"Palis"	"Peranik"	"Pokan"	"Saraan"	"Siketang"	"Goci"	"Malau"
 	}
 	male_names = {
@@ -2128,7 +2128,7 @@ gayo = {
 		Lukman Lutfi Mustofa Raihan Rahman Rahim Rahmat Taufik Syarif Wahid Zulkarnain
 		Agam Antana Ariga Banta Bentara	Gadee Galang Gapi Lhem Madi Meurah Nanta Rhangkem Tandi Teuku Yusniar	
 		"Akes" "Bacha" "Binasuor" "Biyeng" "Brahmanra" "Cahya" "Dharma" "Dijuq" "Gama" "Gelang" "Habo" "Inra" "Inrasara" "Jamlen" "Jihia" "Katip" "Kok" "Komary" "Kurama" "Langgiri" 
-		"Le" "Ling" "Loh" "Mach" "Math" "Musa" "Ni" "Punyamin" "Raden" "Ramut" "Salan" "Saleh" "San" "Senapati" "Sles" "Sokha" "Soprey" "Sunan" "Teath" "Teri" "Tol" "Wan"  "Yashya"
+		"Le" "Ling" "Loh" "Mach" "Math" "Musa" "Ni" "Punyamin" "Raden" "Ramut" "Salan" "Saleh" "San" "Senapati" "Sles" "Sokha" "Soprey" "Sunan" "Teath" "Teri" "Tol" "Wan" "Yashya"
 	}
 
 	female_names = {
@@ -4214,7 +4214,7 @@ acehnese = {
 			Lukman Lutfi Mustofa Raihan Rahman Rahim Rahmat Taufik Syarif Wahid Zulkarnain
 			Agam Antana Ariga Banta Bentara	Gadee Galang Gapi Lhem Madi Meurah Nanta Rhangkem Tandi Teuku Yusniar	
 			"Akes" "Bacha" "Binasuor" "Biyeng" "Brahmanra" "Cahya" "Dharma" "Dijuq" "Gama" "Gelang" "Habo" "Inra" "Inrasara" "Jamlen" "Jihia" 
-			"Katip" "Kok" "Komary" "Kurama" "Langgiri" "Le" "Ling" "Loh" "Mach" "Math" "Musa" "Ni" "Punyamin" "Raden" "Ramut" "Salan" "Saleh" "San" "Senapati" "Sles" "Sokha" 			"Soprey" "Sunan" "Teath" "Teri" "Tol" "Wan"  "Yashya"
+			"Katip" "Kok" "Komary" "Kurama" "Langgiri" "Le" "Ling" "Loh" "Mach" "Math" "Musa" "Ni" "Punyamin" "Raden" "Ramut" "Salan" "Saleh" "San" "Senapati" "Sles" "Sokha" 			"Soprey" "Sunan" "Teath" "Teri" "Tol" "Wan" "Yashya"
 		}
 	
 		female_names = {
