@@ -43,11 +43,7 @@ monarch_names = {
 }
 
 leader_names = { 
-	Ampong Binti Labih Rumbun Sipet Purok Mamut Menteng Hanjak Nanjan Djata Lawai Jau Keling Ngau Lisu Ullok Apoi Wan Dehen
-	Djatta Ekot Hanyi Labih Mantikei Mantir Simpei Segah Saloh Selong Teras Simbun Saduri Sangkurun Salundik Taladjan During
-	Suli Tumon Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja
-	Sulin Usun Ubong Long Puynag Bulan Asie Ambon Bungas Bungeh Bawin Enon Jenta Hawon Harum Hanyam Kalawa Kambang Lamiang
-	Manyang Mantoh Rimbun Nyelong Paris Pumpong Rimpong Siwoh Sindai Simpon Sarita Sallie Sullie Timpong Tindoh
+	Ampong Binti Labih Rumbun Sipet Purok Mamut Menteng Hanjak Nanjan Djata Lawai Jau Keling Ngau Lisu Ullok Apoi Wan Dehen Djatta Ekot Hanyi Labih Mantikei Mantir Simpei Segah Saloh Selong Teras Simbun Saduri Sangkurun Salundik Taladjan During Suli Tumon Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja
 }
 
 ship_names = {
