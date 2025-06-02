@@ -1,0 +1,66 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+special_unit_culture = south_east_asian_special
+
+color = { 140  210  160 }
+revolutionary_colors = { 15 8 15 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Razadarit #1" = 20
+	"Binnya Dhammaraza #1" = 20
+	"Binnya Ran #1" = 20
+	"Binnya Waru #0" = 20
+	"Binnya Kyan #0" = 20
+	"Leik Mawdaw #0" = 20
+	"Mawdaw #0" = 20
+	"Dhammazedi #0" = 20
+	"Takayutpi #0" = 10
+	"Smim Sawhtut #0" = 20
+	"Smim Htaw #0" = 20
+	"Binnya Dala #0" = 10
+	
+	"Mya #0" = -1
+	"Yaza Dewi #0" = -1
+	"Mi Pakahtaw #0" = -1
+	"Shin Sawbu #0" = -20
+	"Soe Min Wimala #0" = -1
+}
+
+leader_names = {
+	Adara Adika Adityaudaya Adityavong Amaridhivong Anandasurya Anandayos Angula Anurudha Anuyama Araka Areindama Arunodaya Asah Athayi Attatha Athinkha Bala Barao Bawlawkyantaw Bhanunanda Bhanusena Brahmaditya Brahmasena Brahmasudeva Brahmasurindra Brahmavong Brahmatarayos Brahmadatta Budhisena Budhivongsa Bwe Chandajoti Chandariddhi Chandrabhanu Chandrarangsi Chandrasena Chandrasurya Chandravimala Chandravong Chandrayos Chilanka Chitrasena Chulera Dala Devanimitra Devavong Devaphnom Dhammacetiya Dhammasena Dhammasoka Dhammavong Dipa E-Kan-Kaung E-Law Einkura Ekkathamanda Ekkavara Gada Gadu Gajasena Geinda Geissadiya Guptahari Hanimitra Indrabhanu Indrariddha Indrasena Indravara Indravong Indrayos Inta Jayabhanu Jayaditya Jayaindra Jayala Jayananda Jayariddhi Jayarama Jayasena Jayasura Jayasurya Javavong Jeng Kakabatra Kalavarnadish Kamesvara Karawika Kassaratha Kassapa Kassavarna Katae Kesariddhi Kirivarna Kirivong Kulanaba Kusadeva Kyan Laik-Gi Laukpya Leik-Munhtaw Maghabhara Mahadhammaparadha Mahandaditya Mahandayos Maha-Seitta Mahathala Mahathamun Mahesvara Mahindraditya Mahintha Mangaladitya Manuha Migadeippa Muksa Nandariddhi Nandasurindra Nandasena Nandavong Nandula Narapati Narathu Narayana Narendraditya Nwe Padumaraksa Padumasuvarna Padumavong Padumasuryavong Paramesvara Phnomsirijaya Phunthula Pontarika Prarabha Pyinzala Ram Ramariddhi Ramasurindra Ramasurya Ramavong Ran-De Ran-Parakut Rathasena Razadarit Riddhivong Rudantra Saduka Sakradam Samala Sanisara Sawhtut Sela Siha-Sudhamma Sihakumara Sihapati Sirivadhana Sirivong Sribhanu Srichula Srijayanada Sriganaratna Srijayavarnadeva Srinanda Srisurindra Subhandara Surendraditya Sudeva Sudhana Sudhari Sudhivong Suganda Sujanbati Sumana Suranta Surabhanu Suramesvara Surariddhi Suranarayana Suravijaya Surindra Surindraraksa Surindravijaya Surendravong Suryadeva Suryajaya Suryakumara Suryanarayana Suryapati Suryaraksa Suryavong Suryendra Suvarnasena Suvarnavong Takayutpi Talaban Thawama Thawdam Thawma Thawreah Tissa Titha Udinna Ukkalapa Upadeva Upala Upasena Urunnata Uttama Uttara Varasena Vasudeva Vijayananda Vimala Viravong Vongsasura Wareru Yotta Yiba Zambudipa Zawta
+}
+
+ship_names = {
+	Ceylon 
+	"Khu Bua"
+	Lavo
+	Ramanadesa Rajadhirat
+	Menam
+	"Nakhon Pathom"
+	Pegu
+	Suwannaphum
+	"U Thong"
+}

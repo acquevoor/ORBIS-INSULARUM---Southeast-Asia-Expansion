@@ -1,0 +1,96 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+special_unit_culture = south_east_asian_special
+
+color = { 98  138  99 }
+
+revolutionary_colors = { 8 9 5 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+	administrative_ideas
+	spy_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Thadominbya #0" = 30
+	"Nga Nu #0" = 30
+	"Swasawke #0" = 30
+	"Tarabya #0" = 30
+	"Nga Nauk Hsan #0" = 30
+	"Minkhaung #1" = 40
+	"Thihathu #0" = 30
+	"Minhlange #0" = 30
+	"Kale Kyetaungnyo #0" = 30
+	"Minyekyawswa #0" = 30
+	"Narapati #0" = 100
+	"Thihathura #0" = 30
+	"Shwenankyawshin #0" = 30
+	"Thohanbwa #0" = 30
+	"Hkonmaing #0" = 30
+	"Mobye Narapati #0" = 30
+	"Sao Sit Pan Tu #0" = 10
+	"Sao Ai Awn #0" = 10
+	"Ai Wu Hsa #0" = 10
+	"Yi Hkam Hka #0" = 10
+	"Sao Hsam #0" = 10
+	"Sao Kham Mu #0" = 10
+	"Hpaya Kiao #0" = 10
+	"Sao Mong Hka #0" = 10
+	"Sao Hkam Tao #0" = 10
+	"Sao Mong Hkak #0" = 10
+	"Sao On #0" = 10
+	"Sao In Hkam #0" = 10
+	"Sao Awk #0" = 10
+	"Sao Mong Saik #0" = 10
+	"Sao Hsam Hpi #0" = 10
+	"Maung Nyo #0" = 10
+	"Sao Mong Sin #0" = 10
+	"Sao Mong Hsam #0" = 10
+	"Sao Kawng Tai #0" = 10
+	"Sao Maha Hkanan #0" = 10
+	
+	"Thou Umma #0" = -1
+	"Thin Bohme #0" = -1
+	"Soe Min #0" = -1
+	"Beza #0" = -1
+	"Pale #0" = -1
+	"Pye Chantha #0" = -1
+	"Teza #0" = -1
+	"Omma #0" = -1
+	"Taw Oo #0" = -1
+	"Gyi #0" = -1
+	"Khway #0" = -1
+	"Pyan #0" = -1
+	"Myat #0" = -1
+	"Htut #0" = -1
+	"Mi-Nauk #0" = -1
+	"Bo-Me #0" = -1
+
+}
+
+leader_names = {
+	Akhamaman Alaungpaya Aleimma Anandathu Anandathura Ananda-Pyissi Ananda-Thuriya Ananthiri Anaukpetlun Anawrahta Athinkaya Atwinwun Awrat Badon Bandula Bagyidaw Baya-Gamani Bayinnaung Deippa Dewa-Wuntha Dhamma-Wuntha Dyawdin Eka-Thura Gazapati Gazathura Gingathu Gingathura Hmauk Htihlaing Htilominlo Hsinbyushin Kalamandat Kalapangha Kanaung Kathapa Khamaung Khaung Khelu Khittathin Kunhsaw Kyansittha Kyaswa Kyawswa Kyawhtin Kyiso Kyit Kywe Maheindra Nadaungmya Nagathuriya Nandabala Nandameit Nandapakyan Nandapati Nandathingyan Nandathu Nandathurein Nanda-Wunta Nanda-Yawda Nansi Narameikhla Narapati Naratheinga Narathihapate Narathu Narathinkhaya Narathuriya Narapawara Narathiha Narawara Narazeya Nareinda Natshinnaung Naungdawgyi Nawrahta Nyaungyan Nyo Okkasara Ottamarit Padethayaza Pazzawta Phalaung Phaungga Pindale Pyanchi Pyit Pyusawhti Salingathu Sanda-Thudhamma Sanda-Thuriya Sanda-Wimala Sanda-Wizaya Sanay Saw-Lu Saw-Yun Sekkya Sawrahan Shwetaungtet Sithabin Sithu Sithu-Kyawhtin Sithu-Nawrahta Sokkate Swa Swasawke Tabinshwehti Taik Tannet Taninganway Tarabya Thalun Tha-Sit Thamoddarit Thanabin Thaungnyo Thazata Thinkhaya Thiha-Kyawthu Thiha-Kyawhtin Thihanu Thihapati Thihathu Thihathura Thila-Wuntha Thirikyawhtin Thirithu Thiri-Thurein Thila-Ginga Thilwa Thinga-Datha Thiwarit Theiddat Theingaba Theinga-Wuntha Theinkhathu Theinhko Thudathta Thudana Thura-Wuntha Thuriyapati Thuriya-Wuntha Theinga Theingapati Thukha-Wuntha Uggabala Upasanda Uzana Waradamas Warathiha Warathura Wathudewa Wimala Wiya-Nanda Wizayananda Yanda-Pyissi Yahawlaw Yathekyaung Yazataman Yazathingyan Yazathu Yazathura Yandathu Ye-Htut Zetayit Zeya-Kyawhtin Zeya-Nanda Zeyasanda Zeyathiri Zeyathu Zeyathura Zeyatheinhka Yonna Zeyathuriya Zeya-Wuntha Alangka Ananda Arkar Aung Aung-Kyaw Aung-Lin Aung-Win Aung-Zeya Baing-Zat Bhein Gyi Hein Hlaing Hnin Hpon Hsan Htin Htwe Htun Htut Kaung Kaung-Win Kauk Khant Khin Kyaw Kyaw-Lin Kyaw-Sein Lauk Lon-Letpe Lin Lwin Maung Moe Myat Myat-Ne Myat-Shwe Myint Myo Naing Nanda Nin Nyan Nyunt Okkar Ottama Pauk-Taw Paw Pe-Khin Pha Phyo Phyu Pyauk Sein Soe Swe Thaik Thang Thiha Thila Thamein Thant Thant-Kyaw Thaun Thu Thukha Thura Thuta Thurein Thuriya Arun Thwin Ukka Waing Wizaya Win Wiya Wunna Wuntha Yaung Yit Ywa Zani Zaw Zeya Zeya-Win Acharya Akra Amara Anchaly Chea Atith Aunt Aye Ba Bau Bik Bona Bora Boran Borey Bourey Bunroeun Chain Chakara Chakra Chamroeun Chankrisna Chann Chanthou Chantrea Chanvatey Chao Charya Li Chhay Chhaya Chun Daivika Dara Darany Davuth Devi Heng Indazita Ja Khan Khean Khemera Khing Kiri Kong Kea Kosal Kravann Kwei Lai Leap Noreaksey Ling Makara Mang Many Mao Meaker Mimma Mint Mittapheap Montha Moo Moun Mung Munny Mynn Nandar Narin Narith Ne Nhean Nimith Nimol Nisay Rathanak Nyee Oudom Pe Phala Pheakdei Phirum Phirun Pi Pich Piseth Pisey Poeu Ponleak Ponleu Ponlok Prak Pros Puthyrith Rachana Rahan Rainsey Raksmei Rathana Sokhem Reasmey Rith Rithipol Rithisak Rithy Rothanak Saing Sakngea Samang Samay Sambath Samlain Samnang Samphy Samrin Sangha Sann Sathea Seng Shein Sie So Sokha Thom Sokhom Sokun Somnang Sonith Sopath Sophaep Sopheaktra Sopheap Sopheara Sorya Sotha Sothea Sothear Sothiya Sothy Sourkeat Sov Sovann Sovannar Sovannarith Suan Sros Thagyamin Yum Tu Vanna Vannak Veasna Veha Vibol Vichear Vichet Vireak Vireakboth Visal Viseth Visna Visoth Visothirith Vithara Vithu Ya Yi Laukkhaung-Raza Lekkhana Let-Thut-Kyi Letya Madhutha Marinda Min-Ba Min-Bun-Than Min-Hla Min-Hla-Hmwe Min-Manu Min-Nan-Phyu Min-Nge Min-Thi Min-Yin-Phyu Minkhaung Mokkha Myet-hna Nanda Nga-Sarit Nga-Sha-Po Onlin Payaka Pyaw-Hla-Si Raza Rwaylin Si-Aung Sithugyi Tataingthin Tekkathu Tha-Bin-U Thamaza Tharameta Thayet-Hmwe Thihaka Thiri-Kamma-Thunda Thola Ti Yindabaya Yu Zi Abhiyaza Jeyya Kjaw Siha Wanna Yarzar Zarni Zayar Zeyar
+		}
+
+ship_names = {
+	Salween Taunggyi Kengtong Tachileik Nam Thanlwin
+	Saluen Lui Hsim Teng Myitnge Pilu Inle Shweli
+}
