@@ -68,5 +68,5 @@ leader_names = {
 ship_names = {
 	Kutaraja Peurlak Lhokseumawe Pasai Lamuri Samudera Samandara
 	Bieureun Gayo Alas Cakradonya Malayo Galé Lancaran Pancang Meulaboh
-	Darud Dunia Pidie Daya Barus Singkil Tamiang Kluet Simeulue Peusangan Teunom.
+	Darud Dunia Pidie Daya Barus Singkil Tamiang Kluet Simeulue Peusangan Teunom
 }
