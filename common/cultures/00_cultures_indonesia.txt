@@ -423,35 +423,15 @@ rejang = {
 gayo = {
     primary = LMI
 	dynasty_names = {
-		"Bukit"	"Gunung"	"Along"	"Daksa"	"Kersen"	"Narotama"	"Narotama"	"Kob"	"Uning"	"Jongok"	"Apul"	"Dato"	"Khoen"	"Nik"	"Has"	"Msas"			"Lot"	"Kala"	"Arok"	"Debata"	"Lemboe"	"Pak"	"Porome" "Paing"	"Reje Guru"	"Ariga"	"Atok"	"Duman"	"Mah"	"Suluang"	"Amadh"	"Math"			"Cibero"	"Awang"	"Entji"	"Maraja"	"Taha"	"Amath"	"Sabo"	"Munte"	"Badan"	"Eyo"	"Marturak"	"Teungku"	"Amu"	"Sen"	"Melala" "Bahadur" 			"Hiawang"	"Mat"	"Tilo"	"Nos"	"Chao"	"Tebe"	"Bahari"	"Hulanapo"	"Matulesia"	"Triago"	"Sith"	"Sumat"	"Linge"	"Balihung"
-		"Janggam"	"Meor"	"Tun"	"Sman"	"Poong"	"Gading"	"Bambong" "Jarot"	"Nanggroe"	"Gan"	"Sem"	"Hroi"	"Par"	"Kramula"	"Ksor"				"Dahari"	"Jasni"	"Kosem"	"Puih"	"Ku"	"Bangko"	"Desky"	"Pale Dese"	"Keruas"	"Pegan"	"Selian"	"Acih"	"Beruh"	"Datubara"	"Gale"
-		"Kekaro" "Mahe" "Menalu" "Mencawan" "Munthe"	"Pelis"	"Pinim"	"Ramin"	"Ramud"	"Sekedang"	"Sepayung"	"Sebayang"	"Bencawan"	"Pinem"	"Caniago"			"Barat"	"Buluara"	"Gurinci"	"Kembang"	"Palis"	"Peranik"	"Pokan"	"Gunung"	"Jongok"
-		"Bangko"	"Cibro"	"Desky"	"Keling"	"PaleDese"	"Keruas"	"Pegan"	"Selian"	"Acih"	"Beruh"	"Datubara"	"Gale"	"Kekaro"	"Mahe"			"Menalu"	"Mencawan"	"Munthe"	"Sinaga"	"Pase"	"Pelis"	"Pinim"	"Ramin"	"Ramud"	"Sambo"	"Sekedang"	"Sugihen"	"Sepayung"				"Sebayang"	"Tarigan"	"Bencawan"	"Pinem"	"Caniago"	"Bako"	"Barat"	"Buluara"	"Gurinci"	"Kembang"	"Kombih"	"Limbong"			"Palis"	"Peranik"	"Pokan"	"Saraan"	"Siketang"	"Goci"	"Malau"
+		Bukit Gunung Along Daksa Kersen Narotama Narotama Kob Uning Jongok Apul Dato Khoen Nik Has Msas Lot Kala Arok Debata Lemboe Pak Porome Paing "Reje Guru" Ariga Atok Duman Mah Suluang Amadh Math Cibero Awang Entji Maraja Taha Amath Sabo Munte Badan Eyo Marturak Teungku Amu Sen Melala Bahadur Hiawang Mat Tilo Nos Chao Tebe Bahari Hulanapo Matulesia Triago Sith Sumat Linge Balihung Janggam Meor Tun Sman Poong Gading Bambong Jarot Nanggroe Gan Sem Hroi Par Kramula Ksor Dahari Jasni Kosem Puih Ku Bangko Desky "Pale Dese" Keruas Pegan Selian Acih Beruh Datubara Gale Kekaro Mahe Menalu Mencawan Munthe Pelis Pinim Ramin Ramud Sekedang Sepayung Sebayang Bencawan Pinem Caniago Barat Buluara Gurinci Kembang Palis Peranik Pokan Gunung Jongok Bangko Cibro Desky Keling PaleDese Keruas Pegan Selian Acih Beruh Datubara Gale Kekaro Mahe Menalu Mencawan Munthe Sinaga Pase Pelis Pinim Ramin Ramud Sambo Sekedang Sugihen Sepayung Sebayang Tarigan Bencawan Pinem Caniago Bako Barat Buluara Gurinci Kembang Kombih Limbong
 	}
 	male_names = {
-		Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
-		Shehryar Ibtisham Javaid Jafar Tahir Razzaq Yunus Suleyman Murtaza Hyder Amir Saif Zulfikar Imron Hafiz  Akbar 
-		Yakub Abdurrashid Mokhtar Hamzah Syuaib Salman Kadir Salim Rasyid Farhan Karim Fauzan Fawwaz Ghulam Sayid Imran Adil
-		Arif Azam Nadim Rizwan Ridwan Nasir Khalid Idris Zahir Nuh Soleh Munir Hamid Yusuf Ihsan Faisal Majid Rafiq Ashrof Iqbal 
-		Jamil Rizki Ridho Isa Yusuf Adam Nuh Saleh Ibrahim Ishak Zulkifli Musa Harun Daud Sulaiman Yunus Ilyas Yahya Zakaria Umar
-		Usman Tholib Malik Alif Amir Amran Aqil Anwar Aziz Faiz Fuad Gozali Hamzah Ilham Ikhwan Israfil Izroil Jauhari Kamal Khalid
-		Lukman Lutfi Mustofa Raihan Rahman Rahim Rahmat Taufik Syarif Wahid Zulkarnain
-		Agam Antana Ariga Banta Bentara	Gadee Galang Gapi Lhem Madi Meurah Nanta Rhangkem Tandi Teuku Yusniar	
-		"Akes" "Bacha" "Binasuor" "Biyeng" "Brahmanra" "Cahya" "Dharma" "Dijuq" "Gama" "Gelang" "Habo" "Inra" "Inrasara" "Jamlen" "Jihia" "Katip" "Kok" "Komary" "Kurama" "Langgiri" 
-		"Le" "Ling" "Loh" "Mach" "Math" "Musa" "Ni" "Punyamin" "Raden" "Ramut" "Salan" "Saleh" "San" "Senapati" "Sles" "Sokha" "Soprey" "Sunan" "Teath" "Teri" "Tol" "Wan" "Yashya"
-	}
-
-	female_names = {
-		Aliyah	Amira	Hafsa	Lailah	Zahira	Damia	Elina	Mariya	Mariyam	Maimunah	Rukaya	Hasnah	Umi	Zainab	Kamalia	Amirah	Thahirah Umaiyah Tazkia
-		Aisyah	Anisah	Balqis	Badriah	Afiqah	Basira	Fadilah	Farah	Ghina	Hanisah	Imanina	Irhamna	Jasmin	Lutfia	Laila	Nabila	Qairina	Qistina	Rania
-		Ulfah	Widad	Yasmin	Barirah	Dzakirah	Fathiah	Dalilah	Ezzah	Fauziah	Halimah	Layyinah	Jauharah	Khalidah	Qalbi	Madihah	Safiyyah Tasnim	Rafidah	Wafiyah
-		Wahida	Yumna	Zafirah	Abirah	Hafizah	Dania	Fatimah	Hidayah	Ikram	Jannah	Kamilah	Lina	Mardhiah	Nafisah	Qamar	Raudhah	Umaima	Yusra	Safiya
-		Wardah	Yaqutah	Zahirah	Aminah	Jamaliah	Khairunnisa	Habibah	Izzah	Jamilah	Khadijah	Rasyidah	Mariah	Na’imah	Zulaikha	Rawdah	Salma	Uzma	Zahra	Tihani
-		Asma	Bilqis	Dana	Faridah	Lutfiah	Munirah	Nabilah	Qisthi	Saadah	Thufailah	Mahirah	Nadira	Hanisa	Hamira	Salsabila	Syafirah	Nurul	Nur	Siti
-		Buleuen Ceudah Cut Dhien Jeumpa Maneh Qory Rayeuk Reuhat Seulawah Siron Teungku Uteun Wirda Inseuen Ahya Adrong	Balot Irna Itam	Kaba Indrabangsa Kisih	Blet Kaseh Dhien Bunthok	
-		Dien Maimunah Dara Gapuak Haradewi Keumalahayati Keumala Mastini Paramecvari "Sri Alam" Puteh Meuligoe Meulu Meutia Nai_Tuler Dwarawati Inong Intan Cahya
-		Bunga Blet Ayie Ahya Mirah Yuniar
-	}
+			Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad Shehryar Ibtisham Javaid Jafar Tahir Razzaq Yunus Suleyman Murtaza Hyder Amir Saif Zulfikar Imron Hafiz Akbar Yakub Abdurrashid Mokhtar Hamzah Syuaib Salman Kadir Salim Rasyid Farhan Karim Fauzan Fawwaz Ghulam Sayid Imran Adil Arif Azam Nadim Rizwan Ridwan Nasir Khalid Idris Zahir Nuh Soleh Munir Hamid Yusuf Ihsan Faisal Majid Rafiq Ashrof Iqbal Jamil Rizki Ridho Isa Yusuf Adam Nuh Saleh Ibrahim Ishak Zulkifli Musa Harun Daud Sulaiman Yunus Ilyas Yahya Zakaria Umar Usman Tholib Malik Alif Amir Amran Aqil Anwar Aziz Faiz Fuad Gozali Hamzah Ilham Ikhwan Israfil Izroil Jauhari Kamal Khalid Lukman Lutfi Mustofa Raihan Rahman Rahim Rahmat Taufik Syarif Wahid Zulkarnain Agam Antana Ariga Banta Bentara Gadee Galang Gapi Lhem Madi Meurah Nanta Rhangkem Tandi Teuku Yusniar "Akes" "Bacha" "Binasuor" "Biyeng" "Brahmanra" "Cahya" "Dharma" "Dijuq" "Gama" "Gelang" "Habo" "Inra" "Inrasara" "Jamlen" "Jihia" "Katip" "Kok" "Komary" "Kurama" "Langgiri" "Le" "Ling" "Loh" "Mach" "Math" "Musa" "Ni" "Punyamin" "Raden" "Ramut" "Salan" "Saleh" "San" "Senapati" "Sles" "Sokha" "Soprey" "Sunan" "Teath" "Teri" "Tol" "Wan" "Yashya"
+		}
+	
+		female_names = {
+			Aliyah Amira Hafsa Lailah Zahira Damia Elina Mariya Mariyam Maimunah Rukaya Hasnah Umi Zainab Kamalia Amirah Thahirah "Umaiyah Tazkia" Aisyah Anisah Balqis Badriah Afiqah Basira Fadilah Farah Ghina Hanisah Imanina Irhamna Jasmin Lutfia Laila Nabila Qairina Qistina Rania Ulfah Widad Yasmin Barirah Dzakirah Fathiah Dalilah Ezzah Fauziah Halimah Layyinah Jauharah Khalidah Qalbi Madihah Safiyyah Tasnim Rafidah Wafiyah Salma Uzma Zahra Tihani Nur Siti Kaseh Dhien Bunthok Wahida Yumna Zafirah Abirah Hafizah Dania Fatimah Hidayah Ikram Jannah Kamilah Lina Mardhiah Nafisah Qamar Raudhah Umaima Yusra Safiya Wardah Yaqutah Zahirah Aminah Jamaliah Khairunnisa Habibah Izzah Jamilah Khadijah Rasyidah Mariah Na’imah Zulaikha Rawdah Asma Bilqis Dana Faridah Lutfiah Munirah Nabilah Qisthi Saadah Thufailah Mahirah Nadira Hanisa Hamira Salsabila Syafirah Nurul Buleuen Ceudah Cut Dhien Jeumpa Maneh Qory Rayeuk Reuhat Seulawah Siron Teungku Uteun Wirda Inseuen Ahya Adrong Balot Irna Itam Kaba Indrabangsa Kisih Blet Dien Maimunah Dara Gapuak Haradewi Keumalahayati Keumala Mastini Paramecvari "Sri Alam" Puteh Meuligoe Meulu Meutia Nai Tuler Dwarawati Inong Intan Cahya Bunga Blet Ayie Ahya Mirah Yuniar
+		}
 }
 
 banten = {
@@ -701,22 +681,14 @@ minag = {
 acehnese = {
 		primary = ATJ
 		dynasty_names = {
-			Siak Aceh Pasai Pagarruyung Palembang Jambi
+			Kutaraja Peurlak Lhokseumawe Pasai Lamuri Samudera Samandara Bieureun Gayo Alas Cakradonya Malayo Galé Lancaran Pancang Meulaboh Darud Dunia Pidie Daya Barus Singkil Tamiang Kluet Simeulue Peusangan Teunom
 		}
 		male_names = {
 			Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad Shehryar Ibtisham Javaid Jafar Tahir Razzaq Yunus Suleyman Murtaza Hyder Amir Saif Zulfikar Imron Hafiz Akbar Yakub Abdurrashid Mokhtar Hamzah Syuaib Salman Kadir Salim Rasyid Farhan Karim Fauzan Fawwaz Ghulam Sayid Imran Adil Arif Azam Nadim Rizwan Ridwan Nasir Khalid Idris Zahir Nuh Soleh Munir Hamid Yusuf Ihsan Faisal Majid Rafiq Ashrof Iqbal Jamil Rizki Ridho Isa Yusuf Adam Nuh Saleh Ibrahim Ishak Zulkifli Musa Harun Daud Sulaiman Yunus Ilyas Yahya Zakaria Umar Usman Tholib Malik Alif Amir Amran Aqil Anwar Aziz Faiz Fuad Gozali Hamzah Ilham Ikhwan Israfil Izroil Jauhari Kamal Khalid Lukman Lutfi Mustofa Raihan Rahman Rahim Rahmat Taufik Syarif Wahid Zulkarnain Agam Antana Ariga Banta Bentara Gadee Galang Gapi Lhem Madi Meurah Nanta Rhangkem Tandi Teuku Yusniar "Akes" "Bacha" "Binasuor" "Biyeng" "Brahmanra" "Cahya" "Dharma" "Dijuq" "Gama" "Gelang" "Habo" "Inra" "Inrasara" "Jamlen" "Jihia" "Katip" "Kok" "Komary" "Kurama" "Langgiri" "Le" "Ling" "Loh" "Mach" "Math" "Musa" "Ni" "Punyamin" "Raden" "Ramut" "Salan" "Saleh" "San" "Senapati" "Sles" "Sokha" "Soprey" "Sunan" "Teath" "Teri" "Tol" "Wan" "Yashya"
 		}
 	
 		female_names = {
-			Aliyah	Amira	Hafsa	Lailah	Zahira	Damia	Elina	Mariya	Mariyam	Maimunah	Rukaya	Hasnah	Umi	Zainab	Kamalia	Amirah	Thahirah Umaiyah Tazkia
-			Aisyah	Anisah	Balqis	Badriah	Afiqah	Basira	Fadilah	Farah	Ghina	Hanisah	Imanina	Irhamna	Jasmin	Lutfia	Laila	Nabila	Qairina	Qistina	Rania
-			Ulfah	Widad	Yasmin	Barirah	Dzakirah	Fathiah	Dalilah	Ezzah	Fauziah	Halimah	Layyinah	Jauharah	Khalidah	Qalbi	Madihah	Safiyyah 			Tasnim	Rafidah	Wafiyah Salma	Uzma	Zahra	Tihani Nur	Siti Kaseh Dhien Bunthok
-			Wahida	Yumna	Zafirah	Abirah	Hafizah	Dania	Fatimah	Hidayah	Ikram	Jannah	Kamilah	Lina	Mardhiah	Nafisah	Qamar	Raudhah	Umaima	Yusra	Safiya
-			Wardah	Yaqutah	Zahirah	Aminah	Jamaliah	Khairunnisa	Habibah	Izzah	Jamilah	Khadijah	Rasyidah	Mariah	Na’imah	Zulaikha	Rawdah	
-			Asma	Bilqis	Dana	Faridah	Lutfiah	Munirah	Nabilah	Qisthi	Saadah	Thufailah	Mahirah	Nadira	Hanisa	Hamira	Salsabila	Syafirah	Nurul	
-			Buleuen Ceudah Cut Dhien Jeumpa Maneh Qory Rayeuk Reuhat Seulawah Siron Teungku Uteun Wirda Inseuen Ahya Adrong	Balot Irna Itam	Kaba Indrabangsa Kisih	Blet 	
-			Dien Maimunah Dara Gapuak Haradewi Keumalahayati Keumala Mastini Paramecvari "Sri Alam" Puteh Meuligoe Meulu Meutia Nai_Tuler Dwarawati Inong Intan Cahya
-			Bunga Blet Ayie Ahya Mirah Yuniar
+			Aliyah Amira Hafsa Lailah Zahira Damia Elina Mariya Mariyam Maimunah Rukaya Hasnah Umi Zainab Kamalia Amirah Thahirah "Umaiyah Tazkia" Aisyah Anisah Balqis Badriah Afiqah Basira Fadilah Farah Ghina Hanisah Imanina Irhamna Jasmin Lutfia Laila Nabila Qairina Qistina Rania Ulfah Widad Yasmin Barirah Dzakirah Fathiah Dalilah Ezzah Fauziah Halimah Layyinah Jauharah Khalidah Qalbi Madihah Safiyyah Tasnim Rafidah Wafiyah Salma Uzma Zahra Tihani Nur Siti Kaseh Dhien Bunthok Wahida Yumna Zafirah Abirah Hafizah Dania Fatimah Hidayah Ikram Jannah Kamilah Lina Mardhiah Nafisah Qamar Raudhah Umaima Yusra Safiya Wardah Yaqutah Zahirah Aminah Jamaliah Khairunnisa Habibah Izzah Jamilah Khadijah Rasyidah Mariah Na’imah Zulaikha Rawdah Asma Bilqis Dana Faridah Lutfiah Munirah Nabilah Qisthi Saadah Thufailah Mahirah Nadira Hanisa Hamira Salsabila Syafirah Nurul Buleuen Ceudah Cut Dhien Jeumpa Maneh Qory Rayeuk Reuhat Seulawah Siron Teungku Uteun Wirda Inseuen Ahya Adrong Balot Irna Itam Kaba Indrabangsa Kisih Blet Dien Maimunah Dara Gapuak Haradewi Keumalahayati Keumala Mastini Paramecvari "Sri Alam" Puteh Meuligoe Meulu Meutia Nai Tuler Dwarawati Inong Intan Cahya Bunga Blet Ayie Ahya Mirah Yuniar
 		}
 	}
 javanese = {
@@ -770,19 +742,13 @@ melanau = {
 
 madagascan = {
 		dynasty_names = {
-			Palopo Makassar Manado Poso Palu
+			Fani-Kayode Jaona Mahasampo Mokae Mukurob Rakatondrabe Rakotaorimanana Rakotobearison Rakotondrabe Rakotozafy Ramalallanarina Ramanantsoa Ramanatsoa Randriantefy Ratsimandrava Ratsiraka Ratsirika Ravaonirina Razanamasy Toyin Tsirinana Warungu Zakes
 		}
 		male_names = {
-			"Tunitangkalopi" "Batara Gowa" "Tuni Djallori" "Tuni Parisi" "Tuni Palonga" "Tuni Butta" "Tunyachoka-ri" 
-			"Karaeng Tunibatta" "Tuni Djallo" "Parabung" "Tuni Pasulu" "All h ad-D n" "Muhammad Malik" "Muhammad Sa' d" 
-			"Amir Hamza" "'Abd al-Jal l" "Shih b ad-D n Ism ' l" "Muhammad Bakr Hasan" "Hamaza Tumammalianga" "Muhammad 'Ali" "Fakhr" "Shahab" "Siraj ad-D n" "'Abd al-Khayr al-Mans r" "'Abd al-Qudus" "'Uthm n" "Muhammad Imad" 
-			"Zain" "'Im d ad-D n" "Zaynal-'Abid n" "Sankilang" "'Abd al-H d " "'Abd al-Khaliq" "Limbangparang"
+			Andriama Andriamihaja Andrianampoinaimerina Fankanonikaka Mihanta Monja Potrafanton Radama Rakohaja Rakota Rakotobe Ravetoson Vavalana Zanahary
 		}
 		female_names = {
-			Cinta Wangi Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu utea Orama Poe Pear Poehina Poenui Poerava 
-			Puaiti Puatea Puaura Ra ihau Ra imere Ra inui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua 
-			Tautiare Tehani Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere 
-			Vaimiti Vairea Vaite Vaitiare
+			Bomfomtabellilaba Lalao Lantoniaina Rabodo Ranavalona Rasoherina Rivasoa Tandra 
 		}
 	}
 melayu = {
