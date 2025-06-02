@@ -50,7 +50,7 @@ monarch_names = {
 	"Muhammad Sharafuddin #0" = 10
 	"Aliyuddin #0" = 10
 	"Shakirullah #0" = 10
-	"Paduka Batara #0" = 10
+	"Paduka Pahala #0" = 10
 	"Paduka Patulapok #0" = 10
 	"Kamaluddin #0" = 10
 }
