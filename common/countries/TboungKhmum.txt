@@ -85,7 +85,7 @@ monarch_names = {
 	"Anurutha #0" = 5
 	"Manthaturat #0" = 5
 	
-	"Ch‚u #0" = -1
+	"Ch√¢u #0" = -1
 	"Nang Keo Phimpha #0" = -1
 	"Manora #0" = -1
 	"Souphutta #0" = -1
@@ -94,40 +94,8 @@ monarch_names = {
 }
 
 leader_names = {
-	Abhay
-	Baravon
-	Boupha
-	Champassak
-	Chounlamany
-	Chounramany
-	Insisiengmay
-	Keola
-	Kommadam
-	Luangviset
-	Nosavan
-	Pathammavong
-	Phetrasy
-	Phimmasone
-	Phomvihan
-	Phouma
-	Phoumsovan
-	Rattanasamay
-	Sananikoe
-	Sasorit
-	Soukbandit
-	Souksomboun
-	Sounthone
-	Thammavongsa
-	Vathanatham
-	Vatthana
-	Vichit
-	Vongkhamkeaw
-	Vongprachan
-	Vongsak
-	Vongvicht
-	Vongsawat
-	Voravong
-}
+	Acharya Akra Amara Amarithivong Anchaly Aravindahrada Arun Atith Atichavong Barom Basath Botum Botummavong Bhuvanaditya Bona Bora Boran Boret Borey Bourey Bunna Bunrong Bunroeun Chakara Chakra Chakropong Chakravuth Chamroeun Chamroeunrit Chan Chea Chann Chanchhaya Chantol Chandarith Chanthou Chantaraingsey Chantaravuth Chantrabot Chantreavong Chantrea Charya Chattivong Chea Chenivong Chey-Chettha Chey-Serey Chey-Soryvong Cheyavong Chharath Chhay Chhaya Chhuon Chivanthirith Damkhat-Sukonthor Dara Dararith Daravong Darany Davuth Devavong Duong Duong-Chakr Em Eng Enthrearith Enthreasovan Entaravong Essaravong Hassakan Heng Jayavarthon Kambu Kanharith Kanthararakh Kantanavong Kantol Kravanh Kea Keo-Ban-On Keo-Barom Keo-Hua Keo-Mongkol Khean Khemera Kiri Kirirat Kirivong Kong Koeus Kosal Krasem Leap Makara Manith Many Mao Mareth Meaker Mearatha Mittapheap Mohavong Montha Moninarlak Monissara Monipong Monireth Monisisowath Monivong Namhong Nan Nandarith Nandavong Narasoryavong Naravong Narithipong Naron Narin Narith Neakrin Ney-Khan Ngeth Nhean Nilavong Nimith Nimol Nisay Non Nopovong Norapong Noreaksey Norindeth Nouth Norinthreavong Nupparot Oudom Outey Outeyvong Panha Phala Phandaravong Phanet Phatsowath Pheakdei Phirum Phirun Pheanureak Pheanuroth Phounara Phurissara Pich Pinnareth Piseth Pisey Poeu Pongneakraek Ponhea-An Ponhea-Chan Ponhea-Nhom Ponhea-To Ponhea-Yat Ponhea-Yor Pongsnorith Pongsavath Ponhearith Ponleak Ponleu Ponlok Polroth Prak Prasith Pros Proeung Pukombo Puthyrith Puthisen Rachana Rainsey Raksmei Ranareth Ranariddh Ranavong Rathanaksovann Rathary Rathipong Ravivong Rethnara Ritheak Ritharavong Reameavong Reamea-Chungprey Reasmey Reymoni Rumchong Rith Rithipol Rithisak Rithisen Rithy Rothmoni Rothanak Sakngea Sakhthonin Samang Samay Sambath Samlain Samnang Samphy Samrin Samoeun Samouth Sangrama Sambaur Saphal Sann Seyhak Sarangrith Sarareth Sararith Sary Sasantibhuvana Satha Sathavuth Sathea Savoeun Savuth Sdoksdom Sereyroth Sereyvatthana Sereyvong Sereyvuth Siddhikara Siharith Sirirath Sisura Sngoun Socheat Socheatvong Sokha Sokhavong Sokhem Sokhom Sokonabat Sokpheng Sokun Somnang Sonith Sopath Sophara Sopheakdei Sopheaktra Sophinvong Sopheap Sopheara Soriyotei Sor Soraneath Sorya Soryavong Sotha Sothanak Sothea Sothear Sothiya Sothivong Sothy Sourkeat Sothavarin Sothearith Sothearoth Sov Sovann Sovannamongkhol Sovannarith Sovannavong Sovath Srei-Soriyopear Srey-Sukonthor Sros Sruoch Suos Sur Suramarit Suthamoni Thavrak Tham Thommovong Thom Ton Tong Vanda Vanna Vannak Vanneth Vannsak Vathanak Vathanakvong Veasna Veha Vibol Vichear Vichet Vireak Vireakvong Vireakboth Viriyapong Visal Viseth Visna Visoth Visothirith Vithara Vithu Votha Yong Yasovarthon Youtevong Yukanthor Yutharith
+		}
 
 ship_names = {
 	Pakse Sanasomboon Bachiengchaleumsook
