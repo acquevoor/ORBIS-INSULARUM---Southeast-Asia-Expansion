@@ -40,17 +40,7 @@ monarch_names = {
 }
 
 leader_names = {
-	Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad 
-	Shehryar Ibtisham Javaid Jafar Tahir Razzaq Yunus Suleyman Murtaza Hyder Amir Saif Zulfikar Imron Hafiz Akbar 
-	Yakub Abdurrashid Mokhtar Hamzah Syuaib Salman Kadir Salim Rasyid Farhan Karim Fauzan Fawwaz Ghulam Sayid Imran Adil
-	Arif Azam Nadim Rizwan Ridwan Nasir Khalid Idris Zahir Nuh Soleh Munir Hamid Yusuf Ihsan Faisal Majid Rafiq Ashrof Iqbal 
-	Jamil Rizki Ridho Isa Yusuf Adam Nuh Saleh Ibrahim Ishak Zulkifli Musa Harun Daud Sulaiman Yunus Ilyas Yahya Zakaria Umar
-	Usman Tholib Malik Alif Amir Amran Aqil Anwar Aziz Faiz Fuad Gozali Hamzah Ilham Ikhwan Israfil Izroil Jauhari Kamal Khalid
-	Lukman Lutfi Mustofa Raihan Rahman Rahim Rahmat Taufik Syarif Wahid Zulkarnain
-	Agam Antana Ariga Banta Bentara	Gadee Galang Gapi Lhem Madi Meurah Nanta Rhangkem Tandi Teuku Yusniar	
-	"Akes" "Bacha" "Binasuor" "Biyeng" "Brahmanra" "Cahya" "Dharma" "Dijuq" "Gama" "Gelang" "Habo" "Inra" "Inrasara" "Jamlen" 
-	"Jihia" "Katip" "Kok" "Komary" "Kurama"	"Langgiri" "Le" "Ling" "Loh" "Mach" "Math" "Musa" "Ni" "Punyamin" "Raden" "Ramut" "Salan" "Saleh" "San" 
-	"Senapati" "Sles" "Sokha" "Soprey"  "Sunan" "Teath" "Teri" "Tol" "Wan" "Yashya" 
+	Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad Shehryar Ibtisham Javaid Jafar Tahir Razzaq Yunus Suleyman Murtaza Hyder Amir Saif Zulfikar Imron Hafiz Akbar Yakub Abdurrashid Mokhtar Hamzah Syuaib Salman Kadir Salim Rasyid Farhan Karim Fauzan Fawwaz Ghulam Sayid Imran Adil Arif Azam Nadim Rizwan Ridwan Nasir Khalid Idris Zahir Nuh Soleh Munir Hamid Yusuf Ihsan Faisal Majid Rafiq Ashrof Iqbal Jamil Rizki Ridho Isa Yusuf Adam Nuh Saleh Ibrahim Ishak Zulkifli Musa Harun Daud Sulaiman Yunus Ilyas Yahya Zakaria Umar Usman Tholib Malik Alif Amir Amran Aqil Anwar Aziz Faiz Fuad Gozali Hamzah Ilham Ikhwan Israfil Izroil Jauhari Kamal Khalid Lukman Lutfi Mustofa Raihan Rahman Rahim Rahmat Taufik Syarif Wahid Zulkarnain Agam Antana Ariga Banta Bentara Gadee Galang Gapi Lhem Madi Meurah Nanta Rhangkem Tandi Teuku Yusniar "Akes" "Bacha" "Binasuor" "Biyeng" "Brahmanra" "Cahya" "Dharma" "Dijuq" "Gama" "Gelang" "Habo" "Inra" "Inrasara" "Jamlen" "Jihia" "Katip" "Kok" "Komary" "Kurama" "Langgiri" "Le" "Ling" "Loh" "Mach" "Math" "Musa" "Ni" "Punyamin" "Raden" "Ramut" "Salan" "Saleh" "San" "Senapati" "Sles" "Sokha" "Soprey" "Sunan" "Teath" "Teri" "Tol" "Wan" "Yashya"
 }
 
 ship_names = {
