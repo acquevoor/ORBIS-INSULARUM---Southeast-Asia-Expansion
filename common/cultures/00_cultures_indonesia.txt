@@ -144,7 +144,6 @@ murut = {
 	female_names = {
 		Sulin Usun Ubong Long Puynag Bulan Asie Ambon Bungas Bungeh Bawin Enon Jenta Hawon Harum Hanyam Kalawa Kambang Lamiang Manyang Mantoh Rimbun Nyelong Paris Pumpong Rimpong Siwoh Sindai Simpon Sarita Sallie Sullie Timpong Tindoh Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja
 		}
-	}
 }
 dusun = {
 	primary = BEU
