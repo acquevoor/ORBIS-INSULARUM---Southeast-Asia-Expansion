@@ -10,7 +10,7 @@ base_manpower = 3
 
 trade_goods = grain
 
-culture = assamese
+culture = ahom
 religion = hinduism
 capital = "Charaideo"
 

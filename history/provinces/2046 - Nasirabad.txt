@@ -10,7 +10,7 @@ base_manpower = 2
 
 trade_goods = cotton
 
-culture = bengali
+culture = garo
 religion = hinduism
 capital = "Nasirabad"
 

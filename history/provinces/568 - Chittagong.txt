@@ -13,7 +13,7 @@ center_of_trade = 3
 trade_goods = cotton
 extra_cost = 24
 
-culture = bengali
+culture = tripuri
 religion = hinduism
 capital = "Chittagong"
 
