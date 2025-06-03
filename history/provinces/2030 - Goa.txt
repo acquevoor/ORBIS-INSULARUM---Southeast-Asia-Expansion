@@ -14,7 +14,7 @@ center_of_trade = 2
 trade_goods = spices
 extra_cost = 16
 
-culture = marathi
+culture = konkani
 religion = hinduism
 capital = "Goa"
 

@@ -13,7 +13,7 @@ base_manpower = 3
 
 trade_goods = cotton
 
-culture = kannada
+culture = tuluva
 religion = hinduism
 capital = "Dharwar"
 

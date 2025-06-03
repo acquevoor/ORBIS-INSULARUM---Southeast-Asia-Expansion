@@ -12,7 +12,7 @@ base_manpower = 1
 
 trade_goods = spices
 
-culture = marathi
+culture = konkani
 religion = hinduism
 capital = "Rajapur"
 

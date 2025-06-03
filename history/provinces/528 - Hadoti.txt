@@ -10,7 +10,7 @@ base_manpower = 1
 
 trade_goods = cotton
 
-culture = rajput
+culture = harauti
 religion = hinduism
 capital = "Kota"
 

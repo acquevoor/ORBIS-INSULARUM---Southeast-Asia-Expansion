@@ -13,7 +13,7 @@ base_manpower = 1
 
 trade_goods = spices
 
-culture = kannada
+culture = tuluva
 religion = hinduism
 capital = "Honnavara"
 

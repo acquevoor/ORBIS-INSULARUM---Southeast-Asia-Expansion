@@ -10,7 +10,7 @@ base_manpower = 1
 
 trade_goods = copper
 
-culture = rajput
+culture = ahirawati
 religion = hinduism
 capital = "Sikar"
 

@@ -13,7 +13,7 @@ base_manpower = 3
 
 trade_goods = silk
 
-culture = panjabi
+culture = haryanvi
 religion = hinduism
 capital = "Dipalpur"
 

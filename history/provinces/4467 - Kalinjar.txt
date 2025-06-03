@@ -10,7 +10,7 @@ base_manpower = 1
 
 trade_goods = gems
 
-culture = vindhyan
+culture = bagheli
 religion = hinduism
 capital = "Kalinjar"
 

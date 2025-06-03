@@ -13,7 +13,7 @@ center_of_trade = 1
 trade_goods = salt
 extra_cost = 8
 
-culture = rajput
+culture = dhundari
 religion = hinduism
 capital = "Ajmer"
 

@@ -10,7 +10,7 @@ base_manpower = 1
 
 trade_goods = wool
 
-culture = kashmiri
+culture = pamiri
 religion = shiite
 capital = "Skardu"
 
