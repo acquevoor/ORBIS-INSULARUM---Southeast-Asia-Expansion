@@ -22,8 +22,6 @@ l_english:
   
   CEB:0 "Sugbo"
 
- 
-
 # Mindanao Region
   BMA:0 "Bima"
   BMA_ADJ:0 "Bimanese"
@@ -149,7 +147,7 @@ l_english:
   SMN_ADJ:0 "Ilokano"
   SMN_desc:0 "Ilokano"
 
-  # Region BNW
+# Region BNW
   #BNW:0 "Donggala" # Uncomment this if you need it
 
 # Additional Regions
@@ -160,50 +158,10 @@ l_english:
   HOM:0 "Mayi"
   HOM_ADJ:0 "Mangyan"
 
-  TER:0 "Gapi"
-
   SKD:0 "Sukadana"
   SKD_ADJ:0 "Sukadanan"
 
-# Main Archipelago
-
-  GLU:0 "Galuh"
-  GLU_ADJ:0 "Galuhan"
-
-  PAT:0 "Langkasuka"
-  PAT_ADJ:0 "Langkasukan"
-
-  TGG:0 "Trengganu"
-  TGG_ADJ:0 "Tranung"
-
-  KEL:0 "Kalatan"
-  KEL_ADJ:0 "Klate"
-
-  MLC:0 "Melaka"
-  MLC_ADJ:0 "Melake"
-
-  MAJ:0 "Wilwatikta"
-  MAJ_ADJ:0 "Mojopait"
-
-  LIG:0 "Si Thammarat"
-  LIG_ADJ:0 "Thammarat"
-
-  KHM:0 "Kambuja"
-  KHM_ADJ:0 "Khmae"
-
-  PEG:0 "Hongsarwatoi"
-  PEG_ADJ:0 "Mon"
-
-  LXA:0 "Lan Sang Hom Khaw"
-  LXA_ADJ:0 "Lao"
-
-  MMA:0 "Mong Mao Long"
-  MMA_ADJ:0 "Mao"
-
-  BPR:0 "Pyay"
-  BPR_ADJ:0 "Pyay"
-
-#Kampuchea
+# Kampuchea
   OUD:0 "Oudong"
   OUD_ADJ:0 "Oudong"
   OUD_desc:0 "Oudong"
@@ -219,8 +177,8 @@ l_english:
   ISH:0 "Ishana"
   ISH_ADJ:0 "Ishana"
   ISH_desc:0 "Ishana"
-  
-#Mueang Thai
+ 
+# Mueang Thai
   UTH:0 "Uthong"
   UTH_ADJ:0 "Uthong"
   UTH_desc:0 "Uthong"
@@ -240,18 +198,9 @@ l_english:
   LPH:0 "Lamphun"
   LPH_ADJ:0 "Lamphun"
   LPH_desc:0 "Lamphun"
-  
-  CNM:0 "Chiang Mai"
-  CNM_ADJ:0 "Chiang Mai"
-  CNM_desc:0 "Chiang Mai"
 
   KUY:0 "Tboung Khmum"
   KUY_ADJ:0 "Kuy"
-
-  AVA:0 "Inwa"
-  AVA_ADJ:0 "Inwa"
-
-
   
   unite_ayutthaya_title:0 "Centralize Ayutthaya Confederation."
   unite_ayutthaya_desc:0 "The Basin of Chao Phraya long served as gateway of great wealth and power, while our combined might have long been stifled by intrigue and dispute, our kingdom rose above others and now wield it's full potential. It is time we proclaim the mantle and enforce our power across Suvanabhum!"
