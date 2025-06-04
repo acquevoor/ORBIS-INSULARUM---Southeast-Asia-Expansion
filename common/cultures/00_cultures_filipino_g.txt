@@ -102,6 +102,7 @@ filipino_g = {
 }
 
 	mandaya = {
+		primary = MGD
 		dynasty_names = {
 			Andal Awit Bacod Balagtas Banyaga Bayani Bondoc Bulalacao
 			Bunyi Cabuhat Cabungcal Capulong Carandang Catapang Catubig
@@ -244,6 +245,7 @@ butuanon = {
 }
 
 caragan = {
+	primary = BTU
 	dynasty_names = {
 		Manobo Datu Langilan Tagabawa
 	}
