@@ -53,6 +53,7 @@ hindusthani = {
 		}
 	}
 	bagheli = {
+		primary = BGL
 		dynasty_names = {
 			Baghela Malikzada Bundela Tomara Karkare Newalkar 
 		}
@@ -66,6 +67,7 @@ hindusthani = {
 		}
 	}
 	haryanvi = {
+		primary = SRH
 		dynasty_names = {
 			"Kohkkar" "Gakhkhar" "Phulkian" "Bhullara" "Dhaliwala" "Sandhawalia" "Ahluwalia" "Langa" 
 			"Mirrani" "Abbasi"
@@ -166,6 +168,7 @@ hindusthani = {
 		}
 	}
 	nuristani = {
+		primary = KSH
 		dynasty_names = {
 			"Shah Miri" "Sayyidi" "Mirrani"
 			#CK2
