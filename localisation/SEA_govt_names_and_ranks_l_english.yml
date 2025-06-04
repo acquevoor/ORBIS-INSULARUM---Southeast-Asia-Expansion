@@ -61,7 +61,20 @@
   PENGIRAN_RATU:0 "Pangeran Ratu"
   MAHARATU:0 "Maharatu"
 
-  PRINCE_CONSORT:0 "Prince Consort"
+  #Minang Mechanics
+ adat_minangkabau_legacy:0 "Adat Minangkabau"
+ adat_minangkabau:0 "Adat Minangkabau"
+ adat_minangkabau_desc:0 "Adat Minangkabau is a confederation of local chieftains with the most powerful of clans of the land bestowed by the matriarch to influence decisions"
+ adat_minangkabau_legacy_desc:0 "Adat Minangkabau is a confederation of local chieftains with the most powerful of clans of the land bestowed by the matriarch to influence decisions."
+ adat_minangkabau_ruler:0 "Pangulu"
+ adat_minangkabau_ruler_female:0 "Bundo Kanduang"
+
+ new_buddhist_events.1_decision: "Choose Personal Deity"
+ new_buddhist_events.1_decision_desc: "Sometimes one regrets one's choices. Why should one's choice as a young [Root.Monarch.GetTitle] of which deity to follow apply for the rest of one's life? Fortunately, our arrangements with the Shrine Maiden allow us some flexibility on the matter."
+ new_buddhist_events.1_decision_tt: "Has an §YEstate Privilege§! which allows the change of the Personal Deity"
+ hindu_events.1.t:0 "Worship of Bhagawans"
+
+ PRINCE_CONSORT:0 "Prince Consort"
   PRINCESS:0 "Princess"
   
   HEIR:0 "Heir"

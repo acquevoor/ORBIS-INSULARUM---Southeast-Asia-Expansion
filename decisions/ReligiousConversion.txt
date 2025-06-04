@@ -105,14 +105,9 @@ country_decisions = {
 	}
 	
 	malay_islam_decision = {
-		#potential = {
-			culture_group = malay
-			OR = {
-				religion_group = dharmic
-				religion_group = eastern
+		potential = {
+			exists = JMN
 			}
-			is_free_or_tributary_trigger = yes
-		}
 		
 		allow = {
 			dominant_religion = sunni

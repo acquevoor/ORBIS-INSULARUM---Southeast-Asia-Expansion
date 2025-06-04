@@ -1,11 +1,8 @@
 # Cirebon
 # 4791 Cirebon - 5/16/2025 12:37:50 PM 
  
-add_core = GLU
 add_core = CRB
-owner = GLU
-controller = GLU
-add_core = GLU
+owner = CRB
 base_tax = 5
 base_production = 5
 base_manpower = 5
@@ -27,7 +24,6 @@ discovered_by = ottoman
 	owner = CRB
 	controller = CRB
 	remove_core = GLU
-	religion = sunni
 }
 1509.1.1 = {
 	discovered_by = POR

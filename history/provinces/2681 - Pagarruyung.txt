@@ -11,7 +11,7 @@ base_manpower = 5
 trade_goods = gold
 
 culture = minag
-religion = buddhism
+religion = vajrayana
 capital = "Pagarruyung"
 
 is_city = yes

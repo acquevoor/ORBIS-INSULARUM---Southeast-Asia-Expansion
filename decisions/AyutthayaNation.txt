@@ -38,38 +38,39 @@ country_decisions = {
 		effect = {
 			change_tag = AYU
 			on_change_tag_effect = yes
-			if = {
-				limit = {
-					NOT = { government_rank = 2 }
-				}
-				set_government_rank = 2
-			}
+			set_government_rank = 2
 			custom_tooltip = ayutthaya_centralized_tooltip
+
 			hidden_effect = {
-			if = {
-				limit = {
-					exists = LAV
-				}
 				inherit = LAV
-			}
-			if = {
-				limit = {
-					exists = UTH
-				}
 				inherit = UTH
 			}
-			if = {
+			
+			vassalize = LIG
+			if {
 				limit = {
-					exists = SUP
+					KED = {is_subject_of = LIG}
 				}
-				inherit = SUP
+			create_subject = {
+    			subject_type = tributary_state
+   				subject = KED
+
 			}
-			if = {
+			if {
 				limit = {
-					exists = LIG
+					PAH = {is_subject_of = LIG}
 				}
-				inherit = LIG
+			create_subject = {
+    			subject_type = tributary_state
+				subject = PAH
 			}
+			if {
+				limit = {
+					PAT = {is_subject_of = LIG}
+				}
+			create_subject = {
+    			subject_type = tributary_state
+				subject = PAT
 			}
 			add_country_modifier = {
 				name = "centralization_modifier"

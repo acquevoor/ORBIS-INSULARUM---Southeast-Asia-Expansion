@@ -1539,6 +1539,7 @@ dharmic = {
 	buddhism = { #Theravada
 		color = { 204 76 0 }
 		icon = 24
+		personal_deity = yes
 		allowed_center_conversion = {
 			mahayana
 			vajrayana
@@ -1571,6 +1572,7 @@ dharmic = {
 	vajrayana = {
 		color = { 204 76 76 }
 		icon = 25
+		personal_deity = yes
 		allowed_conversion = {
 			mahayana
 			buddhism #Theravada
@@ -1602,6 +1604,7 @@ dharmic = {
 	mahayana = {
 		color = { 204 76 127 }
 		icon = 23
+		personal_deity = yes
 		allowed_conversion = {
 			vajrayana
 			buddhism #Theravada

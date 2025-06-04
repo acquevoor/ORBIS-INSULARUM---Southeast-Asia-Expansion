@@ -1,8 +1,8 @@
 government = monarchy
-add_government_reform = mandala_reform
+add_government_reform = adat_minangkabau
 government_rank = 1
 primary_culture = minag
-religion = buddhism
+religion = vajrayana
 secondary_religion = hinduism
 technology_group = chinese
 capital = 2682# Pariaman

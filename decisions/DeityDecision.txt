@@ -1,0 +1,18 @@
+new_buddhist_events.1_decision = {
+		potential = {
+				religion = buddhism
+				religion = vajrayana
+				religion = mahayana
+			}
+		}
+		allow = {
+			has_regency = no
+			}
+		}
+		effect = {
+				country_event = { id = new_buddhist_events.1 }
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
