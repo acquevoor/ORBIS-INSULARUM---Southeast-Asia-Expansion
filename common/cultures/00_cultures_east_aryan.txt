@@ -33,7 +33,6 @@ eastern_aryan = {
 		}
 	}
 	chutia = {
-		primary = ASS
 		dynasty_names = {
 			"Khen" "Ahom" "Nagas" "Chutiya" "Raikat" "Koch"
 			"Sutiya" "Kachari" "Barobhyan"
@@ -77,7 +76,6 @@ eastern_aryan = {
 		}
 	}
 	tani = {
-		primary = ASS
 		dynasty_names = {
 			"Khen" "Ahom" "Nagas" "Chutiya" "Raikat" "Koch"
 			"Sutiya" "Kachari" "Barobhyan"
@@ -197,7 +195,7 @@ eastern_aryan = {
 		}
 	}
 	bihari = {
-		primary = TRT
+		primary = JNP
 		dynasty_names = {
 			"Sugauna" "Sharqi" "Suri" "Oinwara"
 		}
@@ -211,6 +209,7 @@ eastern_aryan = {
 		}
 	}
 	maitlihi = {
+		primary = TRT
 		dynasty_names = {
 			"Sugauna" "Sharqi" "Suri" "Oinwara"
 		}
@@ -224,6 +223,7 @@ eastern_aryan = {
 		}
 	}
 	nagpuri = {
+		primary = NGP
 		dynasty_names = {
 			"Sugauna" "Sharqi" "Suri" "Oinwara"
 		}
@@ -283,6 +283,7 @@ eastern_aryan = {
 		}
 	}
 	pahari = {
+		primary = KGR
 		dynasty_names = {
 			Chand Parmar Prakash Katoch
 		}
@@ -342,7 +343,6 @@ eastern_aryan = {
 		}
 	}
 	lhomon = {
-		primary = KMT
 		dynasty_names = {
 			"Malla" "Ghorka" Limbu
 		}
@@ -402,7 +402,6 @@ eastern_aryan = {
 		}
 	}
 	kirati = {
-		primary = LWA
 		dynasty_names = {
 			"Malla" "Ghorka" Limbu
 		}
