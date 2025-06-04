@@ -11,7 +11,7 @@ base_manpower = 4
 trade_goods = spices
 
 culture = kedah
-religion = sunni
+religion = hinduism
 capital = "Pengang"
 
 is_city = yes

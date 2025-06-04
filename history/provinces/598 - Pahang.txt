@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = gold
 
 culture = melayu
-religion = sunni
+religion = mahayana
 capital = "Pahang"
 
 is_city = yes

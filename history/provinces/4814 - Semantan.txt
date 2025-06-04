@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = tropical_wood
 
 culture = asli
-religion = mahayana
+religion = animism
 capital = "Semantan"
 
 is_city = yes

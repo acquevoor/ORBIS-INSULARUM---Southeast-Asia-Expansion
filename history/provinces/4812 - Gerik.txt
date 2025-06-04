@@ -12,7 +12,7 @@ base_manpower = 2
 trade_goods = tropical_wood
 
 culture = asli
-religion = sunni
+religion = animism
 capital = "Gerik"
 
 is_city = yes

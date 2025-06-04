@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = cloth
 
 culture = asli
-religion = sunni
+religion = animism
 capital = "Kelantan"
 
 is_city = yes

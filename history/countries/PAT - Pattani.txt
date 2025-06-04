@@ -2,10 +2,9 @@ government = monarchy
 add_government_reform = plutocratic_reform
 government_rank = 1
 technology_group = chinese
-religion = hinduism#sunni
+religion = mahayana
 primary_culture = melayu
 capital = 594# Pattani
-fixed_capital = 594#religious_school = shafii_school
 1399.1.1 = { 
 	add_piety = -0.1
 }
@@ -20,7 +19,7 @@ fixed_capital = 594#religious_school = shafii_school
 }
 1470.1.1 = { 
 	monarch = { 
-		name = "Muzaffar Shah"# Fictional
+		name = "Muzaffar Shah"
 		dynasty = "Inland"
 		adm = 3
 		dip = 2
