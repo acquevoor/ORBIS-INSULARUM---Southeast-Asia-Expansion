@@ -28,6 +28,7 @@ tibetan_group = {
 		}
 	}
 	qiang = {
+		primary = KAM
 		dynasty_names = {
 			Se Rmu Ldong Stong Dbra Dru Nyang Sbas Gnon Chespong Thonmi Mgar Bri Mong Zhang Mchims Bal Lang Cogro Bro Dbas 
 			Shudpu Gnyags Mgus Mjang Snang Sgro Rma Snyiba Khu Khun Mkar Rlangs Rinspungs Zhingshag Phjongsrgjas Nganlam Sba Lig 
@@ -45,6 +46,7 @@ tibetan_group = {
 		}
 	}
 	bhoti = {
+		primary = LDK
 		dynasty_names = {
 			Se Rmu Ldong Stong Dbra Dru Nyang Sbas Gnon Chespong Thonmi Mgar Bri Mong Zhang Mchims Bal Lang Cogro Bro Dbas 
 			Shudpu Gnyags Mgus Mjang Snang Sgro Rma Snyiba Khu Khun Mkar Rlangs Rinspungs Zhingshag Phjongsrgjas Nganlam Sba Lig 
@@ -62,6 +64,7 @@ tibetan_group = {
 		}
 	}
 	baima = {
+		primary = CSH
 		dynasty_names = {
 			Se Rmu Ldong Stong Dbra Dru Nyang Sbas Gnon Chespong Thonmi Mgar Bri Mong Zhang Mchims Bal Lang Cogro Bro Dbas 
 			Shudpu Gnyags Mgus Mjang Snang Sgro Rma Snyiba Khu Khun Mkar Rlangs Rinspungs Zhingshag Phjongsrgjas Nganlam Sba Lig 
@@ -79,6 +82,7 @@ tibetan_group = {
 		}
 	}
 	pumi = {
+		primary = KAM
 		dynasty_names = {
 			Se Rmu Ldong Stong Dbra Dru Nyang Sbas Gnon Chespong Thonmi Mgar Bri Mong Zhang Mchims Bal Lang Cogro Bro Dbas 
 			Shudpu Gnyags Mgus Mjang Snang Sgro Rma Snyiba Khu Khun Mkar Rlangs Rinspungs Zhingshag Phjongsrgjas Nganlam Sba Lig 
@@ -96,6 +100,7 @@ tibetan_group = {
 		}
 	}
 	nakhi = {
+		primary = CDL
 		dynasty_names = {
 			Se Rmu Ldong Stong Dbra Dru Nyang Sbas Gnon Chespong Thonmi Mgar Bri Mong Zhang Mchims Bal Lang Cogro Bro Dbas 
 			Shudpu Gnyags Mgus Mjang Snang Sgro Rma Snyiba Khu Khun Mkar Rlangs Rinspungs Zhingshag Phjongsrgjas Nganlam Sba Lig 
@@ -113,6 +118,7 @@ tibetan_group = {
 		}
 	}
 	lisu = {
+		primary = CDL
 		dynasty_names = {
 			Se Rmu Ldong Stong Dbra Dru Nyang Sbas Gnon Chespong Thonmi Mgar Bri Mong Zhang Mchims Bal Lang Cogro Bro Dbas 
 			Shudpu Gnyags Mgus Mjang Snang Sgro Rma Snyiba Khu Khun Mkar Rlangs Rinspungs Zhingshag Phjongsrgjas Nganlam Sba Lig 
@@ -160,6 +166,7 @@ tibetan_group = {
 		}
 	}
 	hani = {
+		primary = MMA
 		dynasty_names = {
 			"Duan" "Gao" "Meng"
 		}
@@ -190,6 +197,7 @@ tibetan_group = {
 		}
 	}
 	tujia = {
+		primary = CHC
 		dynasty_names = {
 			"Duan" "Gao" "Meng"
 		}
@@ -204,6 +212,7 @@ tibetan_group = {
 		}
 	}
 	yao = {
+		primary = CHC
 		dynasty_names = {
 			"Fang" "Hang" "Hue" "Khang" "Kong" "Soung" "Kue" "Lo" "Lor" "Li" "Moua" "Pha" "Tang" "Thao" "Chang" "Cheng" 
 			"Chu" "Vang" "Vue" "Xiong" "Yang"
@@ -219,6 +228,7 @@ tibetan_group = {
 		}
 	}
 	she = {
+		primary = MIN
 		dynasty_names = {
 			"Fang" "Hang" "Hue" "Khang" "Kong" "Soung" "Kue" "Lo" "Lor" "Li" "Moua" "Pha" "Tang" "Thao" "Chang" "Cheng" 
 			"Chu" "Vang" "Vue" "Xiong" "Yang"
