@@ -33,6 +33,7 @@ eastern_aryan = {
 		}
 	}
 	chutia = {
+		primary = ASS
 		dynasty_names = {
 			"Khen" "Ahom" "Nagas" "Chutiya" "Raikat" "Koch"
 			"Sutiya" "Kachari" "Barobhyan"
@@ -76,6 +77,7 @@ eastern_aryan = {
 		}
 	}
 	tani = {
+		primary = ASS
 		dynasty_names = {
 			"Khen" "Ahom" "Nagas" "Chutiya" "Raikat" "Koch"
 			"Sutiya" "Kachari" "Barobhyan"
@@ -237,6 +239,7 @@ eastern_aryan = {
 		}
 	}
 	bhojpuri = {
+		primary = JNP
 		dynasty_names = {
 			"Sugauna" "Sharqi" "Suri" "Oinwara"
 		}
@@ -250,6 +253,7 @@ eastern_aryan = {
 		}
 	}
 	kashika = {
+		primary = JNP
 		dynasty_names = {
 			"Sugauna" "Sharqi" "Suri" "Oinwara"
 		}
@@ -343,6 +347,7 @@ eastern_aryan = {
 		}
 	}
 	lhomon = {
+		primary = ASS
 		dynasty_names = {
 			"Malla" "Ghorka" Limbu
 		}
@@ -402,6 +407,7 @@ eastern_aryan = {
 		}
 	}
 	kirati = {
+		primary = LWA
 		dynasty_names = {
 			"Malla" "Ghorka" Limbu
 		}
