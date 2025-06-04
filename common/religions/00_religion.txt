@@ -1609,8 +1609,8 @@ dharmic = {
 			vajrayana
 			buddhism #Theravada
 			hinduism
-			confucianism
-			shinto
+			#confucianism - no go for me. - Lunarac, too OP and ruins dynamic and effort. Admin wise.
+			#shinto - no go for me. - Lunarac, same thing its too strong morale buff and outta place. Shinto malay? > do it vanilla.
 		}
 		country = {
 			tolerance_heretic = 2
