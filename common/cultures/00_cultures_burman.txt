@@ -71,6 +71,7 @@ burman = {
 		}
 	}
 	kachari = {
+		primary = KMT
 		dynasty_names = {
 			Abujam Adhikarimayum Ahanthem Aheibam Akham Akoijam Amakcham Amom Angom Angomjambam Arambam Aribam Arubam Asem Athokpam Atom Ayekpam Chabungbam Chakpram Chanambam Chandam Chingakham Chingangbam Chingshubam Chingsubam Chingtham Chirom Chongtham Chungkham Elam Elangbam Gurumayum Hanglem Hanjabam Haobam Haobijam Haorambam Hawaibam Heigrujam Heikrujam Heisnam Hemmam Hidam Hijam Huidrom Huiningshumbam Huirem Huirongbam Ingudam Irengbam Irom Irungbam Kakyenlakpam Kangabam Kangjam Kangujam Karam Kayenpaibam Keisham Keithellakpam Khaidem Khangembam Khangjarakpam Kharibam Khoinaijam Khen Ahom Nagas Chutiya Raikat Koch Sutiya Kachari Barobhyan Khoinam Khoirom Khoisnam Khomdram Khongbantabam Khudrakpam Khullem Khumallambam Khumanthem Khumbongmayum Khumujam Khumukcham Khundongbam Khundrakpam Khuraijam Khuyenthem Khwairakpam Khwairampam Koijam Kongbam Kongkham Konjengbam Kshetrimayum Laikangbam Laikhuram Laiphrakpam Lairenjam Lairenlakpam Lairikyengbam Laishangbam Laishram Laithangbam Laitonjam Lambalmayum Langpoklakpam Leimajam Leimapokpam Leiphrakpam Leishangbam Leishangthem Leitam Leitanthem Lisham Loitongbam Loktongbam Longjam Lourembam Lousigam Lukram Lalhruthanga Maharabam Maibam Maibram Maikam Maimom Mainam Mairembam Maitham Mandingbam Mayangbam Mayanglambam Mayengbam Meinam Meitram Moirangmayum
 		}
@@ -82,6 +83,7 @@ burman = {
 		}
 	}
 	boro = {
+		primary = BNG
 		dynasty_names = {
 			Abujam Adhikarimayum Ahanthem Aheibam Akham Akoijam Amakcham Amom Angom Angomjambam Arambam Aribam Arubam Asem Athokpam Atom Ayekpam Chabungbam Chakpram Chanambam Chandam Chingakham Chingangbam Chingshubam Chingsubam Chingtham Chirom Chongtham Chungkham Elam Elangbam Gurumayum Hanglem Hanjabam Haobam Haobijam Haorambam Hawaibam Heigrujam Heikrujam Heisnam Hemmam Hidam Hijam Huidrom Huiningshumbam Huirem Huirongbam Ingudam Irengbam Irom Irungbam Kakyenlakpam Kangabam Kangjam Kangujam Karam Kayenpaibam Keisham Keithellakpam Khaidem Khangembam Khangjarakpam Kharibam Khoinaijam Khen Ahom Nagas Chutiya Raikat Koch Sutiya Kachari Barobhyan Khoinam Khoirom Khoisnam Khomdram Khongbantabam Khudrakpam Khullem Khumallambam Khumanthem Khumbongmayum Khumujam Khumukcham Khundongbam Khundrakpam Khuraijam Khuyenthem Khwairakpam Khwairampam Koijam Kongbam Kongkham Konjengbam Kshetrimayum Laikangbam Laikhuram Laiphrakpam Lairenjam Lairenlakpam Lairikyengbam Laishangbam Laishram Laithangbam Laitonjam Lambalmayum Langpoklakpam Leimajam Leimapokpam Leiphrakpam Leishangbam Leishangthem Leitam Leitanthem Lisham Loitongbam Loktongbam Longjam Lourembam Lousigam Lukram Lalhruthanga Maharabam Maibam Maibram Maikam Maimom Mainam Mairembam Maitham Mandingbam Mayangbam Mayanglambam Mayengbam Meinam Meitram Moirangmayum
 		}
@@ -93,6 +95,7 @@ burman = {
 		}
 	}
 	garo = {
+		primary = BNG
 		dynasty_names = {
 			Abujam Adhikarimayum Ahanthem Aheibam Akham Akoijam Amakcham Amom Angom Angomjambam Arambam Aribam Arubam Asem Athokpam Atom Ayekpam Chabungbam Chakpram Chanambam Chandam Chingakham Chingangbam Chingshubam Chingsubam Chingtham Chirom Chongtham Chungkham Elam Elangbam Gurumayum Hanglem Hanjabam Haobam Haobijam Haorambam Hawaibam Heigrujam Heikrujam Heisnam Hemmam Hidam Hijam Huidrom Huiningshumbam Huirem Huirongbam Ingudam Irengbam Irom Irungbam Kakyenlakpam Kangabam Kangjam Kangujam Karam Kayenpaibam Keisham Keithellakpam Khaidem Khangembam Khangjarakpam Kharibam Khoinaijam Khen Ahom Nagas Chutiya Raikat Koch Sutiya Kachari Barobhyan Khoinam Khoirom Khoisnam Khomdram Khongbantabam Khudrakpam Khullem Khumallambam Khumanthem Khumbongmayum Khumujam Khumukcham Khundongbam Khundrakpam Khuraijam Khuyenthem Khwairakpam Khwairampam Koijam Kongbam Kongkham Konjengbam Kshetrimayum Laikangbam Laikhuram Laiphrakpam Lairenjam Lairenlakpam Lairikyengbam Laishangbam Laishram Laithangbam Laitonjam Lambalmayum Langpoklakpam Leimajam Leimapokpam Leiphrakpam Leishangbam Leishangthem Leitam Leitanthem Lisham Loitongbam Loktongbam Longjam Lourembam Lousigam Lukram Lalhruthanga Maharabam Maibam Maibram Maikam Maimom Mainam Mairembam Maitham Mandingbam Mayangbam Mayanglambam Mayengbam Meinam Meitram Moirangmayum
 		}
