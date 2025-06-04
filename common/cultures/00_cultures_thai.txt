@@ -36,6 +36,7 @@ thai_group = {
 		}
 	}
 	tai = {
+		primary = LXA
 		dynasty_names = { 
 			Chuntaketta Bidaya Chuerboonchai Horayangkura Chaiwong Jiratatprasot Pathumsuriyawong Chakkaphak Chaipatana Guptarak Bunnag Jarupanivh Inchareon Arunanondchai Chaiyakham Phuanchetchueng Ekpanyaskun Chantaviriyavit Chutiwongse Chaiyasan Choonhavon Dabaransi Hongsakul Bhokhasathit Bintasan Chulavachana Ganjarerndee Chungwatana Bunkhamkoert Nilawong Saiphuwiang Jivacate Chitphentom Ariyanuntaka Jaturapattarapong Benjawan Cheosakul Sawangpattana Dantanavanawong Hoontrakul Hongladaromp Baramichai Jitjang Jotikasthira Itsrasena Chaimongkol Charoensuk Chakpitak Duchanee Bowornjaratpong Phromwilai Thonubol Saengsura Futrakul Banlengchit Anyamani Butsuntorn Bhayungvej Devakula Chinarungsri Saengchuto Harivarawongse Boonkham Chatusripitak Chutinan Chuto Saenthipnabua Thippachak Suwanpangkham Arayawosuantan Lavachangraj Rasananda Phumsawat Wiangpangkham Khemmarat Woranakhon Ketthong Asachai Phukha Chaisiri Sirorot Thewawong Singhanavati Khachaseni Singhaseni Phraruang Namtum Aphaiyakul Tularak Bunlong Thongkhamdee Thammawongsa Sarawongsa Siansewi Mongkholtham Manosakul Sitisarn Sombunthong Sophonsiri Chantarangsu Intharangsu Waiwongsa Silakup Suwannaratna Bangsueakham Suwanmongkhol Sukhuminda Chanthawong Aphaiyaphakdi Lavasuta Wongsila Khamwongsa Saenpangkaew Rattanawong Wongkhamkaew Chaiyaphakdi Wiangkhamngoen Saiphuthong Sriphuwiang Siha-Urai Amartyakul Suphamitr Chuto Phalangkura Surakupt Krairiksh Mahanaranga Saithongkham Saensaiphudon Wiangketklao Rotchanakul Phanongsaeng Pharungyod Tiwanon Pangsaiwong Butsalobol Singhasiri Rueangsuwan Wongpatsa Phosri Saengsingkaew Thongphitak Disatha Santisakun Tinmahawong Sarutanon Mueangchai Phonlawong Sornsongkhram Sintawanarong Sithanakon Ramangkun Intharangsi Saiphukham Yodsrichan Chanthrarangsi Rueangratsami Chitrakani Srichaphan Sawangsri Phongsawan Wongphakdi Kunlawanit Thinsuradet Wiangsaenna Siroros Buranasiri Selanon Tungkhanakhon Chittangkura Thananchayanon Inkhamlue Wiangsaendon Kanjanya Wongmueangkaen Chanthrapanya Chueacheton Srichandaeng Sarnsiriwong Kuslasayanon Khamphiro Manowan Manotham Duangkhammao Manomai Kanthalo Thipphromma Kaewkiangkham Khammasarn Khampansaen Loimaping Luilertfa Saenjaibarn Nanthalo Nanthana Pintala Mahayotpanya Pintawilai Saenjaipeng Pintakham Saipradit Salayachiwin Rojanadit Bhirombhakdi Siriphaibun Srichaiyan Khamhiran Kaewprasert Luilertfa Bunmati Srijomthong Khammata Jainabun Duangsuriya Talasa Talapin Tanaping Pintasom Phromnansing Phudontong Mahamang Yodmueangsaeng Srikhamyong Supinno Saensuwong Uparaktha Supachalasai Rueanpanyo Manarak Pinthaya
 		}
@@ -47,6 +48,7 @@ thai_group = {
 		}
 	}
 	ahom = {
+		primary = ASS
 		dynasty_names = { 
 			Chuntaketta Bidaya Chuerboonchai Horayangkura Chaiwong Jiratatprasot Pathumsuriyawong Chakkaphak Chaipatana Guptarak Bunnag Jarupanivh Inchareon Arunanondchai Chaiyakham Phuanchetchueng Ekpanyaskun Chantaviriyavit Chutiwongse Chaiyasan Choonhavon Dabaransi Hongsakul Bhokhasathit Bintasan Chulavachana Ganjarerndee Chungwatana Bunkhamkoert Nilawong Saiphuwiang Jivacate Chitphentom Ariyanuntaka Jaturapattarapong Benjawan Cheosakul Sawangpattana Dantanavanawong Hoontrakul Hongladaromp Baramichai Jitjang Jotikasthira Itsrasena Chaimongkol Charoensuk Chakpitak Duchanee Bowornjaratpong Phromwilai Thonubol Saengsura Futrakul Banlengchit Anyamani Butsuntorn Bhayungvej Devakula Chinarungsri Saengchuto Harivarawongse Boonkham Chatusripitak Chutinan Chuto Saenthipnabua Thippachak Suwanpangkham Arayawosuantan Lavachangraj Rasananda Phumsawat Wiangpangkham Khemmarat Woranakhon Ketthong Asachai Phukha Chaisiri Sirorot Thewawong Singhanavati Khachaseni Singhaseni Phraruang Namtum Aphaiyakul Tularak Bunlong Thongkhamdee Thammawongsa Sarawongsa Siansewi Mongkholtham Manosakul Sitisarn Sombunthong Sophonsiri Chantarangsu Intharangsu Waiwongsa Silakup Suwannaratna Bangsueakham Suwanmongkhol Sukhuminda Chanthawong Aphaiyaphakdi Lavasuta Wongsila Khamwongsa Saenpangkaew Rattanawong Wongkhamkaew Chaiyaphakdi Wiangkhamngoen Saiphuthong Sriphuwiang Siha-Urai Amartyakul Suphamitr Chuto Phalangkura Surakupt Krairiksh Mahanaranga Saithongkham Saensaiphudon Wiangketklao Rotchanakul Phanongsaeng Pharungyod Tiwanon Pangsaiwong Butsalobol Singhasiri Rueangsuwan Wongpatsa Phosri Saengsingkaew Thongphitak Disatha Santisakun Tinmahawong Sarutanon Mueangchai Phonlawong Sornsongkhram Sintawanarong Sithanakon Ramangkun Intharangsi Saiphukham Yodsrichan Chanthrarangsi Rueangratsami Chitrakani Srichaphan Sawangsri Phongsawan Wongphakdi Kunlawanit Thinsuradet Wiangsaenna Siroros Buranasiri Selanon Tungkhanakhon Chittangkura Thananchayanon Inkhamlue Wiangsaendon Kanjanya Wongmueangkaen Chanthrapanya Chueacheton Srichandaeng Sarnsiriwong Kuslasayanon Khamphiro Manowan Manotham Duangkhammao Manomai Kanthalo Thipphromma Kaewkiangkham Khammasarn Khampansaen Loimaping Luilertfa Saenjaibarn Nanthalo Nanthana Pintala Mahayotpanya Pintawilai Saenjaipeng Pintakham Saipradit Salayachiwin Rojanadit Bhirombhakdi Siriphaibun Srichaiyan Khamhiran Kaewprasert Luilertfa Bunmati Srijomthong Khammata Jainabun Duangsuriya Talasa Talapin Tanaping Pintasom Phromnansing Phudontong Mahamang Yodmueangsaeng Srikhamyong Supinno Saensuwong Uparaktha Supachalasai Rueanpanyo Manarak Pinthaya
 		}
@@ -58,6 +60,7 @@ thai_group = {
 		}
 	}
 	isan = {
+		primary = LXA
 		dynasty_names = {
     Dongkaikham Bangsueakham Saenkaina Playai Kongpladaeng Dongkaidam Sueadaengyai Dongchangkaew Nokfayai Dongkob Saenchangna Kongnokyai Nongplakhao Nongpladaeng Nongpladam Jangyai Nguadam Nguamoi Nguadaeng Plalueang Nongplalueang Kongchangkhao Kongchangdam Kongnguayai Dongnngukhiew Dongngulueang Wiangsaenna Wiangsaendon Donnayai Wiangdongchang Thungkhwaiyai Dongtaen Dongkham Dongngoen Wiangdongyai Dongngua
 		}
@@ -69,6 +72,7 @@ thai_group = {
 		}
 	}
 	kradai = {
+		primary = CYI
 		dynasty_names = { 
 			Dongkaikham Bangsueakham Saenkaina Playai Kongpladaeng Dongkaidam Sueadaengyai Inkhamlue Dongchangkaew Nokfayai Dongkob Saenchangna Kongnokyai Nongplakhao Nongpladaeng Saenpangkaew Nongpladam Jangyai Nguadam Nguamoi Nguadaeng Plalueang Nongplalueang Kongchangkhao Dongkhamlue Kongchangdam Kongnguayai Dongnngukhiew Dongngulueang Wiangsaenna Wiangsaendon Donnayai Saendonlaeng Wiangdongchang Thungkhwaiyai Dongtaen Dongkham Dongngoen Wiangdongyai Dongngua Saenrueangfakham Saiphuwiang Wiangkhamngoen Saiphuthong Sisaendon Nongwiangdam Inchangkham Nguakhao Saiphudon Nguakhao Wiangphudon Saensaiphudon Fasaingam Jujaeng
 		}
@@ -80,6 +84,7 @@ thai_group = {
 		}
 	}
 	kamsui = {
+		primary = CMI
 		dynasty_names = { 
 			Dongkaikham Bangsueakham Saenkaina Playai Kongpladaeng Dongkaidam Sueadaengyai Inkhamlue Dongchangkaew Nokfayai Dongkob Saenchangna Kongnokyai Nongplakhao Nongpladaeng Saenpangkaew Nongpladam Jangyai Nguadam Nguamoi Nguadaeng Plalueang Nongplalueang Kongchangkhao Dongkhamlue Kongchangdam Kongnguayai Dongnngukhiew Dongngulueang Wiangsaenna Wiangsaendon Donnayai Saendonlaeng Wiangdongchang Thungkhwaiyai Dongtaen Dongkham Dongngoen Wiangdongyai Dongngua Saenrueangfakham Saiphuwiang Wiangkhamngoen Saiphuthong Sisaendon Nongwiangdam Inchangkham Nguakhao Saiphudon Nguakhao Wiangphudon Saensaiphudon Fasaingam Jujaeng
 		}
