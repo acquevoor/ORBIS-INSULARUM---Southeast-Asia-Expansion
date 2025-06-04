@@ -41,6 +41,7 @@ dravidian = {
 		}
 	}
 	tuluva = {
+		primary = KLN
 		dynasty_names = {
 			"Wodeyar" "Sangama" "Saluva" "Tuluva" "Alupa" "Keladi" "Ummattur" "Chowta"
 			"Vaidumba" "Chalukya" "Sendraka" "Sangama" "Kalachuri" "Hoysala" "Wodeyar"
@@ -70,6 +71,7 @@ dravidian = {
 		}
 	}
 	kurukh = {
+		primary = RTT
 		dynasty_names = {
 			"Wodeyar" "Sangama" "Saluva" "Tuluva" "Alupa" "Keladi" "Ummattur" "Chowta"
 			"Vaidumba" "Chalukya" "Sendraka" "Sangama" "Kalachuri" "Hoysala" "Wodeyar"
