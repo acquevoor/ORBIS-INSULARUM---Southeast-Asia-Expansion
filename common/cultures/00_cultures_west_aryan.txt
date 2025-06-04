@@ -56,6 +56,7 @@ western_aryan = {
 		}
 	}
 	bhil = {
+		primary = CMP
 		dynasty_names = {
 			"Muzaffarid" "Ahmad Shahi" "Vadher" "Babi" "Rawal" "Jadeja" "Calukya" "Bhil" "Kathi"
 		}
@@ -100,6 +101,7 @@ western_aryan = {
 		}
 	}
 	kutchi = {
+		primary = KAT
 		dynasty_names = {
 			"Muzaffarid" "Ahmad Shahi" "Vadher" "Babi" "Rawal" "Jadeja" "Calukya" "Bhil" "Kathi"
 		}
@@ -241,6 +243,7 @@ western_aryan = {
 		}
 	}
 	konkani = {
+		primary = BIJ
 		dynasty_names = {
 			"Bhonsle" "Gaikwar" "Bhat" "Sindhia" "Koli" "Sinda" "Kamadeva" "Gaitonde" "Malviya" "Ruddha"
 		}
@@ -415,6 +418,7 @@ western_aryan = {
 		}
 	}
 	mewari = {
+		primary = MER
 		dynasty_names = {
 			"Holkar" "Qadirid" "Shaja'atid" "Khalji"
 		}
@@ -428,6 +432,7 @@ western_aryan = {
 		}
 	}
 	ahirawati = {
+		primary = DLH
 		dynasty_names = {
 			"Holkar" "Qadirid" "Shaja'atid" "Khalji"
 		}
@@ -441,6 +446,7 @@ western_aryan = {
 		}
 	}
 	mewati = {
+		primary = MEW
 		dynasty_names = {
 			"Holkar" "Qadirid" "Shaja'atid" "Khalji"
 		}
@@ -454,6 +460,7 @@ western_aryan = {
 		}
 	}
 	harauti = {
+		primary = HAD
 		dynasty_names = {
 			"Holkar" "Qadirid" "Shaja'atid" "Khalji"
 		}
@@ -467,6 +474,7 @@ western_aryan = {
 		}
 	}
 	dhundari = {
+		primary = DHU
 		dynasty_names = {
 			"Holkar" "Qadirid" "Shaja'atid" "Khalji"
 		}
