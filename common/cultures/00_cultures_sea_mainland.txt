@@ -23,6 +23,7 @@ southeastasian_group = {
 		}
 	}
 	pearic = {
+		primary = OUD
 		dynasty_names = {
 			An Baaen Brak Bun Chan Chea Cheng Chim Chin Chon Cum Heng Keo Khan Kim Kong Leng Li Lim Long Mas Moau Mom Nang Nuon Phan Phon Poe Ros Sa Sam San Sat Seang Sem Seng Sin Sok Som Lym Sum Sun Sym Touch Uk Um Un Voan Yan Yym Sang Yasodhara Sinn Danh Ampor Virak Dy Saom Prim Pisith Tep Brak Nhoek Duong Vong Soeang Khlot Samouth Phy Phaek Rong Mul Lon Su Sau Ek Aom Sar Sarin Nguon Yeun Cheam Kousoum Vongsey Keng Koun Vann Tou Rern Houy Chhab Neth Keat Chhouk Daran Sim Prak Nop Khuon Samnang Soth Ret Teath Chhong Nim Oum Iev Khuth Mov Meas Nen Sao Nhek Tauch Thy Soun Tich Khem Lach Thim Nhem Phou Chhev Theam Ngin Chhim Nguon Yos Kieng Suy Nuth Ouk Tith Pang Kem Mok Ly Phuong Khim Uch Uy Suon Sen Ruos Than Chhoem Chhan Kheang Koy Kry
 		}
@@ -118,7 +119,7 @@ southeastasian_group = {
 		}	
 	}
 	munda = {
-		primary = NGP
+		primary = SRG
 		dynasty_names = {
 			Porohat Nagavamsi Munda Ho Bhuiyan Paraiyar Vishwakarma Aachari Konar Idaiyar Reddiar Udayar Yadhavar Iyer Iyengar Pillai Mudaliar Thevar Nadar Chettiar Gounder Naicker Bai Cavarai Chandran Chetti Chettiar Chaudary Deva Devi Gopal Jaffna Kalla Kallan Kannan Kavarai Krishna Kumari Lakshmi Mahadevan Mudaliar Narayanan Odda Oddai Oddar Oppara Padaiyachi Padiachy Paraiya Prasad Radhakrishnan Raj Raja Rajan Raju Ram Ramachandran Ramakrishnan Ramamurthy Ramanathan Reddy Seelan Shankar Srinivasan Suresh Thondan Uppara Vellala Venkatesh Wappara Wodda  Udayavara  Mangalur  Kannanur  Calicut  Malappuram  Palakkad  Mahoyadapuram  Kunjakari  Kottayam  Kollam  Vizhinjam  Kottar  Tirunelveli  Kayal  Korkai  Sivakasi  Madurai  Virudhukkalvetti  Rameshvaram  Sivaganga  Uraiyur  Dindigul  Karavur  Tiruppur  Kovai  Tenkasi  Tagadur  Kelrayan  Srirangam  Tanjavur  Nagapattinam  Kannanur  Tirukoilur  Jinji  Uttaramerur  Tiruvannamalai  Kudalasangama  Kuvalala  Muluvagil  Takkaloma  Mamallapuram  Kanchipuram
 		}
