@@ -136,6 +136,7 @@ hindusthani = {
 		}
 	}
 	pamiri = {
+		primary = LDK
 		dynasty_names = {
 			"Shah Miri" "Sayyidi" "Mirrani"
 			#CK2
@@ -152,6 +153,7 @@ hindusthani = {
 		}
 	}
 	balti = {
+		primary = LDK
 		dynasty_names = {
 			"Shah Miri" "Sayyidi" "Mirrani"
 			#CK2
