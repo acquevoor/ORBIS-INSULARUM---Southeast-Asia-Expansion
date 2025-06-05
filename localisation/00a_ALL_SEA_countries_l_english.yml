@@ -206,3 +206,16 @@ l_english:
   unite_ayutthaya_title:0 "Centralize Ayutthaya Confederation."
   unite_ayutthaya_desc:0 "The Basin of Chao Phraya long served as gateway of great wealth and power, while our combined might have long been stifled by intrigue and dispute, our kingdom rose above others and now wield it's full potential. It is time we proclaim the mantle and enforce our power across Suvanabhum!"
   ayutthaya_centralized_tooltip:0 "All §YSiamese subjects§! will be instantly integrated."
+
+#Formosan
+  BUN:0 "Bunun"
+  BUN_ADJ:0 "Bunun"
+  BUN_desc:0 "Bunun"
+
+  ATY:0 "Atayal"
+  ATY_ADJ:0 "Atayal"
+  ATY_desc:0 "Atayal"
+
+  PIW:0 "Paiwan"
+  PIW_ADJ:0 "Paiwan"
+  PIW_desc:0 "Paiwan"
