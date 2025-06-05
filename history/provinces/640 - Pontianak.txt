@@ -1,8 +1,5 @@
 # Sambas
-# 640 Sambas - 5/16/2025 12:37:49 PM 
-add_core = SMB
-add_core = SMB
-add_core = SMB
+# 640 Sambas - 5/16/2025 12:37:49 PM
 add_core = SMB
 owner = SMB
 controller = SMB
@@ -10,7 +7,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 center_of_trade = 1
-trade_goods = dyes
+trade_goods = cloth
 extra_cost = 8
 culture = melayu
 religion = hinduism
@@ -26,7 +23,6 @@ discovered_by = ottoman
 1441.1.1 = { 
 	owner = SMB
 	controller = SMB
-	trade_goods = dyes
 }
 1521.1.1 = { 
 	discovered_by = POR
