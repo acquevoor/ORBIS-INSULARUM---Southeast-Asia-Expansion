@@ -1,0 +1,138 @@
+# Do not change tags in here without changing every other reference to them
+# If adding new groups or ideas, make sure they are unique.
+
+ATY_ideas = {
+    start = {
+        prestige = 1
+        land_attrition = -0.10
+    }
+
+    bonus = {
+        land_morale = 0.15
+    }
+
+    trigger = {
+        tag = ATY
+    }
+
+    free = yes
+
+    ATY_cliffside_village_defenses = {
+        defensiveness = 0.15
+    }
+
+    ATY_gaga_tradition_and_law = {
+        stability_cost_modifier = -0.15
+    }
+
+    ATY_quadrilineal_genealogy_keepers = {
+        advisor_pool = 1
+    }
+
+    ATY_ritual_honor_and_head_taking = {
+        army_tradition = 0.5
+    }
+
+    ATY_rotational_agriculture_knowledge = {
+        production_efficiency = 0.10
+    }
+
+    ATY_bridge_watch_and_signal_fires = {
+        global_supply_limit_modifier = 0.15
+    }
+
+    ATY_spirit_forest_intermediaries = {
+        religious_unity = 0.10
+        tolerance_own = 1
+    }
+}
+
+PIW_ideas = {
+    start = {
+        prestige = 1
+        land_attrition = -0.10
+    }
+
+    bonus = {
+        tolerance_own = 2
+    }
+
+    trigger = {
+        tag = PIW
+    }
+
+    free = yes
+
+    PIW_aristocratic_rank_society = {
+        prestige_decay = -0.01
+    }
+
+    PIW_stone_slab_architecture = {
+        build_cost = -0.10
+    }
+
+    PIW_beaded_genealogy_craft = {
+        advisor_cost = -0.15
+    }
+
+    PIW_bronze_knife_ceremony = {
+        discipline = 0.05
+    }
+
+    PIW_marriage_alliance_networks = {
+        diplomatic_reputation = 1
+    }
+
+    PIW_uplands_land_allocation = {
+        production_efficiency = 0.15
+    }
+
+    PIW_ancestor_ritual_unity = {
+        religious_unity = 0.15
+    }
+}
+
+BUN_ideas = {
+    start = {
+        prestige = 1
+        land_attrition = -0.10
+    }
+
+    bonus = {
+        land_morale = 0.15
+    }
+
+    trigger = {
+        tag = BUN
+    }
+
+    free = yes
+
+    BUN_shooting_rite_of_maturity = {
+        army_tradition = 0.5
+    }
+
+    BUN_eight_part_song_law = {
+        stability_cost_modifier = -0.15
+    }
+
+    BUN_high_mountain_migration = {
+        movement_speed = 0.10
+    }
+
+    BUN_temporary_coalition_hunts = {
+        global_manpower_modifier = 0.10
+    }
+
+    BUN_patrol_and_revenge_custom = {
+        hostile_attrition = 1
+    }
+
+    BUN_interval_agriculture_knowledge = {
+        global_tax_modifier = 0.10
+    }
+
+    BUN_sacrifice_and_taboo_customs = {
+        tolerance_own = 2
+    }
+}
