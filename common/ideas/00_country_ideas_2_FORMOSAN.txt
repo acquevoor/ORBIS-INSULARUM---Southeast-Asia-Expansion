@@ -50,7 +50,7 @@ ATY_ideas = {
 PIW_ideas = {
     start = {
         prestige = 1
-        land_attrition = -0.10
+        legitimacy = 1
     }
 
     bonus = {
