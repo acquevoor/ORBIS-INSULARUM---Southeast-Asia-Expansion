@@ -8,19 +8,7 @@ bookmark = {
 	
 	country = MLC
 	country = MAJ
-	country = BEI
-	country = ATJ
-	country = PLB
-	country = PSA
-	country = MKS
-	country = MNA
-	country = SUL
-	#country = TER
-	#country = CEB
 	
 	easy_country = MAJ
-	easy_country = ATJ
 	easy_country = MLC
-	easy_country = BEI
-	#easy_country = PLB
 }
