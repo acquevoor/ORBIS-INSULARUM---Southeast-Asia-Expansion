@@ -338,7 +338,6 @@ MPW_ideas = {
     }
 }
 
-
 #Ngaju
 NGJ_ideas = {
     start = {

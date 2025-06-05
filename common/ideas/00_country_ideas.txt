@@ -1,4 +1,5 @@
-# Do not change tags in here without changing every other reference to them.
+# Totally clean since 6/5/2025 - Lunarac, no double edits
+# Please be aware of Generic idea's they aint here dawg
 # Do not change tags in here without changing every other reference to them.
 # If adding new groups or ideas, make sure they are unique.
 
@@ -10084,43 +10085,6 @@ MLW_ideas = {
 	}
 	mlw_malwa_opium = {
 		global_prov_trade_power_modifier = 0.10
-	}
-}
-
-PAT_ideas = {
-	start = {
-		num_accepted_cultures = 1
-		light_ship_power = 0.10
-	}
-	bonus = {
-		trade_efficiency = 0.1
-	}
-	trigger = {
-		tag = PAT
-	}
-	free = yes
-
-	pat_pepper = {
-		production_efficiency = 0.10
-	}
-	pat_china_sea = {
-		trade_steering = 0.2
-	}
-	pat_smuggling_networks = {
-		spy_offence = 0.2
-	}
-	lian_dao_qian_band = {
-		privateer_efficiency = 0.15
-		capture_ship_chance = 0.1
-	}
-	pat_entrepot = {
-		merchants = 1
-	}
-	protection_private_property = {
-		stability_cost_modifier = -0.1
-	}
-	pat_canals = {
-		development_cost = -0.1
 	}
 }
 
