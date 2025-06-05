@@ -2,8 +2,8 @@
 # 4791 Cirebon - 5/16/2025 12:37:50 PM 
 add_core = CRB
 owner = CRB
-base_tax = 6
-base_production = 6
+base_tax = 7
+base_production = 7
 base_manpower = 3
 trade_goods = dyes
 culture = cirebonese

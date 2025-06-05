@@ -3,8 +3,8 @@
 add_core = BTU
 owner = BTU
 controller = BTU
-base_tax = 5
-base_production = 5
+base_tax = 6
+base_production = 6
 base_manpower = 3
 center_of_trade = 2
 trade_goods = gold

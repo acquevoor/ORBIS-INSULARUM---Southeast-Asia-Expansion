@@ -3,9 +3,9 @@
 add_core = MLC
 owner = MLC
 controller = MLC
-base_tax = 5
-base_production = 5
-base_manpower = 4
+base_tax = 6
+base_production = 6
+base_manpower = 3
 center_of_trade = 2
 trade_goods = slaves
 extra_cost = 16

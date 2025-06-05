@@ -5,8 +5,8 @@ add_core = PLB
 add_core = PLB
 owner = PLB
 controller = PLB
-base_tax = 5
-base_production = 5
+base_tax = 6
+base_production = 6
 base_manpower = 3
 center_of_trade = 1
 trade_goods = grain
@@ -33,5 +33,5 @@ discovered_by = MNG
 	discovered_by = POR
 	religion = sunni
 }
-fort_15th = yes
 is_city = no
+fort_15th = yes
