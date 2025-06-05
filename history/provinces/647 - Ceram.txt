@@ -3,9 +3,9 @@
 add_core = HML
 owner = HML
 controller = HML
-base_tax = 2
-base_production = 4
-base_manpower = 3
+base_tax = 3
+base_production = 3
+base_manpower = 4
 trade_goods = cloves
 culture = south_halmahera
 religion = animism

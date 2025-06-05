@@ -1,22 +1,17 @@
 # Pariaman
 # 2682 Pariaman - 5/16/2025 12:37:50 PM 
- 
 add_core = PRI
 add_core = PGR
 owner = PRI
 controller = PRI
-base_tax = 3
+base_tax = 4
 base_production = 4
-base_manpower = 3
-
+base_manpower = 4
 trade_goods = cotton
-
 culture = minag
 religion = hinduism
 capital = "Pariaman"
-
 is_city = yes
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
@@ -24,16 +19,6 @@ discovered_by = ottoman
 discovered_by = MNG
 discovered_by = MNG
 discovered_by = MNG
-
-
-
-
-1405.1.1 = {
-	discovered_by = MNG
-}
-1509.1.1 = {
+1509.1.1 = { 
 	discovered_by = POR
 }
-
-
-### Modified 5/16/2025 12:37:50 PM ###

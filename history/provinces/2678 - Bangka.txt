@@ -1,6 +1,5 @@
 # Bangka
 # 2678 Bangka - 5/16/2025 12:37:50 PM 
- 
 add_core = MAJ
 add_core = PLB
 add_core = MAJ
@@ -11,21 +10,17 @@ add_core = MAJ
 add_core = PLB
 owner = PLB
 controller = PLB
-base_tax = 4
+base_tax = 3
 base_production = 4
 base_manpower = 2
-
 trade_goods = copper
-
 culture = orang_laut
 religion = hinduism
 capital = "Bangka"
-
 is_city = yes
 native_size = 5
-native_ferocity =  3
+native_ferocity = 3
 native_hostileness = 2
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
@@ -34,25 +29,12 @@ discovered_by = MNG
 discovered_by = MNG
 discovered_by = MNG
 discovered_by = MNG
-
-
-
-
-1444.1.1 = {
+1444.1.1 = { 
 	owner = PLB
 	controller = PLB
-	add_core = MAJ
-	add_core = PLB
-	city = yes
 	trade_goods = copper
 }
-1405.1.1 = {
-	discovered_by = MNG
-}
-1509.1.1 = {
+1509.1.1 = { 
 	discovered_by = POR
 	religion = sunni
 }
-
-
-### Modified 5/16/2025 12:37:50 PM ###

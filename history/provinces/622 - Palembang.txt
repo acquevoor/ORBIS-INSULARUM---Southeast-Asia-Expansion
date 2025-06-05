@@ -1,28 +1,22 @@
 # Palembang
 # 622 Palembang - 5/16/2025 12:37:49 PM 
- 
 add_core = PLB
 add_core = PLB
 add_core = PLB
 owner = PLB
 controller = PLB
-base_tax = 6
+base_tax = 5
 base_production = 5
-base_manpower = 4
-
+base_manpower = 3
 center_of_trade = 1
 trade_goods = grain
 extra_cost = 8
-
 culture = palembang
 religion = hinduism
 capital = "Palembang"
-
 native_size = 50
-native_ferocity =  9
+native_ferocity = 9
 native_hostileness = 7
-fort_15th = yes
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
@@ -30,19 +24,14 @@ discovered_by = ottoman
 discovered_by = MNG
 discovered_by = MNG
 discovered_by = MNG
-
-
-
-
-1444.1.1 = {
+1444.1.1 = { 
 	owner = PLB
 	controller = PLB
 	trade_goods = grain
 }
-1509.1.1 = {
+1509.1.1 = { 
 	discovered_by = POR
 	religion = sunni
 }
-
-
-### Modified 5/16/2025 12:37:49 PM ###
+fort_15th = yes
+is_city = no

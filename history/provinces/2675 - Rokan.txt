@@ -1,23 +1,18 @@
 # Rokan
 # 2675 Rokan - 5/16/2025 12:37:50 PM 
- 
 add_core = DLI
 add_core = PGR
 owner = PGR
 controller = PGR
-base_tax = 5
-base_production = 4
-base_manpower = 3
-
+base_tax = 4
+base_production = 3
+base_manpower = 2
 trade_goods = incense
-
 culture = melayu
 religion = sunni
 capital = "Rokan"
-
 is_city = yes
-add_local_autonomy =  5
-
+add_local_autonomy = 5
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
@@ -26,23 +21,13 @@ discovered_by = MNG
 discovered_by = MNG
 discovered_by = MNG
 discovered_by = MNG
-
-
-
-
-1405.1.1 = {
-	discovered_by = MNG
-}
-1471.1.1 = {
+1471.1.1 = { 
 	add_core = ATJ
 }
-1509.1.1 = {
+1509.1.1 = { 
 	discovered_by = POR
 }
-1521.1.1 = {
+1521.1.1 = { 
 	owner = ATJ
 	controller = ATJ
 }
-
-
-### Modified 5/16/2025 12:37:50 PM ###

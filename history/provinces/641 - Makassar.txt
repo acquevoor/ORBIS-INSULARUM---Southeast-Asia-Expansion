@@ -3,9 +3,9 @@
 add_core = MKS
 owner = MKS
 controller = MKS
-base_tax = 5
-base_production = 6
-base_manpower = 4
+base_tax = 7
+base_production = 7
+base_manpower = 5
 center_of_trade = 1
 trade_goods = chinaware
 extra_cost = 16

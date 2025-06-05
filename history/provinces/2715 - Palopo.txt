@@ -3,9 +3,9 @@
 add_core = LUW
 owner = LUW
 controller = LUW
-base_tax = 4
-base_production = 6
-base_manpower = 5
+base_tax = 5
+base_production = 5
+base_manpower = 4
 trade_goods = iron
 extra_cost = 8
 culture = mandar

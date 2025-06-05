@@ -3,9 +3,9 @@
 add_core = WHL
 owner = WHL
 controller = WHL
-base_tax = 1
+base_tax = 3
 base_production = 3
-base_manpower = 2
+base_manpower = 3
 trade_goods = gold
 culture = timor
 religion = animism
