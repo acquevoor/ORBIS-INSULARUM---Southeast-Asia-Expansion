@@ -25,7 +25,7 @@ discovered_by = QNG
     add_core = PIW
     owner = PIW
     controller = PIW
-    trade_goods = grain
+    trade_goods = dyes
 	is_city = yes
 }
 
