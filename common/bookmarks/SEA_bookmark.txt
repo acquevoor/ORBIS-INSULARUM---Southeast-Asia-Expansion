@@ -8,7 +8,11 @@ bookmark = {
 	
 	country = MLC
 	country = MAJ
-	
+	country = ATJ
+	country = BEI
+	country = PSA	
+	country = TDO
+		
 	easy_country = MAJ
 	easy_country = MLC
 }
