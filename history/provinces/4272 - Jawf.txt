@@ -11,7 +11,7 @@ base_manpower = 2
 
 trade_goods = livestock
 
-culture = bedouin_arabic
+culture = najdi
 religion = sunni
 capital = "Karah"
 
