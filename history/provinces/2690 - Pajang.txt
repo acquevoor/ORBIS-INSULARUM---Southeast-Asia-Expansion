@@ -1,6 +1,7 @@
 # Kotagede
 # 2690 Kotagede - 5/16/2025 12:37:50 PM 
 add_core = MAJ
+add_core = MTR
 owner = MAJ
 controller = MAJ
 base_tax = 8

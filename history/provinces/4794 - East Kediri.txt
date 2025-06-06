@@ -2,7 +2,6 @@
 # 4794 Malang - 5/16/2025 12:37:50 PM 
 add_core = MAJ
 add_core = BLM
-add_core = MTR
 owner = MAJ
 controller = MAJ
 base_tax = 6
