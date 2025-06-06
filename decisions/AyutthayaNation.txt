@@ -43,18 +43,10 @@ country_decisions = {
 
 			hidden_effect = {
 				inherit = LAV
-				inherit = UTH
-			}
-			
-			vassalize = LIG
-			if {
-				limit = {
-					KED = {is_subject_of = LIG}
+				if = {
+					exists = { UTH }
 				}
-			create_subject = {
-    			subject_type = tributary_state
-   				subject = KED
-
+				inherit = UTH
 			}
 			if {
 				limit = {
@@ -62,16 +54,15 @@ country_decisions = {
 				}
 			create_subject = {
     			subject_type = tributary_state
-				subject = PAH
+   				subject = PAH
 			}
-			if {
-				limit = {
-					PAT = {is_subject_of = LIG}
-				}
+			}
+			
 			create_subject = {
     			subject_type = tributary_state
-				subject = PAT
+				subject = KED
 			}
+			vassalize = LIG
 			add_country_modifier = {
 				name = "centralization_modifier"
 				duration = 7300

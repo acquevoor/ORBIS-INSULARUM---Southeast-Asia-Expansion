@@ -207,6 +207,11 @@ l_english:
   unite_ayutthaya_desc:0 "The Basin of Chao Phraya long served as gateway of great wealth and power, while our combined might have long been stifled by intrigue and dispute, our kingdom rose above others and now wield it's full potential. It is time we proclaim the mantle and enforce our power across Suvanabhum!"
   ayutthaya_centralized_tooltip:0 "All §YSiamese subjects§! will be instantly integrated."
 
+  new_buddhist_decision_title:0 "Choose Personal Deity"
+  new_buddhist_decision_desc:0 "Choose a new Deity."
+  new_buddhist_events.1.t:0 "Choosing a Personal Deity"
+  new_buddhist_events.1.d:0 "A Buddhist ruler can patronize a certain deity as to gain favor enough to be blessed by their venerable powers, you may choose whichever one that seems useful to you the most"
+
 #Formosan
   BUN:0 "Bunun"
   BUN_ADJ:0 "Bunun"

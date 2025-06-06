@@ -1505,6 +1505,7 @@ dharmic = {
 	hinduism = {
 		color = { 0 204 204 }
 		icon = 8
+		can_have_secondary_religion = yes
 		allowed_conversion = {
 			sikhism
 			buddhism
@@ -1572,6 +1573,7 @@ dharmic = {
 	vajrayana = {
 		color = { 204 76 76 }
 		icon = 25
+		can_have_secondary_religion = yes
 		personal_deity = yes
 		allowed_conversion = {
 			mahayana
@@ -2261,6 +2263,7 @@ pagan = {
 	animism = {
 		color = { 127 0 0 }
 		icon = 11
+		can_have_secondary_religion = yes
 		country = {
 			tolerance_own = 1
 			global_unrest = -1
