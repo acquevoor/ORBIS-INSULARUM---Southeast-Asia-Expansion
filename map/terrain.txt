@@ -126,8 +126,8 @@ categories =  {
 			146 # 1.30 Greece and Bulgaria
 
 			67 4765 4769 4712 #Germany
-			
-			4831 4832 4791 2689 2690 # Mandala
+			2690
+			4831 4832 4791 2689 # Mandala
 
 			# Not farmlands in ACT
 			# 916 917 920 925 930 2532
@@ -576,7 +576,7 @@ categories =  {
 
 			# 1086					# Princeland
 			# 4858 4857 2735 1090	# Australia
-			2714 643 628
+			2714 643 628 632
 		}
 	}
 
@@ -646,8 +646,7 @@ categories =  {
 			597				# Johor
 
 			2682				# Batak
-			2674 4809	# Aceh
-			624 630	# Banten
+			2674	# Aceh
 			4793		# Surabaya
 
 			4796			# South Sulawesi
@@ -816,7 +815,7 @@ categories =  {
 			668				# Macau
 			624 617 2673
 			641 4795 4797	# Makassar
-			631 632 2693	# Lesser Sunda Islands
+			631 2693	# Lesser Sunda Islands
 			2695		# Timor
 			1236			# Melanesia
 		}
