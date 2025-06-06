@@ -14,8 +14,8 @@ base_manpower = 1
 
 trade_goods = grain
 
-culture = al_iraqiya_arabic
-religion = sunni
+culture = assyrian
+religion = coptic
 capital = "Deir ez-Zor"
 
 is_city = yes

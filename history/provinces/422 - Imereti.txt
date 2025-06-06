@@ -11,7 +11,7 @@ base_manpower = 3
 
 trade_goods = cloth
 
-culture = georgian
+culture = svan
 religion = orthodox
 capital = "Kutaisi"
 

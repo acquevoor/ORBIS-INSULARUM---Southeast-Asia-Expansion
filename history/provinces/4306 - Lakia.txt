@@ -10,7 +10,7 @@ base_manpower = 3
 
 trade_goods = iron
 
-culture = dagestani
+culture = dargin
 religion = sunni
 capital = "Kumukh"
 

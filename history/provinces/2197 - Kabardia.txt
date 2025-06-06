@@ -10,7 +10,7 @@ base_manpower = 2
 
 trade_goods = wool
 
-culture = circassian
+culture = kabar
 religion = orthodox
 capital = "Nalchik"
 

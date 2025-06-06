@@ -10,7 +10,7 @@ base_manpower = 3
 
 trade_goods = grain
 
-culture = baluchi
+culture = dehwari
 religion = sunni
 capital = "Quetta"
 

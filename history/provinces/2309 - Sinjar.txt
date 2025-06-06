@@ -11,8 +11,8 @@ base_manpower = 2
 
 trade_goods = sugar
 
-culture = al_iraqiya_arabic
-religion = sunni
+culture = assyrian
+religion = coptic
 capital = "Sindjar"
 
 is_city = yes

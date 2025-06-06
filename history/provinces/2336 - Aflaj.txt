@@ -10,7 +10,7 @@ base_manpower = 1
 
 trade_goods = livestock
 
-culture = bedouin_arabic
+culture = najdi
 religion = sunni
 capital = "Aflaj"
 

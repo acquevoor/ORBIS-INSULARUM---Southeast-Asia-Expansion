@@ -10,7 +10,7 @@ base_manpower = 2
 
 trade_goods = livestock
 
-culture = uzbehk
+culture = tajik
 religion = shiite
 capital = "Yashilkul"
 

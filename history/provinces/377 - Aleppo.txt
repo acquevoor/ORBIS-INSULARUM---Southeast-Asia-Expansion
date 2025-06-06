@@ -12,8 +12,8 @@ center_of_trade = 2
 trade_goods = silk
 extra_cost = 16
 
-culture = al_suryah_arabic
-religion = sunni
+culture = assyrian
+religion = coptic
 capital = "Halab"
 
 is_city = yes

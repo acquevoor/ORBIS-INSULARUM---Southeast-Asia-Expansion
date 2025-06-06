@@ -11,7 +11,7 @@ base_manpower = 3
 
 trade_goods = wool
 
-culture = uzbehk
+culture = tajik
 religion = sunni
 capital = "Kulob"
 

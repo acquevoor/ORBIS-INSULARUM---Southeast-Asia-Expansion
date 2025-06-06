@@ -10,8 +10,8 @@ base_manpower = 1
 
 trade_goods = wool
 
-culture = turkish
-religion = sunni
+culture = assyrian
+religion = coptic
 capital = "Ayntab"
 
 is_city = yes

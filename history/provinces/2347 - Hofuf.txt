@@ -10,7 +10,7 @@ base_manpower = 1
 
 trade_goods = spices
 
-culture = gulf_arabic
+culture = baharna
 religion = shiite
 capital = "Hofuf"
 

@@ -10,8 +10,8 @@ base_manpower = 3
 
 trade_goods = cloth
 
-culture = al_suryah_arabic
-religion = sunni
+culture = assyrian
+religion = coptic
 capital = "Antakya"
 
 is_city = yes

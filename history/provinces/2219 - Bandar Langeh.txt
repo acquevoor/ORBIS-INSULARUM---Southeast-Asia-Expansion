@@ -12,7 +12,7 @@ base_manpower = 2
 
 trade_goods = spices
 
-culture = persian
+culture = achomi
 religion = sunni
 capital = "Bandar Langeh"
 

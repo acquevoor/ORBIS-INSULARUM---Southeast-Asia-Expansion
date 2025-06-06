@@ -10,7 +10,7 @@ base_manpower = 2
 
 trade_goods = incense
 
-culture = yemeni_culture
+culture = hadrami
 religion = sunni
 capital = "Al Mukalla"
 

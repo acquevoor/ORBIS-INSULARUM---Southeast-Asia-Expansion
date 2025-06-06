@@ -12,7 +12,7 @@ center_of_trade = 1
 trade_goods = incense
 extra_cost = 8
 
-culture = yemeni_culture
+culture = hadrami
 religion = sunni
 capital = "As Shihr"
 

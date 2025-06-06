@@ -10,7 +10,7 @@ base_manpower = 3
 
 trade_goods = livestock
 
-culture = dagestani
+culture = avar
 religion = sunni
 capital = "Khunzah"
 

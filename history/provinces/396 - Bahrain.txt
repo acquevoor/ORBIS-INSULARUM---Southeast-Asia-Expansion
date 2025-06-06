@@ -11,7 +11,7 @@ base_manpower = 2
 
 trade_goods = gems
 
-culture = gulf_arabic
+culture = baharna
 religion = shiite
 capital = "Manama"
 
