@@ -5,3 +5,5 @@ For the contributors, make edit in your own branch and give it a trial run to ma
 Before your changes get added to main, someone (most likely Lunarac) needs to review and approve the PR to make sure everything is good.
 
 Hopefully this will make the workflow better for everyone involved.
+---
+To all contributors, feel free to reach to Lunarac if there's any suggestions on how the process could be improved 
