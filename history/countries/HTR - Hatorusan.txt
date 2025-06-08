@@ -4,7 +4,7 @@ government = tribal
 add_government_reform = mandala_reform
 primary_culture = batak
 religion = animism
-secondary_religion = buddhism
+secondary_religion = mahayana
 technology_group = chinese
 capital = 619
 # Specific Effects #
