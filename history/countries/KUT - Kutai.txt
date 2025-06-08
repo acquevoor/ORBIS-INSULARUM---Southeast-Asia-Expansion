@@ -3,6 +3,7 @@ add_government_reform = mandala_reform
 primary_culture = melayu
 technology_group = chinese
 religion = hinduism
+secondary_religion = animism
 capital = 638# Kutai
 1399.1.1 = { 
 	monarch = { 

@@ -4,6 +4,7 @@ government_rank = 1
 primary_culture = bidayuh
 technology_group = chinese
 religion = hinduism
+secondary_religion = animism
 capital = 4802
 1444.1.1 = { 
 	monarch = { 

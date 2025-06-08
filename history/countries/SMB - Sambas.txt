@@ -3,6 +3,7 @@ add_government_reform = plutocratic_reform
 primary_culture = melayu
 technology_group = chinese
 religion = hinduism
+secondary_religion = sunni
 capital = 640
 1444.1.1 = { 
 	monarch = { 

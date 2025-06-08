@@ -2,9 +2,10 @@ government = monarchy
 add_government_reform = adat_minangkabau
 government_rank = 1
 primary_culture = minag
-religion = vajrayana
+religion = mahayana
+secondary_religion = hinduism
 technology_group = chinese
-capital = 2681# Pagarruyung
+capital = 2681 # Pagarruyung
 
 historical_friend = DHR
 historical_friend = IND
