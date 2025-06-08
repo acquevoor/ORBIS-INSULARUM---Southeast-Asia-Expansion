@@ -1,0 +1,81 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+special_unit_culture = south_east_asian_special
+color = { 166  166  191 }
+
+revolutionary_colors = { 8 4 8 }
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	exploration_ideas
+	innovativeness_ideas
+	trade_ideas
+	quality_ideas
+	maritime_ideas
+	economic_ideas
+}
+
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+
+monarch_names = {
+	"Dapunta Hyang #0" = 20
+	"Sangrama Vijayatunggavarman #0" = 10
+	"Dharanindra #0" = 5
+	"Balaputra #0" = 15
+	"Samaratungga #0" = 10
+	"Maravijayattungavarman #0" = 5
+	"Adityawarman #0" = 10
+	"Dharmasetu #0" = 10
+	"Rudra Vikrama #0" = 5
+	"Jayanasa #0" = 5
+	"Srivijaya #0" = 5
+	"Vijayavarman #0" = 5
+	"Indravarman #0" = 5
+	"Devavarman #0" = 5
+	"Tunggal #0" = 1
+	"Tunggalputra #0" = 1
+	"Tunggadewa #0" = 1
+
+	"Sri #1" = -5
+	"Tara #1" = -5
+	"Devi #1" = -5
+	"Mahadevi #1" = -5
+	"Pramodhawardhani #1" = -5
+}
+
+leader_names = {
+	Dapunta Hyang Balaputra Dharanindra Samaratungga Jayanasa
+	Vijayatunggavarman Indravarman Devavarman Rudra Vikrama
+	Adityawarman Maravijayattungavarman Dharmasetu Srivijaya
+	Śrīvijayanagara Palembang Kedukan Bukit Muaro Jambi Kota Kapur
+	Malayu Kedah Chaiya Tambralinga Ligor Sabak
+}
+
+ship_names = {
+	"Samudra Raksa" "Srivijaya Jaya" "Vijaya Duta" "Mandala Armada" "Laksamana" 
+	"Wanayu" "Swarna Dvipa" "Chaiya Laut" "Kapal Jambi" "Sunda Selat"
+	"Ardhanautica" "Jayavarman" "Ligor Laut" "Gunung Mas" "Gajah Laut"
+}
+
+army_names = {
+	"Balaputra's Guard" "Armada Palembang" "Srivijayan Host" "Warriors of Jambi"
+	"Guard of Kedukan Bukit" "Army of Swarnabhumi" "Chaiya Regiment"
+}
+
+fleet_names = {
+	"Fleet of Palembang" "Fleet of the Sunda Strait" "Srivijayan Armada"
+}

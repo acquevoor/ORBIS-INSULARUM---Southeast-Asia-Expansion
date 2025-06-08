@@ -1,0 +1,149 @@
+country_decisions = {
+	SrivijayaNation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			OR = {
+				primary_culture = melayu
+				primary_culture = minag
+				primary_culture = batak
+				primary_culture = lampung
+				primary_culture = rejang
+				primary_culture = orang_laut
+				primary_culture = palembang
+			}
+			NOT = { has_country_flag = formed_srivijaya_flag }
+			NOT = { exists = SVY }
+			NOT = { exists = MSA }
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = batak_area
+				area = central_sumatra_area
+				area = jambi_area
+				area = minangkabau_area
+				area = south_sumatra_area
+				area = north_sumatra_area
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			is_free_trigger = yes
+			religion = mahayana 
+			is_nomad = no		
+			is_at_war = no
+
+			# Require ownership and cores of all provinces in these areas
+			num_of_owned_provinces_with = {
+				value = 3  # Number of provinces in batak_area
+				area = batak_area
+				is_core = ROOT
+			}
+			num_of_owned_provinces_with = {
+				value = 4  # central_sumatra_area
+				area = central_sumatra_area
+				is_core = ROOT
+			}
+			num_of_owned_provinces_with = {
+				value = 4  # jambi_area
+				area = jambi_area
+				is_core = ROOT
+			}
+			num_of_owned_provinces_with = {
+				value = 4  # minangkabau_area
+				area = minangkabau_area
+				is_core = ROOT
+			}
+			num_of_owned_provinces_with = {
+				value = 4  # south_sumatra_area
+				area = south_sumatra_area
+				is_core = ROOT
+			}
+			num_of_owned_provinces_with = {
+				value = 4  # north_sumatra_area
+				area = north_sumatra_area
+				is_core = ROOT
+			}
+
+			NOT = { num_of_cities > 30 }
+		}
+		effect = {
+			change_tag = SVY
+			play_sound = decision_temple_hindu
+			set_country_flag = formed_srivijaya_flag
+			add_stability = -1
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}			
+			622 = {
+				move_capital_effect = yes
+				add_base_tax = 1
+				add_base_production = 1
+				add_base_manpower = 1
+			}
+			batak_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			central_sumatra_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			jambi_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			minangkabau_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			south_sumatra_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			north_sumatra_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			change_primary_culture = melayu
+			add_accepted_culture = batak
+			add_accepted_culture = minag
+			add_accepted_culture = lampung
+			add_accepted_culture = rejang
+			add_accepted_culture = orang_laut
+			add_accepted_culture = palembang
+			add_prestige = 25
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+}

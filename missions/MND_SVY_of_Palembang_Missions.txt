@@ -1,4 +1,4 @@
-mnd_plb_1 = {
+mnd_svy_1 = {
 	slot = 1
 	generic = no
 	ai = yes
@@ -11,7 +11,7 @@ mnd_plb_1 = {
 	}
 	has_country_shield = yes
 	
-	plb_gold_and_diamonds = {
+	svy_gold_and_diamonds = {
 		icon = mission_galleys_in_port
 		position = 1
 		required_missions = {	}
@@ -30,7 +30,7 @@ mnd_plb_1 = {
 		
 		effect = {
 			add_country_modifier = {
-				name = plb_gold #Gold
+				name = svy_gold #Gold
 				duration = 7300
 			}
 			1361 = {
@@ -38,13 +38,13 @@ mnd_plb_1 = {
 					who = ROOT
 					duration = 5475
 					power = 50
-					key = plb_and_diamonds #And Diamonds
+					key = svy_and_diamonds #And Diamonds
 				}
 			}
 		}
 	}
 	
-	plb_a_place_where_the_water_leaks = {
+	svy_a_place_where_the_water_leaks = {
 		icon = mission_portuguese_malacca
 		position = 2
 		required_missions = {  }
@@ -103,10 +103,10 @@ mnd_plb_1 = {
 		}
 	}
 	
-	plb_orang_laut = {
+	svy_orang_laut = {
 		icon = mission_look_west
 		position = 3
-		required_missions = { plb_a_place_where_the_water_leaks }
+		required_missions = { svy_a_place_where_the_water_leaks }
 		provinces_to_highlight = {
 			OR = {
 				province_id = 2677
@@ -160,7 +160,7 @@ mnd_plb_1 = {
 		
 		effect = {
 			add_country_modifier = {
-				name = plb_sea_people
+				name = svy_sea_people
 				duration = 7300
 			}
 			2675 = {
@@ -184,10 +184,10 @@ mnd_plb_1 = {
 		}
 	}
 	
-	plb_arrival_of_dragonships = {
+	svy_arrival_of_dragonships = {
 		icon = mission_to_the_south_china_sea
 		position = 4
-		required_missions = { plb_orang_laut }
+		required_missions = { svy_orang_laut }
 		provinces_to_highlight = {
 			OR = {
 				province_id = 2675
@@ -223,7 +223,7 @@ mnd_plb_1 = {
 		
 		effect = {
 			add_country_modifier = {
-				name = plb_dragonships
+				name = svy_dragonships
 				duration = 7300
 			}
 			617 = {
@@ -255,10 +255,10 @@ mnd_plb_1 = {
 		}
 	}
 	
-	plb_pirate_kings = {
+	svy_pirate_kings = {
 		icon = mission_pirate_havens
 		position = 5
-		required_missions = { plb_arrival_of_dragonships }
+		required_missions = { svy_arrival_of_dragonships }
 		provinces_to_highlight = {
 			OR = {
 				province_id = 619
@@ -307,7 +307,7 @@ mnd_plb_1 = {
 }
 
 
-mnd_plb_2 = {
+mnd_svy_2 = {
 	slot = 2
 	generic = no
 	ai = yes
@@ -320,7 +320,7 @@ mnd_plb_2 = {
 	}
 	has_country_shield = yes
 	
-	plb_muara_takus = {
+	svy_muara_takus = {
 		icon = mission_city_of_victory_vij
 		position = 1
 		required_missions = {	}
@@ -357,14 +357,14 @@ mnd_plb_2 = {
 	
 		effect = {
 			add_country_modifier = {
-				name = plb_srivijaya_temples
+				name = svy_srivijaya_temples
 				duration = 7300
 			}
 			add_stability = 1
 		}
 	}
 	
-	plb_vidhyadara_torana = {
+	svy_vidhyadara_torana = {
 		icon = mission_riches_of_golconda
 		position = 2
 		required_missions = {	}
@@ -430,7 +430,7 @@ mnd_plb_2 = {
 		}
 	}
 	
-	plb_king_under_the_mountain =  {
+	svy_king_under_the_mountain =  {
 		icon = mission_unite_the_deccan
 		position = 3
 		required_missions = {	}
@@ -452,7 +452,7 @@ mnd_plb_2 = {
 		
 		effect = {
 			add_country_modifier = {
-				name = plb_shailendra_dynasty
+				name = svy_shailendra_dynasty
 				duration = 7300
 			}
 			east_java_area = {
@@ -465,10 +465,10 @@ mnd_plb_2 = {
 		}
 	}
 	
-	plb_kings_court = {
+	svy_kings_court = {
 		icon = mission_rajput_mansabdars
 		position = 4
-		required_missions = { plb_king_under_the_mountain }
+		required_missions = { svy_king_under_the_mountain }
 		provinces_to_highlight = {	
 			OR = {
 				region = malaya_region
@@ -509,12 +509,12 @@ mnd_plb_2 = {
 		}
 	}
 	
-	plb_restore_srivijaya  = {
+	svy_restore_srivijaya  = {
 		icon = mission_seize_the_dragon_throne
 		position = 6
 		required_missions = {
-			plb_kings_court
-			plb_pirate_kings
+			svy_kings_court
+			svy_pirate_kings
 		}
 		provinces_to_highlight = {
 			OR = {
@@ -574,7 +574,7 @@ mnd_plb_2 = {
 			add_mil_power = 100
 			add_stability = 1
 			add_country_modifier = {
-				name = plb_srivijaya_restored
+				name = svy_srivijaya_restored
 				duration = -1
 			}
 		}
