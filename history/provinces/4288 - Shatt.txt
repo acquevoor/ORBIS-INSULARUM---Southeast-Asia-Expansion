@@ -12,7 +12,7 @@ base_manpower = 3
 trade_goods = spices
 
 culture = al_iraqiya_arabic
-religion = sunni
+religion = mandean
 capital = "al-Qurna"
 
 is_city = yes

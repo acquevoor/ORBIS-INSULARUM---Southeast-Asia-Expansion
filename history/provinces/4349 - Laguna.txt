@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = spices
 
 culture = tagalog
-religion = animism
+religion = dayawism
 capital = "Laguna"
 
 is_city = yes

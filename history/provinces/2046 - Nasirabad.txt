@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = cotton
 
 culture = boro
-religion = hinduism
+religion = bathouism
 capital = "Nasirabad"
 
 is_city = yes

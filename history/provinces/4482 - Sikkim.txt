@@ -12,7 +12,7 @@ base_manpower = 1
 trade_goods = wool
 
 culture = tamang
-religion = vajrayana
+religion = kirati
 capital = "Yuksom"
 
 is_city = yes

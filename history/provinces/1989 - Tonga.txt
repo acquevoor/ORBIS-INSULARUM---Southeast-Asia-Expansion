@@ -13,7 +13,7 @@ trade_goods = naval_supplies
 extra_cost = 15
 
 culture = polynesian
-religion = animism
+religion = polynesianism
 capital = "Mu'a"
 
 is_city = yes

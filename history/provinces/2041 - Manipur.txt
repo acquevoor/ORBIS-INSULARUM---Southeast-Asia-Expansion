@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = cloth
 
 culture = meitei
-religion = animism
+religion = sanamahi
 capital = "Imphal"
 
 is_city = yes

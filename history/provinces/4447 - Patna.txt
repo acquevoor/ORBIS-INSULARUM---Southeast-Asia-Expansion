@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = cotton
 
 culture = garjati
-religion = hinduism
+religion = sarnaism
 capital = "Patna"
 
 is_city = yes

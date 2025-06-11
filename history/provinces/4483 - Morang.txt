@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = wool
 
 culture = kirati
-religion = vajrayana
+religion = kiratism
 capital = "Rangeli"
 
 is_city = yes

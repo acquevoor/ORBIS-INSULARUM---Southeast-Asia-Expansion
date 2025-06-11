@@ -14,7 +14,7 @@ base_manpower = 1
 trade_goods = livestock
 
 culture = rajput
-religion = hinduism
+religion = jainism
 capital = "Barmer"
 
 is_city = yes
