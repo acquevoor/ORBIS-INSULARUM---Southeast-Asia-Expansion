@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = tropical_wood
 
 culture = maori
-religion = animism
+religion = polynesianism
 capital = "Whangarei"
 
 is_city = yes

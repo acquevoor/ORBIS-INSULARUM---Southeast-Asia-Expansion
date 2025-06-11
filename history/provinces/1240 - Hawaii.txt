@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = livestock
 
 culture = polynesian
-religion = animism
+religion = polynesianism
 capital = "Kailua-Kona"
 
 is_city = yes

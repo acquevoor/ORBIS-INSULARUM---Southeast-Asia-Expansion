@@ -14,7 +14,7 @@ trade_goods = salt
 extra_cost = 18
 
 culture = al_iraqiya_arabic
-religion = shiite
+religion = mandean
 capital = "Basra"
 
 is_city = yes

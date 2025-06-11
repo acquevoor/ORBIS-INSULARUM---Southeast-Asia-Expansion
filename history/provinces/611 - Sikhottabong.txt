@@ -12,7 +12,7 @@ base_manpower = 2
 trade_goods = grain
 
 culture = lao
-religion = animism
+religion = satsana
 capital = "Sikhottabong"
 
 is_city = yes

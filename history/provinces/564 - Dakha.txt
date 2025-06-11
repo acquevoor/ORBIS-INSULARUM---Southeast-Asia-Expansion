@@ -13,7 +13,7 @@ trade_goods = cloth
 extra_cost = 13
 
 culture = assamese
-religion = hinduism
+religion = sanamahi
 capital = "Dakha"
 
 is_city = yes

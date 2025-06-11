@@ -14,7 +14,7 @@ trade_goods = incense
 extra_cost = 34
 
 culture = cantonese
-religion = confucianism
+religion = wuism
 capital = "Canton"
 
 is_city = yes

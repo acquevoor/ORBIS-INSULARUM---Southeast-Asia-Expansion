@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = grain
 
 culture = khasi
-religion = hinduism
+religion = sanamahi
 capital = "Maibang"
 
 is_city = yes

@@ -13,7 +13,7 @@ base_manpower = 2
 trade_goods = iron
 
 culture = yi
-religion = animism
+religion = bimoism
 capital = "Guiyang"
 
 is_city = yes

@@ -12,7 +12,7 @@ base_manpower = 1
 trade_goods = copper
 
 culture = bai
-religion = buddhism
+religion = benzhuism
 capital = "Guangnan"
 
 is_city = yes

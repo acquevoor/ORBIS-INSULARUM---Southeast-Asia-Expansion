@@ -8,7 +8,7 @@ base_manpower = 1
 trade_goods = gems
 
 culture = maori
-religion = animism
+religion = polynesianism
 capital = "Hokitika"
 
 native_size = 3

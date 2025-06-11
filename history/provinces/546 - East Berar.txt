@@ -12,7 +12,7 @@ base_manpower = 3
 trade_goods = cotton
 
 culture = gondi
-religion = hinduism
+religion = sarnaism
 capital = "Wairagarh"
 
 is_city = yes

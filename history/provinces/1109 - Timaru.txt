@@ -8,7 +8,7 @@ base_manpower = 1
 trade_goods = naval_supplies
 
 culture = maori
-religion = animism
+religion = polynesianism
 capital = "Kaiapoi"
 
 native_size = 10

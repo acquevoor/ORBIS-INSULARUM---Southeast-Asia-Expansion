@@ -12,7 +12,7 @@ base_manpower = 2
 trade_goods = livestock
 
 culture = assyrian
-religion = coptic
+religion = nestorian
 capital = "Tadmuriyah"
 
 is_city = yes

@@ -11,7 +11,7 @@ base_manpower = 3
 trade_goods = grain
 
 culture = gondi
-religion = hinduism
+religion = sarnaism
 capital = "Garha"
 
 is_city = yes

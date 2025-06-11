@@ -14,7 +14,7 @@ trade_goods = fish
 extra_cost = 8
 
 culture = cantonese
-religion = confucianism
+religion = wuism
 capital = "Macau"
 
 is_city = yes

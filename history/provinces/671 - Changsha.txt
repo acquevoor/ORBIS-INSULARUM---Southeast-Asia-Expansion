@@ -13,7 +13,7 @@ center_of_trade = 1
 trade_goods = grain
 
 culture = xiang
-religion = confucianism
+religion = daoism
 capital = "Changsha"
 
 is_city = yes

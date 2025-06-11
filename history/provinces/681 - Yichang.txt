@@ -13,7 +13,7 @@ base_manpower = 2
 trade_goods = tea
 
 culture = tujia
-religion = confucianism
+religion = nuoism
 capital = "Yichang"
 
 is_city = yes

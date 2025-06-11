@@ -8,7 +8,7 @@ base_manpower = 1
 trade_goods = cloves
 
 culture = papuan
-religion = animism
+religion = penunggu
 capital = "Manokwari"
 
 native_size = 60
