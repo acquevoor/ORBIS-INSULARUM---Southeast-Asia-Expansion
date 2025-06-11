@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = naval_supplies
 
 culture = garjati
-religion = hinduism
+religion = sarnaism
 capital = "Sonpur"
 
 is_city = yes

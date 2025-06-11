@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = fur
 
 culture = korean
-religion = confucianism
+religion = shindo
 capital = "Ganggye"
 
 is_city = yes

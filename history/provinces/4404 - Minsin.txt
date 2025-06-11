@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = grain
 
 culture = kachin
-religion = animism
+religion = natkowe
 capital = "Minsin"
 
 is_city = yes

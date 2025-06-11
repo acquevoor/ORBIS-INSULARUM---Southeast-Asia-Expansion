@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = tropical_wood
 
 culture = garjati
-religion = hinduism
+religion = sarnaism
 capital = "Jeypore"
 
 is_city = yes

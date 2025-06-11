@@ -11,7 +11,7 @@ base_manpower = 3
 trade_goods = silk
 
 culture = assamese
-religion = hinduism
+religion = sanamahi
 capital = "Goraghat"
 
 is_city = yes

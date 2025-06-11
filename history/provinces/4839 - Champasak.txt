@@ -12,7 +12,7 @@ base_manpower = 3
 trade_goods = tea
 
 culture = lao
-religion = animism
+religion = satsana
 capital = "Champasak"
 
 is_city = yes

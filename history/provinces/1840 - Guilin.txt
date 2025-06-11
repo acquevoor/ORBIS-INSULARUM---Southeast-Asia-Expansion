@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = silk
 
 culture = zhuang
-religion = confucianism
+religion = moism
 capital = "Guilin"
 
 is_city = yes

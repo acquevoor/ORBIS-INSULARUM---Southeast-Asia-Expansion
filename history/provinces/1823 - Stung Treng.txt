@@ -12,7 +12,7 @@ base_manpower = 2
 trade_goods = grain
 
 culture = bahnaric
-religion = animism
+religion = yangism
 capital = "Stung Treng"
 
 is_city = yes

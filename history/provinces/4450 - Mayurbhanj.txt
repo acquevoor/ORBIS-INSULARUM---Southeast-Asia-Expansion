@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = iron
 
 culture = garjati
-religion = hinduism
+religion = sarnaism
 capital = "Mayurbhanj"
 
 is_city = yes

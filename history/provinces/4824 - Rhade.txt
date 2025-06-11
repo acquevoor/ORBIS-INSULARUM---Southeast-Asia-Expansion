@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = copper
 
 culture = bahnaric
-religion = animism
+religion = yangism
 capital = "Rhade"
 
 is_city = yes

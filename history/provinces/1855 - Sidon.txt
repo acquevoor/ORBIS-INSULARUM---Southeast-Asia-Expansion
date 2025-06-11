@@ -12,7 +12,7 @@ base_manpower = 3
 trade_goods = naval_supplies
 
 culture = al_suryah_arabic
-religion = shiite
+religion = druze
 capital = "Sayda"
 
 is_city = yes

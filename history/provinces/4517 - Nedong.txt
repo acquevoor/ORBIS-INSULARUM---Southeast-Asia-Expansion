@@ -11,7 +11,7 @@ base_manpower = 3
 trade_goods = grain
 
 culture = mishmi
-religion = vajrayana
+religion = bon
 capital = "Nedong"
 
 is_city = yes

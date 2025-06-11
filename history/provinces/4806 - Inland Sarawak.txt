@@ -8,7 +8,7 @@ base_manpower = 1
 trade_goods = unknown
 
 culture = dayak
-religion = animism
+religion = kaharingan
 capital = "Kapit"
 
 native_size = 2

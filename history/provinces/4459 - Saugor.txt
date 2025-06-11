@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = grain
 
 culture = gondi
-religion = hinduism
+religion = sarnaism
 capital = "Saugor"
 
 is_city = yes

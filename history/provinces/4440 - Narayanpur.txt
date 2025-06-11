@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = tea
 
 culture = chutia
-religion = hinduism
+religion = donyism
 capital = "Narayanpur"
 
 is_city = yes

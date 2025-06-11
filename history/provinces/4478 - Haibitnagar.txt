@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = cotton
 
 culture = garo
-religion = hinduism
+religion = bathouism
 capital = "Haibatnagar"
 
 is_city = yes

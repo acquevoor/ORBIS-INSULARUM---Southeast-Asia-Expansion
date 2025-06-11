@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = livestock
 
 culture = melanesian
-religion = animism
+religion = penunggu
 capital = "Bau"
 
 is_city = yes

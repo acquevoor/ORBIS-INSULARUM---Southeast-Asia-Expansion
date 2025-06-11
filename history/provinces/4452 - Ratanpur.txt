@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = grain
 
 culture = kurukh
-religion = hinduism
+religion = sarnaism
 capital = "Ratanpur"
 
 is_city = yes

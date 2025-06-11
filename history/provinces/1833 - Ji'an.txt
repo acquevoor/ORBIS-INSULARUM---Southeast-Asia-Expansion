@@ -12,7 +12,7 @@ base_manpower = 2
 trade_goods = cloth
 
 culture = gan
-religion = confucianism
+religion = daoism
 capital = "Ji'an"
 
 is_city = yes
