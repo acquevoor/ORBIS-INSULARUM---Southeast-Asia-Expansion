@@ -15,7 +15,7 @@ base_manpower = 1
 trade_goods = grain
 
 culture = assyrian
-religion = coptic
+religion = nestorian
 capital = "Deir ez-Zor"
 
 is_city = yes

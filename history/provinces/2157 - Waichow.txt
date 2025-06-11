@@ -12,7 +12,7 @@ base_manpower = 3
 trade_goods = grain
 
 culture = hakka
-religion = confucianism
+religion = daoism
 capital = "Waichow"
 
 is_city = yes

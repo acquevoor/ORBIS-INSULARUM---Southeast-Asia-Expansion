@@ -13,7 +13,7 @@ base_manpower = 3
 trade_goods = gold
 
 culture = yao
-religion = animism
+religion = hmongism
 capital = "Hengyang"
 
 is_city = yes

@@ -12,7 +12,7 @@ base_manpower = 2
 trade_goods = tea
 
 culture = bai
-religion = buddhism
+religion = benzhuism
 capital = "Pu'er"
 
 is_city = yes

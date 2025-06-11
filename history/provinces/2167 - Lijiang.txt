@@ -12,7 +12,7 @@ base_manpower = 1
 trade_goods = tea
 
 culture = nakhi
-religion = buddhism
+religion = bon
 capital = "Lijiang"
 
 is_city = yes

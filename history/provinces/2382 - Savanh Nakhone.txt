@@ -13,7 +13,7 @@ base_manpower = 2
 trade_goods = copper
 
 culture = katuic
-religion = animism
+religion = yangism
 capital = "Luang Namtha"
 
 is_city = yes

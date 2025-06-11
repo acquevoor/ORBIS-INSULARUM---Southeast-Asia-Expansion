@@ -13,7 +13,7 @@ base_manpower = 2
 trade_goods = grain
 
 culture = kradai
-religion = animism
+religion = moism
 capital = "Bozhou"
 
 is_city = yes

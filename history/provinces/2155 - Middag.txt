@@ -8,7 +8,7 @@ base_manpower = 3
 trade_goods = unknown
 
 culture = formosan
-religion = animism
+religion = anito
 capital = "Middag"
 
 native_size = 60

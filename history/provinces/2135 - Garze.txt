@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = grain
 
 culture = qiang
-religion = vajrayana
+religion = bon
 capital = "Garze"
 
 is_city = yes

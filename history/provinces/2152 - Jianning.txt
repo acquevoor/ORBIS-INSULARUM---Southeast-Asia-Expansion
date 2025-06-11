@@ -13,7 +13,7 @@ base_manpower = 2
 trade_goods = tea
 
 culture = chimin
-religion = confucianism
+religion = wuism
 capital = "Jianning"
 
 is_city = yes

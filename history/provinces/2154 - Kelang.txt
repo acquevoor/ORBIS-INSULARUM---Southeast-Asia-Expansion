@@ -8,7 +8,7 @@ base_manpower = 2
 trade_goods = unknown
 
 culture = formosan
-religion = animism
+religion = anito
 capital = "Kelang"
 
 native_size = 60

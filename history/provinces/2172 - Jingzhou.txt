@@ -13,7 +13,7 @@ base_manpower = 2
 trade_goods = grain
 
 culture = tujia
-religion = confucianism
+religion = nuoism
 capital = "Jingzhou"
 
 is_city = yes

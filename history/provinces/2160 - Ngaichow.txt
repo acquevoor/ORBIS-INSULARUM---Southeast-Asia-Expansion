@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = incense
 
 culture = hlai
-religion = confucianism
+religion = moism
 capital = "Ngaichow"
 
 is_city = yes

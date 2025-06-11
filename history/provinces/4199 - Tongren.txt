@@ -12,7 +12,7 @@ base_manpower = 1
 trade_goods = tea
 
 culture = miao
-religion = animism
+religion = nuoism
 capital = "Tongren"
 
 is_city = yes

@@ -12,7 +12,7 @@ base_manpower = 2
 trade_goods = paper
 
 culture = wu
-religion = confucianism
+religion = wuism
 capital = "Shaoxin"
 
 is_city = yes

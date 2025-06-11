@@ -13,7 +13,7 @@ base_manpower = 1
 trade_goods = cotton
 
 culture = munda
-religion = hinduism
+religion = sarnaism
 capital = "Surguja"
 
 is_city = yes

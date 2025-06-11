@@ -12,7 +12,7 @@ base_manpower = 2
 trade_goods = sugar
 
 culture = assyrian
-religion = coptic
+religion = yazidi
 capital = "Sindjar"
 
 is_city = yes

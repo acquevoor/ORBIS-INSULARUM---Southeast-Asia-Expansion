@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = tea
 
 culture = bahnaric
-religion = animism
+religion = yangism
 capital = "Tay Nguyen"
 
 is_city = yes

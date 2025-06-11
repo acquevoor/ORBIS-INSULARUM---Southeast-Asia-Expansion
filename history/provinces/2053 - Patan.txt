@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = cloth
 
 culture = gujarati
-religion = hinduism
+religion = jainism
 capital = "Patan"
 
 is_city = yes
