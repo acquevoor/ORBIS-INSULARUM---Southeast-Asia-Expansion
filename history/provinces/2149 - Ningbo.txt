@@ -14,7 +14,7 @@ trade_goods = naval_supplies
 extra_cost = 8
 
 culture = wu
-religion = confucianism
+religion = wuism
 capital = "Ningbo"
 
 is_city = yes

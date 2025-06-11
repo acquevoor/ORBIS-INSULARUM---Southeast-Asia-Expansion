@@ -12,7 +12,7 @@ base_manpower = 2
 trade_goods = chinaware
 
 culture = chimin
-religion = confucianism
+religion = wuism
 capital = "Chaochow"
 
 is_city = yes

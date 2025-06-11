@@ -13,7 +13,7 @@ base_manpower = 2
 trade_goods = tea
 
 culture = kamsui
-religion = animism
+religion = hmongism
 capital = "Yuanling"
 
 is_city = yes

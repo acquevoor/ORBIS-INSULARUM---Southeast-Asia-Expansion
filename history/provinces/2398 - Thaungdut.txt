@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = grain
 
 culture = mizo
-religion = animism
+religion = satsana
 capital = "Thaungdut"
 
 is_city = yes

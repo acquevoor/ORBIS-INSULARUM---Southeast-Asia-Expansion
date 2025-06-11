@@ -8,7 +8,7 @@ base_manpower = 1
 trade_goods = unknown
 
 culture = papuan
-religion = animism
+religion = penunggu
 capital = "Asmat"
 
 native_size = 60

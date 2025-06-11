@@ -13,7 +13,7 @@ base_manpower = 1
 trade_goods = paper
 
 culture = she
-religion = confucianism
+religion = daoism
 capital = "Tingzhou"
 
 is_city = yes

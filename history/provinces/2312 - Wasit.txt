@@ -13,7 +13,7 @@ base_manpower = 2
 trade_goods = grain
 
 culture = al_iraqiya_arabic
-religion = sunni
+religion = mandean
 capital = "Wasit"
 
 is_city = yes

@@ -12,7 +12,7 @@ base_manpower = 2
 trade_goods = sugar
 
 culture = chimin
-religion = confucianism
+religion = wuism
 capital = "Leichow"
 
 is_city = yes

@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = tropical_wood
 
 culture = karen
-religion = animism
+religion = satsana
 capital = "Mong Pai"
 
 is_city = yes

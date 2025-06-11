@@ -15,7 +15,7 @@ base_manpower = 3
 trade_goods = cotton
 
 culture = rajput
-religion = hinduism
+religion = jainism
 capital = "Jalor"
 
 is_city = yes

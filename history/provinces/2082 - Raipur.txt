@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = grain
 
 culture = gondi
-religion = hinduism
+religion = sarnaism
 capital = "Raipur"
 
 is_city = yes

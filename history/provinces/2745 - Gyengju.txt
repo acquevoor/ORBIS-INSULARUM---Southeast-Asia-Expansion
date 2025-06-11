@@ -13,7 +13,7 @@ trade_goods = tea
 extra_cost = 16
 
 culture = korean
-religion = confucianism
+religion = shindo
 capital = "Gyeongju"
 
 is_city = yes

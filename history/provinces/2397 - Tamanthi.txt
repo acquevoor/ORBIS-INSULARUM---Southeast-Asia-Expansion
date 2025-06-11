@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = tea
 
 culture = shan
-religion = animism
+religion = satsana
 capital = "Tamanthi"
 
 is_city = yes

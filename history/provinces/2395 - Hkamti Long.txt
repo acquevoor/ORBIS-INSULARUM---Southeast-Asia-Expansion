@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = grain
 
 culture = kachin
-religion = animism
+religion = natkowe
 capital = "Hkamti Long"
 
 is_city = yes

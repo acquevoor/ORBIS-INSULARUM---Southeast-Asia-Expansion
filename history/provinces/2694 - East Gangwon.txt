@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = fish
 
 culture = korean
-religion = confucianism
+religion = shindo
 capital = "Gangneung"
 
 is_city = yes

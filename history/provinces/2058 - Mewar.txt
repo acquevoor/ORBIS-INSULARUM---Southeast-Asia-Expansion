@@ -11,7 +11,7 @@ base_manpower = 3
 trade_goods = gold
 
 culture = mewari
-religion = hinduism
+religion = jainism
 capital = "Kotharia"
 
 is_city = yes

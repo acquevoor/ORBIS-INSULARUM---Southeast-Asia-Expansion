@@ -11,7 +11,7 @@ base_manpower = 3
 trade_goods = paper
 
 culture = wu
-religion = confucianism
+religion = wuism
 capital = "Ningguo"
 
 is_city = yes
