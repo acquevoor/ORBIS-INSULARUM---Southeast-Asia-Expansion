@@ -1,0 +1,63 @@
+# Manipur
+# 2041 Manipur - 5/16/2025 12:37:49 PM 
+ 
+add_core = MLB
+owner = MLB
+controller = MLB
+base_tax = 2
+base_production = 2
+base_manpower = 1
+
+trade_goods = cloth
+
+culture = meitei
+religion = sanamahi
+capital = "Imphal"
+
+is_city = yes
+
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+
+
+
+
+1597.1.1 = {
+	fort_15th = yes
+}
+1732.1.1 = {
+	unrest = 5
+	religion = hinduism
+}
+1735.1.1 = {
+	unrest = 0
+}
+1758.1.1 = {
+	owner = TAU
+	controller = TAU
+	add_core = TAU
+}
+1760.1.1 = {
+	discovered_by = GBR
+}
+1769.1.1 = {
+	unrest = 6
+}
+1773.1.1 = {
+	unrest = 0
+}
+1782.1.1 = {
+	owner = MLB
+	controller = MLB
+	add_core = MLB
+	remove_core = TAU
+}
+1819.1.1 = {
+	owner = TAU
+	controller = TAU
+	add_core = TAU
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

@@ -1,0 +1,28 @@
+# Barus
+# 4811 Barus - 5/16/2025 12:37:50 PM 
+add_core = BRS
+add_core = PGR
+add_core = HTR
+owner = BRS
+controller = BRS
+base_tax = 5
+base_production = 5
+base_manpower = 3
+center_of_trade = 1
+trade_goods = incense
+extra_cost = 8
+culture = batak
+religion = sunni
+capital = "Barus"
+is_city = yes
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = MNG
+discovered_by = MNG
+discovered_by = MNG
+discovered_by = MNG
+1509.1.1 = { 
+	discovered_by = POR
+}

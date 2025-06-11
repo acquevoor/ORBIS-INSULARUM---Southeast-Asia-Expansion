@@ -1,0 +1,42 @@
+# Chanda
+# 2050 Chanda - 5/16/2025 12:37:49 PM 
+ 
+add_core = BRR
+add_core = CHD
+owner = CHD
+controller = CHD
+base_tax = 2
+base_production = 1
+base_manpower = 2
+
+trade_goods = tropical_wood
+
+culture = gondi
+religion = sarnaism
+capital = "Ballarsah"
+
+is_city = yes
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+1690.1.1 = {
+	discovered_by = ENG
+}
+1707.5.12 = {
+	discovered_by = GBR
+}
+1757.1.1 = {
+	owner = NAG
+	controller = NAG
+	add_core = NAG
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###
