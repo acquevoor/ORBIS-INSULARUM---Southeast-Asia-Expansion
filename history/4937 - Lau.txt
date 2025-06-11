@@ -1,0 +1,29 @@
+# Lau
+# 4937 Lau - 5/16/2025 12:37:50 PM 
+ 
+add_core = LAI
+owner = LAI
+controller = LAI
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = livestock
+
+culture = melanesian
+religion = penunggu
+capital = "Bau"
+
+is_city = yes
+
+discovered_by = polynesian_tech
+
+
+
+
+1643.1.1 = {
+	discovered_by = NED
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###
