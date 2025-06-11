@@ -3,7 +3,7 @@
 government = tribal
 add_government_reform = mandala_reform
 primary_culture = batak
-religion = animism
+religion = pelebegu
 secondary_religion = mahayana
 technology_group = chinese
 capital = 619

@@ -2,7 +2,7 @@ government = tribal
 add_government_reform = stateless_society
 government_rank = 1
 primary_culture = toraja
-religion = animism
+religion = alukta
 technology_group = chinese
 capital = 4845
 

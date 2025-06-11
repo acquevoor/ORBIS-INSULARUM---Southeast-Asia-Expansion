@@ -1,11 +1,11 @@
 government = monarchy
 add_government_reform = autocracy_reform
 primary_culture = palembang
-religion = mahayana
+religion = hinduism
 technology_group = chinese
 capital = 622# Palembang
 religious_school = shafii_school
-secondary_religion = hinduism
+secondary_religion = mahayana
 
 historical_friend = MNG
 historical_friend = PSA

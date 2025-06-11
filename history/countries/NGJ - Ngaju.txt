@@ -1,7 +1,7 @@
 government = tribal
 add_government_reform = stateless_society
 primary_culture = dayak
-religion = animism
+religion = kaharingan
 technology_group = chinese
 capital = 2707
 1444.1.1 = { 
