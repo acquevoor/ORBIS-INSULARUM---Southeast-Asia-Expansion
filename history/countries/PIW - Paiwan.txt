@@ -2,7 +2,7 @@ government = tribal
 add_government_reform = mandala_reform
 government_rank = 1
 primary_culture = formosan
-religion = animism
+religion = anito
 technology_group = chinese
 capital = 738
 

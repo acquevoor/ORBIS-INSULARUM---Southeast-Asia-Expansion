@@ -2,7 +2,7 @@ government = tribal
 add_government_reform = stateless_society
 government_rank = 1
 primary_culture = nias
-religion = animism
+religion = pelebegu
 technology_group = chinese
 capital = 2684
 

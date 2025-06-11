@@ -1,11 +1,11 @@
 government = monarchy
 add_government_reform = autocracy_reform
 primary_culture = lampung
-religion = hinduism
+religion = kepuyangan
 technology_group = chinese
 capital = 623# Tulangbewang
 religious_school = shafii_school
-secondary_religion = animism
+secondary_religion = hinduism
 
 historical_friend = MNG
 historical_friend = MLC
