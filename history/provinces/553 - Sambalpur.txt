@@ -14,7 +14,7 @@ trade_goods = cloth
 extra_cost = 8
 
 culture = garjati
-religion = hinduism
+religion = sarnaism
 capital = "Sambalpur"
 
 is_city = yes

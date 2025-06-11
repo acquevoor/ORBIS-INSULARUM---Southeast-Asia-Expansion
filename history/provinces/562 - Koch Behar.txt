@@ -11,7 +11,7 @@ base_manpower = 3
 trade_goods = grain
 
 culture = kachari
-religion = hinduism
+religion = kiratism
 capital = "Kamatapur"
 
 is_city = yes

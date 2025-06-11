@@ -13,7 +13,7 @@ base_manpower = 1
 trade_goods = ivory
 
 culture = katuic
-religion = animism
+religion = yangism
 capital = "Attapeu"
 
 is_city = yes

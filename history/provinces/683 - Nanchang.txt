@@ -13,7 +13,7 @@ center_of_trade = 1
 trade_goods = paper
 
 culture = gan
-religion = confucianism
+religion = daoism
 capital = "Nanchang"
 
 is_city = yes

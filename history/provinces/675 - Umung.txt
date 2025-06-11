@@ -12,7 +12,7 @@ base_manpower = 3
 trade_goods = copper
 
 culture = yi
-religion = animism
+religion = bimoism
 capital = "Umung"
 
 is_city = yes

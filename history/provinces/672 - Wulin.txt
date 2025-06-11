@@ -14,7 +14,7 @@ trade_goods = cotton
 extra_cost = 8
 
 culture = xiang
-religion = confucianism
+religion = daoism
 capital = "Wulin"
 
 is_city = yes

@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = fish
 
 culture = maori
-religion = animism
+religion = polynesianism
 capital = "Tauranga"
 
 is_city = yes

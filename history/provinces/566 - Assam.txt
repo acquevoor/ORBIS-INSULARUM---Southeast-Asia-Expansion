@@ -11,7 +11,7 @@ base_manpower = 3
 trade_goods = grain
 
 culture = ahom
-religion = hinduism
+religion = sanamahi
 capital = "Charaideo"
 
 is_city = yes

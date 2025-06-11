@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = grain
 
 culture = korean
-religion = confucianism
+religion = shindo
 capital = "Cheongju"
 
 is_city = yes

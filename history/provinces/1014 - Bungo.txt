@@ -11,7 +11,7 @@ base_manpower = 3
 trade_goods = tropical_wood
 
 culture = kyushuan
-religion = shinto
+religion = ryukyuan
 capital = "Funai"
 
 is_city = yes

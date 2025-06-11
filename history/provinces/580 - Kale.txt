@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = ivory
 
 culture = mizo
-religion = animism
+religion = satsana
 capital = "Kale"
 
 is_city = yes

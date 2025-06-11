@@ -12,7 +12,7 @@ base_manpower = 1
 trade_goods = tea
 
 culture = bugan
-religion = confucianism
+religion = yangism
 capital = "Lingyun"
 
 is_city = yes

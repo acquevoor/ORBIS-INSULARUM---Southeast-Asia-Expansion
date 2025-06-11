@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = cotton
 
 culture = palaungic
-religion = buddhism
+religion = satsana
 capital = "Mong Nai"
 
 is_city = yes

@@ -12,7 +12,7 @@ base_manpower = 3
 trade_goods = chinaware
 
 culture = lao
-religion = animism
+religion = satsana
 capital = "Xieng Tong"
 
 is_city = yes

@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = tropical_wood
 
 culture = naga
-religion = hinduism
+religion = sanamahi
 capital = "Dimapur"
 
 is_city = yes

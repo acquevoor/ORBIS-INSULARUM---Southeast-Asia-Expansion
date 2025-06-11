@@ -11,7 +11,7 @@ base_manpower = 3
 trade_goods = silk
 
 culture = tani
-religion = hinduism
+religion = donyism
 capital = "Koliabar"
 
 is_city = yes

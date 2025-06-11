@@ -13,7 +13,7 @@ trade_goods = chinaware
 extra_cost = 16
 
 culture = kyushuan
-religion = shinto
+religion = ryukyuan
 capital = "Hakata"
 
 is_city = yes

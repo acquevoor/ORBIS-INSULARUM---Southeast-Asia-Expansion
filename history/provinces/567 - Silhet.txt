@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = cotton
 
 culture = khasi
-religion = hinduism
+religion = sanamahi
 capital = "Sylhet"
 
 is_city = yes

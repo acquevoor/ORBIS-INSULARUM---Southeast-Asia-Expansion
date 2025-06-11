@@ -12,7 +12,7 @@ base_manpower = 3
 trade_goods = chinaware
 
 culture = cantonese
-religion = confucianism
+religion = wuism
 capital = "Shiuhing"
 
 is_city = yes

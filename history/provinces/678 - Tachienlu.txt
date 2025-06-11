@@ -11,7 +11,7 @@ base_manpower = 2
 trade_goods = tea
 
 culture = pumi
-religion = vajrayana
+religion = benzhuism
 capital = "Tachienlu"
 
 is_city = yes

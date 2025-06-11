@@ -14,7 +14,7 @@ base_manpower = 1
 trade_goods = livestock
 
 culture = assyrian
-religion = coptic
+religion = nestorian
 capital = "Ar Rakkah"
 
 is_city = yes
