@@ -316,7 +316,7 @@ christian = {
 
 	anglican = {
 		color = { 135 77 255 }
-		icon = 28
+		icon = 65
 		allow_female_defenders_of_the_faith = yes
 
 		allowed_center_conversion = {
@@ -354,7 +354,7 @@ christian = {
 	
 	hussite = {
 		color = { 244 55 9 }
-		icon = 22
+		icon = 61
 
 		allowed_center_conversion = {
 			catholic
@@ -390,7 +390,7 @@ christian = {
 	
 	protestant = {
 		color = { 0 0 178 }
-		icon = 2
+		icon = 3
 
 		allowed_conversion = {
 			reformed
@@ -532,7 +532,7 @@ christian = {
 
 	reformed = {
 		color = { 76 76 229 }
-		icon = 3
+		icon = 4
 		allowed_conversion = {
 			protestant
 			catholic
@@ -651,7 +651,7 @@ christian = {
 
 	orthodox = {
 		color = { 178 127 0 }
-		icon = 4
+		icon = 2
 		country = {
 			stability_cost_modifier = -0.1
 			tolerance_own = 1
@@ -814,7 +814,7 @@ christian = {
 		flag_emblem_index_range = { 1 4 }
 
 		color = { 178 38 76 }
-		icon = 14
+		icon = 5
 		country = {
 			defensiveness = 0.15
 			tolerance_own = 1
@@ -828,6 +828,7 @@ christian = {
 		}
 		allowed_center_conversion = {
 			orthodox
+			nestorian
 			sunni
 			shiite
 			ibadi
@@ -845,6 +846,151 @@ christian = {
 			send_monks_to_establish_monasteries
 			promote_territorial_rights
 			will_of_the_martyrs
+		}
+	}
+
+	nestorian = {
+		color = { 73 0 60 }
+		icon = 68
+		allowed_center_conversion = {
+			orthodox
+			coptic
+			sunni
+			shiite
+			ibadi
+		}
+			country = {
+			war_exhaustion_cost = -0.1
+			tolerance_own = 1
+		}
+		country_as_secondary = {
+			war_exhaustion_cost = -0.2
+		}
+		province = {
+			local_missionary_strength = -0.01
+		}
+		on_convert = {
+			change_religion = nestorian
+			add_prestige = -100
+			add_country_modifier = {
+			name = "conversion_zeal"
+			duration = 3650
+			}
+		}
+		heretic = { MOLOKAN DUKHOBOR KHLYST SKOPTSY ICONOCLAST }
+
+		has_patriarchs = yes		# Uses patriarch authority
+		misguided_heretic = yes		# Other christians hate them less
+		orthodox_icons = {
+			# If no icon has ai_will_do above 1 - <current patriarch authority> , the AI will not enact it. (60% PA = 0.6 -> ai_will_do has to be at least 0.4)
+
+			icon_michael = {
+				discipline = 0.05
+				manpower_recovery_speed = 0.1
+
+				allow = {
+					always = yes
+				}
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						factor = 0
+						is_at_war = no
+					}
+					modifier = {
+						factor = 3
+						is_in_important_war = yes
+					}
+				}
+			}
+
+			icon_eleusa = {
+				global_unrest = -3
+				harsh_treatment_cost = -0.25
+
+				allow = {
+					always = yes
+				}
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						factor = 0
+						NOT = {
+							calc_true_if = {
+								all_owned_province = {
+									unrest = 1
+								}
+								amount = 2
+							}
+						}
+					}
+					modifier = {
+						factor = 3
+						calc_true_if = {
+							all_owned_province = {
+								unrest = 1
+							}
+							amount = 5
+						}
+					}
+				}
+			}
+
+			icon_pancreator = {
+				development_cost = -0.10
+				build_cost = -0.1
+
+				allow = {
+					always = yes
+				}
+				ai_will_do = {
+					factor = 0
+				}
+			}
+
+			icon_nicholas = {
+				improve_relation_modifier = 0.25
+				ae_impact = -0.1
+				allow = {
+					always = yes
+				}
+				ai_will_do = {
+					factor = 0.5
+				}
+			}
+
+			icon_climacus = {
+				global_institution_spread = 0.25
+				embracement_cost = -0.2
+				allow = {
+					always = yes
+				}
+				ai_will_do = {
+					factor = 0.8
+					modifier = {
+						factor = 0
+						NOT = {
+							calc_true_if = {
+								all_owned_province = {
+									current_institution = 1
+									NOT = { current_institution = 95 }
+								}
+								amount = 1
+							}
+						}
+					}
+					modifier = {
+						factor = 3
+						calc_true_if = {
+							all_owned_province = {
+								current_institution = 1
+								NOT = { current_institution = 95 }
+							}
+							amount = 5
+						}
+					}
+				}
+			}
 		}
 	}
 	
@@ -1379,7 +1525,7 @@ muslim = {
 	
 	sunni = {
 		color = { 0 153 0 }
-		icon = 5
+		icon = 6
 		allowed_center_conversion = {
 			ibadi
 			shiite
@@ -1396,14 +1542,14 @@ muslim = {
 			local_missionary_strength = -0.02
 		}
 		
-		heretic = { BEKTASHI AHMADI ZIKRI YAZIDI }
+		heretic = { BEKTASHI AHMADI ZIKRI }
 		
 		uses_piety = yes				# Uses piety mechanics
 	}
 
 	shiite = {
 		color = { 0 204 0 }
-		icon = 6	
+		icon = 7	
 		allowed_center_conversion = {
 			sunni
 			ibadi
@@ -1420,14 +1566,14 @@ muslim = {
 			local_missionary_strength = -0.02
 		}
 		
-		heretic = { DRUZE HURUFI ZAIDI }
+		heretic = { HURUFI ZAIDI }
 		
 		uses_piety = yes				# Uses piety mechanics
 	}
 	
 	ibadi = {
 		color = { 0 102 0 }
-		icon = 16	
+		icon = 8	
 		allowed_center_conversion = {
 			sunni
 			shiite
@@ -1448,6 +1594,25 @@ muslim = {
 		
 		uses_piety = yes				# Uses piety mechanics
 	}
+
+	druze = {
+		color = { 0 51 47 }
+		icon = 47
+
+		country = {
+			heir_chance = 1.0
+			ae_impact = -0.05
+		}
+		country_as_secondary = {
+			ae_impact = -0.1
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		heretic = { BAB BAHAI }
+
+		uses_piety = yes				# Uses piety mechanics
+	}
 	
 	harmonized_modifier = harmonized_muslim
 	
@@ -1462,7 +1627,7 @@ eastern = {
 
 	confucianism = {
 		color = { 214 229 140 }
-		icon = 9
+		icon = 50
 		country = {
 			tolerance_heretic = 2
 			adm_tech_cost_modifier = -0.1
@@ -1471,13 +1636,13 @@ eastern = {
 			adm_tech_cost_modifier = -0.1
 			stability_cost_modifier = -0.1
 		}
-		heretic = { TAOIST WUISM }
+		heretic = { MOHISM LIXUE HANRU JINGXUE }
 		uses_harmony = yes
 	}
 
 	shinto = {
 		color = { 204 0 0 }
-		icon = 10
+		icon = 17
 		country = {
 			land_morale = 0.1
 			tolerance_heretic = 2
@@ -1495,6 +1660,81 @@ eastern = {
 		harmonized_modifier = harmonized_shinto
 		
 	}
+
+	daoism = { #taoism
+		color = { 191 199 170 }
+		icon = 16
+		province = {
+			local_manpower_modifier = 0.15
+		}
+		country = {
+			tolerance_own = 2
+			tolerance_heretics = 1
+			global_missionary_strength = 0.02
+		}
+	
+		heretic = { QUANZHEN TAIPING ZHENGYI }
+
+		harmonized_modifier = harmonized_shinto
+	}
+
+	wuism = { #chinese_animist
+		color = { 84 44 44 }
+		icon = 23
+		province = {
+			local_trade_power_modifier = 0.2
+		}
+		country = {
+			advisor_pool = 1
+			stability_cost_modifier = -0.15
+		}
+
+		heretic = { MAZUISM MAITREYA }
+
+		harmonized_modifier = harmonized_shinto
+	}
+
+	shindo = { #korean
+		color = { 164 22 22 }
+		icon = 63
+		province = {
+			local_autonomy = -0.05
+		}
+		country = {
+			free_leader_pool = 1
+			global_unrest = -1
+		}
+
+		heretic = { ABKAI BUGANI KAMUYI YZNG }
+	}
+
+	ryukyuan = { #ryukyuan
+		color = { 170 180 193 }
+		icon = 72
+		province = {
+			local_autonomy = -0.05
+		}
+		country = {
+			free_leader_pool = 1
+			global_unrest = -1
+		}
+
+		heretic = { UGANJU KAMIISM NOROISM }
+	}
+
+	bon = { #tibetan
+		color = { 164 22 22 }
+		icon = 66
+		province = {
+			local_autonomy = -0.05
+		}
+		country = {
+			free_leader_pool = 1
+			global_unrest = -1
+		}
+
+		heretic = { YUNGDRUNG MUN HSEXJE }
+	}
 	
 	crusade_name = CRUSADE
 	
@@ -1508,7 +1748,7 @@ dharmic = {
 
 	hinduism = {
 		color = { 0 204 204 }
-		icon = 8
+		icon = 9
 		allowed_conversion = {
 			sikhism
 			buddhism
@@ -1542,8 +1782,8 @@ dharmic = {
 	}
 
 	jainism = {
-		color = { 0 204 204 }
-		icon = 32
+		color = { 10 72 72 }
+		icon = 14
 		allowed_conversion = {
 			sikhism
 			buddhism
@@ -1551,26 +1791,16 @@ dharmic = {
 			vajrayana
 			hinduism
 		}
-	
 		country = {
-			tolerance_heathen = 2
-			tolerance_own = 1
-			advisor_pool = 0.1
-			idea_cost = -0.05
-			global_unrest = -1
+			tolerance_own = 2
+			improve_relation_modifier = 0.15
 		}
-	
 		country_as_secondary = {
-			tolerance_heretic = 1
-			tolerance_heathen = 2
+			horde_unity = 0.5
 		}
-		
-		personal_deity = yes
-		
 		on_convert = {
-			change_religion = hinduism
+			change_religion = jain
 			add_prestige = -100
-			
 			add_country_modifier = {
 				name = "conversion_zeal"
 				duration = 3650
@@ -1582,7 +1812,8 @@ dharmic = {
 
 	buddhism = { #Theravada
 		color = { 204 76 0 }
-		icon = 24
+		icon = 11
+
 		allowed_center_conversion = {
 			mahayana
 			vajrayana
@@ -1605,7 +1836,7 @@ dharmic = {
 			}
 		}
 		
-		heretic = { HINAYANA }
+		heretic = { HINAYANA SARVASTIVADA }
 		
 		harmonized_modifier = harmonized_buddhism
 		
@@ -1614,7 +1845,8 @@ dharmic = {
 	
 	vajrayana = {
 		color = { 204 76 76 }
-		icon = 25
+		icon = 10
+
 		allowed_conversion = {
 			mahayana
 			buddhism #Theravada
@@ -1645,7 +1877,8 @@ dharmic = {
 	
 	mahayana = {
 		color = { 204 76 127 }
-		icon = 23
+		icon = 10
+
 		allowed_conversion = {
 			vajrayana
 			buddhism #Theravada
@@ -1672,7 +1905,7 @@ dharmic = {
 		
 		harmonized_modifier = harmonized_mahayana
 		
-		heretic = { CHAN ZEN MAITREYA }
+		heretic = { ZEN MADHYAMAKA VIJNAVADA AMIDISM }
 		
 		uses_karma = yes
 	}
@@ -2303,7 +2536,7 @@ pagan = {
 
 	animism = {
 		color = { 127 0 0 }
-		icon = 11
+		icon = 22
 		country = {
 			tolerance_own = 1
 			global_unrest = -1
@@ -2318,9 +2551,43 @@ pagan = {
 		
 		heretic = { SNAKE_CLAN }
 	}
+	polynesianism = {
+		color = { 141 242 164 }
+		icon = 71
+		country = {
+			tolerance_own = 1
+			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		heretic = { LATMIKA PELEISM }
+	}
+	anito = { #formosan
+		color = { 142 103 21 }
+		icon = 64
+		country = {
+			tolerance_own = 1
+			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		heretic = { DIWATA LUMAWIG }
+	}
 	shamanism = { #Fetishism, tag kept to avoid breaking saves.
 		color = { 127 76 76 }
-		icon = 12
+		icon = 56
 		country = {
 			tolerance_heathen = 2
 			diplomatic_reputation = 1
@@ -2335,7 +2602,7 @@ pagan = {
 	}
 	totemism = {
 		color = { 127 115 115 }
-		icon = 13
+		icon = 21
 		country = {
 			tolerance_own = 1
 			global_unrest = -1
@@ -2355,7 +2622,7 @@ pagan = {
 	
 	inti = {
 		color = { 64 115 115 }
-		icon = 18
+		icon = 51
 		country = {
 			tolerance_own = 2
 			global_autonomy = -0.05
@@ -2380,7 +2647,7 @@ pagan = {
 	
 	nahuatl = {
 		color = { 64 115 64 }
-		icon = 17
+		icon = 18
 		country = {
 			land_morale = 0.1
 			global_unrest = -2
@@ -2427,7 +2694,7 @@ pagan = {
 	}
 	
 	norse_pagan_reformed = {
-		icon = 21
+		icon = 24
 		color = { 191 191 191 }
 		country = {
 			land_forcelimit_modifier = 0.10
@@ -2443,7 +2710,7 @@ pagan = {
 		
 		personal_deity = yes
 		
-		heretic = { OLD_NORSE }	
+		heretic = { BLOT IRMINSUL }	
 	}
 	
 	tengri_pagan_reformed = {
@@ -2454,11 +2721,11 @@ pagan = {
 			global_regiment_cost = -0.2
 		}
 		can_have_secondary_religion = yes
-		heretic = { OLD_TENGRI }
+		heretic = { MUNKH ULGANISM }
 	}
 	
 	dreamtime = {
-		icon = 29
+		icon = 69
 		color = { 197 133 43 }
 		country = {
 			shock_damage_received = -0.05
@@ -2475,7 +2742,7 @@ pagan = {
 
 kepuyangan = {
 	color = { 160 205 130 }
-	icon = 30
+	icon = 34
 	country = {
 		tolerance_own = 2
 		advisor_pool = 1
@@ -2493,7 +2760,7 @@ kepuyangan = {
 
 pelebegu = {
 	color = { 230 60 40 }
-	icon = 33
+	icon = 37
 	country = {
 		army_tradition_from_battle = 0.1
 		land_forcelimit_modifier = 0.05
@@ -2510,7 +2777,7 @@ pelebegu = {
 
 kejawen = {
 	color = { 153 85 51 }
-	icon = 34
+	icon = 38
 	country = {
 		tolerance_own = 1
 		global_unrest = -1
@@ -2528,7 +2795,7 @@ kejawen = {
 
 jatisunda = {
 	color = { 102 40 0 }
-	icon = 35
+	icon = 42
 	country = {
 		tolerance_own = 2
 		idea_cost = -0.02
@@ -2545,7 +2812,7 @@ jatisunda = {
 
 kaharingan = {
 	color = { 210 45 10 }
-	icon = 36
+	icon = 43
 	country = {
 		army_tradition_from_battle = 0.1
 		warscore_cost_vs_other_religion = -0.05
@@ -2559,7 +2826,7 @@ kaharingan = {
 
 bomohism = {
 	color = { 68 0 68 }
-	icon = 37
+	icon = 45
 	country = {
 		tolerance_own = 1
 		discipline = 0.02
@@ -2573,7 +2840,7 @@ bomohism = {
 
 tolotang = {
 	color = { 30 190 145 }
-	icon = 38
+	icon = 53
 	country = {
 		legitimacy = 1.5
 		global_trade_goods_size_modifier = 0.1
@@ -2590,7 +2857,7 @@ tolotang = {
 
 alukta = {
 	color = { 120 25 10 }
-	icon = 39
+	icon = 49
 	country = {
 		legitimacy = 1.5
 		prestige_decay = -0.1
@@ -2606,7 +2873,7 @@ alukta = {
 
 malesung = {
 	color = { 10 80 10 }
-	icon = 40
+	icon = 41
 	country = {
 		legitimacy = 1.5
 		prestige_decay = -0.1
@@ -2622,7 +2889,7 @@ malesung = {
 
 yangism = {
 	color = { 40 130 75 }
-	icon = 41
+	icon = 36
 	country = {
 		global_unrest = -1
 		hostile_attrition = 2
@@ -2635,8 +2902,8 @@ yangism = {
 }
 
 dayawism = {
-	color = { 150 65 200 }
-	icon = 42
+	color = { 66 18 64 }
+	icon = 62
 	country = {
 		global_unrest = -1
 		tolerance_heathen = 2
@@ -2650,7 +2917,7 @@ dayawism = {
 
 penunggu = {
 	color = { 55 55 55 }
-	icon = 43
+	icon = 57
 	country = {
 		morale_damage = 0.1
 		war_exhaustion = -0.05
@@ -2664,7 +2931,7 @@ penunggu = {
 
 kapua = {
 	color = { 210 200 25 }
-	icon = 44
+	icon = 52
 	country = {
 		range = 0.5
 		global_trade_goods_size_modifier = 0.15
@@ -2678,7 +2945,7 @@ kapua = {
 
 marapu = {
 	color = { 65 35 30 }
-	icon = 45
+	icon = 33
 	country = {
 		global_monthly_devastation = -0.02
 		same_culture_advisor_cost = -0.15
@@ -2692,7 +2959,7 @@ marapu = {
 
 satsana = {
 	color = { 200 255 160 }
-	icon = 46
+	icon = 39
 	country = {
 		tolerance_own = 2
 		stability_cost_modifier = -0.05
@@ -2701,12 +2968,12 @@ satsana = {
 		tolerance_own = 1
 		loot_amount = 0.25
 	}
-	heretic = { MUJII }
+	heretic = { MUJII PHIBAN CHAOBAAN }
 }
 
-natkowe = {
-	color = { 255 175 150 }
-	icon = 47
+moism = {
+	color = { 235 170 160 }
+	icon = 40
 	country = {
 		tolerance_own = 1
 		advisor_cost = -0.05
@@ -2715,11 +2982,39 @@ natkowe = {
 		tolerance_own = 2
 		global_unrest = -0.5
 	}
-	heretic = { NIAM_TRE SAKHUA }
+	heretic = { LAIGUO ZHUPING }
+}
+
+natkowe = {
+	color = { 255 175 150 }
+	icon = 58
+	country = {
+		tolerance_own = 1
+		advisor_cost = -0.05
+	}
+	country_as_secondary = {
+		tolerance_own = 2
+		global_unrest = -0.5
+	}
+	heretic = { NIAM_TRE SAKHUA TAGHYA }
 }
 
 sanamahi = {
 	color = { 255 165 145 }
+	icon = 35
+	country = {
+		tolerance_own = 1
+		advisor_cost = -0.05
+	}
+	country_as_secondary = {
+		tolerance_own = 2
+		global_unrest = -0.5
+	}
+	heretic = { LAIRENBI PHURA TAIBANG }
+}
+
+bathouism = {
+	color = { 38 63 125 }
 	icon = 48
 	country = {
 		tolerance_own = 1
@@ -2729,12 +3024,12 @@ sanamahi = {
 		tolerance_own = 2
 		global_unrest = -0.5
 	}
-	heretic = { BATHOUISM }
+	heretic = { SIDBWLA GWTHAR MAINAO }
 }
 
 sarnaism = {
 	color = { 230 160 140 }
-	icon = 49
+	icon = 44
 	country = {
 		tolerance_own = 1
 		advisor_cost = -0.05
@@ -2743,12 +3038,12 @@ sarnaism = {
 		tolerance_own = 2
 		global_unrest = -0.5
 	}
-	heretic = { YAKKA }
+	heretic = { YAKKA DISUM }
 }
 
-moism = {
-	color = { 235 170 160 }
-	icon = 50
+koyapunem = {
+	color = { 230 160 140 }
+	icon = 44
 	country = {
 		tolerance_own = 1
 		advisor_cost = -0.05
@@ -2757,7 +3052,91 @@ moism = {
 		tolerance_own = 2
 		global_unrest = -0.5
 	}
-	heretic = { KEV }
+	heretic = { YAKKA DISUM KOYAPUNEM }
+}
+
+benzhuism = {
+	color = { 0.8 0.2 0.2 }
+	icon = 13
+	country = {
+		tolerance_own = 1
+		advisor_cost = -0.05
+	}
+	country_as_secondary = {
+		tolerance_own = 2
+		global_unrest = -0.5
+	}
+	heretic = { DUANDE SHENMI ZUSHEN }
+}
+
+nuoism = {
+	color = { 0.08 0.13 0.28 }
+	icon = 54
+	country = {
+		tolerance_own = 1
+		advisor_cost = -0.05
+	}
+	country_as_secondary = {
+		tolerance_own = 2
+		global_unrest = -0.5
+	}
+	heretic = { TUDIGONG NUOMU }
+}
+
+bimoism = {
+	color = { 0.5 0.1 0.1 }
+	icon = 59
+	country = {
+		tolerance_own = 1
+		advisor_cost = -0.05
+	}
+	country_as_secondary = {
+		tolerance_own = 2
+		global_unrest = -0.5
+	}
+	heretic = { SANI AZHE }
+}
+
+hmongism = {
+	color = { 0.6 0.3 0.4 }
+	icon = 46
+	country = {
+		tolerance_own = 1
+		advisor_cost = -0.05
+	}
+	country_as_secondary = {
+		tolerance_own = 2
+		global_unrest = -0.5
+	}
+	heretic = { NTSUJPLIG QHUABE }
+}
+
+kiratism = {
+	color = { 235 170 160 }
+	icon = 60
+	country = {
+		tolerance_own = 1
+		advisor_cost = -0.05
+	}
+	country_as_secondary = {
+		tolerance_own = 2
+		global_unrest = -0.5
+	}
+	heretic = { YUMAISM SATHYANG }
+}
+
+donyism = {
+	color = { 235 170 160 }
+	icon = 20
+	country = {
+		tolerance_own = 1
+		advisor_cost = -0.05
+	}
+	country_as_secondary = {
+		tolerance_own = 2
+		global_unrest = -0.5
+	}
+	heretic = { SEDISM }
 }
 	
 	crusade_name = CRUSADE
@@ -2771,7 +3150,7 @@ jewish_group = {
 	defender_of_faith = yes
 
 	jewish = {
-		icon = 20
+		icon = 32
 		color = { 0 156 231 }
 		country = {
 			tolerance_own = 2
@@ -2800,7 +3179,7 @@ jewish_group = {
 			judaism_purim_teachings_aspect
 		}
 		
-		heretic = { SAMARITAN KARAITE }
+		heretic = { SAMARITAN KARAITE MESSIANIC HASIDIC }
 
 		celebrate = {
 			cost = 200
@@ -2900,7 +3279,7 @@ zoroastrian_group = {
 	flag_emblem_index_range = { 110 110 }
 	defender_of_faith = yes
 	zoroastrian = {
-		icon = 26
+		icon = 25
 		color = { 127 178 51 }
 		province = {
 			local_missionary_strength = -0.02
@@ -2931,7 +3310,59 @@ zoroastrian_group = {
 			blessing_dakhma
 		}
 		
-		heretic = { MAZDAKI MANICHEAN }	
+		heretic = { MAZDAKI ZURVANITE KHURAMISM GAYOMARTHIAN }	
+	}
+
+	manichean = { # Manichean Religion
+		icon = 55
+		color = { 54 73 100 }
+		
+		province = {
+			local_missionary_strength = -0.03
+		}
+		country = {
+			tolerance_own = 2
+			stability_cost_modifier = -0.1
+		}
+		country_as_secondary = {
+			stability_cost_modifier = -0.15
+		}
+		heretic = { DARKNESS }
+	}
+
+	mandean = { # Mandeanism
+		icon = 70
+		color = { 242 246 237 }
+		
+		province = {
+			local_missionary_strength = -0.03
+		}
+		country = {
+			tolerance_own = 2
+			stability_cost_modifier = -0.1
+		}
+		country_as_secondary = {
+			stability_cost_modifier = -0.15
+		}
+		heretic = { SABIAN }
+	}
+
+	yazidi = { # Yazidi Religion
+		color = { 0.2 0.2 0.7 }
+		icon = 67
+
+		country = {
+			tolerance_own = 1
+			heir_chance = 1.0
+		}
+		country_as_secondary = {
+			global_regiment_recruit_speed = -0.25
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		heretic = { YARSANISM SHAMSANI }
+		uses_piety = yes
 	}
 	
 	harmonized_modifier = harmonized_zoroastrian_group
