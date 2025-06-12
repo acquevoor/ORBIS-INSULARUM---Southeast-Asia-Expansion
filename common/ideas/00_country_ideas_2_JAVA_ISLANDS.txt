@@ -141,12 +141,14 @@ DMK_ideas = {
 #Majapahit
 MAJ_ideas = {
     start = {
-        diplomatic_upkeep = 2
-        global_ship_cost = -0.15
+        prestige = 1
+        manpower_in_true_faith_provinces = 0.1
+        monarch_admin_power = -2
+        burghers_loyalty_modifier = -0.1
     }
 
     bonus = {
-        discipline = 0.05
+        heavy_ship_power = 0.15
     }
 
     trigger = {
@@ -155,35 +157,38 @@ MAJ_ideas = {
 
     free = yes
 
-    MAJ_mpu_tantular_and_kakawin = {
-        prestige = 1.5
-        legitimacy = 1
+    MAJ_ken_arok_descendant = {
+        spy_offence = 0.25
+        global_unrest = 1
     }
 
-    MAJ_sumpah_palemahan_nusantara = {
-        core_creation = -0.25
+    MAJ_cetbang = {
+        artillery_cost = -0.10
+        heavy_ship_cost = -0.10
     }
 
-    MAJ_keraton_and_dharmadwipa = {
-        idea_cost = -0.1
+    MAJ_bhinekka_tunggal_ika = {
+        tolerance_heretic = 2
+		tolerance_heathen = 1  
     }
 
-    MAJ_wani_ing_pagelengan = {
-        land_morale = 0.15
+    MAJ_kris_homeland = {
+        morale_damage_received = -0.1
+        hostile_attrition = 1
     }
 
-    MAJ_sistem_mandala_politik = {
-        liberty_desire = -10
-        autonomy_change_time = -0.15
+    MAJ_caturmarga = {    
+        leader_land_shock = 1
+        tolerance_own = 2
     }
 
-    MAJ_kawasan_majapahit = {
-        sailors_recovery_speed = 0.15
+    MAJ_nagarakretagama = {
+        diplomats = 2
+        diplomatic_upkeep = 1
     }
 
-    MAJ_mahamantri_and_datu_kerajaan = {
-        governing_capacity = 100
-        governing_capacity_modifier = 0.1
+    MAJ_antara_nusa = {
+        global_prosperity_growth = 0.1
     }
 }
 
