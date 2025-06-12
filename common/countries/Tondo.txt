@@ -1,5 +1,5 @@
 #Country Name: Please see filename.
-graphical_culture = asiangfx
+graphical_culture = southamericagfx
 color = { 135 30 27 }
 historical_idea_groups = { 
 	trade_ideas

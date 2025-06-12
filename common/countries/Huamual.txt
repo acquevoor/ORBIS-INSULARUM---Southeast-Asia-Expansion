@@ -1,5 +1,5 @@
 #Country Name: Huamual
-graphical_culture = asiangfx
+graphical_culture = africangfx
 ##
 color = { 152 50 70 }
 historical_idea_groups = { 

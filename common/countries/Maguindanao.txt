@@ -1,5 +1,5 @@
 #Country Name: Please see filename.
-graphical_culture = asiangfx
+graphical_culture = muslimgfx
 #color = {  210 189 35  }
 color = { 161 61 45 }
 revolutionary_colors = { 8 5 8 }

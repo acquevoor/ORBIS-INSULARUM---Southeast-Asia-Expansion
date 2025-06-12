@@ -1,5 +1,5 @@
 #Country Name: Please see filename.
-graphical_culture = asiangfx
+graphical_culture = muslimgfx
 #color = { 117  179  128 } Jambi color repl.
 color = { 224 182 31 }
 revolutionary_colors = { 2 14 10 }

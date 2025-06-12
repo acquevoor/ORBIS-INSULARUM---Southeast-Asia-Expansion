@@ -1,5 +1,5 @@
 #Country Name: Please see filename.
-graphical_culture = asiangfx
+graphical_culture = southamericagfx
 special_unit_culture = south_east_asian_special
 #color = { 255  186  0 }
 color = { 163 68 149 }

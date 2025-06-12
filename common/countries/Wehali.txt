@@ -1,5 +1,5 @@
 #Country Name: Wehali
-graphical_culture = asiangfx
+graphical_culture = africangfx
 ##
 #color = { 37  91  226 }
 color = { 82 138 179 }
