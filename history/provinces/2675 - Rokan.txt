@@ -1,9 +1,9 @@
 # Rokan
 # 2675 Rokan - 5/16/2025 12:37:50 PM 
-add_core = DLI
+add_core = KMR
 add_core = PGR
-owner = PGR
-controller = PGR
+owner = KMR
+controller = KMR
 base_tax = 4
 base_production = 4
 base_manpower = 3
