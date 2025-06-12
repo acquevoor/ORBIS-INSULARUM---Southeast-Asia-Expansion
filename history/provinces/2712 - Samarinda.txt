@@ -8,7 +8,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 
-trade_goods = tropical_wood
+trade_goods = spices
 
 culture = kutai
 religion = hinduism

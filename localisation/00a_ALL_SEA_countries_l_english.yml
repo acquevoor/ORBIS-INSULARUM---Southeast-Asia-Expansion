@@ -100,6 +100,10 @@ l_english:
   TRJ:0 "Tana Toraja"
   TRJ_ADJ:0 "Torajans"
 
+#Renamed
+  BLI:0 "Gelgel"
+  PGU:0 "Hongsarwatoi"
+
 # Palawan Region
   TAY:0 "Taytay"
   TAY_ADJ:0 "Taytayan"
