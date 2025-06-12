@@ -1,0 +1,30 @@
+# Bali
+# 631 Bali - 5/16/2025 12:37:49 PM 
+add_core = BLI
+owner = BLI
+controller = BLI
+base_tax = 5
+base_production = 5
+base_manpower = 4
+trade_goods = cloth
+culture = bali
+religion = hinduism
+capital = "Gianyar"
+is_city = yes
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = MNG
+discovered_by = MNG
+discovered_by = MNG
+1500.1.1 = { 
+	owner = BLI
+	controller = BLI
+}
+1512.1.1 = { 
+	discovered_by = POR
+}
+1597.1.1 = { 
+	discovered_by = NED
+}

@@ -1,0 +1,46 @@
+# Acambaro
+# 4573 Acambaro - 5/16/2025 12:37:50 PM 
+ 
+add_core = OTO
+owner = OTO
+controller = OTO
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = wool
+
+culture = otomi
+religion = nahuatl
+capital = "Acambaro"
+
+native_size = 5
+native_ferocity =  1
+native_hostileness = 2
+
+discovered_by = mesoamerican
+
+add_province_triggered_modifier = MAY_obsidian_source
+
+
+
+1470.1.1 = {
+	owner = TAR
+	controller = TAR
+	add_core = TAR
+}
+1530.1.1 = {
+	discovered_by = SPA
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	is_city = yes
+}
+1810.9.16 = {
+	owner = MEX
+	add_core = MEX
+	controller = MEX
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

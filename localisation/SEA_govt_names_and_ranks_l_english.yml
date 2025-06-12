@@ -1,0 +1,85 @@
+﻿l_english:
+  # Sulawesi Rajanate
+  WANUA:0 "Wanua"
+  TOMANURUNG:0 "Tomanurung"
+
+  ARUNG:0 "Arung"
+  KARAENG:0 "Karaeng"
+
+  ARUNG:0 "Arung"
+  ARUNG_BAINE:0 "Arung Baine"  # Optional for female rulers
+
+  PRINCE_CONSORT:0 "Prince Consort"
+  PRINCESS:0 "Princess"
+
+  HEIR:0 "Heir"
+  HEIR_fem:0 "Heir"
+
+  # Moluccan Rajanate
+  NEGERI:0 "Negeri"
+  ULI:0 "Uli"
+
+  KAPITAN:0 "Kapitan"
+  KOLANO:0 "Kolano"
+  
+  BOKI:0 "Boki"
+  BOKI_RAJA:0 "Boki Raja"
+  RATU:0 "Ratu"
+  
+  # Borneo Rajanate
+  BANUA:0 "Banua"
+  KADATUAN:0 "Kadatuan"
+  
+  PANGERAAN:0 "Pangeran"
+  RAJA:0 "Raja"
+  MAHARAJA:0 "Maharaja"
+  PUTRI:0 "Putri"
+  RANI:0 "Rani"
+  MAHARANI:0 "Maharani"
+  
+  # Java Rajanate
+  KADIPATEN:0 "Kadipaten"
+  KERATON:0 "Keraton"
+
+  ADIPATI:0 "Adipati"
+  RAJA:0 "Raja"
+  MAHARAJA:0 "Maharaja"
+  GUSTI_KANJENG:0 "Gusti Kanjeng"
+  RANI:0 "Rani"
+  MAHARANI:0 "Maharani"
+  
+  # Sumatra & West Malaysia Rajanate
+  NAGARI:0 "Nagari"
+  KERAJAAN:0 "Kerajaan"
+  KEDATUAN:0 "Kedatuan"
+  DATUK:0 "Datuk"
+  DATIN:0 "Datin"
+  RAJA:0 "Raja"
+  MAHARAJA:0 "Maharaja"
+  RATU:0 "Ratu"
+  PENGIRAN:0 "Pengiran"
+  PENGIRAN_RATU:0 "Pangeran Ratu"
+  MAHARATU:0 "Maharatu"
+
+  #Minang Mechanics
+ adat_minangkabau_legacy:0 "Adat Minangkabau"
+ adat_minangkabau:0 "Adat Minangkabau"
+ adat_minangkabau_desc:0 "Adat Minangkabau is a confederation of local chieftains with the most powerful of clans of the land bestowed by the matriarch to influence decisions"
+ adat_minangkabau_legacy_desc:0 "Adat Minangkabau is a confederation of local chieftains with the most powerful of clans of the land bestowed by the matriarch to influence decisions."
+ adat_minangkabau_ruler:0 "Pangulu"
+ adat_minangkabau_ruler_female:0 "Bundo Kanduang"
+
+ new_buddhist_events.1_decision: "Choose Personal Deity"
+ new_buddhist_events.1_decision_desc: "Sometimes one regrets one's choices. Why should one's choice as a young [Root.Monarch.GetTitle] of which deity to follow apply for the rest of one's life? Fortunately, our arrangements with the Shrine Maiden allow us some flexibility on the matter."
+ new_buddhist_events.1_decision_tt: "Has an §YEstate Privilege§! which allows the change of the Personal Deity"
+ hindu_events.1.t:0 "Worship of Bhagawans"
+
+ PRINCE_CONSORT:0 "Prince Consort"
+  PRINCESS:0 "Princess"
+  
+  HEIR:0 "Heir"
+  HEIR_fem:0 "Heir"
+
+	BARANGAY:0 "Barangay"
+	GRAND_BARANGAY:0 "Dakilang Barangay"
+	GREAT_BARANGAY:0 "Dakilang Kaharian"

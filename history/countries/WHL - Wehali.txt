@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+primary_culture = timor
+religion = animism
+technology_group = chinese
+capital = 635
+1440.1.1 = { 
+	monarch = { 
+		name = "Benu Renggong"
+		dynasty = "Solan"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}

@@ -1,0 +1,86 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+special_unit_culture = south_east_asian_special
+
+color = { 136  117  90 }
+revolutionary_colors = { 16 8 16 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"An #0" = 10
+	"Quy Ly #0" = 10
+	"Han Thuong #0" = 10
+	"Ngoi #0" = 10
+	"Quy Khoang #0" = 10
+	"Loi #0" = 20
+	"Nguyen Long #0" = 20
+	"Bang Co #0" = 20
+	"Nghi Dan #0" = 20
+	"Tu Thanh #0" = 20
+	"Tranh #0" = 20
+	"Thuan #0" = 20
+	"Tuan #0" = 20
+	"Oanh #0" = 20
+	"Y #0" = 20
+	"Xuan #0" = 20
+	"Dang Dung #0" = 20
+	"Dang Doanh #0" = 20
+	"Trang Tong #0" = 20
+	"Phuc Hai #0" = 20
+	"Phuc Nguyen #0" = 20
+	"Mau Hop #0" = 20
+	"Kinh Chi #0" = 20
+	"Kinh Cung #0" = 20
+	"Kinh Khoan #0" = 20
+	"Kinh Vu #0" = 20
+	"Duy Duong #0" = 20
+	"Duy Phuong #0" = 20
+	"Duy Tuong #0" = 20
+	"Duy Than #0" = 20
+	"Duy Dieu #0" = 20
+	"Duy Khiem #0" = 20
+	"Hue #0" = 10
+	"Quang Toan #0" = 10
+	"Duy Hop #0" = 20
+	
+	"Kim Anh #0" = -1
+	"Thuy Tram #0" = -1
+	"Bich Ngoc #0" = -1
+	"Phuong Nga #0" = -1
+	"Thanh Thao #0" = -1
+}
+
+leader_names = {
+	An An-Dung Anh Anh-Tai Anh-Tuan Anh-Viet Bac Bang Bao Bao-Chinh Bao-Dung Bao-Huan Bao-Long Bao-Ngoc Bao-Quy Bao-Thang Ba-Quat Bieu-Duc Bi- Binh Binh-Minh Bo-Linh Bo-ng Bui Buu Cadao Cam Can-vn Can-Duc-vn Canh Cao Cham Chan Chau Chi Chien Chieu-Giang Chim Chinh Chuong Chu-Thong-vn Co-i Cong Cong-Uan-vn Cuong Da Dai-Hanh-vn Dam Dan-vn Dang Dang-Quang Danh Dao-Co-vn Dat Dien Dien-Bam Dien-Han Diep Dieu-Hien Dinh Dinh-Die Dinh-Ho Dinh-Nghe D-oan Doanh Dong Dong-Pha Du Duc Due- Dung Duoc Duo-ng Duong-Hoan-vn Duy Duy-Hien Duy-Viet Gap Giang Giang-Chau Gia-p Ha Hac Hai Han Hao Hao-Ngoc Hau Hien Hiep Hieu Hoa Hoai-Viet Hoang-vn Hoang-Anh Hoang-Nam Hoang-Nguyen Hoang-Quan Hoang-Tin Hoang-Thien Hoang-Vu Hong Ho-Phong Hue- Huan Hung Huong Hu-u Huu-Kiet Huu-Thuc Huy Huy-Lam Huynh Hy Kh-a Khai Khang Khanh Khi-em Khoa Khoan Khoa-t Khoi Khue- Khuong Kinh-Duong Kie-m Kie-n Kien-Tanh Kiet Kim Kim-Long Kinh Khuong-Dan Khuong-Minh Khuong-Nghia Khuong-Ngung Lich Lien Lie-u Linh Loan Loc Loi Long Long-Can-vn Long-Tuong Long-Viet Luan Luc Luong Luye-n Mac Mai Man-vn Manh Mien-Tham Mien-Trinh Minh Minh-Hoang Minh-Huy Minh-Quan Minh-Quyen Minh-Thien Minh-Tri Minh-Vu Muoi My Nam Ngam-Sam Nga-n Nghia-vn Nghiep Ngoc Ngung Nguyen Nha-m Nhan Nhan-Cung Nhan-Phuc Nhat Nhat-Canh-vn Nhat-Ton-vn Nhat-Vu Ngoa-Trieu-vn Nghi-Dan Nhieu Nhu Ninh Pham Phat Phat-Ma-vn Phi Phi-Son Phong Phu Phuc Phuc Phuoc Qua- Qua-n Quang Quoc Quoc-Bao Quoc-Hung Quoc-Huy Quoc-Trung Quoc-Viet Quy Quyen Quynh Sahn Sam-vn Sang Sanh Sieu-vn Son Son-Huy Su- Tai Tam Tam-Kha Tan Tanh Tao Thach Thai Thai-Son Tham-Khue Tham-Tri Than Thang Thanh The-Huy Thie-u Thiem Thien Thien-An Thien-Dinh Thien-To-vn Thieu-vn Thieu-Tu Thinh Tho Thoai Thong Thu Thu-Do Thua-Du Thua-My Thuan Thuan-An Thuc Thuong Thuy Thuye-t Tien Tien-Chu Tiep Tieu Tin Tinh Toan Toan-Trung Ton-Tin Tong Tong-Quyen Tong-Huan Trac Trang-Cu Trang-Liet Trai Tri Triet Trieu Tr-ong Trong-Ngo Trong-Nghia Tru- Truong-Son Truc Truong Tu Tu-Cung Tu-Gian Tuan Tuan-Dung Tuan-Kiet Tuan-Minh Tung Tung-Hieu Tuong Tuy Tuyen Uy Van Van-Bang Van-Chuong Van-Lang Van-Long Van-Luong Van-Son Van-Tien Vie-m Vien Viet Vinh Vinh-San Vo Vu Vui Vuong Xao Xuan Xuan-Binh Xuan-Phuc Xuong-Ngap Xuong-Quan Xuong-Van Xuong-Xi
+}
+
+ship_names = {
+	"Tran Canh" "Tran Hoang" "Tran Khâm" "Tran Thuyên"
+	"Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Lê"
+	"Tran Phu" "Tran Kính" "Tran Hien" "Tran Ngung"
+	"Tran An" "Thái Tông" "Thánh Tông" "Nhân Tông"
+	"Anh Tông" "Minh Tông" "Hien Tông" "Du Tông"
+	"Nghe Tông" "Due Tông" "Thuan Tông"
+}

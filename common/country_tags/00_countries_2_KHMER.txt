@@ -1,0 +1,10 @@
+# ANCIENT EMPIRE
+### CAMBODIA ###############################################
+
+# Cambodia splinter states
+OUD = "countries/Oudong.txt"
+CTK = "countries/Chatoumuk.txt"
+LVK = "countries/Lavek.txt"
+
+#Former Khmer land
+ISH = "countries/Ishana.txt"

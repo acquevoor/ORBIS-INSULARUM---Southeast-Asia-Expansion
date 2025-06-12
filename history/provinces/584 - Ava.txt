@@ -1,0 +1,49 @@
+# Ava
+# 584 Ava - 5/16/2025 12:37:49 PM 
+ 
+add_core = AVA
+owner = AVA
+controller = AVA
+base_tax = 6
+base_production = 6
+base_manpower = 4
+
+center_of_trade = 2
+trade_goods = gems
+extra_cost = 16
+
+culture = burmese
+religion = buddhism
+capital = "Ava"
+
+is_city = yes
+fort_15th = yes
+
+discovered_by = chinese
+discovered_by = indian
+
+
+
+
+1527.1.1 = {
+	owner = SST
+	controller = SST
+	add_core = SST
+	remove_core = AVA
+}
+1535.1.1 = {
+	discovered_by = POR
+}
+1554.1.1 = {
+	add_core = TAU
+}
+1555.1.22 = {
+	controller = TAU
+}
+1563.4.1 = {
+	owner = TAU
+	remove_core = SST
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

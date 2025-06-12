@@ -1,0 +1,69 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 211  95  73 }
+revolutionary_colors = { 5  0  8 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	diplomatic_ideas
+	administrative_ideas	
+	expansion_ideas
+	spy_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	indian_archers
+	indian_arquebusier
+	sikh_hit_and_run
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Chandra #0" = 20
+	"Budh #0" = 10
+	"Pururoba #0" = 10
+	"Nahusha #0" = 10
+	"Yayati #0" = 10
+	"Druhyus #0" = 10
+	"Babhru #0" = 10
+	"Setu #0" = 10
+	"Anarta #0" = 10
+	"Gandhar #0" = 5
+	"Dharmma #0" = 20
+	"Dhrita #0" = 10
+	"Durmad #0" = 10
+	"Pracheta #0" = 10
+	"Parachi #0" = 10
+	"Parabasu #0" = 10
+	"Arijit #0" = 10
+	"Sujit #0" = 10
+	"Puru Sen #0" = 10
+	"Bibarn #0" = 10
+	"Megh Barna #0" = 10
+	"Mangaldahi #0" = -1
+	"Jira #0" = -1
+	"Hira #0" = -1
+}
+
+leader_names = {
+	Abujam Adhikarimayum Ahanthem Aheibam Akham Akoijam Amakcham Amom Angom Angomjambam Arambam Aribam Arubam Asem Athokpam Atom Ayekpam Chabungbam Chakpram Chanambam Chandam Chingakham Chingangbam Chingshubam Chingsubam Chingtham Chirom Chongtham Chungkham Elam Elangbam Gurumayum Hanglem Hanjabam Haobam Haobijam Haorambam Hawaibam Heigrujam Heikrujam Heisnam Hemmam Hidam Hijam Huidrom Huiningshumbam Huirem Huirongbam Ingudam Irengbam Irom Irungbam Kakyenlakpam Kangabam Kangjam Kangujam Karam Kayenpaibam Keisham Keithellakpam Khaidem Khangembam Khangjarakpam Kharibam Khoinaijam Khen Ahom Nagas Chutiya Raikat Koch Sutiya Kachari Barobhyan Khoinam Khoirom Khoisnam Khomdram Khongbantabam Khudrakpam Khullem Khumallambam Khumanthem Khumbongmayum Khumujam Khumukcham Khundongbam Khundrakpam Khuraijam Khuyenthem Khwairakpam Khwairampam Koijam Kongbam Kongkham Konjengbam Kshetrimayum Laikangbam Laikhuram Laiphrakpam Lairenjam Lairenlakpam Lairikyengbam Laishangbam Laishram Laithangbam Laitonjam Lambalmayum Langpoklakpam Leimajam Leimapokpam Leiphrakpam Leishangbam Leishangthem Leitam Leitanthem Lisham Loitongbam Loktongbam Longjam Lourembam Lousigam Lukram Lalhruthanga Maharabam Maibam Maibram Maikam Maimom Mainam Mairembam Maitham Mandingbam Mayangbam Mayanglambam Mayengbam Meinam Meitram Moirangmayum
+}
+
+ship_names = {
+	Brahmaputra "Chingri Mach" Darrang
+	Devi Dibang "Durga Ma" Ganga "Hilsa Mach"
+	"Ilish Mach" Machli "Kali Ma" "Kali Meghana"
+	"Kali Nauk" Kamrup Lakimpur "Lal Nauk"
+	"Loki Devi" Luhit "Manasa Devi" Manjuli
+	Meghna "Nil Nauk" "Nil Sagor" "Parvati Devi"
+	"Rui Mach" Saraswoti "Sagorer Bahini" Shakti
+	"Shaktir Nauk" "Shasti Ma" Sibsagar Trishool
+	"Uma Devi"
+}

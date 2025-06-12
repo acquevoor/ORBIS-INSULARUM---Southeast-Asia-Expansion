@@ -1,0 +1,186 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = palembang
+religion = mahayana
+technology_group = chinese
+capital = 622# Palembang
+religious_school = shafii_school
+secondary_religion = hinduism
+
+historical_friend = MNG
+historical_friend = PSA
+historical_rival = PGR 
+historical_rival = JMB 
+historical_rival = MLC
+historical_friend = GUJ
+historical_friend = MAJ
+
+1399.1.1 = { 
+	add_piety = -0.1
+}
+1444.1.1 = { 
+	monarch = { 
+		name = "Jisun"
+		dynasty = "Shi"
+		adm = 4
+		dip = 3
+		mil = 3
+		culture = wu
+		religion = sunni
+	}
+}
+1535.1.1 = {
+	religion = sunni
+	monarch = { 
+		name = "Ki Gede Ing Suro Tuo"
+		dynasty = "Palembang"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1572.1.1 = { 
+	monarch = { 
+		name = "Ki Gede Ing Suro Ilir"
+		dynasty = "Palembang"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+1589.1.1 = { 
+	monarch = { 
+		name = "Pangeran Kemas Depati"
+		dynasty = "Palembang"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+1594.1.1 = { 
+	monarch = { 
+		name = "Pangeran Madi Angsoka"
+		dynasty = "Palembang"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+1627.1.1 = { 
+	monarch = { 
+		name = "Pangeran Madi Alit"
+		dynasty = "Palembang"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1629.1.1 = { 
+	monarch = { 
+		name = "Pangeran Side Ing Puro"
+		dynasty = "Palembang"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1636.1.1 = { 
+	monarch = { 
+		name = "Pangeran Side Ing Kenayan"
+		dynasty = "Palembang"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+1652.1.1 = { 
+	monarch = { 
+		name = "Pangeran Side Ing Pesariyan"
+		dynasty = "Palembang"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1653.1.1 = { 
+	monarch = { 
+		name = "Pangeran Side Ing Rajek"
+		dynasty = "Palembang"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+1659.1.1 = { 
+	monarch = { 
+		name = "Ki Mas Hindi"
+		dynasty = "Palembang"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1706.1.1 = { 
+	monarch = { 
+		name = "Sultan Mahmud Mansyur Jayo Ing Lago"
+		dynasty = "Palembang"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+1714.1.1 = { 
+	monarch = { 
+		name = "Sultan Agung Komaruddin Sri Truno"
+		dynasty = "Palembang"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+1724.1.1 = { 
+	monarch = { 
+		name = "Sultan Mahmud Badaruddin I Jayo Wikramo"
+		dynasty = "Palembang"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1758.1.1 = { 
+	monarch = { 
+		name = "Sultan Najamuddin I"
+		dynasty = "Palembang"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1776.1.1 = { 
+	monarch = { 
+		name = "Sultan Muhammad Bahauddin"
+		dynasty = "Palembang"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1803.1.1 = { 
+	monarch = { 
+		name = "Sultan Mahmud Badaruddin II"
+		dynasty = "Palembang"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+1821.1.1 = { 
+	monarch = { 
+		name = "Sultan Ahmad Najamuddin III"
+		dynasty = "Palembang"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+government_rank = 1

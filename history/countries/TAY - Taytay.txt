@@ -1,0 +1,32 @@
+government = monarchy
+add_government_reform = plutocracy
+government_rank = 1
+technology_group = chinese
+religion = animism
+secondary_religion = sunni
+primary_culture = kuyonon
+capital = 4350#Taytay
+historical_friend = BEI
+historical_friend = SUL
+add_accepted_culture = sulawesi
+add_accepted_culture = bornean
+1424.1.1 = { 
+	monarch = { 
+		name = "Amihan"
+		dynasty = "Taytay"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+1453.1.1 = { 
+	monarch = { 
+		name = "Bagwis"
+		dynasty = "Taytay"
+		female = yes
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+add_government_reform = plutocracy

@@ -1,0 +1,36 @@
+# Albazin
+# 2102 Albazin - 5/16/2025 12:37:49 PM 
+ 
+add_core = SOL
+owner = SOL
+controller = SOL
+base_tax = 2
+base_production = 2
+base_manpower = 1
+
+trade_goods = fur
+
+culture = evenk
+religion = tengri_pagan_reformed
+
+is_city = yes
+
+discovered_by = chinese
+discovered_by = nomad_group
+
+
+
+latent_trade_goods = {
+   coal
+}
+
+1653.1.1 = {
+	owner = RUS
+	controller = RUS
+	religion = orthodox
+	culture = russian
+	trade_goods = wool
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

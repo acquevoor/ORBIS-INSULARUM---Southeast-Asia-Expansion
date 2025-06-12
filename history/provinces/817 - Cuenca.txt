@@ -1,0 +1,59 @@
+# Canari
+# 817 Canari - 5/16/2025 12:37:49 PM 
+ 
+add_core = QTO
+owner = QTO
+controller = QTO
+base_tax = 3
+base_production = 3
+base_manpower = 2
+
+trade_goods = wool
+
+culture = cara
+religion = inti
+capital = "Surampalli"
+
+is_city = yes
+
+discovered_by = south_american
+discovered_by = andean
+discovered_by = QTO
+
+
+
+
+1487.1.1 = {
+	owner = INC
+	controller = INC
+	add_core = INC
+	religion = inti
+	capital = "Tumibamba"
+}
+1533.1.1 = {
+	discovered_by = SPA
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	remove_core = INC
+	capital = "Cuenca"
+	culture = castillian
+	religion = catholic
+}
+1537.1.1 = {
+	unrest = 8
+}
+1538.1.1 = {
+	unrest = 5
+}
+1810.7.20 = {
+	owner = COL
+	controller = COL
+	add_core = COL
+}
+1819.8.7 = {
+	remove_core = SPA
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

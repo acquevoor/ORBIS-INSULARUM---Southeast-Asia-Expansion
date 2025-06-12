@@ -1,0 +1,50 @@
+# Yongping
+# 4194 Yongping - 5/16/2025 12:37:50 PM 
+ 
+add_core = MNG
+add_core = YAN
+owner = MNG
+controller = MNG
+base_tax = 3
+base_production = 3
+base_manpower = 2
+
+trade_goods = grain
+
+culture = chihan
+religion = confucianism
+capital = "Yongping"
+
+is_city = yes
+
+discovered_by = chinese
+discovered_by = nomad_group
+
+
+
+latent_trade_goods = {
+   coal
+}
+
+1519.1.1 = {
+	discovered_by = POR
+}
+1628.1.1 = {
+	unrest = 6
+}
+1644.4.1 = {
+	unrest = 0
+	owner = CSH
+	controller = CSH
+}
+1644.4.22 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+}
+1662.1.1 = {
+	remove_core = MNG
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

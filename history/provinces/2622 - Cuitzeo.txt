@@ -1,0 +1,44 @@
+# Cuitzeo
+# 2622 Cuitzeo - 5/16/2025 12:37:50 PM 
+ 
+add_core = TAR
+owner = TAR
+controller = TAR
+base_tax = 3
+base_production = 3
+base_manpower = 1
+
+trade_goods = grain
+
+culture = purepecha
+religion = nahuatl
+capital = "Zinapecuaro"
+
+is_city = yes
+native_size = 5
+native_ferocity =  1
+native_hostileness = 2
+
+discovered_by = mesoamerican
+
+
+
+
+1530.1.1 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	religion = catholic
+	unrest = 5
+}
+1541.1.1 = {
+	culture = castillian
+}
+1810.9.16 = {
+	owner = MEX
+	add_core = MEX
+	controller = MEX
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

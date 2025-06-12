@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = mandala_reform
+technology_group = chinese
+religion = animism
+primary_culture = katuic
+capital = 4840 # Xekong
+
+1444.1.1 = { 
+	monarch = { 
+		name = "Chao"
+		dynasty = "Kuy"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}

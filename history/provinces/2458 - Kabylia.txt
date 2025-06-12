@@ -1,0 +1,34 @@
+# Hodna
+# 2458 Hodna - 5/16/2025 12:37:50 PM 
+ 
+add_core = TUN
+add_core = KBA
+owner = TUN
+controller = TUN
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = salt
+
+culture = algerian
+religion = sunni
+capital = "Msila"
+
+is_city = yes
+
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+
+
+
+
+1521.1.1 = {
+	owner = ALG
+	controller = ALG
+	add_core = ALG
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

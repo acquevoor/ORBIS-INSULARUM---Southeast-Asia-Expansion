@@ -1,0 +1,203 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 1
+technology_group = chinese
+religion = mahayana
+secondary_religion = hinduism
+primary_culture = melayu
+capital = 594# Pattani
+1399.1.1 = { 
+	add_piety = -0.1
+}
+1440.1.1 = { 
+	monarch = { 
+		name = "Kelantan"
+		dynasty = "Inland"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+1470.1.1 = { 
+	monarch = { 
+		name = "Muzaffar Shah"
+		dynasty = "Inland"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+1500.1.1 = { 
+	government_rank = 1
+}
+1511.8.24 = { 
+	monarch = { 
+		name = "Isma'il Shah"
+		dynasty = "Inland"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1530.1.1 = { 
+	heir = { 
+		name = "Muzaffar Shah"
+		monarch_name = "Muzaffar Shah"
+		dynasty = "Inland"
+		birth_date = 1530.1.1
+		death_Date = 1564.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1550.1.1 = { 
+	monarch = { 
+		name = "Muzaffar Shah"
+		dynasty = "Inland"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1550.1.1 = { 
+	heir = { 
+		name = "Mansur Shah"
+		monarch_name = "Mansur Shah"
+		dynasty = "Inland"
+		birth_date = 1540.1.1
+		death_date = 1572.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1550.1.1 = { set_legacy_government = administrative_monarchy }
+1564.1.1 = { 
+	monarch = { 
+		name = "Mansur Shah"
+		dynasty = "Inland"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1572.1.1 = { 
+	monarch = { 
+		name = "Patik Siam"
+		dynasty = "Inland"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1573.1.1 = { 
+	monarch = { 
+		name = "Bahadur Shah"
+		dynasty = "Inland"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1573.1.1 = { 
+	heir = { 
+		name = "Hijau"
+		monarch_name = "Hijau"
+		dynasty = "Inland"
+		female = yes
+		birth_date = 1550.1.1
+		death_Date = 1616.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+1584.1.1 = { 
+	monarch = { 
+		name = "Hijau"
+		dynasty = "Inland"
+		adm = 5
+		dip = 4
+		mil = 2
+		female = yes
+	}
+}
+1584.1.1 = { 
+	heir = { 
+		name = "Buru"
+		monarch_name = "Buru"
+		female = yes
+		dynasty = "Inland"
+		birth_date = 1580.1.1
+		death_Date = 1624.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1616.1.1 = { 
+	monarch = { 
+		name = "Buru"
+		dynasty = "Inland"
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1616.1.1 = { 
+	heir = { 
+		name = "Ungku"
+		monarch_name = "Ungku"
+		female = yes
+		dynasty = "Inland"
+		birth_date = 1600.1.1
+		death_Date = 1635.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1624.1.1 = { 
+	monarch = { 
+		name = "Ungku"
+		female = yes
+		dynasty = "Inland"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1624.1.1 = { 
+	heir = { 
+		name = "Kening"
+		monarch_name = "Kening"
+		dynasty = "Inland"
+		birth_date = 1610.1.1
+		death_Date = 1649.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+1632.1.1 = { 
+	government_rank = 2
+}
+1635.1.1 = { 
+	monarch = { 
+		name = "Kening"
+		dynasty = "Inland"
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

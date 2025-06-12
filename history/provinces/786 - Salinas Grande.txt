@@ -1,0 +1,42 @@
+# Carmen
+# 786 Carmen - 5/16/2025 12:37:49 PM 
+ 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = unknown
+
+culture = het
+religion = animism
+capital = "Carmen"
+
+native_size = 10
+native_ferocity =  3
+
+discovered_by = south_american
+
+
+
+
+1520.1.1 = {
+	discovered_by = SPA
+}
+1779.1.1 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	is_city = yes
+	culture = castillian
+	religion = catholic
+	trade_goods = grain
+}
+1816.7.9 = {
+	owner = LAP
+	controller = LAP
+	add_core = LAP
+	remove_core = SPA
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

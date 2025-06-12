@@ -1,0 +1,28 @@
+# Kuba
+# 4089 Kuba - 5/16/2025 12:37:50 PM 
+ 
+add_core = KUB
+owner = KUB
+controller = KUB
+base_tax = 2
+base_production = 1
+base_manpower = 3
+
+center_of_trade = 1
+trade_goods = cloth
+extra_cost = 8
+
+culture = kuba
+religion = shamanism
+capital = "Kuba"
+
+is_city = yes
+
+discovered_by = central_african
+
+
+
+
+
+
+### Modified 5/16/2025 12:37:50 PM ###

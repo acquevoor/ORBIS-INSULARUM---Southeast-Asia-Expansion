@@ -1,0 +1,48 @@
+# Kamchatka
+# 1034 Kamchatka - 5/16/2025 12:37:49 PM 
+ 
+add_core = KMC
+owner = KMC
+controller = KMC
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = fish
+
+culture = kamchatkan
+religion = tengri_pagan_reformed
+capital = "Kamchatka"
+
+is_city = yes
+native_size = 50
+native_ferocity =  2
+native_hostileness = 5
+
+discovered_by = HOD
+discovered_by = CHU
+discovered_by = CHV
+discovered_by = KMC
+discovered_by = ANU
+
+
+
+
+1647.1.1 = {
+	discovered_by = RUS
+}
+1732.1.1 = {
+	owner = RUS
+	controller = RUS
+	culture = russian
+	religion = orthodox
+}
+1740.1.1 = {
+	capital = "Petropavlovsk"
+}
+1757.1.1 = {
+	add_core = RUS
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

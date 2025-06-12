@@ -1,0 +1,48 @@
+# Kurgan
+# 1076 Kurgan - 5/16/2025 12:37:49 PM 
+ 
+add_core = SIB
+add_core = SHY
+owner = SHY
+controller = SHY
+base_tax = 3
+base_production = 3
+base_manpower = 3
+
+trade_goods = fur
+
+culture = siberian
+religion = sunni
+capital = "Kurgan"
+
+is_city = yes
+
+discovered_by = nomad_group
+
+
+
+
+1468.1.1 = {
+	owner = SIB
+	controller = SIB
+	discovered_by = SIB
+	revolt_risk = 0
+}
+1582.10.23 = {
+	discovered_by = RUS
+	owner = RUS
+	controller = RUS
+	add_core = RUS
+	remove_core = SIB
+}
+1662.1.1 = {
+	capital = "Tsaryovo Gorodische"
+	culture = russian
+	religion = orthodox
+}
+1782.1.1 = {
+	capital = "Kurgan"
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

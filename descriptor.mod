@@ -1,0 +1,16 @@
+version="1.39.1"
+tags={
+	"Events"
+	"Religion"
+	"National Ideas"
+	"Gameplay"
+	"Expansion"
+	"Fixes"
+	"New Nations"
+	"Missions And Decisions"
+	"Trade"
+	"Historical"
+}
+name="ORBIS INSULARUM: Southeast Asia Expansion"
+supported_version="v1.37.5.0"
+remote_file_id="3483521525"

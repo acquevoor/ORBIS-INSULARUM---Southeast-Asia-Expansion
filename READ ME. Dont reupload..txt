@@ -1,0 +1,17 @@
+I'm looking at you Nexusmods.ru.
+
+
+- Fixed Bungku localization.
+- Reintroduced 2 Banjar cores to Batulican and Banjar
+- wallio is now prim culture of Buton
+- Fixed Gorontalo countries culture to that of the province for balance.
+- Barito is now animism
+- Landak from hindu to animism with hindu syncretic.
+- New flag for Ngaju (by TheAuditor)
+- New flag for Buton (by TheAuditor) (with minor adjustments
+- Sukadana got later historical flag.
+- Banggai flag reupdated, based on lordship of banggai and current color of their Recency flag.
+- Sukadana got 2 cores reintroduced, capital fixed.
+- Landak(tag) culture fixed
+- sumbaw(tag) culture now fixed
+- Batak(province) animism

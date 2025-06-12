@@ -1,0 +1,26 @@
+# Yao
+# 2288 Yao - 5/16/2025 12:37:50 PM 
+ 
+add_core = YAO
+owner = YAO
+controller = YAO
+base_tax = 3
+base_production = 3
+base_manpower = 1
+
+trade_goods = grain
+
+culture = bilala
+religion = sunni
+capital = "Yao"
+
+is_city = yes
+
+discovered_by = sub_saharan
+
+
+
+
+
+
+### Modified 5/16/2025 12:37:50 PM ###

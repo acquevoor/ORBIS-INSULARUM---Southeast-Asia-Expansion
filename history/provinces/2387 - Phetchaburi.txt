@@ -1,0 +1,39 @@
+# Phetchaburi
+# 2387 Phetchaburi - 5/16/2025 12:37:50 PM 
+ 
+add_core = AYU
+add_core = SUP
+owner = SUP
+controller = SUP
+base_tax = 3
+base_production = 3
+base_manpower = 3
+
+trade_goods = tropical_wood
+
+culture = central_thai
+religion = buddhism
+capital = "Phetchaburi"
+
+is_city = yes
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+1535.1.1 = {
+	discovered_by = POR
+}
+1767.4.1 = {
+	unrest = 7
+}
+1774.1.1 = {
+	unrest = 0
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

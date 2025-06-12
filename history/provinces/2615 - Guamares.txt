@@ -1,0 +1,40 @@
+# Guamares
+# 2615 Guamares - 5/16/2025 12:37:50 PM 
+ 
+add_core = GAM
+owner = GAM
+controller = GAM
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = gold
+
+culture = guamares
+religion = animism
+capital = "Pechichitane"
+
+is_city = yes
+
+discovered_by = mesoamerican
+
+
+
+
+1548.1.1 = {
+	discovered_by = SPA
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	culture = castillian
+	capital = "Guanajuato"
+	religion = catholic
+}
+1810.9.16 = {
+	owner = MEX
+	add_core = MEX
+	controller = MEX
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

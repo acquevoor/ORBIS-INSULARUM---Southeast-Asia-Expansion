@@ -1,0 +1,66 @@
+# Chikuzen
+# 1818 Chikuzen - 5/16/2025 12:37:49 PM 
+ 
+add_core = OUC
+owner = OUC
+controller = OUC
+base_tax = 5
+base_production = 3
+base_manpower = 2
+
+center_of_trade = 2
+trade_goods = chinaware
+extra_cost = 16
+
+culture = kyushuan
+religion = shinto
+capital = "Hakata"
+
+is_city = yes
+fort_15th = yes
+
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+
+
+
+latent_trade_goods = {
+   coal
+}
+
+1542.1.1 = {
+	discovered_by = POR
+}
+1550.1.1 = {
+	add_core = OTM
+}
+1557.4.3 = {
+	owner = OTM
+	controller = OTM
+}
+1584.3.1 = {
+	add_core = SMZ
+	owner = SMZ
+	controller = SMZ
+}
+1587.5.15 = {
+	add_core = MRI
+	owner = MRI
+	controller = MRI
+	remove_core = SMZ
+}
+1600.9.13 = {
+	add_core = TKG
+	owner = TKG
+	controller = TKG
+	remove_core = MRI
+}
+1603.1.1 = {
+	capital = "Fukuoka"
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

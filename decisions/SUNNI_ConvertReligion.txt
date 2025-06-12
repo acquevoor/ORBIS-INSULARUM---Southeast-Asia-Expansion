@@ -1,0 +1,50 @@
+country_decisions = {
+
+	malay_sunni_conv_rel = {
+		major = yes
+
+		potential = {
+			ai = no
+			OR = {
+				culture_group = malay
+				culture_group = filipino_g
+                culture_group = sulawesi_g
+			}
+			NOT = { 
+				has_country_flag = malay_sunni_conv_rel_decision_enabled_flag
+				religion = sunni
+			}
+		}
+
+		allow = {
+			stability = 1
+			dip_power = 300
+			is_free_or_tributary_trigger = yes
+			any_ally = {
+					religion = sunni
+					has_opinion = {
+					who = ROOT
+					value = 150
+					}
+				}
+		}
+
+		effect = {
+			country_event = {
+				id = relswap.1
+			}
+			set_country_flag = malay_sunni_conv_rel_decision_enabled_flag
+			add_stability = -1
+			add_prestige = -10
+			add_dip_power = -300
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}
+
+
+
+

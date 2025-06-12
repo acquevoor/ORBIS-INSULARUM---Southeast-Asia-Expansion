@@ -1,0 +1,57 @@
+# Thalang
+# 2391 Thalang - 5/16/2025 12:37:50 PM 
+ 
+add_core = LIG
+owner = LIG
+controller = LIG
+base_tax = 3
+base_production = 3
+base_manpower = 3
+
+trade_goods = fish
+
+culture = moklen
+religion = animism
+capital = "Thalang"
+
+is_city = yes
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = MNG
+discovered_by = MNG
+discovered_by = MNG
+
+
+
+
+1405.1.1 = {
+	discovered_by = MNG
+}
+1509.1.1 = {
+	discovered_by = POR
+}
+1521.1.1 = {
+	discovered_by = SPA
+}
+1570.1.1 = {
+	owner = AYU
+	controller = AYU
+}
+1767.4.1 = {
+	owner = LIG
+	controller = LIG
+}
+1769.1.1 = {
+	owner = AYU
+	controller = AYU
+	remove_core = LIG
+}
+1809.1.1 = {
+	add_core = TAU
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

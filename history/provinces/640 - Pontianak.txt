@@ -1,0 +1,35 @@
+# Sambas
+# 640 Sambas - 5/16/2025 12:37:49 PM
+add_core = SMB
+owner = SMB
+controller = SMB
+base_tax = 5
+base_production = 5
+base_manpower = 3
+center_of_trade = 1
+trade_goods = cloth
+extra_cost = 8
+culture = melayu
+religion = hinduism
+capital = "Pontianak"
+is_city = yes
+native_size = 60
+native_ferocity = 5
+native_hostileness = 7
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+1441.1.1 = { 
+	owner = SMB
+	controller = SMB
+}
+1521.1.1 = { 
+	discovered_by = POR
+}
+1777.1.1 = { 
+	owner = LFA
+	controller = LFA
+	add_core = LFA
+	trade_goods = gold
+}

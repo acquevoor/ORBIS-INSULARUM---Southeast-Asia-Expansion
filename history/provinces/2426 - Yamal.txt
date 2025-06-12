@@ -1,0 +1,24 @@
+# Yamal
+# 2426 Yamal - 5/16/2025 12:37:50 PM 
+ 
+
+
+
+
+discovered_by = NOV
+
+
+
+
+1450.1.1 = {
+	discovered_by = SIB
+}
+1500.1.1 = {
+	discovered_by = NOV
+}
+1581.1.1 = {
+	discovered_by = RUS
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

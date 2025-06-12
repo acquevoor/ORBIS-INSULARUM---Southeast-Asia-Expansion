@@ -1,0 +1,38 @@
+# Galápagos Islands
+# 2002 Galápagos Islands - 5/16/2025 12:37:49 PM 
+ 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = unknown
+
+culture = cara
+religion = animism
+capital = "Puerto Baquerizo Moreno"
+
+
+discovered_by = INC
+
+
+
+
+1535.3.10 = {
+	discovered_by = SPA
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	trade_goods = grain
+	is_city = yes
+	culture = castillian
+	religion = catholic
+}
+1819.12.17 = {
+	owner = COL
+	controller = COL
+	add_core = COL
+	remove_core = SPA
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

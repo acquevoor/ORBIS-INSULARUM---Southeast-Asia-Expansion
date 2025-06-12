@@ -1,0 +1,55 @@
+# Cutzamala
+# 2623 Cutzamala - 5/16/2025 12:37:50 PM 
+ 
+add_core = MAT
+owner = MAT
+controller = MAT
+base_tax = 3
+base_production = 3
+base_manpower = 1
+
+trade_goods = sugar
+
+culture = matlatzinca
+religion = nahuatl
+capital = "Cutzamala"
+
+is_city = yes
+native_size = 5
+native_ferocity =  1
+native_hostileness = 2
+fort_15th = yes
+
+discovered_by = mesoamerican
+
+
+
+
+1474.1.1 = {
+	owner = AZT
+	controller = AZT
+	add_core = AZT
+}
+1476.1.1 = {
+	owner = TAR
+	controller = TAR
+	add_core = TAR
+}
+1530.1.1 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	religion = catholic
+	unrest = 5
+}
+1541.1.1 = {
+	culture = castillian
+}
+1810.9.16 = {
+	owner = MEX
+	add_core = MEX
+	controller = MEX
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

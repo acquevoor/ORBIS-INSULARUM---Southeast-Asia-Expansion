@@ -1,0 +1,36 @@
+# Shaoxin
+# 2148 Shaoxin - 5/16/2025 12:37:49 PM 
+ 
+add_core = MNG
+add_core = WUU
+owner = MNG
+controller = MNG
+base_tax = 6
+base_production = 6
+base_manpower = 2
+
+trade_goods = paper
+
+culture = wu
+religion = confucianism
+capital = "Shaoxin"
+
+is_city = yes
+
+discovered_by = chinese
+discovered_by = nomad_group
+
+
+
+
+1519.1.1 = {
+	discovered_by = POR
+}
+1646.2.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

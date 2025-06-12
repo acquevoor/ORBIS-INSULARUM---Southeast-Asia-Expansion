@@ -1,0 +1,61 @@
+# Abkhazia
+# 1856 Abkhazia - 5/16/2025 12:37:49 PM 
+ 
+add_core = GEO
+add_core = IME
+owner = GEO
+controller = GEO
+base_tax = 2
+base_production = 2
+base_manpower = 2
+
+trade_goods = wine
+
+culture = abkhazian
+religion = orthodox
+capital = "Sukhumi"
+
+is_city = yes
+add_local_autonomy = 50
+
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
+
+
+
+
+1458.1.1 = {
+	unrest = 5
+}
+1460.1.1 = {
+	unrest = 0
+}
+1614.1.1 = {
+	unrest = 6
+}
+1617.1.1 = {
+	unrest = 2
+}
+1625.1.1 = {
+	unrest = 8
+}
+1630.1.1 = {
+	unrest = 0
+}
+1659.1.1 = {
+	unrest = 4
+}
+1665.1.1 = {
+	unrest = 0
+}
+1810.2.20 = {
+	owner = RUS
+	controller = RUS
+	add_core = RUS
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

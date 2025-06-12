@@ -1,0 +1,84 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+special_unit_culture = south_east_asian_special
+
+color = { 92  128  74 }
+revolutionary_colors = { 10 5 0 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+	religious_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Kü Na #1" = 10
+	"Saenmuenagma #1" = 10
+	"Samfangkaen #1" = 10
+	"Tilokaracha #1" = 10
+	"Yotchiangrai #0" = 10
+	"Kaeo #0" = 10
+	"Ket #0" = 10
+	"Saikham #0" = 10
+	"Setthathirat #0" = 10
+	"Mekuti #0" = 10
+	"Nawrahta Minsaw #0" = 10
+	"Phra Choi #0" = 10
+	"Phra Chaiyathip #0" = 10
+	"Sisongmueang #0" = 10
+	"Luangthipphanet #0" = 10
+	"Phra Saenmueang #0" = 10
+	"Phrae #0" = 10
+	"Ingsemang #0" = 10
+	"Cheputarai #0" = 10
+	"Mangraenara #0" = 10
+	"Ong Kham #0" = 10
+	"Ong Chan #0" = 10
+	"Khihut #0" = 10
+	"Po Aphaikhamini #0" = 10
+	"Po Mayunguan #0" = 10
+	"Phraya Chaban #0" = 10
+	"Thammalangka #0" = 10
+	"Kawila #0" = 10
+	
+	"Dara #0" = -1
+	"Mya #0" = -1
+	"Chiraprapha #0" = -1
+	"Wisutthithewi #0" = -1
+	"Yasuntarathewi #0" = -1
+}
+
+leader_names = {
+	Am-Pom Bakong Bang-Klanghao Ban-Mueang Chaikaew Chang Chang-Kham Chanpha Chawa Cheng Choi Chuen Duang Duang-Kaew Duang-Kham Duang-Saeng Fa-Heng Fa-Huan Fa-Kam Fa-Kiao Fa-Ngiao Fa-Ngum Fa-Rueang Fa-Rung Fa-Yan Homfa Hommueang In In-Lhao In-Mueang Intha Inthalaeng Ja-Saeng Jam-Thun Jai Jai-Luang Jai-Mueang Jai-Saeng Jom Jom-Mueang Jom-Pharueang Jom-Saeng Jom-Yod Jueang Jusong Kaew Kaew-Fa Kaew-Ma Kaew-Mueangma Kaew-Mun Kan-Mueang Kao-Kuean Katlaeng Kham-Bong Kham-Chong Kham-Daeng Kham-Fa Kham-Fan Kham-Fu Kham-Hiao Kham-Hong Kham-Jaek Kham-Kaewfa Kham-Kha Kham-Kong Kham-Konglaeng Kham-Kongmueang Kham-Koet Kham-Kon Kham-Khot Kham-Laeng Kham-Lek Kham-Lue Kham-Luea Kham-Lun Kham-Ma Kham-Mun Kham-Mung Kham-Nan Kham-Ngon Kham-Ngoen Kham-Oun Kham-Peng Kham-Phong Kham-Phu Kham-Phuthong Kham-Rueang Kham-Rung Kham-Saimueang Kham-Saiphu Kham-Saen Kham-Saenyod Kham-Saeng Kham-Sing Kham-Som Kham-Sueafa Kham-Suek Kham-Sui Kham-Suk Kham-Tan Kham-Tai Kham-Thao Kham-Thian Kham-Ton Kham-Um Kham-Yai Kham-Yu Kham-Yat Kham-Yod Kham-Yodfa Kham-Yoyok Khan-Fa Khanong Khankaew Khankham Khantoke Khanthong Kharn Khong Kom Kon-Kaew Kon-Kham Kong Kong-Kham Kong-Khamfu Kong-Mueang Kong-Ngoen Kong-Thong Kong-Rueang Kong-Tai Kram Kruea Krueang Kue-Mueang Kuena Laeng-Pa Lan Lan-Khamdaeng Lan-Khamkong Lang Lao-Chong Lao-Kap Lao-Kaew Lao-Kham Lao-Khim Lao-Khon Lao-Khiang Lao-Klom Lao-Kuak Lao-Kui Lao-Meng Lao-Ming Lao-Mueang Lao-Ngoen Lao-Sao Lao-Sin Lao-Som Lao-Tang Lao-Thoeng Lao-Tueng Lhao-Poeng Lue Luechai Marn-Fa Marn-Kaew Marn-Kham Marn-Lek Mangrai Mangsaen Mangsing Mangsom Mok-Fa Mok-Kham Meng-Mueang Ming-Mueang Mueang-Kaew Mueang-Kham Mueang-Khum Mueang-Ram Muen-Kaew Muen-Nan Nam Nam-Nan Nam-Thuam Nan-Fa Ngam-Mueang Ngoen Nor-Fa Nor-Kaew Nor-Kham Nor-Mueang Nor-Ngam Nor-Rueang Nor-Saeng Ngon-Kaew Ngon-Kham Padaeng Parn Pa-Ngua Paeng-Mueang Pangkaew Pangkham Pangrueang Pangsuk Phan Phao Pha-Khrang Pha-Khong Pha-Kong Pha-Laeng Pha-Lan Pha-Mueang Pha-Nong Pha-Saeng Phayu Pheng Phin Phoeng Phukaew Phukha Phukham Phukheng Phukiang Phuma Phumi Phupha Phuyod Ram Ram-Muen Rarb-Fa Rarb-Mueang Romfa Romklao Rung-Mueang Ruang Rung Rung-Fa Rung-Kaenchai Rung-Mueang Saen Saen-Intha Saen-Klao Saen-Kharn Saen-Mueang Saen-Mueangma Saen-Pang Saenphu Saen-Pha Saen-Yod Saen-Yodfa Saeng Saeng-Fa Saeng-Mueang Saeng-Nak Saeng-Rueang Saeng-Rung Saeng-Ta Sai-Kham Sai-Khamlaeng Sai-Khamlek Sai-Mueang Sai-Namphueng Sai-Ruangfa Sai-Yu Salung-Kham Salung-Ngoen Sam-Chon Sam-Fangkaen Sawang Sing-Kham Song-Mueang Suea Suea-Kafa Suea-Khanfa Suea-Khangfa Suea-Luangfa Suea-Mueang Sui Taeng Taen-Kham Taen-Mo Taen-Thai Tanao Tawa Than Thian Thipchang Thun-Fa Tong Tong-Paeng U-Kaew U-Kham U-Mueang Un-Huan Un-Kham Un-Mueang Un-Rueang Ueng-Kham Waen Wao Yan-Mueang Yod Yod-Fa Yod-Jai Yod-Kaew Yod-Khamlek Yod-Lek Yod-Mueang Yod-Suk Yod-Suek Achitawong Amarawong Amarawut Amphawan Ananthachai Ananthawong Anantayot Anirut Anuruttha Anothai Anuwong Ariyawong Athitayawong Attha Borom Borommapan Budsarot Bunkhong Bunlangthai Bunrueang Bunsong Bunthawong Bunyarangsi Chaiyachettha Chaiyalangka Chaiyasiri Chaisuriwong Chaiyathit Chaiyasongkhram Chaiyasen Chaiyawong Chakrapong Chanthaborom Chanthapachot Chanthaphanit Chantharit Chantharangsi Chanthawong Chanthayot Chattiwong Chomphu Chotika Darawong Ditsapong Inthachom Inthajak Inthanon Inthaphrom Intharit Inthasen Inthawichai Inthawong Inthayot Inthorn Issarawong Isinthorn Jakkham Jetsada Jettabut Jomtham Kaew-Borom Kaew-Mongkhol Kamesuan Kanphirom Kawila Ketklao Kham-Chai Kham-Wongsa Kiriwong Krongpob Kulawong Mahachai Mahakhanan Mahaphrom Mahawan Mahawong Mahayot Mahesuan Mangkhala Manorot Mekuti Mued-Khamdon Nakharin Nantharit Nanthasen Nanthasurin Nanthawong Nanthayot Narasuriyawong Narawong Narenthon Noppawong Pahusing Pathummawong Phanthati Phimphisarn Phirawong Photisarn Phromlue Phromma Phrommajak Phrommayot Phromsurin Phrommathat Phrommawong Phunara Pongthada Poramesuan Ramajak Ramasurin Ramawong Ramesuan Rangsiman Rattanawongsa Rotthasen Ronnarit Ronnareth Saenkhanan Saenmongkhol Saenphrom Saensongkhram Saensurin Saensuwan Sakharin Saisongkhram Sangkhathat Sarawan Sawangsiri Sawangwong Silawong Singchai Singhawong Singhanati Singhara Siribunyasan Siriwattana Siriwong Siriwut Sukhawong Sukkasem Suphrom Suramesuan Surawichai Surinchomphu Suriya Suriyakhat Suriyathat Suriyawong Suriyenthra Suthana Suthat Suthonmani Suthisan Suthiwong Suwannachai Suwannajak Suwannarit Suwanansen Suwannawong Thammalangka Thammakitika Thammasena Thammawong Thammayot Thananchai Thewawong Thewarit Thippachak Thukkhita Tissa Uthaiwong Uppasen Wattanawong Wichainantha Wirawong Wongkasem Wongtawan Worachet Woradej Worajak Worasena Worawongsa Wutthana Yannasen Yanrangsi Yuttharit Yuttiwong Yutthithira Yutthasen Yukhonthorn
+		}
+}
+
+ship_names = {
+	"Chiang Rai"
+	"Ban Muang"
+	Haripunchai
+	Loethai 
+	Mengrai
+	Nguanamthom
+	"Pu Saisongkhram"
+	Ramkhamhaeng
+	"Si Indrathit" "Sai Leu Thai" "Sai Luthai"
+	Thammarach
+}

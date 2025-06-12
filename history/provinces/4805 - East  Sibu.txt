@@ -1,0 +1,36 @@
+# Bintulu
+# 4805 Bintulu - 5/16/2025 12:37:50 PM 
+add_core = BEI
+owner = BEI
+controller = BEI
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = tropical_wood
+culture = melanau
+religion = sunni
+capital = "Bintulu"
+is_city = yes
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+1521.1.1 = { 
+	discovered_by = SPA
+}
+1578.4.16 = { 
+	owner = SPA
+	controller = SPA
+}
+1578.6.26 = { 
+	owner = BEI
+	controller = BEI
+}
+1672.1.1 = { 
+	controller = REB
+	revolt = { type = revolutionary_rebels size = 2 }
+}
+1673.1.1 = { 
+	controller = BEI
+	revolt = { size = 1 }
+}

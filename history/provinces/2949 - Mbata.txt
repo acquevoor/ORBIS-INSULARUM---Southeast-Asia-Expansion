@@ -1,0 +1,39 @@
+# Mbata
+# 2949 Mbata - 5/16/2025 12:37:50 PM 
+ 
+add_core = KON
+owner = KON
+controller = KON
+base_tax = 2
+base_production = 2
+base_manpower = 1
+
+trade_goods = grain
+
+culture = kongolese
+religion = shamanism
+capital = "Mbata"
+
+is_city = yes
+
+discovered_by = central_african
+discovered_by = KON
+discovered_by = NDO
+discovered_by = LOA
+discovered_by = sub_saharan
+
+
+
+
+1483.1.1 = {
+	discovered_by = POR
+}
+1665.10.30 = {
+	unrest = 8
+}
+1702.1.1 = {
+	unrest = 0
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

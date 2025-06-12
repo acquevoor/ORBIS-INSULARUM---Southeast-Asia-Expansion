@@ -1,0 +1,44 @@
+# Mzizima
+# 1197 Mzizima - 5/16/2025 12:37:49 PM 
+ 
+add_core = ZAN
+owner = ZAN
+controller = ZAN
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = gems
+
+culture = swahili
+religion = shamanism
+capital = "Mzizima"
+
+is_city = yes
+
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = central_african
+discovered_by = east_african
+
+
+
+
+1498.3.16 = {
+	discovered_by = POR
+}
+1600.1.1 = {
+	discovered_by = TUR
+}
+1730.1.1 = {
+	owner = OMA
+	controller = OMA
+	add_core = OMA
+}
+1763.1.1 = {
+	unrest = 7
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

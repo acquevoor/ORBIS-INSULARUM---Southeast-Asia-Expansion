@@ -1,0 +1,44 @@
+# Mbamba
+# 1168 Mbamba - 5/16/2025 12:37:49 PM 
+ 
+add_core = KON
+owner = KON
+controller = KON
+base_tax = 2
+base_production = 2
+base_manpower = 1
+
+trade_goods = slaves
+
+culture = kongolese
+religion = shamanism
+capital = "Lovata"
+
+is_city = yes
+
+discovered_by = central_african
+discovered_by = sub_saharan
+
+
+
+
+1483.1.1 = {
+	discovered_by = POR
+}
+1665.10.29 = {
+	owner = POR
+	controller = POR
+	add_core = POR
+}
+1667.1.1 = {
+	owner = KON
+	controller = KON
+	remove_core = POR
+	unrest = 8
+}
+1702.1.1 = {
+	unrest = 0
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

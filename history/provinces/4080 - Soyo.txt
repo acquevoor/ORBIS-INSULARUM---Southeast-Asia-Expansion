@@ -1,0 +1,36 @@
+# Soyo
+# 4080 Soyo - 5/16/2025 12:37:50 PM 
+ 
+add_core = KON
+add_core = SYO
+owner = KON
+controller = KON
+base_tax = 4
+base_production = 3
+base_manpower = 4
+
+trade_goods = slaves
+
+culture = kongolese
+religion = shamanism
+capital = "Soyo"
+
+is_city = yes
+add_local_autonomy = 25
+
+discovered_by = central_african
+discovered_by = sub_saharan
+
+
+
+
+1483.1.1 = {
+	discovered_by = POR
+}
+1590.1.1 = {
+	owner = SYO
+	controller = SYO
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

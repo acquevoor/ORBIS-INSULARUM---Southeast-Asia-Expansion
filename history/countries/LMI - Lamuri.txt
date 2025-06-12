@@ -1,0 +1,25 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+primary_culture = gayo
+religion = sunni
+technology_group = chinese
+capital = 617	# Lamuri
+fixed_capital = 617
+religious_school = shafii_school
+
+historical_rival = ATJ 
+historical_rival = MLC
+historical_rival = MAJ
+historical_friend = MNG
+
+1444.1.1 = {
+	monarch = { # fictional
+		name = "Ale Ri'eyatt"
+		dynasty = "Lamuri"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_piety = -0.1
+}

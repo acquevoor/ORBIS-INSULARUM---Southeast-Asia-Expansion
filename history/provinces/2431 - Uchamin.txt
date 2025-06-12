@@ -1,0 +1,36 @@
+# Uchamin
+# 2431 Uchamin - 5/16/2025 12:37:50 PM 
+ 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = unknown
+
+culture = tungus
+religion = tengri_pagan_reformed
+capital = "Uchaminskiy"
+
+native_size = 5
+native_ferocity =  2
+native_hostileness = 3
+
+
+
+
+
+1618.2.1 = {
+	discovered_by = RUS
+	owner = RUS
+	controller = RUS
+	religion = orthodox
+	culture = russian
+	is_city = yes
+}
+1628.2.1 = {
+	add_core = RUS
+	trade_goods = fur
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

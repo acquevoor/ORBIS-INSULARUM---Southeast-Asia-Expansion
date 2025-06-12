@@ -1,0 +1,8 @@
+custom_button = {
+	name = mnd_naval_doctrines_button
+	potential = { has_game_started = yes}
+	trigger = { has_game_started = yes }
+	effect = {
+		add_prestige = 15
+	}
+}

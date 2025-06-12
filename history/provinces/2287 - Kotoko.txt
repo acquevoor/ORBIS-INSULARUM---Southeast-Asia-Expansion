@@ -1,0 +1,32 @@
+# Kotoko
+# 2287 Kotoko - 5/16/2025 12:37:50 PM 
+ 
+add_core = YAO
+add_core = KBO
+owner = YAO
+controller = YAO
+base_tax = 3
+base_production = 3
+base_manpower = 1
+
+trade_goods = grain
+
+culture = kanuri
+religion = sunni
+capital = "Kotoko"
+
+is_city = yes
+
+discovered_by = sub_saharan
+
+
+
+
+1505.1.1 = {
+	owner = KBO
+	controller = KBO
+	add_core = KBO
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

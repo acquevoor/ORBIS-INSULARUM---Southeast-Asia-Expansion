@@ -1,0 +1,28 @@
+# Gambela
+# 2759 Gambela - 5/16/2025 12:37:50 PM 
+ 
+add_core = KAF
+owner = KAF
+controller = KAF
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = slaves
+
+culture = sidamo
+religion = shamanism
+capital = "Gambela"
+
+is_city = yes
+add_local_autonomy = 25
+
+discovered_by = east_african
+discovered_by = muslim
+
+
+
+
+
+
+### Modified 5/16/2025 12:37:50 PM ###

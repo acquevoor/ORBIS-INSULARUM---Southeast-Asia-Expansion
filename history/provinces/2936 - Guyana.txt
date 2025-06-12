@@ -1,0 +1,18 @@
+# Guyana
+# 2936 Guyana - 5/16/2025 12:37:50 PM 
+ 
+
+
+
+
+discovered_by = south_american
+
+
+
+
+1593.1.1 = {
+	discovered_by = SPA
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

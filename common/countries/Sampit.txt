@@ -1,0 +1,51 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 121 49 251 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	spy_ideas
+	offensive_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+}
+
+monarch_names = {
+	"Sangen #0" = 10
+	"Sangiang #0" = 10
+	"Bunu #0" = 10
+	"Antang Bajelu Bulau #0" = 10
+	"Lanting #0" = 10
+	"Kerangka Amban Penyang #0" = 10
+	"Kameluh Kambang Garing #0" = 10
+	"Lambung #0" = 10
+	"Petak Kalabien Bulan #0" = 10
+	"Sengalang Burong #0" = 10
+	"Sikhan #0" = 10
+	"Litih #0" = 10
+	"Jatha #0" = 10
+	"Bujang Bedjie #0" = 10
+}
+
+leader_names = { 
+	Ampong Binti Labih Rumbun Sipet Purok Mamut Menteng Hanjak Nanjan Djata Lawai Jau Keling Ngau Lisu Ullok Apoi Wan Dehen Djatta Ekot Hanyi Labih Mantikei Mantir Simpei Segah Saloh Selong Teras Simbun Saduri Sangkurun Salundik Taladjan During Suli Tumon Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja
+}
+
+ship_names = {
+	"Asuy" "Gamas" "Naras" "Rampan" "Siluq" "Singo" "Bodjer" "Bulatn" "Kamuntik" "Karna" "Malat" "Ngayoh" "Parayu" "Ubad"
+}

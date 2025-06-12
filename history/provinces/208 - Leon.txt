@@ -1,0 +1,95 @@
+# León
+# 208 León - 5/16/2025 12:37:49 PM 
+ 
+add_core = CAS
+add_core = LON
+owner = CAS
+controller = CAS
+base_tax = 4
+base_production = 4
+base_manpower = 2
+
+center_of_trade = 1
+trade_goods = livestock
+extra_cost = 8
+
+culture = leonese
+religion = catholic
+capital = "León"
+
+is_city = yes
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+latent_trade_goods = {
+   coal
+}
+
+1464.5.1 = {
+	unrest = 3
+}
+1468.9.18 = {
+	unrest = 0
+}
+1470.1.1 = {
+	unrest = 3
+}
+1475.6.2 = {
+	controller = POR
+}
+1476.3.2 = {
+	controller = CAS
+}
+1479.9.4 = {
+	unrest = 0
+}
+1516.1.23 = {
+	controller = SPA
+	owner = SPA
+	add_core = SPA
+}
+1520.5.1 = {
+	unrest = 5
+}
+1521.4.1 = {
+	unrest = 0
+}
+1713.4.11 = {
+	remove_core = CAS
+}
+1808.6.6 = {
+	revolt = {
+		type = pretender_rebels
+		size = 2
+	}
+
+	controller = REB
+}
+1808.12.1 = {
+	revolt = {
+	}
+
+	controller = SPA
+}
+1812.10.1 = {
+	revolt = {
+		type = pretender_rebels
+		size = 2
+	}
+
+	controller = REB
+}
+1813.12.11 = {
+	revolt = {
+		controller = SPA
+	}
+
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

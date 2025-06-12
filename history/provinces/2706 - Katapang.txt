@@ -1,0 +1,30 @@
+# Katapang
+# 2706 Katapang - 5/16/2025 12:37:50 PM 
+add_core = TNP
+add_core = TNP
+add_core = SKD
+owner = TNP
+controller = TNP
+base_tax = 5
+base_production = 5
+base_manpower = 3
+trade_goods = grain
+culture = melayu
+religion = hinduism
+capital = "Katapang"
+is_city = yes
+native_size = 40
+native_ferocity = 5
+native_hostileness = 5
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+1444.1.1 = { 
+	owner = TNP
+	controller = TNP
+	trade_goods = gold
+}
+1521.1.1 = { 
+	discovered_by = POR
+}

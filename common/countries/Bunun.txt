@@ -1,0 +1,84 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+special_unit_culture = south_east_asian_special
+
+color = { 142  41  41 }
+#color = { 145  66  66 }
+revolutionary_colors = { 4 0 4 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Lahu Ali #0" = 30
+	"Dahu Yumin #0" = 25
+	"Saviki Nabu #0" = 25
+	"Pailang Isu #0" = 25
+	"Masu Daiwan #0" = 25
+	"Isbukun Taki #0" = 20
+	"Takbanuaz Savi #0" = 20
+	"Sapulau #0" = 20
+	"Malupa #0" = 20
+	"Banaw #0" = 20
+	"Lahu Ayu #0" = 20
+	"Lumah Naing #0" = 15
+	"Siamah #0" = 15
+	"Nazuan #0" = 15
+	"Banaw Isu #0" = 15
+	"Akal Isbukun #0" = 15
+	"Langas #0" = 15
+	"Ulas Nahu #0" = 15
+	"Isu Makua #0" = 10
+	"Sikawasay #0" = 10
+	"Avas Namasia #0" = 10
+	"Taknaaz Pailang #0" = 10
+	"Lahiwan #0" = 10
+	"Ayan Tahon #0" = 10
+
+	"Mapatung #0" = -1
+	"Dadagu #0" = -1
+	"Avaleng #0" = -1
+	"Tasilan #0" = -1
+	"Kamalah #0" = -1
+	"Mukawas #0" = -1
+}
+
+leader_names = {
+	Lahu Dahu Isbukun Takbanuaz Masu Banaw Pailang Malupa Taki Saviki Ayan Lumah Nazuan Namasia Ulas Akal Savi Kamalah Langas Sikawasay Tasiben Asang Naing Dapang Sulah Bunuk Tasilan Salan Dahu-Taki Isu-Pailang Lahiwan Dadagu
+}
+
+ship_names = {
+	"Central Range"
+	"YuShan"
+	"Danda"
+	"Tamazuan"
+	"Masu Wind"
+	"Lahu Storm"
+	"Isbukun Spirit"
+	"Savi Fangas"
+	"Takbanuaz Roar"
+	"Cloud Warrior"
+	"Banaw Echo"
+	"Sunrise Peak"
+}
+

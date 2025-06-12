@@ -1,0 +1,225 @@
+﻿# Philippine Regions
+
+# Luzon Region
+l_english:
+  MNA:0 "Maynila"
+  MNA_ADJ:0 "Maynilan"
+  MNA_desc:0 "Maynila, commonly known as Manila,"
+
+  TDO:0 "Tondo"
+  TDO_ADJ:0 "Tondoan"
+  TDO_desc:0 "Tondoan, or Tondo, is"
+
+  PGS:0 "Caboloan"
+  PGS_ADJ:0 "Caboloan"
+  PGS_desc:0 "Caboloan,"
+
+  IFG:0 "Igorot"
+  IFG_ADJ:0 "Igorotic"
+
+  SPP:0 "Soppeng"
+  SPP_ADJ:0 "Soppengite"
+
+# Mindanao Region
+  BMA:0 "Bima"
+  BMA_ADJ:0 "Bimanese"
+
+  GTL:0 "Gorontalo"
+  GTL_ADJ:0 "Gorontaloan"
+
+  SUD:0 "Sukadana"
+  SUD_ADJ:0 "Sukadanan"
+
+  GLU:0 "Galuh"
+  GLU_ADJ:0 "Galuhan"
+
+  LDA:0 "Landak"
+  LDA_ADJ:0 "Landakian"
+
+  MSB:0 "Lanao"
+  MSB_ADJ:0 "Lanaon"
+
+  BOW:0 "Bowontehu"
+  BOW_ADJ:0 "Bowontehun"
+
+# Celebes Region
+  SPR:0 "Selaparang"
+  SPR_ADJ:0 "Selaparangi"
+
+  SMW:0 "Sumbawa"
+  SMW_ADJ:0 "Sumbawan"
+
+  WHL:0 "Wehali"
+  WHL_ADJ:0 "Wehalian"
+
+  WJO:0 "Wajo"
+  WJO_ADJ:0 "Wajonese"
+
+  MKS:0 "Gowa"
+  MKS_ADJ:0 "Gowanese"
+
+  TGG:0 "Terengganu"
+  TGG_ADJ:0 "Terengganuan"
+
+  JLO:0 "Jailolo"
+  JLO_ADJ:0 "Jailoloan"
+
+  NDP:0 "Negara Dipa"
+  NDP_ADJ:0 "Negara Dipan"
+
+  NGJ:0 "Ngaju"
+  NGJ_ADJ:0 "Ngajunese"
+
+  TNP:0 "Tanjungpura"
+  TNP_ADJ:0 "Tanjungpuran"
+
+  HTR:0 "Hatorusan"
+  HTR_ADJ:0 "Hatorusans"
+
+  PRI:0 "Pariaman"
+  PRI_ADJ:0 "Pariamans"
+
+  ARU:0 "Aru"
+  ARU_ADJ:0 "Aruese"
+
+  LMI:0 "Lamuri"
+  LMI_ADJ:0 "Lamurian"
+
+  LPG:0 "Tulang Bawang"
+  LPG_ADJ:0 "Lampungs"
+
+  TRJ:0 "Tana Toraja"
+  TRJ_ADJ:0 "Torajans"
+
+# Palawan Region
+  TAY:0 "Taytay"
+  TAY_ADJ:0 "Taytayan"
+
+# Visayas Region West
+  VKL:0 "Tandaya"
+  VKL_ADJ:0 "Leytan"
+
+  VLM:0 "Samar"
+  VLM_ADJ:0 "Waray"
+
+  SUB:0 "Sanmalan"
+  SUB_ADJ:0 "Sanmalani"
+
+  IBO:0 "Ibalong"
+  IBO_ADJ:0 "Bicolano"
+
+  DHR:0 "Dharmasraya"
+  DHR_ADJ:0 "Dharmasrayan"
+
+  BKL:0 "Petulai Federation"
+  BKL_ADJ:0 "Bangkahuluan"
+
+  NIA:0 "Tano Niha"
+  NIA_ADJ:0 "Tano Nihans"
+
+  MPW:0 "Mempawah"
+  MPW_ADJ:0 "Mempawahan"
+
+  BGI:0 "Banggai"
+  BGI_ADJ:0 "Banggain"
+
+  KNW:0 "Konawe"
+  KNW_ADJ:0 "Konawean"
+
+  LVM:0 "Luzviminda"
+  LVM_ADJ:0 "Luzvimindian"
+
+# Maluku Region
+  HTU:0 "Hitu"
+  HTU_ADJ:0 "Hituan"
+
+  HML:0 "Huamual"
+  HML_ADJ:0 "Huamualan"
+
+# Borneo Region
+  KUT:0 "Kutai Martadipura"
+  KUT_ADJ:0 "Kutai"
+
+  BNW:0 "Banawa"
+  BNW_ADJ:0 "Banawanese"
+
+# Additional Regions
+  SMN:0 "Samtoy"
+  SMN_ADJ:0 "Ilokano"
+  SMN_desc:0 "Ilokano"
+
+# Region BNW
+  #BNW:0 "Donggala" # Uncomment this if you need it
+
+# Additional Regions
+  FKF:0 "Fatagar"
+  FKF_ADJ:0 "Papuan"
+  FKF_desc:0 "Papuan"
+
+  HOM:0 "Mayi"
+  HOM_ADJ:0 "Mangyan"
+
+  SKD:0 "Sukadana"
+  SKD_ADJ:0 "Sukadanan"
+
+# Kampuchea
+  OUD:0 "Oudong"
+  OUD_ADJ:0 "Oudong"
+  OUD_desc:0 "Oudong"
+  
+  CTK:0 "Chaktomuk"
+  CTK_ADJ:0 "Chaktomuk"
+  CTK_desc:0 "Chaktomuk"
+  
+  LVK:0 "Lavek"
+  LVK_ADJ:0 "Lavek"
+  LVK_desc:0 "Lavek"
+  
+  ISH:0 "Ishana"
+  ISH_ADJ:0 "Ishana"
+  ISH_desc:0 "Ishana"
+ 
+# Mueang Thai
+  UTH:0 "Uthong"
+  UTH_ADJ:0 "Uthong"
+  UTH_desc:0 "Uthong"
+  
+  SUP:0 "Suphannabhum"
+  SUP_ADJ:0 "Suphannabhumi"
+  SUP_desc:0 "Suphannabhumi"
+  
+  LAV:0 "Lavo"
+  LAV_ADJ:0 "Lavo"
+  LAV_desc:0 "Lavo"
+  
+  NAN:0 "Nan"
+  NAN_ADJ:0 "Nan"
+  NAN_desc:0 "Nan"
+  
+  LPH:0 "Lamphun"
+  LPH_ADJ:0 "Lamphun"
+  LPH_desc:0 "Lamphun"
+
+  KUY:0 "Tboung Khmum"
+  KUY_ADJ:0 "Kuy"
+  
+#Formosan
+  BUN:0 "Bunun"
+  BUN_ADJ:0 "Bunun"
+  BUN_desc:0 "Bunun"
+
+  ATY:0 "Atayal"
+  ATY_ADJ:0 "Atayal"
+  ATY_desc:0 "Atayal"
+
+  PIW:0 "Paiwan"
+  PIW_ADJ:0 "Paiwan"
+  PIW_desc:0 "Paiwan"
+  unite_ayutthaya_title:0 "Centralize Ayutthaya Confederation."
+  unite_ayutthaya_desc:0 "The Basin of Chao Phraya long served as gateway of great wealth and power, while our combined might have long been stifled by intrigue and dispute, our kingdom rose above others and now wield it's full potential. It is time we proclaim the mantle and enforce our power across Suvanabhum!"
+  ayutthaya_centralized_tooltip:0 "All §YSiamese subjects§! will be instantly integrated."
+
+  new_buddhist_decision_title:0 "Choose Personal Deity"
+  new_buddhist_decision_desc:0 "Choose a new Deity."
+  new_buddhist_events.1.t:0 "Choosing a Personal Deity"
+  new_buddhist_events.1.d:0 "A Buddhist ruler can patronize a certain deity as to gain favor enough to be blessed by their venerable powers, you may choose whichever one that seems useful to you the most"

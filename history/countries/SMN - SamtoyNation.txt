@@ -1,0 +1,17 @@
+government = tribal
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+primary_culture = ilocano
+capital = 657# Ilocos
+religion = animism
+secondary_religion = mahayana
+1444.1.1 = { 
+	monarch = { 
+		name = "Ilokano Council"
+		adm = 3
+		dip = 4
+		mil = 1
+		regent = yes
+	}
+}

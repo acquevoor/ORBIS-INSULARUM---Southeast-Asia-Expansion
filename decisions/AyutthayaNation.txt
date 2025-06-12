@@ -1,0 +1,76 @@
+country_decisions = {
+
+	unite_ayutthaya = {
+		major = yes
+		potential = {
+			NOT = { tag = HLR }
+			NOT = { tag = PAP }
+			NOT = { tag = AYU }
+			primary_culture = central_thai
+			central_thai_area = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			sukhothai_area = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		provinces_to_highlight = {
+			central_thai_area = {
+				NOT = { country_or_non_sovereign_subject_holds = ROOT }
+			}
+			sukhothai_area = {
+				NOT = { country_or_non_sovereign_subject_holds = ROOT }
+			}
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			central_thai_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = root
+			}
+			sukhothai_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = root
+			}
+			NOT = { exists = AYU }
+		}
+		effect = {
+			change_tag = AYU
+			on_change_tag_effect = yes
+			set_government_rank = 2
+			custom_tooltip = ayutthaya_centralized_tooltip
+
+			hidden_effect = {
+				inherit = LAV
+				if = {
+					exists = { UTH }
+				}
+				inherit = UTH
+			}
+			if {
+				limit = {
+					PAH = {is_subject_of = LIG}
+				}
+			create_subject = {
+    			subject_type = tributary_state
+   				subject = PAH
+			}
+			}
+			
+			create_subject = {
+    			subject_type = tributary_state
+				subject = KED
+			}
+			vassalize = LIG
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

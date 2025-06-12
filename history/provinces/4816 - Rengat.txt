@@ -1,0 +1,26 @@
+# Rengat
+# 4816 Rengat - 5/16/2025 12:37:50 PM 
+add_core = SAK
+add_core = PGR
+owner = PGR
+controller = PGR
+base_tax = 4
+base_production = 4
+base_manpower = 3
+trade_goods = spices
+culture = melayu
+religion = sunni
+capital = "Rengat"
+is_city = yes
+add_local_autonomy = 2
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = MNG
+discovered_by = MNG
+discovered_by = MNG
+discovered_by = MNG
+1509.1.1 = { 
+	discovered_by = POR
+}

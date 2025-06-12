@@ -1,0 +1,27 @@
+# Hanuabada
+# 1237 Hanuabada - 5/16/2025 12:37:49 PM 
+ 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = unknown
+
+culture = papuan
+religion = animism
+capital = "Hanuabada"
+
+native_size = 60
+native_ferocity =  4
+native_hostileness = 8
+
+
+
+
+
+1525.1.1 = {
+	discovered_by = POR
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

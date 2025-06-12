@@ -1,0 +1,39 @@
+#Country Name: Please see filename.
+graphical_culture = asiangfx
+#color = { 171  175  40 }
+#color = { 144  95  10 }
+##color = { 173  105  105 }
+color = { 144 74 234 }
+special_unit_culture = dlc107_aboriginal_sprite_pack
+historical_idea_groups = { 
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	offensive_ideas
+	religious_ideas
+	spy_ideas
+	quality_ideas
+	economic_ideas
+}
+historical_units = { 
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+}
+monarch_names = { 
+	"Undang #0" = 20
+	"Sempung #0" = 20
+	"Nunyang #0" = 20
+	"Tambun #0" = 20
+	"Bungai #0" = 20
+}
+leader_names = { 
+	Ampong Binti Labih Rumbun Sipet Purok Mamut Menteng Hanjak Nanjan Djata Lawai Jau Keling Ngau Lisu Ullok Apoi Wan Dehen Djatta Ekot Hanyi Labih Mantikei Mantir Simpei Segah Saloh Selong Teras Simbun Saduri Sangkurun Salundik Taladjan During Suli Tumon Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja
+}
+ship_names = {
+	Aceng Aden Adji Ahad Alang Angin Asang Awan Baboe Baen Bakumpai Bandrang Binti Boas Boengai Buhing Bahat Bangkan Buon Dahan Danum Darun Dau Dehek Dehen Dea Diwil Djala Djangkan Dohong Dokoh Djungan Durut Engkak Erang Embang Gurun Gasan Guan Gohong Hamarung Hedek Hosang Huang Ilon Jangkan "Jalani Saha" Jahan Kaharap Kasan Kiting Koroh Kunum Lada Lambung Lamey Lampang Lampe Langar Leiden Lesa Liyung Luhing Lui Luwuk Macan Madjen Mahar Mahat Mahin Mamis Mamud Mangkin Manjin Undas Undjung Unting Usin Djakat Gundas Mangko Mantir Manyamai Merang Mihing Nahan Nahason Namang Nanjan Narang Nawai Ngampar Ngumang Nihin Nuhan Nyaloh Nyudem Nyahu Obos Patianom
+}

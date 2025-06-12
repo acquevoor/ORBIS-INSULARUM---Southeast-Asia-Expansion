@@ -1,0 +1,16 @@
+government = tribal
+add_government_reform = mandala_reform
+government_rank = 1
+primary_culture = south_halmahera
+religion = animism
+secondary_religion = buddhism
+technology_group = chinese
+capital = 646
+1440.1.1 = { 
+	monarch = { 
+		name = "Elders Council"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}

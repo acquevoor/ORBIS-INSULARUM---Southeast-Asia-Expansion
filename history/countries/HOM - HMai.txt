@@ -1,0 +1,28 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 1
+technology_group = chinese
+religion = mahayana
+primary_culture = mangyan
+capital = 4350#Caminawit
+historical_friend = MNG
+mercantilism = 10
+1430.1.1 = { 
+	monarch = { 
+		name = "Kidlat"
+		dynasty = "Gatchalian"
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+1456.1.1 = { 
+	monarch = { 
+		name = "Likha"
+		dynasty = "Gatchalian"
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}

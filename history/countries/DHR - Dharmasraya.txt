@@ -1,0 +1,23 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+primary_culture = melayu
+religion = mahayana
+secondary_religion = sunni
+technology_group = chinese
+capital = 2677#jambi
+
+historical_friend = MNG
+historical_rival = MAJ 
+historical_rival = PSA 
+historical_rival = JMB 
+
+1444.1.1 = { 
+	monarch = { 
+		name = "Tiang Panjang"# from Siguntur
+		dynasty = "Mauli"# The historical ruling dynasty of Dharmasraya
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}

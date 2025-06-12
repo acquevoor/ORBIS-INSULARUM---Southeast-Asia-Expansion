@@ -1,0 +1,50 @@
+# Tsoyaha
+# 934 Tsoyaha - 5/16/2025 12:37:49 PM 
+ 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = grain
+
+culture = yuchi
+religion = totemism
+capital = "Tsoyaha"
+
+native_size = 5
+native_ferocity =  1
+native_hostileness = 6
+tribal_owner = CCA
+
+discovered_by = north_american
+
+
+
+
+1444.1.1 = {
+	tribal_owner = CCA
+}
+1671.1.1 = {
+	discovered_by = ENG
+}
+1600.1.1 = {
+	owner = CCA
+	controller = CCA
+	add_core = CCA
+}
+1682.1.1 = {
+	discovered_by = FRA
+}
+1707.5.12 = {
+	discovered_by = GBR
+}
+1785.11.2 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+	culture = american
+	religion = protestant
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

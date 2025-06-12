@@ -1,0 +1,421 @@
+filipino_rajanate = {
+	rank = {
+		1 = BARANGAY
+		2 = GRAND_BARANGAY
+		3 = GREAT_BARANGAY
+	}
+
+	ruler_male = {
+		1 = DATU
+		2 = RAJA
+		3 = MAHARAJA
+	}
+
+	ruler_female = {
+		1 = DATU
+		2 = RANI
+		3 = MAHARANI
+	}
+	
+	consort_male = {
+		1 = PRINCE_CONSORT
+		2 = RAJA
+		3 = MAHARAJA
+	}
+
+	consort_female = {
+		1 = PRINCESS
+		2 = RANI
+		3 = MAHARANI
+	}
+
+	heir_male = {
+		1 = HEIR
+		2 = HEIR
+		3 = HEIR
+	}
+
+	heir_female = {
+		1 = HEIR_fem
+		2 = HEIR_fem
+		3 = HEIR_fem
+	}
+
+	trigger = {
+        government = monarchy
+        government = native
+        government = tribal
+		OR = {
+			primary_culture = filipino
+            		primary_culture = luzones
+            		primary_culture = bisaya
+            		primary_culture = mindanawan
+			primary_culture = minahasa
+			primary_culture = gorontalo
+		}
+	}
+}
+
+sulawesi_rajanate = {
+    rank = {
+        1 = WANUA
+        2 = TOMANURUNG
+        3 = KARAENG
+    }
+
+    ruler_male = {
+        1 = ARUNG
+        2 = KARAENG
+        3 = ARUNG
+    }
+
+    ruler_female = {
+        1 = ARUNG
+        2 = ARUNG_BAINE
+        3 = ARUNG
+    }
+
+    consort_male = {
+        1 = PRINCE_CONSORT
+        2 = KARAENG
+        3 = ARUNG
+    }
+
+    consort_female = {
+        1 = PRINCESS
+        2 = ARUNG
+        3 = ARUNG
+    }
+
+    heir_male = {
+        1 = HEIR
+        2 = HEIR
+        3 = HEIR
+    }
+
+    heir_female = {
+        1 = HEIR_fem
+        2 = HEIR_fem
+        3 = HEIR_fem
+    }
+
+    trigger = {
+        government = monarchy
+        government = native
+        government = tribal
+        OR = {
+            	primary_culture = sulawesi
+		primary_culture = toraja
+		primary_culture = bugis
+		primary_culture = makassar
+		primary_culture = bungku
+		primary_culture = mandar
+		primary_culture = banawa
+		primary_culture = kaili
+            	primary_culture = wallio
+        }
+    }
+}
+
+moluccan_rajanate = {
+    rank = {
+        1 = NEGERI
+        2 = ULI
+        3 = KOLANO
+    }
+
+    ruler_male = {
+        1 = KAPITAN
+        2 = KOLANO
+        3 = KAPITAN
+    }
+
+    ruler_female = {
+        1 = BOKI
+        2 = BOKI_RAJA
+        3 = BOKI
+    }
+
+    consort_male = {
+        1 = PRINCE_CONSORT
+        2 = KOLANO
+        3 = KAPITAN
+    }
+
+    consort_female = {
+        1 = PRINCESS
+        2 = BOKI
+        3 = BOKI
+    }
+
+    heir_male = {
+        1 = HEIR
+        2 = HEIR
+        3 = HEIR
+    }
+
+    heir_female = {
+        1 = HEIR_fem
+        2 = HEIR_fem
+        3 = HEIR_fem
+    }
+
+    trigger = {
+        government = monarchy
+        government = native
+        government = tribal
+        OR = {
+            primary_culture = moluccan
+	    primary_culture = north_halmaheran
+	    primary_culture = south_halmaheran
+        }
+    }
+}
+
+
+################
+
+borneo_rajanate = {
+    rank = {
+        1 = BANUA
+        2 = KADATUAN
+        3 = RAJA
+    }
+
+    ruler_male = {
+        1 = PANGERAAN
+        2 = RAJA
+        3 = MAHARAJA
+    }
+
+    ruler_female = {
+        1 = PUTRI
+        2 = RANI
+        3 = MAHARANI
+    }
+
+    consort_male = {
+        1 = PRINCE_CONSORT
+        2 = RAJA
+        3 = MAHARAJA
+    }
+
+    consort_female = {
+        1 = PRINCESS
+        2 = RANI
+        3 = MAHARANI
+    }
+
+    heir_male = {
+        1 = HEIR
+        2 = HEIR
+        3 = HEIR
+    }
+
+    heir_female = {
+        1 = HEIR_fem
+        2 = HEIR_fem
+        3 = HEIR_fem
+    }
+
+    trigger = {
+        government = monarchy
+        government = native
+        government = tribal
+        OR = {
+            primary_culture = asli
+	    primary_culture = moklen
+            primary_culture = kayan
+	    primary_culture = dayak
+	    primary_culture = bidayuh
+ 	    primary_culture = murut
+ 	    primary_culture = kayan
+            primary_culture = kutai
+            primary_culture = maanyan_dayak
+	    primary_culture = danum_dayak
+            primary_culture = orang_rimba
+            primary_culture = orang_laut
+            primary_culture = dusun
+	    primary_culture = iban
+	    primary_culture = sama
+        }
+    }
+}
+
+java_rajanate = {
+    rank = {
+        1 = KADIPATEN
+        2 = KERATON
+        3 = KESULTANAN
+    }
+
+    ruler_male = {
+        1 = ADIPATI
+        2 = RAJA
+        3 = MAHARAJA
+    }
+
+    ruler_female = {
+        1 = GUSTI_KANJENG
+        2 = RANI
+        3 = MAHARANI
+    }
+
+    consort_male = {
+        1 = PRINCE_CONSORT
+        2 = RAJA
+        3 = MAHARAJA
+    }
+
+    consort_female = {
+        1 = PRINCESS
+        2 = RANI
+        3 = MAHARANI
+    }
+
+    heir_male = {
+        1 = HEIR
+        2 = HEIR
+        3 = HEIR
+    }
+
+    heir_female = {
+        1 = HEIR_fem
+        2 = HEIR_fem
+        3 = HEIR_fem
+    }
+
+    trigger = {
+        government = monarchy
+        government = native
+        government = tribal
+        OR = {
+            primary_culture = javanese
+	    primary_culture = banten
+	    primary_culture = bali
+	    primary_culture = madura
+	    primary_culture = cirebonese
+            primary_culture = sundanese
+	    primary_culture = lombok
+	    primary_culture = sasak
+	    primary_culture = nusa_tenggara 
+        }
+    }
+}
+
+sumatra_rajanate = {
+    rank = {
+        1 = NAGARI
+        2 = KESULTANAN
+        3 = RAJA
+    }
+
+    ruler_male = {
+        1 = DATUK
+        2 = RAJA
+        3 = MAHARAJA
+    }
+
+    ruler_female = {
+        1 = PUTRI
+        2 = RANI
+        3 = MAHARANI
+    }
+
+    consort_male = {
+        1 = PRINCE_CONSORT
+        2 = RAJA
+        3 = MAHARAJA
+    }
+
+    consort_female = {
+        1 = PRINCESS
+        2 = RANI
+        3 = MAHARANI
+    }
+
+    heir_male = {
+        1 = HEIR
+        2 = HEIR
+        3 = HEIR
+    }
+
+    heir_female = {
+        1 = HEIR_fem
+        2 = HEIR_fem
+        3 = HEIR_fem
+    }
+
+    trigger = {
+        government = monarchy
+        government = native
+        government = tribal
+        OR = {
+            primary_culture = malayan
+            primary_culture = sumatran
+            primary_culture = acehnese
+            primary_culture = batak
+            primary_culture = melayu
+            primary_culture = minag
+            primary_culture = bornean
+	    primary_culture = kedah
+        }
+    }
+}
+
+southern_rajanate = {
+    rank = {
+        1 = KEDATUAN
+        2 = KERAJAAN
+        3 = KESULTANAN
+    }
+
+    ruler_male = {
+        1 = DATUK
+        2 = RAJA
+        3 = SULTAN
+    }
+
+    ruler_female = {
+        1 = DATIN
+        2 = RATU
+        3 = MAHARATU
+    }
+
+    consort_male = {
+        1 = PENGIRAN
+        2 = PENGIRAN_RATU
+        3 = RAJA
+    }
+
+    consort_female = {
+        1 = PUTRI
+        2 = PENGIRAN_RATU
+        3 = RATU
+    }
+
+    heir_male = {
+        1 = HEIR
+        2 = HEIR
+        3 = HEIR
+    }
+
+    heir_female = {
+        1 = HEIR_fem
+        2 = HEIR_fem
+        3 = HEIR_fem
+    }
+
+    trigger = {
+        government = monarchy
+        government = native
+        government = tribal
+        OR = {
+            primary_culture = palembang
+            primary_culture = lampung
+            primary_culture = bengkulu
+	    primary_culture = orang_rimba
+	    primary_culture = banjar
+        }
+    }
+}

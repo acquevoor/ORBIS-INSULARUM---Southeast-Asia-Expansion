@@ -1,0 +1,28 @@
+# Tarakan
+# 2709 Tarakan - 5/16/2025 12:37:50 PM 
+add_core = BEU
+owner = BEU
+controller = BEU
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = spices
+culture = murut
+religion = animism
+capital = "Tarakan"
+is_city = yes
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+1521.1.1 = { 
+	discovered_by = POR
+}
+1700.1.1 = { 
+	religion = sunni
+}
+1703.1.1 = { 
+	owner = SUL
+	controller = SUL
+	add_core = SUL
+}

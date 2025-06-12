@@ -1,0 +1,30 @@
+# Pangasinan
+# 2698 Pangasinan - 5/16/2025 12:37:50 PM 
+add_core = PGS
+owner = PGS
+controller = PGS
+base_tax = 4
+base_production = 4
+base_manpower = 4
+center_of_trade = 1
+trade_goods = salt
+extra_cost = 8
+culture = pangasinan
+religion = animism
+capital = "Binalatongan"
+is_city = yes
+discovered_by = chinese
+1521.1.1 = { 
+	discovered_by = SPA
+}
+1576.1.1 = { 
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+}
+1762.10.6 = { 
+	controller = GBR
+}
+1763.2.10 = { 
+	controller = SPA
+}

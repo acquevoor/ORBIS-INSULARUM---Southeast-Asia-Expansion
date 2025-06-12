@@ -1,0 +1,37 @@
+# Tondo
+# 2697 Tondo - 5/16/2025 12:37:50 PM 
+add_core = TDO
+owner = TDO
+controller = TDO
+base_tax = 3
+base_production = 3
+base_manpower = 3
+trade_goods = chinaware
+culture = kapampangan
+religion = animism
+capital = "Tondo"
+is_city = yes
+discovered_by = chinese
+1521.1.1 = { 
+	discovered_by = SPA
+}
+1570.5.1 = { 
+	owner = SPA
+	controller = SPA
+	religion = catholic
+	add_core = SPA
+}
+1587.1.1 = { 
+	controller = REB
+	revolt = { type = nationalist_rebels size = 2 leader = "Agust�n de Legazpi" }
+}
+1588.1.1 = { 
+	controller = SPA
+	revolt = { size = 1 }
+}
+1762.10.6 = { 
+	controller = GBR
+}
+1763.2.10 = { 
+	controller = SPA
+}

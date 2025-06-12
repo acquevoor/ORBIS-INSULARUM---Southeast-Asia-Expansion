@@ -1,0 +1,36 @@
+# Hinonoeino
+# 2625 Hinonoeino - 5/16/2025 12:37:50 PM 
+ 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = unknown
+
+culture = wichita
+religion = totemism
+capital = "Hinonoeino"
+
+native_size = 5
+native_ferocity =  1
+native_hostileness = 2
+
+discovered_by = north_american
+
+
+
+
+1541.1.1 = {
+	discovered_by = SPA
+}
+1760.1.1 = {
+	owner = ARP
+	controller = ARP
+	add_core = ARP
+	culture = arapaho
+	trade_goods = grain
+	is_city = yes
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

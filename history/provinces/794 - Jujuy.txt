@@ -1,0 +1,49 @@
+# Jujuy
+# 794 Jujuy - 5/16/2025 12:37:49 PM 
+ 
+add_core = CCQ
+owner = CCQ
+controller = CCQ
+base_tax = 3
+base_production = 3
+base_manpower = 1
+
+center_of_trade = 1
+trade_goods = wool
+extra_cost = 8
+
+culture = diaguita
+religion = inti
+capital = "Jujuy"
+
+is_city = yes
+native_size = 5
+native_ferocity =  1
+native_hostileness = 2
+
+discovered_by = south_american
+discovered_by = andean
+
+
+
+
+1533.8.29 = {
+	discovered_by = SPA
+}
+1600.1.1 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	trade_goods = iron
+	culture = castillian
+	religion = catholic
+}
+1816.7.9 = {
+	owner = LAP
+	controller = LAP
+	add_core = LAP
+	remove_core = SPA
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

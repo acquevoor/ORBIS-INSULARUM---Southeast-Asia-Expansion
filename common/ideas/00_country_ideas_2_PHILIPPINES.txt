@@ -1,0 +1,814 @@
+# Do not change tags in here without changing every other reference to them.
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or ideas, make sure they are unique.
+
+
+######################## LUZON
+
+#Ibalong (IBO) (Bikol Bicolan)
+IBO_ideas = {
+    start = {
+        tolerance_own = 2
+        global_missionary_strength = 0.02
+    }
+
+    bonus = {
+        reinforce_cost_modifier = -0.15
+    }
+
+    trigger = {
+        tag = IBO
+    }
+
+    free = yes
+
+    IBO_baltog_and_handiong_epic = {
+        prestige = 0.1
+    }
+
+    IBO_asog_volcanic_fertility = {
+        development_cost = -0.10
+    }
+
+    IBO_oragon_martial_pride = {
+        leader_land_shock = 1
+    }
+
+    IBO_daragang_magayon_cult = {
+        improve_relation_modifier = 0.15
+    }
+
+    IBO_sorsogon_strait_trade = {
+        trade_efficiency = 0.10
+    }
+
+    IBO_babaylan_and_asog_shamans = {
+        devotion = 1
+        tolerance_heretic = 0.5
+    }
+
+    IBO_katagbanay_forest_alliances = {
+        manpower_recovery_speed = 0.15
+    }
+}
+
+#Mayi (HOM) (Mayi Ma-i on Mindoro)
+HOM_ideas = {
+    start = {
+        inflation_reduction = 0.05
+        merchants = 1
+    }
+
+    bonus = {
+        diplomats = 1
+    }
+
+    trigger = {
+        tag = HOM
+    }
+
+    free = yes
+
+    HOM_balangay_maritime_networks = {
+        light_ship_cost = -0.15
+    }
+
+    HOM_ma_i_chinese_trade_links = {
+        global_institution_spread = 0.1
+    }
+
+    HOM_mangyan_script_and_epics = {
+        idea_cost = -0.05
+    }
+
+    HOM_tagbuana_councils = {
+        advisor_cost = -0.15
+    }
+
+    HOM_wax_and_medicine_exports = {
+        production_efficiency = 0.10
+    }
+
+    HOM_ritual_and_spiritual_autonomy = {
+        tolerance_heathen = 1
+        global_unrest = -0.5
+    }
+
+    HOM_pulod_highland_resilience = {
+        hostile_attrition = 1
+    }
+}
+
+#Igorot - (IFG) Igorot .. Not rlly Ifugao
+IFG_ideas = {
+    start = {
+        hostile_attrition = 2
+        infantry_power = 0.10
+    }
+
+    bonus = {
+        discipline = 0.05
+    }
+
+    trigger = {
+        tag = IFG
+    }
+
+    free = yes
+
+    IFG_headhunter_warrior_valor = {
+        leader_land_shock = 1
+    }
+
+    IFG_hudhud_and_alim_epics = {
+        prestige = 1
+    }
+
+    IFG_batad_rice_terrace_engineering = {
+        development_cost = -0.10
+    }
+
+    IFG_bodong_peace_pacts = {
+        improve_relation_modifier = 0.15
+    }
+
+    IFG_pangat_highland_leadership = {
+        global_unrest = -2
+    }
+
+    IFG_ritual_feasting_and_wealth = {
+        stability_cost_modifier = -0.10
+    }
+
+    IFG_kalinga_copper_trade = {
+        trade_efficiency = 0.10
+    }
+}
+
+#Samtoy (SMN) (Ilokano Ilocano)
+SMN_ideas = {
+    start = {
+        production_efficiency = 0.15
+        settle_cost = -0.15
+    }
+
+    bonus = {
+        diplomats = 1
+    }
+
+    trigger = {
+        tag = SMN
+    }
+
+    free = yes
+
+    SMN_biak_na_bato_stewards = {
+        garrison_size = 0.10
+    }
+
+    SMN_samtoy_ethnolinguistic_identity = {
+        culture_conversion_cost = -0.15
+    }
+
+    SMN_biag_ni_lamang_legends = {
+        legitimacy = 0.5
+        heir_chance = 0.15
+    }
+
+    SMN_rice_terraces_and_karayan_irrigation = {
+        development_cost = -0.10
+    }
+
+    SMN_panag_bangon_spirit_of_resistance = {
+        rebel_support_efficiency = 0.5
+    }
+
+    SMN_ilocano_shipwrights_and_weavers = {
+        build_cost = -0.10
+        galley_cost = -0.10
+    }
+
+    SMN_kailianan_local_leadership = {
+        improve_relation_modifier = 0.15
+    }
+}
+
+#Tondo (TDO)
+TDO_ideas = {
+    start = {
+        vassal_forcelimit_bonus = 0.2
+        global_trade_power = 0.10
+    }
+
+    bonus = {
+        envoy_travel_time = -0.2
+    }
+
+    trigger = {
+        tag = TDO
+    }
+
+    free = yes
+
+    TDO_pasang_bayan_and_tagalog_datus = {
+        global_unrest = -1
+        legitimacy = 0.25
+    }
+
+    TDO_lakanate_of_the_delta = {
+        global_ship_trade_power = 0.15
+    }
+
+    TDO_linguistic_fluency_and_baybayin_scribes = {
+        idea_cost = -0.05
+    }
+
+    TDO_pakikisama_and_utang_na_loob = {
+        improve_relation_modifier = 0.15
+    }
+
+    TDO_pasig_river_pact_trading = {
+        production_efficiency = 0.15
+    }
+
+    TDO_balangay_loyalty_and_bayani_leadership = {
+        infantry_power = 0.10
+    }
+
+    TDO_resisting_castilian_encroachment = {
+        army_tradition = 1
+    }
+}
+
+#Manila (MNA) (Maynila)
+MNA_ideas = {
+    start = {
+        merchants = 1
+        global_trade_power = 0.25
+    }
+
+    bonus = {
+        diplomats = 1
+    }
+
+    trigger = {
+        tag = MNA
+    }
+
+    free = yes
+
+    MNA_rajahnate_and_sultanate_synergy = {
+        legitimacy = 1
+        tolerance_heathen = 1
+    }
+
+    MNA_pasig_delta_gateway = {
+        global_institution_spread = 0.1
+
+    }
+
+    MNA_tagalog_muslim_syncretism = {
+        idea_cost = -0.05
+    }
+
+    MNA_alliance_with_brunei = {
+        diplomatic_reputation = 1
+        envoy_travel_time = -0.25
+    }
+
+    MNA_riverine_shipwrights_and_kotta_forts = {
+        naval_forcelimit_modifier = 0.10
+        fort_maintenance_modifier = -0.10
+    }
+
+    MNA_rise_of_the_rajahs = {
+        prestige = 1
+    }
+
+    MNA_moro_southlink_and_gold_circuits = {
+        caravan_power = 0.2
+    }
+}
+
+#Taytay (TAY) (on palawan North)
+TAY_ideas = {
+    start = {
+        tolerance_own = 2
+        global_sailors_modifier = 0.2
+    }
+
+    bonus = {
+        sailor_maintenance_modifer = -0.15
+    }
+
+    trigger = {
+        tag = TAY
+    }
+
+    free = yes
+
+    TAY_kuta_fortress_defenders = {
+        defensiveness = 0.10
+    }
+
+    TAY_tagbanua_and_cuyonon_spirit_kinship = {
+        culture_conversion_cost = -0.15
+    }
+
+    TAY_baybayin_and_epic_oral_traditions = {
+        idea_cost = -0.05
+    }
+
+    TAY_sea_tribute_and_pearl_trade = {
+        trade_efficiency = 0.10
+    }
+
+    TAY_march_of_datu_esteban = {
+        land_forcelimit_modifier = 0.15
+    }
+
+    TAY_bridging_visayas_and_sulu = {
+        improve_relation_modifier = 0.15
+    }
+
+    TAY_island_adaptability_and_resilience = {
+        navy_tradition = 1
+    }
+}
+
+#Panginisan (PGS) (caboloan)
+PGS_ideas = {
+    start = {
+        global_trade_power = 0.15
+        global_trade_goods_size_modifier = 0.1
+    }
+
+    bonus = {
+        envoy_travel_time = -0.33
+    }
+
+    trigger = {
+        tag = PGS
+    }
+
+    free = yes
+
+    PGS_salapan_and_salt_guilds = {
+        production_efficiency = 0.10
+        republican_tradition = 0.5
+    }
+
+    PGS_lingayen_thalassocracy = {
+        naval_forcelimit_modifier = 0.15
+    }
+
+    PGS_bolinao_script_and_pact_seals = {
+        idea_cost = -0.05
+    }
+
+    PGS_kaboloan_iron_blade_houses = {
+        infantry_power = 0.1
+    }
+
+    PGS_wang_dom_and_middle_kingdom_links = {
+        diplomatic_reputation = 2
+    }
+
+    PGS_anitohan_spirit_veneration = {
+        stability_cost_modifier = -0.15
+    }
+
+    PGS_lomboy_and_kundiman_poetics = {
+        improve_relation_modifier = 0.15
+    }
+}
+
+######################## VISAYAS
+
+#Tandaya  (VKL) (on Leyte under waray)
+VKL_ideas = {
+    start = {
+        naval_attrition = -0.15
+        tolerance_own = 2
+    }
+
+    bonus = {
+        global_naval_engagement_modifier = 0.15
+    }
+
+    trigger = {
+        tag = VKL
+    }
+
+    free = yes
+
+    VKL_kedatuan_of_kabalian = {
+        diplomatic_reputation = 1
+        legitimacy = 1
+    }
+
+    VKL_league_of_visayan_polities = {
+        improve_relation_modifier = 0.15
+    }
+
+    VKL_binukot_and_liday = {
+        idea_cost = -0.05
+    }
+
+    VKL_samat_and_the_ridge_networks = {
+        defensiveness = 0.15
+    }
+
+    VKL_kandaya_the_warrior_ancestor = {
+        infantry_power = 0.10
+    }
+
+    VKL_bangka_warfare_and_trade = {
+        galley_cost = -0.15
+    }
+
+    VKL_waray_resistance_tradition = {
+        morale_damage_received = -0.025
+    }
+}
+
+#Samar  (VLM) (on Samar under waray)
+VLM_ideas = {
+    start = {
+        naval_attrition = -0.15
+        global_trade_power = 0.10
+    }
+
+    bonus = {
+        infantry_power = 0.10
+    }
+
+    trigger = {
+        tag = VLM
+    }
+
+    free = yes
+
+    VLM_lawigan_confederacies = {
+        governing_capacity_modifier = 0.100
+    }
+
+    VLM_kabikungan_and_sulat_blades = {
+        infantry_shock = 1
+    }
+
+    VLM_samarnon_poetics_and_liday = {
+        idea_cost = -0.05
+    }
+
+    VLM_balangiga_memory = {
+        global_unrest = -1.5
+    }
+
+    VLM_lantaka_and_watchtowers = {
+        defensiveness = 0.10
+    }
+
+    VLM_samar_maritime_highways = {
+        trade_range_modifier = 0.15
+    }
+
+    VLM_crocodile_spirit_and_river_power = {
+        tolerance_heathen = 1
+        monthly_piety = 0.01
+    }
+}
+
+#Madya-as (MAS) (on dual madyas)
+MAS_ideas = {
+    start = {
+        merchants = 1
+        naval_attrition = -0.15
+    }
+
+    bonus = {
+        sailor_maintenance_modifer = -0.15
+    }
+
+    trigger = {
+        tag = MAS
+    }
+
+    free = yes
+
+
+    MAS_confederacy_of_ten_datus = {
+        global_unrest = -2
+    }
+
+    MAS_bornean_trade_links = {
+        global_institution_spread = 0.1
+    }
+
+    MAS_binukot_oral_epics = {
+        idea_cost = -0.05
+    }
+
+    MAS_code_of_kalantiaw = {
+        stability_cost_modifier = -0.15
+    }
+
+    MAS_binanog_warrior_rites = {
+        infantry_shock = 1
+    }
+
+    MAS_mari_it_datu_shipbuilding = {
+        ship_durability = 0.1
+    }
+
+    MAS_highland_lowland_unity = {
+        culture_conversion_cost = -0.15
+    }
+}
+
+#Sugbo (CEB) (on cebu)
+CEB_ideas = {
+    start = {
+        naval_attrition = -0.15
+        naval_morale = 0.1
+    }
+
+    bonus = {
+        galley_power = 0.1
+        prestige_decay = -0.01
+    }
+
+    trigger = {
+        tag = CEB
+    }
+
+    free = yes
+
+    CEB_rajahnate_of_cebu = {
+        legitimacy = 0.5
+        prestige = 1
+    }
+
+    CEB_lapu_lapu_resistance = {
+        discipline = 0.05
+    }
+
+    CEB_panays_literary_legacy = {
+        idea_cost = -0.05
+    }
+
+    CEB_tumalog_maritime_routes = {
+        trade_efficiency = 0.15
+    }
+
+    CEB_visayan_blade_dancers = {
+        leader_land_shock = 1
+    }
+    
+    CEB_first_contact_legacies = {
+        global_institution_spread = 0.15
+    }
+
+    CEB_sandugo_ritual_pacts = {
+        improve_relation_modifier = 0.15
+    }
+}
+
+######################## MAGUINDANAO
+
+#Butuan (BTU)
+BTU_ideas = {
+    start = {
+        global_trade_power = 0.15
+        merchants = 1
+    }
+
+    bonus = {
+        envoy_travel_time = -0.2
+    }
+
+    trigger = {
+        tag = BTU
+    }
+
+    free = yes
+
+    BTU_balangay_shipbuilding = {
+        naval_forcelimit_modifier = 0.15
+    }
+
+    BTU_thalassocratic_legacy = {
+        global_institution_spread = 0.1
+    }    
+
+    BTU_maritime_pagan_elites = {
+        idea_cost = -0.05
+    }
+
+    BTU_song_dynasty_diplomacy = {
+        improve_relation_modifier = 0.15
+    }
+
+    BTU_goldsmiths_of_butuan = {
+        production_efficiency = 0.15
+    }
+
+    BTU_agusan_spirituality = {
+        stability_cost_modifier = -0.15
+    }
+
+    BTU_kanduli_rituals = {
+        global_unrest = -2
+    }
+}
+
+# Lanao (MSB) (Maranao)
+MSB_ideas = {
+    start = {
+        tolerance_own = 2
+        global_missionary_strength = 0.02
+    }
+
+    bonus = {
+        land_morale = 0.10
+    }
+
+    trigger = {
+        tag = MSB
+    }
+
+    free = yes
+
+    MSB_confederation_of_fourteen = {
+        stability_cost_modifier = -0.15
+    }
+
+    MSB_darangen_epic_legacy = {
+        prestige = 1
+    }
+
+    MSB_pride_in_torogan = {
+        development_cost = -0.1
+    }
+
+    MSB_maranao_sultanate_titles = {
+        diplomatic_reputation = 1
+    }
+
+    MSB_ayadat_moral_order = {
+        church_loyalty_modifier = 0.15
+    }
+
+    MSB_ranao_lake_defense = {
+        defensiveness = 0.15
+    }
+
+    MSB_okir_artisan_networks = {
+        production_efficiency = 0.15
+    }
+}
+
+#Sulu (SUL)
+SUL_ideas = {
+    start = {
+        naval_attrition = -0.15
+        privateer_efficiency = 0.25
+    }
+
+    bonus = {
+        naval_morale = 0.15
+    }
+
+    trigger = {
+        tag = SUL
+    }
+
+    free = yes
+
+    SUL_tausug_mercenaries = {
+        mercenary_cost = -0.10
+        merc_maintenance_modifier = -0.10
+    }
+
+    SUL_zamboanga_maritime_dominance = {
+        galley_cost = -0.15
+    }
+
+    SUL_pirate_havens = {
+        global_sailors_modifier = 0.15
+    }
+
+    SUL_datu_trading_licenses = {
+        trade_efficiency = 0.15
+    }
+
+    SUL_moro_cultural_links = {
+        tolerance_heathen = 2
+    }
+
+    SUL_subanon_migrations = {
+        sailors_recovery_speed = 0.15
+    }
+
+    SUL_chiefdom_diplomacy = {
+        diplomatic_upkeep = 1
+    }
+}
+
+# Maguindanao (MGD)
+MAG_ideas = {
+    start = {
+        missionaries = 1
+        global_missionary_strength = 0.02
+    }
+
+    bonus = {
+        land_morale = 0.10
+    }
+
+    trigger = {
+        tag = MGD
+    }
+
+    free = yes
+
+    MAG_mamalu_tabunaway_pact = {
+        tolerance_heathen = 2
+    }
+
+    MAG_kurita_tarabusaw_pah_legends = {
+        prestige = 1
+    }
+
+    MAG_luwaran_customary_law = {
+        idea_cost = -0.05
+    }
+
+    MAG_sharif_kabungsuwan_legacy = {
+        legitimacy = 1
+    }
+
+    MAG_kampilan_warrior_tradition = {
+        infantry_shock = 1
+    }
+
+    MAG_kulintang_cultural_harmony = {
+        improve_relation_modifier = 0.15
+    }
+
+    MAG_pulangi_trade_networks = {
+        trade_efficiency = 0.15
+    }
+}
+
+#Subanon (SUB) (sanmalen)
+SUB_ideas = {
+    start = {
+        land_attrition = -0.15
+        global_heretic_missionary_strength = 0.05
+    }
+
+    bonus = {
+        global_unrest = -2
+    }
+
+    trigger = {
+        tag = SUB
+    }
+
+    free = yes
+
+    SUB_widows_son_heroism = {
+        land_morale = 0.10
+    }
+
+    SUB_diata_spirit_harmony = {
+        global_unrest = -1
+        tolerance_heathen = 0.5
+    }
+
+    SUB_buklog_ritual_tradition = {
+		legitimacy = 1
+		devotion = 1
+		republican_tradition = 0.3
+		meritocracy = 1
+		horde_unity = 1
+    }
+
+    SUB_guman_epic_bard = {
+        advisor_cost = -0.15
+    }
+
+    SUB_sinalimba_sea_journey = {
+        naval_morale = 0.10
+    }
+
+    SUB_kalibugan_trade_paths = {
+        trade_efficiency = 0.10
+    }
+
+    SUB_thunderlore_ancestry = {
+        prestige = 1
+		legitimacy = 0.5
+    }
+}

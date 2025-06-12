@@ -1,0 +1,38 @@
+# Kesagami
+# 2589 Kesagami - 5/16/2025 12:37:50 PM 
+ 
+add_core = WCR
+owner = WCR
+controller = WCR
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = fur
+
+culture = cree
+religion = totemism
+capital = "Kesagami"
+
+is_city = yes
+native_size = 5
+native_ferocity =  1
+native_hostileness = 2
+
+discovered_by = north_american
+
+
+
+
+1609.1.1 = {
+	discovered_by = FRA
+}
+1664.1.1 = {
+	discovered_by = ENG
+}
+1707.5.12 = {
+	discovered_by = GBR
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

@@ -1,0 +1,24 @@
+# Muko-Muko
+# 2680 Muko-Muko - 5/16/2025 12:37:50 PM 
+add_core = IND
+add_core = BKL
+add_core = PGR
+owner = BKL
+controller = BKL
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = tropical_wood
+culture = rejang
+religion = animism
+capital = "Muko-Muko"
+is_city = yes
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = MNG
+discovered_by = MNG
+1509.1.1 = { 
+	discovered_by = POR
+}

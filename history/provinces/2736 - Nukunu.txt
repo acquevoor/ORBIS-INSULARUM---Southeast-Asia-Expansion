@@ -1,0 +1,28 @@
+# Nukunu
+# 2736 Nukunu - 5/16/2025 12:37:50 PM 
+ 
+base_tax = 3
+base_production = 3
+base_manpower = 1
+
+trade_goods = unknown
+
+culture = yura
+religion = dreamtime
+capital = "Nukunu"
+
+native_size = 10
+native_ferocity =  1
+native_hostileness = 9
+
+discovered_by = aboriginal_tech
+
+
+
+
+1802.1.1 = {
+	discovered_by = GBR
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

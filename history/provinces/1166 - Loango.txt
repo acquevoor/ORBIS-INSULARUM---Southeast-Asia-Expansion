@@ -1,0 +1,30 @@
+# Loango
+# 1166 Loango - 5/16/2025 12:37:49 PM 
+ 
+add_core = LOA
+owner = LOA
+controller = LOA
+base_tax = 3
+base_production = 3
+base_manpower = 3
+
+trade_goods = gems
+
+culture = kongolese
+religion = shamanism
+capital = "Loango"
+
+is_city = yes
+
+discovered_by = central_african
+discovered_by = sub_saharan
+
+
+
+
+1481.1.1 = {
+	discovered_by = POR
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

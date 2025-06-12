@@ -1,0 +1,210 @@
+# Do not change tags in here without changing every other reference to them
+# If adding new groups or ideas, make sure they are unique.
+
+#Suphannaphumi
+SUP_ideas = {
+    start = {
+        manpower_recovery_speed = 0.15
+		legitimacy = 1
+		devotion = 1
+		republican_tradition = 0.3
+		meritocracy = 1
+		horde_unity = 1
+    }
+
+    bonus = {
+        leader_land_shock = 1
+    }
+
+    trigger = {
+        tag = SUP
+    }
+
+    free = yes
+
+    SUP_frontier_of_uthong = {
+        defensiveness = 0.15
+    }
+
+    SUP_gateway_of_chao_phraya = {
+        merchants = 1
+    }
+
+    SUP_phya_gong_temple_building = {
+        tolerance_own = 2
+    }
+
+    SUP_mahout_mastery = {
+        cavalry_cost = -0.1
+    }
+
+    SUP_fertile_land = {
+        production_efficiency = 0.1
+    }
+
+    SUP_tie_with_sukhotai = {
+        trade_efficiency = 0.1
+    }
+
+    SUP_leader_of_ayutthaya = {
+        core_creation = -0.15
+    }
+}
+
+#Uthong
+UTH_ideas = {
+    start = {
+        build_cost = -0.15
+    }
+
+    bonus = {
+        army_tradition = 0.5
+    }
+
+    trigger = {
+        tag = UTH
+    }
+
+    free = yes
+
+    UTH_ascendent_of_uthong = {
+		diplomatic_reputation = 1
+        diplomatic_annexation_cost = -0.15
+    }
+
+    UTH_glistering_cradle = {
+        gold_depletion_chance_modifier = -0.2
+		global_tax_modifier = 0.1
+    }
+
+    UTH_specialized_canalwork = {
+        development_cost = -0.15
+    }
+
+    UTH_land_of_siam = {
+        promote_culture_cost = -0.15
+		num_accepted_cultures = 2
+    }
+
+    UTH_emerging_mandala = {
+        vassal_income = 0.2
+		ae_impact = -0.1
+    }
+
+    UTH_rivalry_with_angkor = {
+        rival_border_fort_maintenance = -0.2
+		power_projection_from_insults = 1
+    }
+
+    UTH_founder_of_ayutthaya = {
+        global_prov_trade_power_modifier = 0.1
+		legitimacy = 1
+		devotion = 1
+		republican_tradition = 0.3
+		meritocracy = 1
+		horde_unity = 1
+    }
+}
+
+#Lavo
+LAV_ideas = {
+    start = {
+        institution_spread_from_true_faith = 0.33
+    }
+
+    bonus = {
+        hostile_attrition = 1.0
+    }
+
+    trigger = {
+        tag = LAV
+    }
+
+    free = yes
+
+    LAV_son_of_rama = {
+        legitimacy = 1
+		devotion = 1
+		republican_tradition = 0.3
+		meritocracy = 1
+		horde_unity = 1
+    }
+
+    LAV_khmer_spire = {
+		build_cost = -0.1
+        technology_cost = -0.05
+    }
+
+    LAV_mon_lawa_synthesis = {
+        promote_culture_cost = -0.2
+		num_accepted_cultures = 2
+    }
+
+    LAV_heart_of_chao_phraya = {
+        global_own_trade_power = 0.2
+    }
+
+    LAV_tie_with_angkor = {
+        great_project_upgrade_cost = -0.1
+		great_project_upgrade_cost = -0.1
+    }
+
+    LAV_father_to_uthong = {
+        merchants = 1
+    }
+
+    LAV_citadel_of_chao_phraya = {
+		global_garrison_growth = 0.25
+        defensiveness = 0.15
+    }
+}
+
+#Northern Thai
+NTH_ideas = {
+    start = {
+        global_prov_trade_power_modifier = 0.10
+		global_manpower_modifier = 0.1
+    }
+
+    bonus = {
+        development_cost = -0.1
+    }
+
+    trigger = {
+       NOT = { tag = LNA }
+	   primary_culture = northern_thai
+    }
+
+    free = yes
+
+    NTH_scion_of_yonok = {
+        build_cost = -0.1
+    }
+
+    NTH_valley_of_terrace = {
+        global_trade_goods_size_modifier = 0.1
+    }
+
+    NTH_satsana_phi = {
+        promote_culture_cost = -0.1
+		num_accepted_cultures = 2
+    }
+
+    NTH_temple_building = {
+        tolerance_own = 1
+		dip_tech_cost_modifier = -0.1
+    }
+
+    NTH_ivory_and_teak = {
+       global_trade_goods_size_modifier = 0.1
+    }
+
+    NTH_elephant_charge = {
+        cavalry_flanking = 0.5
+    }
+
+    NTH_water_oath = {
+		liberty_desire_from_subject_development = -0.2
+		army_tradition_decay = -0.01
+    }
+}

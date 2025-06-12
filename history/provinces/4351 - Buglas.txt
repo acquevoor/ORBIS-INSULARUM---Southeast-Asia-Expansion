@@ -1,0 +1,29 @@
+# Buglas
+# 4351 Buglas - 5/16/2025 12:37:50 PM 
+add_core = MAS
+owner = MAS
+controller = MAS
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = sugar
+culture = ilonggo
+religion = animism
+capital = "Silay"
+is_city = yes
+discovered_by = chinese
+1521.1.1 = { 
+	discovered_by = SPA
+}
+1565.1.1 = { 
+	owner = SPA
+	controller = SPA
+	religion = catholic
+	add_core = SPA
+}
+1762.10.6 = { 
+	controller = GBR
+}
+1763.2.10 = { 
+	controller = SPA
+}

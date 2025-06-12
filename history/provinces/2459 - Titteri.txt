@@ -1,0 +1,34 @@
+# Titteri
+# 2459 Titteri - 5/16/2025 12:37:50 PM 
+ 
+add_core = TLC
+add_core = ALG
+owner = TLC
+controller = TLC
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = grain
+
+culture = algerian
+religion = sunni
+capital = "Medea"
+
+is_city = yes
+
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+
+
+
+
+1517.1.1 = {
+	owner = ALG
+	controller = ALG
+	remove_core = TLC
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

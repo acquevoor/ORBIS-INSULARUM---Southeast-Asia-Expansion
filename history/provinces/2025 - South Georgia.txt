@@ -1,0 +1,22 @@
+# South Georgia
+# 2025 South Georgia - 5/16/2025 12:37:49 PM 
+ 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = unknown
+
+capital = "South Georgia"
+
+
+
+
+
+
+1675.1.1 = {
+	discovered_by = ENG
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

@@ -1,0 +1,42 @@
+# Oudong
+ 
+add_core = KHM
+add_core = OUD
+owner = KHM
+controller = KHM
+base_tax = 4
+base_production = 4
+base_manpower = 2
+
+trade_goods = incense
+
+culture = khmer
+religion = buddhism
+capital = "Oudong"
+
+is_city = yes
+
+discovered_by = chinese
+discovered_by = indian
+
+
+
+
+1510.1.1 = {
+	capital = "Longvek"
+}
+1535.1.1 = {
+	discovered_by = POR
+}
+1618.1.1 = {
+	capital = "Oudong"
+}
+1811.1.1 = {
+	unrest = 5
+}
+1812.1.1 = {
+	unrest = 0
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

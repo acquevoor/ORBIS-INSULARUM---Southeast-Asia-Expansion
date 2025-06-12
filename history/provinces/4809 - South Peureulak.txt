@@ -1,0 +1,47 @@
+# Langkat
+# 4809 Langkat - 5/16/2025 12:37:50 PM 
+ 
+add_core = PSA
+add_core = ARU
+owner = ARU
+controller = ARU
+base_tax = 3
+base_production = 3
+base_manpower = 3
+
+trade_goods = spices
+
+culture = melayu
+religion = sunni
+capital = "Langkat"
+
+is_city = yes
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = MNG
+discovered_by = MNG
+discovered_by = MNG
+
+
+
+
+1405.1.1 = {
+	discovered_by = MNG
+}
+1471.1.1 = {
+	add_core = ATJ
+}
+1509.1.1 = {
+	discovered_by = POR
+}
+1521.1.1 = {
+	owner = ATJ
+	controller = ATJ
+	remove_core = PSA
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

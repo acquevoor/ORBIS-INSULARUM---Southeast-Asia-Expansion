@@ -1,0 +1,31 @@
+# Bonoman
+# 2254 Bonoman - 5/16/2025 12:37:50 PM 
+ 
+add_core = BON
+owner = BON
+controller = BON
+base_tax = 3
+base_production = 3
+base_manpower = 1
+
+trade_goods = tropical_wood
+
+culture = aka
+religion = shamanism
+capital = "Bono Manso"
+
+is_city = yes
+
+discovered_by = sub_saharan
+
+
+
+
+1735.1.1 = {
+	owner = ASH
+	controller = ASH
+	add_core = ASH
+}
+
+
+### Modified 5/16/2025 12:37:50 PM ###

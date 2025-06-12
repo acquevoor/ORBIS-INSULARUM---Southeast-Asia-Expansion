@@ -1,0 +1,54 @@
+# Prey Nokor
+# 605 Prey Nokor - 5/16/2025 12:37:49 PM 
+ 
+add_core = KHM
+add_core = CTK
+owner = KHM
+controller = KHM
+base_tax = 4
+base_production = 4
+base_manpower = 3
+
+trade_goods = tropical_wood
+
+culture = khmer
+religion = hinduism
+capital = "Prey Nokor"
+
+is_city = yes
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+1535.1.1 = {
+	discovered_by = POR
+}
+1698.1.1 = {
+	owner = ANN
+	controller = ANN
+	add_core = ANN
+}
+1769.1.1 = {
+	unrest = 6
+}
+1776.1.1 = {
+	owner = DAI
+	controller = DAI
+	add_core = DAI
+	remove_core = KHM
+}
+1788.9.1 = {
+	unrest = 0
+	owner = ANN
+	controller = ANN
+	add_core = ANN
+	remove_core = DAI
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

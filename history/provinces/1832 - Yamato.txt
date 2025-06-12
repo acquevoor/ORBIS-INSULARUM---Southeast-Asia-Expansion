@@ -1,0 +1,45 @@
+# Yamato
+# 1832 Yamato - 5/16/2025 12:37:49 PM 
+ 
+add_core = TTI
+owner = TTI
+controller = TTI
+base_tax = 4
+base_production = 3
+base_manpower = 2
+
+trade_goods = tea
+
+culture = japanese
+religion = shinto
+capital = "Nara"
+
+is_city = yes
+
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+
+
+
+
+1542.1.1 = {
+	discovered_by = POR
+}
+1585.8.1 = {
+	owner = ODA
+	controller = ODA
+	add_core = ODA
+	remove_core = TTI
+}
+1600.10.21 = {
+	owner = TKG
+	controller = TKG
+	add_core = TKG
+	remove_core = ODA
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###

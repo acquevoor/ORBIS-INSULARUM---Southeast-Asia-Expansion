@@ -1,0 +1,40 @@
+# Ulm
+# 1872 Ulm - 5/16/2025 12:37:49 PM 
+ 
+add_core = ULM
+owner = ULM
+controller = ULM
+base_tax = 5
+base_production = 6
+base_manpower = 4
+
+center_of_trade = 1
+trade_goods = cloth
+extra_cost = 8
+
+culture = swabian
+religion = catholic
+capital = "Ulm"
+
+hre = yes
+is_city = yes
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+1803.1.1 = {
+	add_core = WUR
+	owner = WUR
+	controller = WUR
+}
+1806.7.12 = {
+	hre = no
+}
+
+
+### Modified 5/16/2025 12:37:49 PM ###
