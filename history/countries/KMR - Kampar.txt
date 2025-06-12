@@ -2,8 +2,13 @@ government = monarchy
 add_government_reform = adat_minangkabau
 government_rank = 1
 primary_culture = minag
+<<<<<<< HEAD
 religion = sunni
 secondary_religion = vajrayana
+=======
+religion = vajrayana
+secondary_religion = sunni
+>>>>>>> 660162f5f7b8a6eee385f6c13294b24e96618080
 technology_group = chinese
 capital = 2675
 religious_school = shafii_school
