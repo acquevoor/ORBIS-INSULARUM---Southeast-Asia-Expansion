@@ -139,12 +139,11 @@ DMK_ideas = {
 }
 
 #Majapahit
+#Majapahit
 MAJ_ideas = {
     start = {
-        prestige = 1
-        advisor_cost = -0.15
-        monarch_admin_power = -2
-        burghers_loyalty_modifier = -0.1
+        diplomatic_upkeep = 2
+        global_ship_cost = -0.15
     }
 
     bonus = {
@@ -157,24 +156,19 @@ MAJ_ideas = {
 
     free = yes
 
-    MAJ_ken_arok_descendant = {
-        spy_offence = 0.25
-        global_unrest = 1
+    MAJ_nagarakretagama = {
+        prestige = 1
+        legitimacy = 1
+        advisor_pool = 1
     }
 
     MAJ_cetbang = {
         artillery_cost = -0.10
-        heavy_ship_cost = -0.10
+        fire_damage = 0.05
     }
 
-    MAJ_bhinekka_tunggal_ika = {
-        tolerance_heretic = 2
-		tolerance_heathen = 1  
-    }
-
-    MAJ_kris_homeland = {
-        morale_damage_received = -0.1
-        hostile_attrition = 1
+    MAJ_keraton_and_dharmadwipa = {
+        idea_cost = -0.1
     }
 
     MAJ_caturmarga = {    
@@ -182,13 +176,21 @@ MAJ_ideas = {
         tolerance_own = 2
     }
 
-    MAJ_nagarakretagama = {
-        diplomats = 2
-        diplomatic_upkeep = 1
+    MAJ_sistem_mandala_politik = {
+        liberty_desire = -10
+        autonomy_change_time = -0.15
+        diplomatic_reputation = 1
+    }
+
+    MAJ_kris_homeland = {
+        morale_damage_received = -0.1
+        army_tradition_decay = -0.01
     }
 
     MAJ_antara_nusa = {
         global_prosperity_growth = 0.1
+        goods_produced_modifier = 0.05
+        trade_efficiency = 0.05
     }
 }
 
