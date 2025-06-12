@@ -1,7 +1,7 @@
 #Country Name: Please see filename.
 graphical_culture = asiangfx
 #color = { 78  11  96 }
-color = { 117 74 104 }
+color = { 163  68  62 }
 historical_idea_groups = { 
 	trade_ideas
 	maritime_ideas
