@@ -6,8 +6,7 @@ special_unit_culture = south_east_asian_special
 
 #color = { 160 55 63 }
 
-
-color = { 117 74 104 }
+color = { 168  126  143 }
 #color = { 182 128 170 }
 
 revolutionary_colors = { 180 174 8 }
