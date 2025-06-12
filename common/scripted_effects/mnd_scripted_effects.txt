@@ -1,3 +1,0 @@
-clear_all_flags_but_maya = {
-	clr_country_flag = chosen_genoese_galleys
-}

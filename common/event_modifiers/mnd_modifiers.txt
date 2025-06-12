@@ -1,3 +1,0 @@
-mnd_crusader_admiral_modifier = {
-	free_navy_leader_pool = 1
-}

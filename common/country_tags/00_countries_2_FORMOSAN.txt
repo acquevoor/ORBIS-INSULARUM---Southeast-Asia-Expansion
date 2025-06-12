@@ -1,5 +1,0 @@
-# PEARL OF THE ORIENT
-
-PIW = "countries/Paiwan.txt"
-BUN = "countries/Bunun.txt"
-ATY = "countries/Atayal.txt"
