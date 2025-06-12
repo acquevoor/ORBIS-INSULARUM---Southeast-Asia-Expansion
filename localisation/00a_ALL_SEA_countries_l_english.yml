@@ -79,6 +79,15 @@ l_english:
   PRI:0 "Pariaman"
   PRI_ADJ:0 "Pariamans"
 
+  KPR:0 "Kampar"
+  KPR_ADJ:0 "Kamparans"
+
+  PDR:0 "Pedir"
+  PDR_ADJ:0 "Pedirans"
+
+  IDG:0 "Indragiri"
+  IDG_ADJ:0 "Indragirians"
+
   ARU:0 "Aru"
   ARU_ADJ:0 "Aruese"
 
