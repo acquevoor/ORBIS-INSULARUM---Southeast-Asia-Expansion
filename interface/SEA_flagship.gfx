@@ -1,0 +1,12 @@
+spriteTypes = { # If editing an existing .gfx file then this line will likely already be there, so you might not need to write this. However, make sure the following are inside this.
+    spriteType = {
+        name = "GFX_flagship_SEA_spice_storage"	
+        texturefile = "gfx//interface//SEA_spice_storage.tga"
+        loadType = "INGAME"
+    }
+        spriteType = {
+        name = "GFX_flagship_SEA_piracy_fleet"	
+        texturefile = "gfx//interface//SEA_piracy_fleet.tga"
+        loadType = "INGAME"
+    }
+}
