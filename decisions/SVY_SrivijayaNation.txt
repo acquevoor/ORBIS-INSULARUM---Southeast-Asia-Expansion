@@ -33,7 +33,7 @@ country_decisions = {
 		}
 		allow = {
 			is_free_trigger = yes
-			religion = mahayana 
+			religion_group = dharmic 
 			is_nomad = no		
 			is_at_war = no
 
