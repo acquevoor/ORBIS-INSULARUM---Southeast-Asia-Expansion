@@ -1,0 +1,43 @@
+SEA_piracy_fleet = {
+    trigger = {
+        culture_group = filipino_g
+			        
+        normal_or_historical_nations = yes
+    }
+	modifier = {
+        privateering_efficiency_in_fleet_modifier = 0.33
+        naval_maintenance_flagship_modifier = 0.60
+	}
+    ai_trade_score = {
+        factor = 0
+    }
+    ai_war_score = {
+        factor = 1
+        modifier = {
+            factor = 10
+            culture_group = filipino_g
+        }
+    }
+}
+
+SEA_spice_storage = {
+    trigger = {
+       culture_group = malay
+		
+        normal_or_historical_nations = yes
+    }
+	modifier = {
+        trade_power_in_fleet_modifier = 1.5
+		naval_maintenance_flagship_modifier = 0.95
+	}
+    ai_trade_score = {
+        factor = 0
+    }
+    ai_war_score = {
+        factor = 1
+        modifier = {
+            factor = 10
+            culture_group = malay
+        }
+    }
+}
