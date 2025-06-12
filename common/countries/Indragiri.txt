@@ -1,7 +1,11 @@
 #Country Name: Please see filename.
 
 graphical_culture = asiangfx
-color = { 144 74 234 }
+
+#color = { 144 74 234 }
+#color = { 174 168 97 }
+color = { 174 168 197 }
+revolutionary_colors = { 8 6 8 }
 
 special_unit_culture = south_east_asian_special
 

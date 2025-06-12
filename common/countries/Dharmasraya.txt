@@ -2,11 +2,12 @@
 graphical_culture = asiangfx
 special_unit_culture = south_east_asian_special
 #color = { 191 143 162 }
-
 #color = { 135  85  135 }
-
-color = { 125  55  163 }
-
+#color = { 125  55  163 }
+#color = { 119 114 52 }
+#color = { 100 96 197 }
+color = { 112 116 197 }
+revolutionary_colors = { 5 8 1 }
 historical_idea_groups = { 
 	trade_ideas
 	maritime_ideas
