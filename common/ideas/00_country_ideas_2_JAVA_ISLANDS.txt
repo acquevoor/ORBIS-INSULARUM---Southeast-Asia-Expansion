@@ -189,7 +189,6 @@ MAJ_ideas = {
 
     MAJ_antara_nusa = {
         global_prosperity_growth = 0.1
-        goods_produced_modifier = 0.05
         trade_efficiency = 0.05
     }
 }
