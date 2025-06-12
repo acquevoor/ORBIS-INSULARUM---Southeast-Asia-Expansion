@@ -20,7 +20,7 @@ MLC_ideas = {
 
     MLC_sultanate_legitimacy = {
         legitimacy = 1
-        prestige = 1.5
+        prestige = 1
     }
 
     MLC_madrasa_institutions = {

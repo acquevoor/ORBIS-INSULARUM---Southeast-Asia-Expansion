@@ -167,7 +167,7 @@ CHA_ideas = {
 
     CHA_champa_royal_lineage = {
         legitimacy = 1
-        prestige = 1.5
+        prestige = 1
     }
 
     CHA_hindu_temple_fortresses = {

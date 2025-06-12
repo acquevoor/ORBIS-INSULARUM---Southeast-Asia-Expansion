@@ -260,7 +260,7 @@ PSA_ideas = {
     free = yes
 
     PSA_first_islamic_sultanate = {
-        prestige = 1.5
+        prestige = 1
         legitimacy = 1
     }
 
