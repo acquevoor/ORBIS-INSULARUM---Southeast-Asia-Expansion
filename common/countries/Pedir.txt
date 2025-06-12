@@ -1,0 +1,58 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+special_unit_culture = south_east_asian_special
+
+color = { 135  181  23 }
+revolutionary_colors = { 0 8 10 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Sulaiman Noer #0" = 10  
+	"Sjamsu Syah #0" = 10  
+	"Malik Ma'roef Syah #0" = 10  
+	"Ahmad Syah #0" = 10  
+	"Husain Syah #0" = 10  
+	"Saidil Mukamil #0" = 10  
+	"Husain Syah #0" = 10  
+	"Meurah Poli #0" = 10  
+	"Po Meurah Syahir Poli #0" = 10  
+	"Meurah Po Itam #0" = 10  
+	"Meurah Po Puan #0" = 10  
+	"Meurah Po Thahir #0" = 10  
+	"Meurah Po Doom #0" = 10  
+	"Meurah Po Djoho #0" = 10  
+	"Meurah Po Seuman #0" = 10  
+	"Meurah Po Lateh #0" = 10  
+	"Teuku Keumangan Yusuf #0" = 10  
+	"Teuku Keumangan Umar Uleebalang #0" = 10  
+}
+
+leader_names = {
+	Ayub Abdul Abdullah Abdulhassan Ahmad Akbar Ali Aftas Alam Hasan Husin Ismail Mahmud Muhammad Shehryar Ibtisham Javaid Jafar Tahir Razzaq Yunus Suleyman Murtaza Hyder Amir Saif Zulfikar Imron Hafiz Akbar Yakub Abdurrashid Mokhtar Hamzah Syuaib Salman Kadir Salim Rasyid Farhan Karim Fauzan Fawwaz Ghulam Sayid Imran Adil Arif Azam Nadim Rizwan Ridwan Nasir Khalid Idris Zahir Nuh Soleh Munir Hamid Yusuf Ihsan Faisal Majid Rafiq Ashrof Iqbal Jamil Rizki Ridho Isa Yusuf Adam Nuh Saleh Ibrahim Ishak Zulkifli Musa Harun Daud Sulaiman Yunus Ilyas Yahya Zakaria Umar Usman Tholib Malik Alif Amir Amran Aqil Anwar Aziz Faiz Fuad Gozali Hamzah Ilham Ikhwan Israfil Izroil Jauhari Kamal Khalid Lukman Lutfi Mustofa Raihan Rahman Rahim Rahmat Taufik Syarif Wahid Zulkarnain Agam Antana Ariga Banta Bentara Gadee Galang Gapi Lhem Madi Meurah Nanta Rhangkem Tandi Teuku Yusniar "Akes" "Bacha" "Binasuor" "Biyeng" "Brahmanra" "Cahya" "Dharma" "Dijuq" "Gama" "Gelang" "Habo" "Inra" "Inrasara" "Jamlen" "Jihia" "Katip" "Kok" "Komary" "Kurama" "Langgiri" "Le" "Ling" "Loh" "Mach" "Math" "Musa" "Ni" "Punyamin" "Raden" "Ramut" "Salan" "Saleh" "San" "Senapati" "Sles" "Sokha" "Soprey" "Sunan" "Teath" "Teri" "Tol" "Wan" "Yashya"
+}
+
+ship_names = {
+	Pedir Peureulak "Idi Rayeuk" "Darul Aman" "Pantee Bidari" Rantau "Sungai Peureulak" "Julok Aceh" "Simpang Ulim" "Birem Bayeun" "Serbajadi Aceh" "Lokop Aceh" "Alue Ie Mirah" "Banda Alam"
+}

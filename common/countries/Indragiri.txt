@@ -29,16 +29,28 @@ historical_units = {
 }
 
 monarch_names = {
-	"Gocah Pahlawan #0" = 20
-	"Perunggit #0" = 20
-	"Paderap #0" = 20
-	"Pasutan #0" = 20
-	"Gandar Wahid #0" = 20
-	"Mangendar #0" = 20
-	"Perkasa Alam Shah #0" = 20
-	"Mahmud Al Rashid #0" = 20
-	"Amaluddin Al Sani #0" = 20
-	"Osman #0" = 20
+	"Kecik Mambang Sultan Merlang #0" = 10
+	"Iskandar Sultan Nara Singa #0" = 10
+	"Jamalluddin Inayatsyah #0" = 10
+	"Alauddin Iskandarsyah #0" = 10
+	"Usulluddin Hasansyah #0" = 10
+	"Ahmad Sultan Mohamadsyah #0" = 10
+	"Jammalludin Keramatsyah #0" = 10
+	"Jamalluddin Suleimansyah #0" = 10
+	"Jamalluddin Mudoyatsyah #0" = 10
+	"Usulluddin Ahmadsyah #0" = 10
+	"Abdul Jalilsyah #0" = 10
+	"Mansyursyah #0" = 10
+	"Modamadsyah #0" = 10
+	"Musafarsyah #0" = 10
+	"Ali Sultan Zainal Abidin Indragiri #0" = 10
+	"Hasan Sultan Salehuddin Keramatsyah #0" = 10
+	"Kecik Besar Sultan Sunan #0" = 10
+	"Ibrahim Indragiri #0" = 10
+	"Mun Sultan Mun Bungsu #0" = 10
+	"Umar Sultan Keramat Gangsal #0" = 10
+	"Said Sultan Said Modoyatsyah #0" = 10
+	"Ismail Sultan Ismailsyah #0" = 10
 }
 
 leader_names = { 
@@ -46,6 +58,5 @@ leader_names = {
 }
 
 ship_names = {
-	Percut Hamparan Lancaran Labuhan Serdang Sunggal Deli "Batang Kuis" Patumbak Namorambe "Tanjung Morawa" "Pancur Batu" Perak
-	Medan "Labuhan Deli" "Batang Kuis" "Lubuk Pakam" "Pancur Batu" Sunggal "Sei Mati" "Kampung Baru" "Kampung Besar" "Kampung Lalang"
+	Indragiri Rengat "Kuala Cenaku" Kuantan "Sungai Lala" "Batang Peranap" Kelayang Peranap "Rakit Kulim" Seberida "Pangkalan Kasai" "Lubuk Jambi" Cerenti "Taluk Kuantan" "Sungai Batang"
 }

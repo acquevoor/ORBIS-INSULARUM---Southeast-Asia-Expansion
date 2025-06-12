@@ -29,16 +29,14 @@ historical_units = {
 }
 
 monarch_names = {
-	"Gocah Pahlawan #0" = 20
-	"Perunggit #0" = 20
-	"Paderap #0" = 20
-	"Pasutan #0" = 20
-	"Gandar Wahid #0" = 20
-	"Mangendar #0" = 20
-	"Perkasa Alam Shah #0" = 20
-	"Mahmud Al Rashid #0" = 20
-	"Amaluddin Al Sani #0" = 20
-	"Osman #0" = 20
+	"Bujang Sati #0" = 20
+	"Nan Elok #0" = 20
+	"Tengku Yang Dipertuan Muda #0" = 20
+	"Tengku Yang Dipertuan Hitam #0" = 20
+	"Abdul Jalil Khalifatullah #0" = 20
+	"Tengku Yang Dipertuan Besar Daulat #0" = 20
+	"Abdurrahman #0" = 20
+	"Sati Abdullah #0" = 20
 }
 
 leader_names = { 
@@ -46,6 +44,5 @@ leader_names = {
 }
 
 ship_names = {
-	Percut Hamparan Lancaran Labuhan Serdang Sunggal Deli "Batang Kuis" Patumbak Namorambe "Tanjung Morawa" "Pancur Batu" Perak
-	Medan "Labuhan Deli" "Batang Kuis" "Lubuk Pakam" "Pancur Batu" Sunggal "Sei Mati" "Kampung Baru" "Kampung Besar" "Kampung Lalang"
+	"Kampar Kiri" "Gunung Sahilan" "Lipat Kain" "Pangkalan Kapas" "Gurun Tua" "Padang Sawah" "Koto Lamo" "Muara Takus" "Lubuk Agung" "Sungai Subayang" "Rimbang Baling" "Petapahan Hulu" "Kuntu Darussalam" "Tanjung Belit"
 }
