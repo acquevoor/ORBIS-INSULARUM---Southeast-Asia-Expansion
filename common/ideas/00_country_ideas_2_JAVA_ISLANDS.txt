@@ -142,7 +142,7 @@ DMK_ideas = {
 MAJ_ideas = {
     start = {
         prestige = 1
-        advisor_cost = -0.20
+        advisor_cost = -0.15
         monarch_admin_power = -2
         burghers_loyalty_modifier = -0.1
     }
