@@ -2,11 +2,10 @@ government = monarchy
 add_government_reform = mandala_reform
 government_rank = 1
 primary_culture = batak
-religion = animism
+religion = sunni
 technology_group = chinese
 capital = 4811
 religious_school = shafii_school
-secondary_religion = sunni
 
 historical_rival = ATJ 
 historical_rival = PSA 

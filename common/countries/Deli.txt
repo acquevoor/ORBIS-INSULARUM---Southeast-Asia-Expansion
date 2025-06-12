@@ -29,9 +29,9 @@ historical_units = {
 }
 
 monarch_names = {
-	"Gocah Pahlawan #0" = 50
-	"Perunggit #0" = 50
-	"Paderap #0" = 50
+	"Gocah Pahlawan #0" = 20
+	"Perunggit #0" = 20
+	"Paderap #0" = 20
 	"Pasutan #0" = 20
 	"Gandar Wahid #0" = 20
 	"Mangendar #0" = 20
@@ -46,6 +46,6 @@ leader_names = {
 }
 
 ship_names = {
-	Percut Hamparan Lancaran Labuhan Serdang Sunggal Deli
-	"Batang Kuis" Patumbak Namorambe "Tanjung Morawa" "Pancur Batu" Perak
+	Percut Hamparan Lancaran Labuhan Serdang Sunggal Deli "Batang Kuis" Patumbak Namorambe "Tanjung Morawa" "Pancur Batu" Perak
+	Medan "Labuhan Deli" "Batang Kuis" "Lubuk Pakam" "Pancur Batu" Sunggal "Sei Mati" "Kampung Baru" "Kampung Besar" "Kampung Lalang"
 }

@@ -1,0 +1,8 @@
+spriteTypes = {
+	spriteType = {
+		name = "adat_system"
+		texturefile = "gfx/interface/government_reform_icons/adat_system.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+}

@@ -1,7 +1,10 @@
 #Country Name: Please see filename.
 graphical_culture = asiangfx
 special_unit_culture = south_east_asian_special
-color = { 191 143 162 }
+#color = { 191 143 162 }
+
+color = { 223  228  192 }
+
 historical_idea_groups = { 
 	trade_ideas
 	maritime_ideas

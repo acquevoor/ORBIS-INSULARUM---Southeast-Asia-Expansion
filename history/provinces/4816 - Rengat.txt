@@ -1,9 +1,8 @@
 # Rengat
 # 4816 Rengat - 5/16/2025 12:37:50 PM 
-add_core = SAK
-add_core = PGR
-owner = PGR
-controller = PGR
+add_core = IDG
+owner = IDG
+controller = IDG
 base_tax = 4
 base_production = 4
 base_manpower = 3
