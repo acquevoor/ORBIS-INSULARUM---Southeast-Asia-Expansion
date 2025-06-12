@@ -1,0 +1,27 @@
+government = monarchy
+add_government_reform = adat_minangkabau
+government_rank = 1
+primary_culture = minag
+religion = mahayana
+secondary_religion = sunni
+technology_group = chinese
+capital = 2675
+religious_school = shafii_school
+
+historical_friend = PGR
+historical_friend = GUJ
+historical_friend = BNG
+historical_rival = PLB 
+historical_rival = PSA
+historical_rival = MLC
+historical_rival = JMB
+
+1444.1.1 = {
+	monarch = {
+		name = "Meurah Bujang"
+		dynasty = "Kampar"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
