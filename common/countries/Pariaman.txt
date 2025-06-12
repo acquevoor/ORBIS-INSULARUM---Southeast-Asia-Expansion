@@ -4,7 +4,11 @@ special_unit_culture = south_east_asian_special
 #color = { 255  186  0 }
 #color = { 180 86 8 } not needed
 
-color = { 182 128 170 }
+#color = { 160 55 63 }
+
+
+color = { 117 74 104 }
+#color = { 182 128 170 }
 
 revolutionary_colors = { 180 174 8 }
 historical_idea_groups = { 
