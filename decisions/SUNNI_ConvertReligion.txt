@@ -12,7 +12,7 @@ country_decisions = {
 			}
 			NOT = { 
 				has_country_flag = malay_sunni_conv_rel_decision_enabled_flag
-				religion = sunni
+				religion_group = muslim
 			}
 		}
 
