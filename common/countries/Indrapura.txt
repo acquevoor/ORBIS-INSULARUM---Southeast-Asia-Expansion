@@ -38,6 +38,13 @@ monarch_names = {
 	"Pesisir #0" = 20
 	"Adil #0" = 20
 	"Gulemat #0" = 20
+
+	"Syarifah Fadlun #0" = -1
+	"Sariamin Ismail #0" = -1
+	"Siti Ahmai Sulaiman #0" = -1
+	"Syarifah Latifah #0" = -1
+	"Syarifah Fadlun #0" = -1
+	"Intsiawati Ayus #0" = -1
 }
 
 leader_names = { 
