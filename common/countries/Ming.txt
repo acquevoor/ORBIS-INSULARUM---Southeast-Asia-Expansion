@@ -2,7 +2,8 @@
 
 graphical_culture = asiangfx
 
-color = { 241 204 72 }
+#color = { 241 204 72 } new yllw
+color = { 193 164 104 }
 
 revolutionary_colors = { 5  8  1 } #Inspired by the Five Color Flag
 
