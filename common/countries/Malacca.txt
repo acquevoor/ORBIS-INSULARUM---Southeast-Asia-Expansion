@@ -48,6 +48,9 @@ monarch_names = {
 	"Mahmud Ri'ayat Shah #0" = 10
 	"Abdurrahman Shah #0" = 10
 	"Qasim #0" = 10
+
+	"Tun Fatimah #0" = -1
+	"Tun Teja #0" = -1
 }
 ship_names = { 
 	Parameswara "Sultan Iskandar" Bendahara Laksamana Temenggung "Penghulu bendahari" Shahbandar "Hukum Kanun" "Undang-Undang" "Pulau Bakung"
