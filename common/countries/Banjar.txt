@@ -50,6 +50,16 @@ monarch_names = {
 	"Adam al-Watsiq Billah #0" = 10
 	"Adam #0" = 10
 	"Muhammad Seman #0" = 10
+
+	"Putri Mayang Sari #0" = -1
+	"Nyai Fatimah #0" = -1
+	"Siti Sjahrijat #0" = -1
+	"Gusti Norsehan Djohansyah #0" = -1
+	"Siti Aisyah #0" = -1
+	"Siti Fatimah #0" = -1
+	"Tumenggung Cakrawati #0" = -1
+	"Galuh Sarinah #0" = -1
+	"Ratu Zaleha #0" = -1
 }
 
 leader_names = { 
