@@ -17,19 +17,11 @@ historical_friend = PSA
 
 1444.1.1 = {
 	monarch = {
-		name = "Meurah"
-		dynasty = "Barus"
+		name = "Marah"
+		dynasty = "Pardosi"
 		adm = 4
 		dip = 2
 		mil = 3
 	}
 }
 
-1480.1.1 = {
-	monarch = {
-		adm = 3
-		dip = 3
-		mil = 3
-		regent = yes
-	}
-}
