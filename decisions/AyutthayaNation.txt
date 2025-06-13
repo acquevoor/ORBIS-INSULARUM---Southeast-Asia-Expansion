@@ -44,7 +44,7 @@ country_decisions = {
 			hidden_effect = {
 				inherit = LAV
 				if = {
-					exists = { UTH }
+					exists = UTH
 				}
 				inherit = UTH
 			}
