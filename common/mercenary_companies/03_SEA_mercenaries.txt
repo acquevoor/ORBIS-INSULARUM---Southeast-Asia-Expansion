@@ -10,7 +10,7 @@ merc_kapampangan_company = {
                 superregion = east_indies_superregion
             }
             any_owned_province = {
-                region = philippines_region
+                region = moluccas_region
             }
             has_country_modifier = mercenaries_to_the_standard
             has_country_modifier = glut_of_mercs
@@ -34,7 +34,7 @@ merc_pintados_company = {
                 superregion = east_indies_superregion
             }
             any_owned_province = {
-                region = philippines_region
+                region = moluccas_region
             }
             has_country_modifier = mercenaries_to_the_standard
             has_country_modifier = glut_of_mercs
@@ -58,7 +58,7 @@ merc_bohol_company = {
                 superregion = east_indies_superregion
             }
             any_owned_province = {
-                region = philippines_region
+                region = moluccas_region
             }
             has_country_modifier = mercenaries_to_the_standard
             has_country_modifier = glut_of_mercs
@@ -81,7 +81,7 @@ merc_moro_company = {
                 superregion = east_indies_superregion
             }
             any_owned_province = {
-                region = philippines_region
+                region = moluccas_region
             }
             has_country_modifier = mercenaries_to_the_standard
             has_country_modifier = glut_of_mercs
@@ -105,7 +105,7 @@ merc_kalinga_company = {
                 superregion = east_indies_superregion
             }
             any_owned_province = {
-                region = philippines_region
+                region = moluccas_region
             }
             has_country_modifier = mercenaries_to_the_standard
             has_country_modifier = glut_of_mercs
