@@ -65,6 +65,15 @@ monarch_names = {
 	"Muhammad Akbaruddin #0" = 10
 	"Muhammad Salihuddin #0" = 10
 	"Muhammad Harruddin #0" = 10
+
+	"Nyimas Ratu Endang Geulis #0" = -1
+	"Syarifah Muda'im #0" = -1
+	"Nyai Mas Ratu Gandasari #0" = -1
+	"Fatimah #0" = -1
+	"Nyi Mas Ratu Gandasari #0" = -1
+	"Nyimas Ratu Brai #0" = -1
+	"Nyimas Ratu Pakungwati #0" = -1
+	"Nyi Gede Sembung #0" = -1
 }
 
 leader_names = { 

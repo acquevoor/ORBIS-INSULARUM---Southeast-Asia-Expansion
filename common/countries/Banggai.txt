@@ -29,6 +29,7 @@ leader_names = {
 monarch_names = { 
 	"Gahani #0" = 10
 	"Tahani #0" = 10
+	"Lipuadino #0" = 10
 	"Adi Kalut Palakut #0" = 10
 	"Adi Moute #0" = 10
 	"Adi Lambal Palambal #0" = 10
@@ -62,6 +63,12 @@ monarch_names = {
 	"Abdul Azis #0" = 10
 	"Abdul Rahman #0" = 10
 	"Awaluddin #0" = 10
+
+	"Basalo Bokan #0" = -1
+	"Basalo Tompotika #0" = -1
+	"Basalo Salaup #0" = -1
+	"Endang #0" = -1
+	"Penjaga Kamali Boneaka #0" = -1
 }
 ship_names = {
 	Banggai Luwuk Batui Bunta Nuhon Kintom Toili Pagimana Balantak Lamala Lobu Luksagu Moilong Salakan Bulagi Tinangkung Banggai Laut Bangkurung Bokan

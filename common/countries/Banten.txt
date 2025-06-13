@@ -54,6 +54,10 @@ monarch_names = {
 	"Nyai Ratu Kawunganten #0" = -1
 	"Ayu Kirana #0" = -1
 	"Hadijah #0" = -1
+	"Fatimah #0" = -1
+	"Putri Sultan Haji #0" = -1
+	"Nyai Gede Banten #0" = -1
+	"Bagus Hapsari #0" = -1
 }
 
 leader_names = { 

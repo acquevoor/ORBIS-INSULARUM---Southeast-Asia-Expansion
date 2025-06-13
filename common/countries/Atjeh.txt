@@ -58,7 +58,18 @@ monarch_names = {
 	"Syarif Saiful Alam Syah #0" = 20  
 	"Alauddin Muhammad Daud Syah #0" = 20  
 	"Alauddin Sulaiman Ali Iskandar Syah #0" = 20  
-	"Alauddin Ibrahim Mansur Syah #0" = 20 
+	"Alauddin Ibrahim Mansur Syah #0" = 20
+
+	"Tajul Alam Safiatuddin Syah #0" = -1
+	"Nurul Alam Naqiatuddin Syah #0" = -1
+	"Inayat Zakiatuddin Syah #0" = -1
+	"Kamalat Zainatuddin Syah #0" = -1
+	"Keumalahayati #0" = -1
+	"Cut Nyak Dhien #0" = -1
+	"Cut Meutia #0" = -1
+	"Pocut Baren #0" = -1
+	"Pocut Meurah Intan #0" = -1
+	"Deknong Kemalawati #0" = -1
 }
 
 leader_names = {

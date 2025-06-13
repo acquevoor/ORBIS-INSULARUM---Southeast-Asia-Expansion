@@ -40,7 +40,19 @@ monarch_names = {
 	"Kediri #0" = 20
 	"Mas Juruh #0" = 20
 	"Jaka Tingkir #0" = 20
-	"Pangeran Benawa #0" = 20
+	"Hadiwijaya #0" = 20
+	"Awantipura #0" = 20
+	"Prabuwijaya #0" = 20
+
+	"Dewi Murtasimah #0" = -1
+	"Dewi Solekha #0" = -1
+	"Dewi Rangdusanga #0" = -1
+	"Sekar Kedaton #0" = -1
+	"Dewi Banowati #0" = -1
+	"Mas Cempaka #0" = -1
+	"Nyi Ratu Mandoko #0" = -1
+	"Ayu Pajang #0" = -1
+	"Pembayun #0" = -1
 }
 
 ship_names = {
