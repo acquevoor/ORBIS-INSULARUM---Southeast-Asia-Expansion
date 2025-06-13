@@ -3,7 +3,10 @@
 graphical_culture = asiangfx
 
 special_unit_culture = south_east_asian_special
-color = { 199  244  188 }
+
+color = { 30  31  162 }
+
+revolutionary_colors = { 13 10 6 }
 
 historical_idea_groups = {
 	defensive_ideas
@@ -50,7 +53,7 @@ monarch_names = {
 	"Ko Cheng #0" = 20
 	"Jaya Indravarman #6" = 20	
 	
-	"Hòng #6" = -1	
+	"Hï¿½ng #6" = -1	
 	"Bhaskaradevi #0" = -1	
 	"Gaurendraksmi #0" = -1	
 	"Huyen Tran #0" = -1	
