@@ -37,6 +37,8 @@ monarch_names = {
 	"Malik Zainal 'Abidin #0" = 20
 	"Malik Muhammad Syah #0" = 20
 	"Muhammad Syah #0" = 20
+
+	"Putri Lamreh #0" = -1
 }
 
 leader_names = {
