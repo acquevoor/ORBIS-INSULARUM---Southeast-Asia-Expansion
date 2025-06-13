@@ -60,4 +60,4 @@ leader_names = {
 
 ship_names = {
 	Sulu Jolo Siasi Pata Tapul Pangutaran "Tawi-Tawi" Simunul Bongao Lugus Sitangkai Tandubas Pandami Indanan Parang Maimbung Panamao Zamboanga
-}
+	}
