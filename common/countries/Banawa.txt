@@ -38,7 +38,12 @@ monarch_names = {
 	"La Ruhana #0" = 20  
 	"La Parenrengi #0" = 20
 
-	"Sandudogie #0" = -1
+	"I Sandudogie #0" = -1
+	"I Badan Tassa #0" = -1
+	"I Tassa #0" = -1
+	"I Sabida #0" = -1
+	"Intoraya #0" = -1
+	"Gonenggati #0" = -1
 }
 ship_names = { 
 	 "Tanjung Karang" Sindue "Rio Pakava" Balaesang Dampelas Labuan Sojol Damsol Tatanga Tawaili Nokilalaki Marawola Kulawi Banawa Sirenja "Sindue Tombusabora" 
