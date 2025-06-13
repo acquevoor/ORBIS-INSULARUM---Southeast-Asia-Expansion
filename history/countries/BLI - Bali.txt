@@ -6,6 +6,12 @@ technology_group = chinese
 add_accepted_culture = nusa_tenggara
 religion = hinduism
 capital = 631# Bali
+
+historical_friend = SUN
+historical_friend = BLM
+historical_rival = DMK
+historical_rival = MTR
+
 # Majapahit
 1390.1.1 = { 
 	monarch = { 
