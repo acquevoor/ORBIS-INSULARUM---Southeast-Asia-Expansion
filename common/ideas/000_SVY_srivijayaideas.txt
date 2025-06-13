@@ -39,9 +39,8 @@ SVY_ideas = {
 	}
 
 	svy_cosmopolitan_mandala = {
-		diplomatic_relations = 2
+		diplomatic_upkeep = 2
 		promote_culture_cost = -0.25
-		accepted_culture_threshold = -0.1
 	}
 
 	svy_guardians_of_the_sealanes = {
