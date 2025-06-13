@@ -24,7 +24,6 @@ historical_units = {
 	reformed_asian_cavalry
 }
 monarch_names = { 
-	"Sang Nata Pulang Pali #0" = 10
 	"Raden Iswaramahayan #0" = 10
 	"Raden Pati Karang Raja #0" = 10
 	"Raden Cili #0" = 10
@@ -32,7 +31,7 @@ monarch_names = {
 	"Raden Mangku #0" = 10
 	"Raden Kusuma Agung #0" = 10
 	"Raden Purba Kusuma #0" = 10
-	"Raden Nata#0" = 10
+	"Raden Nata #0" = 10
 	"Raden Anom Jaya Kusuma #0" = 10
 	"Raden Bagus Nata Kusuma #0" = 10
 	"Gusti Husin Suta Wijaya #0" = 10
