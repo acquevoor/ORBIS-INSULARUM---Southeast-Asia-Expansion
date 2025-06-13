@@ -38,12 +38,8 @@ monarch_names = {
 	"Nande #0" = -1
 	"Boru Raja #0" = -1
 	"Enche Sinni #0" = -1
-	"Siboru Deak Parujar #0" = -1
-	"Siboru Sorba Jati #0" = -1
-	"Siboru Saniang Naga #0" = -1
 	"Inang Nauli #0" = -1
 	"Puang Boru #0" = -1
-	"Boru Raja Nai Ambaton #0" = -1
 	"Namboru Si Mbelin #0" = -1
 }
 leader_names = { 
