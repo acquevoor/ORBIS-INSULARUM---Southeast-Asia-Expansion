@@ -46,5 +46,5 @@ monarch_names = {
 	"Karim #0" = 10
 }
 ship_names = { 
-	Jailolo Sahu Ibu Loloda Galela Tobelo Kao Morotai Dodinga Gamkonora Tabaru Bacan Makian "Pulau Halmahera
+	Jailolo Sahu Ibu Loloda Galela Tobelo Kao Morotai Dodinga Gamkonora Tabaru Bacan Makian Halmahera
 }
