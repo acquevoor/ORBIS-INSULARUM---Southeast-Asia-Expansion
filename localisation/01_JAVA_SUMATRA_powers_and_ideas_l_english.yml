@@ -136,6 +136,127 @@ LMI_malay_persian_diplomacy_desc:0 "Lamuri was fluent in the language of diploma
 LMI_sufi_merchants:0 "Sufi Merchants"
 LMI_sufi_merchants_desc:0 "The fusion of commerce and spirituality came to define Lamuri’s trading culture. Sufi merchants spread both wares and the Word, anchoring trade guilds that doubled as spiritual brotherhoods—ultimately securing both souls and silver for the realm."
 
+KMR_ideas:0 "Kampar Ideas"
+KMR_ideas_desc:0 "Nestled along the Kampar River in eastern Sumatra, the Kampar Sultanate emerged as a significant inland Muslim polity. Drawing strength from its fertile valleys and riverine trade routes, Kampar maintained strong regional influence through diplomacy, Islamic scholarship, and armed defense of its upland domain. Its sultans sponsored jurists and scribes who institutionalized Islamic governance and education. Kampar’s society revolved around a courtly synthesis of law, agriculture, and warfare, balancing military prowess with religious orthodoxy. Though surrounded by powerful coastal rivals, Kampar remained a durable stronghold of inland Islamic identity."
+
+KMR_ideas_start:0 "Pioneer of the Archipelagic Ummah"
+KMR_ideas_start_desc:0 "Kampar, one of the early Sumatran Muslim states, grew from its riverine heartland into a beacon of Islamic rulership. Though less coastal than its peers, it played a central role in consolidating Islamic power inland, holding firm in the face of foreign threats. Its sultans’ adoption of Islam was a deliberate act of legitimacy, aligning the state with the growing Ummah. As defenders of Muslim highland communities, their authority grew as both political and religious leaders."
+
+KMR_ideas_bonus:0 "Legacy of Oceanic Da'wah"
+KMR_ideas_bonus_desc:0 "Kampar's inland da'wah took a unique path—through rivers, valleys, and royal alliances. Its influence reached far into Sumatra’s interior and helped reinforce Islamic unity across divided polities. This lasting spiritual and legal legacy continues to shape Islam’s heartland presence even after Kampar’s political star waned."
+
+KMR_sultanate_of_the_great_river:0 "Sultanate of the Great River"
+KMR_sultanate_of_the_great_river_desc:0 "The Kampar River was more than just a trade artery—it was the soul of the sultanate. From here, early rulers declared Islam as the state religion, cementing Kampar’s legitimacy as a defender of the Muslim interior. The strategic riverine location granted control over highland access points and ensured a steady supply of agricultural wealth and manpower. Sultan Malik’s acceptance of Islam drew scholars and jurists to the court, bolstering both political and religious prestige."
+
+KMR_guardians_of_the_valley:0 "Guardians of the Valley"
+KMR_guardians_of_the_valley_desc:0 "Kampar’s location amidst dense forest and fertile highlands made it naturally defensible—but it was the political unity forged by Islam that ensured its long-term survival. The sultans maintained high internal stability by balancing adat (customary law) with Sharia, preserving harmony between Muslim orthodoxy and local traditions. Kampar's valleys were not just a breadbasket but also the heart of social cohesion and elite consensus."
+
+KMR_reformist_jurists:0 "Reformist Jurists"
+KMR_reformist_jurists_desc:0 "Influenced by scholars from Gujarat and Pasai, Kampar’s ulama crafted a pragmatic legal framework that blended classical fiqh with local realities. These jurists supported central authority and helped legitimize reforms that brought order to previously decentralized clans. The result was a resilient legal-administrative structure that could compete with larger coastal powers."
+
+KMR_trade_along_the_riau:0 "Trade Along the Riau"
+KMR_trade_along_the_riau_desc:0 "Although primarily inland, Kampar maintained vital trade links via the Siak and Rokan rivers to the Melakan funnel. The movement of forest products, textiles, and inland spices bolstered its economy, allowing for sustained patronage of scholars and soldiers. Merchants from Melaka and Aceh viewed Kampar as a necessary inland partner."
+
+KMR_military_marriage_pacts:0 "Military Marriage Pacts"
+KMR_military_marriage_pacts_desc:0 "To counter more powerful coastal sultanates, Kampar’s rulers forged dynastic and military pacts with neighboring polities. These marriage alliances ensured mutual defense obligations and provided access to skilled commanders and auxiliary troops. Such networks made Kampar a key actor in regional balance politics."
+
+KMR_riverine_defensive_doctrine:0 "Riverine Defensive Doctrine"
+KMR_riverine_defensive_doctrine_desc:0 "Kampar’s army adapted to its geography—small units, mobile patrols, and well-defended river crossings became the backbone of its military. Forts were positioned along chokepoints, enabling sustained resistance against invaders. This doctrine turned Kampar’s natural landscape into a formidable shield."
+
+KMR_court_of_scribes_and_sultans:0 "Court of Scribes and Sultans"
+KMR_court_of_scribes_and_sultans_desc:0 "Literacy and legal scholarship were cornerstones of Kampar’s governance. The sultans employed a full class of court scribes, Qadis, and teachers who maintained records, taught the Quran, and preserved administrative continuity. This allowed Kampar to function as a centralized bureaucratic state, rare among inland polities."
+
+SAK_ideas:0 "Siak Ideas"
+SAK_ideas_desc:0 "Founded in the early 18th century by Raja Kecil, who claimed descent from the Melakan sultans, the Siak Sultanate became a naval and religious powerhouse on Sumatra's eastern coast. Siak played a central role in maritime da'wah, extending influence through trade, war, and diplomacy with ports from Johor to the Riau Archipelago. The sultanate was deeply shaped by returning hajji scholars and Middle Eastern influences. Siak prioritized Islamic legal codes, especially concerning maritime conduct, making it a model for a seaborne Islamic polity. It became a sanctuary for Melakan exiles and a rallying point for anti-colonial resistance. Even under later Dutch shadow, Siak retained a strong Islamic identity and naval tradition."
+
+SAK_ideas_start:0 "Pioneer of the Archipelagic Ummah"
+SAK_ideas_start_desc:0 "Siak’s foundation was born of Islamic legitimacy claims—Raja Kecil invoked Melakan lineage and rallied Muslims to establish a new beacon for the faith. As a sultanate founded by the sword and sanctified by Islamic rhetoric, its prestige and religious authority were central to its identity. This claim to righteous kingship helped attract allies and scholars to Siak’s cause."
+
+SAK_ideas_bonus:0 "Legacy of Oceanic Da'wah"
+SAK_ideas_bonus_desc:0 "Through hajji routes, maritime patrols, and coastal da'wah, Siak’s reach extended across the seas. Even under colonial pressures, its religious emissaries and naval scholars preserved and spread Islamic teachings. This maritime spiritual network remains one of Siak’s greatest legacies."
+
+SAK_foundation_of_the_sultanate:0 "Foundation of the Sultanate"
+SAK_foundation_of_the_sultanate_desc:0 "Raja Kecil’s claim to be a son of the last Melakan sultan imbued his new state with immediate Islamic legitimacy. He fused dynastic ambition with da'wah, founding Siak not merely as a power base but as a continuation of Melakan Islamic rulership. This strong sense of historical destiny anchored the sultanate’s authority for generations."
+
+SAK_pillar_of_muslim_order:0 "Pillar of Muslim Order"
+SAK_pillar_of_muslim_order_desc:0 "Siak projected itself as a bastion of Islamic order in an age of fragmentation and colonial interference. The sultanate promoted the codification of Islamic law and education, reinforcing its role as a stabilizing force across the eastern Sumatran coast. Stability at home allowed expansion abroad."
+
+SAK_islamic_maritime_academy:0 "Islamic Maritime Academy"
+SAK_islamic_maritime_academy_desc:0 "The Siak court developed its own centers of naval instruction, blending Islamic law with naval discipline. Young nobles were trained in both fiqh and seamanship, ensuring that Islamic conduct governed behavior even at sea. These maritime academies produced pious yet capable commanders."
+
+SAK_melaka_exiles:0 "Melaka Exiles"
+SAK_melaka_exiles_desc:0 "Following Melaka's fall, many Muslim nobles, merchants, and scholars fled eastward. Siak offered them refuge, absorbing their talents and networks into its growing bureaucracy. This infusion of experience helped Siak dominate trade lanes and shape policy rooted in Melakan court traditions."
+
+SAK_sharia_and_sea_law:0 "Sharia and Sea Law"
+SAK_sharia_and_sea_law_desc:0 "In Siak, Islamic law was adapted to regulate maritime conduct—covering piracy, contracts, and port disputes. Qadis familiar with both fiqh and naval practice provided rulings that ensured order on ship and shore. Siak’s maritime courts became respected institutions among seafaring Muslims."
+
+SAK_sultanate_navy:0 "Sultanate Navy"
+SAK_sultanate_navy_desc:0 "With a long coastline and riverine access, Siak prioritized naval strength. Its warships patrolled trade routes, escorted hajji vessels, and repelled foreign intrusions. Naval traditions became a core component of Siak's identity, with admirals holding high courtly ranks."
+
+SAK_diplomacy_of_hajj_ports:0 "Diplomacy of Hajj Ports"
+SAK_diplomacy_of_hajj_ports_desc:0 "Pilgrimage and trade were inseparable. Siak maintained diplomatic ties with other ports that supported hajji travel, including Jeddah, Aceh, and Riau. These ties enhanced its prestige and diplomatic clout, embedding the sultanate in a spiritual-political network that transcended Southeast Asia."
+
+
+IDG_ideas:0 "Indragiri Ideas"
+IDG_ideas_desc:0 "Indragiri, located on the downstream river systems of eastern Sumatra, served as a vital connector between the Islamicized highlands of Minangkabau and the maritime world of the Melakan Strait. The sultanate's origins trace back to dynastic connections with the Pagaruyung court, which provided it with religious legitimacy and a literate noble class. Over time, Indragiri evolved into a deeply Islamic court that balanced local adat, Islamic law, and external allegiance to larger sultanates like Johor. Known for its poets, legal scholars, and scribes, the court developed a strong bureaucratic culture deeply rooted in Malay-Islamic tradition. Its riverine ports grew rich from gold dust, forest goods, and strategic tolls levied on trade. Indragiri’s strength lay not in military conquest, but in political continuity, religious legitimacy, and cultural resilience."
+
+IDG_ideas_start:0 "Pioneer of the Archipelagic Ummah"
+IDG_ideas_start_desc:0 "Founded with dynastic ties to the Minangkabau highlands, Indragiri quickly became a downstream Islamic principality of note. Its sultans combined the sacred prestige of Pagaruyung lineage with local governance over riverine trade zones. This combination granted it early legitimacy as both a civil and religious authority. From its very beginnings, the rulers of Indragiri styled themselves as protectors of the Malay Muslim community and heirs to a sacred political tradition."
+
+IDG_ideas_bonus:0 "Legacy of Oceanic Da'wah"
+IDG_ideas_bonus_desc:0 "Indragiri may not have fielded mighty navies or vast armies, but its role in the spiritual infrastructure of the archipelago was enduring. As a place where Islamic rulership was tempered by tradition and consensus, its model influenced other smaller courts. The ulama and poets it nurtured helped carry the message of Islam across river ports and village mosques long after its political power declined."
+
+IDG_foundation_of_the_downstream_sultanate:0 "Foundation of the Downstream Sultanate"
+IDG_foundation_of_the_downstream_sultanate_desc:0 "The establishment of Indragiri as a sultanate was rooted in its connection to the highland Islamic courts of Pagaruyung. Local traditions recount that its first rulers descended from Minangkabau royal blood, combining genealogical prestige with the authority of Islam. This sacred foundation gave its sultans both spiritual legitimacy and control over trade at key river junctions. The symbolism of a righteous downstream king held deep cultural and religious meaning."
+
+IDG_minangkabau_sacred_lineage:0 "Minangkabau Sacred Lineage"
+IDG_minangkabau_sacred_lineage_desc:0 "The sultans of Indragiri emphasized their Minangkabau origins, invoking the authority of a Muslim court rooted in Adat Basandi Syarak, Syarak Basandi Kitabullah (Custom based on Islamic Law). This harmony between Sharia and tradition helped legitimize rule and stabilize governance. It also created a strong court culture that resisted external domination while managing peaceful coexistence with outer villages."
+
+IDG_wadi_al_nahr_administration:0 "Wadi al-Nahr Administration"
+IDG_wadi_al_nahr_administration_desc:0 "Indragiri’s rulers invested heavily in clerical literacy and bureaucratic record-keeping. The Islamic concept of good governance—al-siyasa al-shar’iyyah—was applied to its day-to-day court functions. Scribes, Qadis, and royal envoys created a functioning state apparatus capable of enduring long-term. Legal schools were established to train future administrators, cementing Islam as both a faith and a governing philosophy."
+
+IDG_johorean_vassalage:0 "Johorean Vassalage"
+IDG_johorean_vassalage_desc:0 "For much of its later history, Indragiri aligned itself with the powerful Sultanate of Johor. This vassalage was not only a political necessity but also a spiritual alliance—uniting Muslim sultanates across the strait. Through this connection, Indragiri gained diplomatic protection, access to trade networks, and continued religious legitimacy. In return, it offered stability and loyalty."
+
+IDG_gold_and_river_trade:0 "Gold and River Trade"
+IDG_gold_and_river_trade_desc:0 "Indragiri’s strategic location at the mouth of major river routes made it a natural checkpoint for trade from the interior. Gold dust from the upstream mines passed through its ports, alongside forest resins and rare woods. The sultanate taxed this commerce with skill and care, enriching the court and fostering prosperity. Its merchants developed a reputation for honesty and Islamic propriety."
+
+IDG_court_of_syairs_and_scribes:0 "Court of Syairs and Scribes"
+IDG_court_of_syairs_and_scribes_desc:0 "The Indragiri court was known for its culture of written expression, especially in the form of syair poetry and legal manuscripts. These works helped preserve Islamic teachings in local dialect and context, giving rise to a distinctly Malay-Islamic intellectual tradition. The court employed scholars, poets, and teachers to record law, lineage, and theology. These intellectuals became key transmitters of knowledge throughout Sumatra."
+
+IDG_treaties_with_the_outer_kampungs:0 "Treaties with the Outer Kampungs"
+IDG_treaties_with_the_outer_kampungs_desc:0 "Indragiri governed not through direct conquest, but through a delicate network of treaties and oaths with outlying village communities. These agreements were underpinned by Islamic law and enforced by respected mediators from the ulama class. By binding outer kampungs to the court in this way, the sultanate maintained cohesion without overstretching its administrative reach. This system also enhanced the sultan's status as a fair and godly ruler."
+
+
+PDR_ideas:0 "Pedir Ideas"
+PDR_ideas_start:0 "Frontier of the Northern Shore"
+PDR_ideas_bonus:0 "Legacy of the Mountain Sultanate"
+
+PSA_ideas_start:0 "Pioneer of the Archipelagic Ummah"
+PSA_ideas_bonus:0 "Legacy of Oceanic Da'wah"
+
+PDR_northern_bastion_of_islam:0 "Northern Bastion of Islam"
+PDR_northern_bastion_of_islam_desc:0 "Pedir was one of the earliest Muslim polities to emerge along the northern tip of Sumatra, often overshadowed by Pasai but no less critical in anchoring Islamic rule along the coast. The Sultanate’s early rulers claimed noble descent and styled themselves as defenders of the faith, granting legitimacy to their rule. By the 14th century, Pedir had already begun formalizing its Islamic character through court rituals, coinage, and alliances with ulama. It gained prominence as a rival and sometime ally of Samudera Pasai in both political and religious affairs. Its role as a protector of Muslim communities elevated its prestige within the archipelago. This legacy solidified Pedir’s claim as a legitimate Islamic sultanate in the region."
+
+PDR_sharia_and_local_law:0 "Sharia and Local Law"
+PDR_sharia_and_local_law_desc:0 "The Sultanate of Pedir carefully blended Islamic law with longstanding adat, or customary traditions, creating a stable and culturally resonant system of governance. While Qadis were brought in from the west to help establish formal courts, the sultans also ensured that local village chiefs retained a say in legal arbitration. This flexible arrangement helped avoid resistance while encouraging deeper Islamic integration. Religious tolerance, as long as it respected the Sultan’s authority, made Pedir a sanctuary for scholars and exiles alike. Friday mosques were often centers not just of prayer, but of regional governance and announcement. This fusion of Islamic orthodoxy and native custom bolstered social cohesion and religious authority."
+
+PDR_acehnese_scholar_networks:0 "Acehnese Scholar Networks"
+PDR_acehnese_scholar_networks_desc:0 "Due to its proximity to both Mecca-bound sea routes and Indian Ocean trade, Pedir attracted learned men from Hadhramaut, Gujarat, and Pasai. Local rulers invested in education, inviting ulama and Sufi missionaries to establish religious centers. Over time, Pedir became part of a broader Islamic scholarly exchange that circulated books, students, and legal thought. Sufi orders such as the Shattariyah and Qadiriyah gained ground, helping bridge esoteric doctrine with local beliefs. These networks allowed Pedir to stay intellectually current despite its remote geography. Innovations in jurisprudence, teaching methods, and regional diplomacy stemmed directly from these ties."
+
+PDR_military_warrior_tradition:0 "Military Warrior Tradition"
+PDR_military_warrior_tradition_desc:0 "Historically, Pedir was known for its strong martial culture rooted in the rugged mountains and forested terrain of northern Sumatra. The Sultanate maintained a warrior elite known for their skill with spears, shields, and later, firearms. As regional threats from Aceh and foreign raiders increased, Pedir hardened its borders and fortified strategic passes. Military training was tied closely with Islamic valor, and warriors were expected to defend not only territory but also the faith. Alliances were often sealed through military pacts, further entrenching Pedir's martial identity. This ethos enabled Pedir to survive waves of conquest attempts and remain autonomous longer than many neighboring states."
+
+PDR_lamuri_trade_link:0 "Lamuri Trade Link"
+PDR_lamuri_trade_link_desc:0 "Pedir’s port cities connected the inland highlands to the broader maritime trade world via Lamuri, a key coastal trading settlement. Spices, forest goods, and gold from the interior were funneled through Lamuri to Arab, Indian, and even Chinese merchants. This connection enhanced Pedir’s economic resilience and tied it to pre-existing Hindu-Buddhist trade routes while gradually shifting them toward Islamic centers. The Sultanate earned revenue through trade taxes and hosted foreign traders in guarded compounds. These corridors were vital not just economically but diplomatically, opening channels to the wider Islamic world. Over time, Lamuri became synonymous with Pedir’s outward-facing mercantile policy."
+
+PDR_watampone_mining_wealth:0 "Watampone Mining Wealth"
+PDR_watampone_mining_wealth_desc:0 "The mountainous zones of Pedir were rich in gold and other minerals, which were mined and traded through coastal markets. These resources allowed the Sultanate to mint coinage, fund religious institutions, and maintain a small standing army. Mining efforts were often led by tribal chiefs or contracted Sufi guilds, who reinvested profits into madrasas and public works. Gold dust from Pedir was accepted as currency in regional markets, contributing to stable inflation levels and financial autonomy. This internal wealth helped the Sultanate resist economic dependency on outside powers. It also empowered the ruling class to sponsor cultural and religious projects that reinforced Pedir’s independence."
+
+PDR_dynastic_resilience:0 "Dynastic Resilience"
+PDR_dynastic_resilience_desc:0 "Despite its modest size, Pedir showed remarkable political endurance over centuries, resisting absorption by Aceh until the mid-16th century. The sultanate relied on tight kinship networks and dynastic marriages to maintain internal stability. Periods of crisis were often resolved through negotiated succession rather than outright civil war. Local nobility and Islamic scholars frequently intervened as mediators, preserving continuity in leadership. As Aceh rose in power, Pedir’s symbolic importance only grew, seen as an elder sibling in the spiritual lineage of northern Sumatran Islam. This legacy of wise leadership and cultural tenacity made Pedir a respected elder among Malay-Muslim courts."
+
+
 PSA_ideas:0 "Pasai Ideas"
 PSA_ideas_desc:0 "The Sultanate of Samudera Pasai was the earliest documented Islamic polity in Southeast Asia, founded by Sultan Malik al-Salih in the late 13th century. As a powerful trade hub and intellectual beacon, it became known as the 'Mecca of the Malay World,' attracting scholars, traders, and missionaries from across the Muslim world. Pasai minted gold currency modeled on Islamic dinars, upheld Sharia law, and welcomed Qadis and Sufi orders who helped embed Islamic institutions into everyday life. Positioned strategically at the head of the Melakan trade funnel, Pasai dominated regional trade in pepper, textiles, and aromatics. Even after its decline, its legacy in spreading Islam and defining courtly Islamic culture in the archipelago remained profound."
 

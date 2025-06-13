@@ -1,0 +1,8 @@
+graphical_culture = africangfx
+graphical_culture = muslimgfx
+graphical_culture = southamericagfx
+graphical_culture = aboriginalgfx
+graphical_culture = indiangfx
+graphical_culture = asiangfx
+
+In case you want to change ur culture GFX.

@@ -9,7 +9,7 @@ MLC_ideas = {
     }
 
     bonus = {
-        num_accepted_cultures = 2
+        heavy_ship_power = 0.15
     }
 
     trigger = {
@@ -28,7 +28,7 @@ MLC_ideas = {
     }    
 
     MLC_choke_point_trade = {
-        global_naval_engagement_modifier = 0.15
+        own_coast_naval_combat_bonus = 1.0
     }
 
     MLC_religious_center = {
@@ -38,11 +38,12 @@ MLC_ideas = {
 
     MLC_multicultural_haven = {
         culture_conversion_time = -0.15
+        num_accepted_cultures = 1
     }
 
     MLC_tributary_gateway = {
 		reduced_liberty_desire = 10 # −10% Liberty desire in subjects
-        vassal_sailors_bonus = 0.05
+        vassal_sailors_bonus = 0.1
     }
 
     MLC_institutional_pioneers = {

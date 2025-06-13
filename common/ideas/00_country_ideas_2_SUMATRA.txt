@@ -242,6 +242,199 @@ LMI_ideas = {
     }
 }
 
+#kampar
+KMR_ideas = {
+    start = {
+        missionaries = 1
+        global_missionary_strength = 0.02
+    }
+
+    bonus = {
+        land_morale = 0.15
+    }
+
+    trigger = {
+        tag = KMR
+    }
+
+    free = yes
+
+    KMR_sultanate_of_the_great_river = {
+        prestige = 1
+        legitimacy = 0.5
+    }
+
+    KMR_guardians_of_the_valley = {
+        stability_cost_modifier = -0.15
+    }
+
+    KMR_reformist_jurists = {
+        idea_cost = -0.05
+    }
+
+    KMR_trade_along_the_riau = {
+        trade_efficiency = 0.10
+        caravan_power = 0.1
+    }
+
+    KMR_military_marriage_pacts = {
+        manpower_recovery_speed = 0.15
+    }
+
+    KMR_riverine_defensive_doctrine = {
+        defensiveness = 0.10
+    }
+
+    KMR_court_of_scribes_and_sultans = {
+        advisor_cost = -0.15
+    }
+}
+
+#Sak, Riau, Siak
+SAK_ideas = {
+    start = {
+        missionaries = 1
+        global_missionary_strength = 0.02
+    }
+
+    bonus = {
+        naval_forcelimit_modifier = 0.20
+    }
+
+    trigger = {
+        tag = SAK
+    }
+
+    free = yes
+
+    SAK_foundation_of_the_sultanate = {
+        prestige = 1
+        legitimacy = 0.5
+    }
+
+    SAK_pillar_of_muslim_order = {
+        stability_cost_modifier = -0.15
+    }
+
+    SAK_islamic_maritime_academy = {
+        naval_morale = 0.10
+    }
+
+    SAK_melaka_exiles = {
+        global_trade_power = 0.1
+    }
+
+    SAK_sharia_and_sea_law = {
+        global_ship_repair = 0.20
+    }
+
+    SAK_sultanate_navy = {
+        navy_tradition = 1
+    }
+
+    SAK_diplomacy_of_hajj_ports = {
+        diplomatic_reputation = 2
+    }
+}
+
+#Indragiri
+IDG_ideas = {
+    start = {
+        diplomatic_reputation = 2
+        diplomats = 1
+    }
+
+    bonus = {
+        core_creation = -0.20
+    }
+
+    trigger = {
+        tag = IDG
+    }
+
+    free = yes
+
+    IDG_foundation_of_the_downstream_sultanate = {
+        prestige = 1
+        legitimacy = 0.5
+    }
+
+    IDG_minangkabau_sacred_lineage = {
+        stability_cost_modifier = -0.15
+    }
+
+    IDG_wadi_al_nahr_administration = {
+        idea_cost = -0.05
+    }
+
+    IDG_johorean_vassalage = {
+        diplomatic_reputation = 1
+    }
+
+    IDG_gold_and_river_trade = {
+        trade_efficiency = 0.1
+        global_prov_trade_power_modifier = 0.05
+    }
+
+    IDG_court_of_syairs_and_scribes = {
+        advisor_cost = -0.15
+    }
+
+    IDG_treaties_with_the_outer_kampungs = {
+        governing_capacity_modifier = 0.1
+    }
+}
+
+#Pedir
+PDR_ideas = {
+    start = {
+        global_manpower_modifier = 0.15
+        fort_maintenance_modifier = -0.15
+    }
+
+    bonus = {
+        discipline = 0.05
+    }
+
+    trigger = {
+        tag = PDR
+    }
+
+    free = yes
+
+    PDR_northern_bastion_of_islam = {
+        prestige = 1
+        legitimacy = 0.5
+    }
+
+    PDR_sharia_and_local_law = {
+        stability_cost_modifier = -0.10
+        global_missionary_strength = 0.01
+    }
+
+    PDR_acehnese_scholar_networks = {
+        global_institution_spread = 0.1
+    }
+
+    PDR_military_warrior_tradition = {
+        land_morale = 0.10
+    }
+
+    PDR_lamuri_trade_link = {
+        trade_steering = 0.1
+    }
+
+    PDR_watampone_mining_wealth = {
+        inflation_reduction = 0.015
+    }
+
+    PDR_dynastic_resilience = {
+        heir_chance = 0.5
+        years_of_nationalism = -5
+    }
+}
+
+
 #pasai
 PSA_ideas = {
     start = {
@@ -324,16 +517,17 @@ ATJ_ideas = {
         infantry_power = 0.10
     }
 
-    ATJ_bustling_pepper_ports = {
-        global_trade_power = 0.15
-    }
-
     ATJ_female_leadership_and_sharia = {
-        stability_cost_modifier = -0.15
+        stability_cost_modifier = -0.10
+        may_recruit_female_generals = yes
     }
 
     ATJ_struggle_against_foreign_infidels = {
         land_forcelimit_modifier = 0.15
+    }
+
+    ATJ_bustling_pepper_ports = {
+    global_trade_power = 0.15
     }
 }
 
