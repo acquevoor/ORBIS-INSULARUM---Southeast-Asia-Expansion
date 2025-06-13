@@ -1,6 +1,6 @@
 ﻿l_english:
 ATY_ideas:0 "Atyal Ideas"
-ATY_ideas_desc:0 "Among Taiwan’s central ranges, the Atyal people developed a resilient mountain culture defined by strict oral law, clan autonomy, and ritual discipline. Known for their forest knowledge, moral code called Gaga, and defensive vigilance, they protected their villages through terrain mastery and intergenerational leadership. With a rich cosmology and spiritual reverence for nature, Atyal identity endures through ancestral rites, gender roles, and a constant balancing of war, peace, and memory."
+ATY_ideas_desc:0 "Among Taiwan's central ranges, the Atyal people developed a resilient mountain culture defined by strict oral law, clan autonomy, and ritual discipline. Known for their forest knowledge, moral code called Gaga, and defensive vigilance, they protected their villages through terrain mastery and intergenerational leadership. With a rich cosmology and spiritual reverence for nature, Atyal identity endures through ancestral rites, gender roles, and a constant balancing of war, peace, and memory."
 
 ATY_ideas_start:0 "Guardians of the Slopes"
 ATY_ideas_bonus:0 "Honor Through Vigilance"
@@ -27,7 +27,7 @@ ATY_spirit_forest_intermediaries:0 "Spirit Forest Intermediaries"
 ATY_spirit_forest_intermediaries_desc:0 "Atyal spirituality centered on the unseen forest world. Shamans and elders mediated between human needs and ancestral rules. Hunting, illness, and misfortune all required ritual clarity. These rites created cohesion and cosmic order from daily survival."
 
 PIW_ideas:0 "Paiwan Ideas"
-PIW_ideas_desc:0 "Living along Taiwan’s southern ridges and river valleys, the Paiwan cultivated one of the island’s most hierarchical indigenous cultures. Known for aristocratic titles, stone slab homes, and complex marriage protocols, Paiwan communities maintained a system of ranked inheritance and ritual authority. Despite lacking a written script, they passed down genealogies through beads, knives, and oral law. Their culture prized dignity, ancestral reverence, and artistic expression, enduring through inter-clan diplomacy and structured leadership."
+PIW_ideas_desc:0 "Living along Taiwan's southern ridges and river valleys, the Paiwan cultivated one of the island's most hierarchical indigenous cultures. Known for aristocratic titles, stone slab homes, and complex marriage protocols, Paiwan communities maintained a system of ranked inheritance and ritual authority. Despite lacking a written script, they passed down genealogies through beads, knives, and oral law. Their culture prized dignity, ancestral reverence, and artistic expression, enduring through inter-clan diplomacy and structured leadership."
 
 PIW_ideas_start:0 "Noble Lineages and Honor"
 PIW_ideas_bonus:0 "Rites of Ancestor and Law"
@@ -39,7 +39,7 @@ PIW_stone_slab_architecture:0 "Stone Slab Architecture"
 PIW_stone_slab_architecture_desc:0 "Stone-slab houses built on terraces with carved ridges signaled elite status and engineering skill. These structures withstood earthquakes and monsoons, reflecting social permanence. Their construction demonstrated communal labor and aesthetic values passed down through generations."
 
 PIW_bronze_knife_ceremony:0 "Bronze Knife Ceremonies"
-PIW_bronze_knife_ceremony_desc:0 "Inherited ceremonial knives symbolized a clan’s sacred ancestry. Used in rites and disputes, they conferred legitimacy and warrior status. Possession required discipline and moral standing, creating a culture of restrained but honorable combat."
+PIW_bronze_knife_ceremony_desc:0 "Inherited ceremonial knives symbolized a clan's sacred ancestry. Used in rites and disputes, they conferred legitimacy and warrior status. Possession required discipline and moral standing, creating a culture of restrained but honorable combat."
 
 PIW_beaded_genealogy_craft:0 "Beaded Genealogy Craft"
 PIW_beaded_genealogy_craft_desc:0 "Genealogies were encoded in beadwork worn during ceremonies, with patterns recording births, marriages, and rank. These oral-visual traditions reinforced intergenerational memory and allowed clan elders to interpret alliances and ancestral rights."
@@ -55,7 +55,7 @@ PIW_ancestor_ritual_unity_desc:0 "Rituals venerating ancestors unified the livin
 
 l_english:
 BUN_ideas:0 "Bunun Ideas"
-BUN_ideas_desc:0 "The Bunun people, inhabitants of Taiwan’s central mountain spine, adapted to harsh altitudes through mobility, cooperation, and oral tradition. Known for their endurance, multi-village hunts, and discipline in ritual law, the Bunun practiced interval agriculture and unique calendrical rites like the shooting ceremony for young men. They emphasized honor, retribution, and balance with nature—values that enabled them to resist assimilation and maintain cultural identity across fragmented terrain."
+BUN_ideas_desc:0 "The Bunun people, inhabitants of Taiwan's central mountain spine, adapted to harsh altitudes through mobility, cooperation, and oral tradition. Known for their endurance, multi-village hunts, and discipline in ritual law, the Bunun practiced interval agriculture and unique calendrical rites like the shooting ceremony for young men. They emphasized honor, retribution, and balance with nature—values that enabled them to resist assimilation and maintain cultural identity across fragmented terrain."
 
 BUN_ideas_start:0 "Strength in the Heights"
 BUN_ideas_bonus:0 "Unyielding Forest Watchers"
@@ -64,7 +64,7 @@ BUN_shooting_rite_of_maturity:0 "Shooting Rite of Maturity"
 BUN_shooting_rite_of_maturity_desc:0 "Young Bunun males earned social standing through ceremonial marksmanship, proving skill and discipline in the 'Malahtangia' coming-of-age ritual. Success granted recognition as full members of the community, fostering a warrior ethos tied to moral responsibility."
 
 BUN_eight_part_song_law:0 "The Eight-Part Song"
-BUN_eight_part_song_law_desc:0 "Bunun elders preserved law and calendrical knowledge through polyphonic ritual songs. The ‘Pasibutbut’ harmonized seasonal planting, taboos, and hunting rites. These musical performances encoded memory and guided collective behavior."
+BUN_eight_part_song_law_desc:0 "Bunun elders preserved law and calendrical knowledge through polyphonic ritual songs. The ‘Pasibutbut' harmonized seasonal planting, taboos, and hunting rites. These musical performances encoded memory and guided collective behavior."
 
 BUN_high_mountain_migration:0 "High Mountain Migration"
 BUN_high_mountain_migration_desc:0 "Living at high altitudes, the Bunun regularly moved between settlements in response to ecological and clan needs. Their knowledge of passes, altitudes, and foraging cycles enabled exceptional mobility and adaptability."
@@ -76,7 +76,7 @@ BUN_patrol_and_revenge_custom:0 "Patrol and Revenge Custom"
 BUN_patrol_and_revenge_custom_desc:0 "Clan-based justice demanded retribution for insults or injury. Groups patrolled territory to deter encroachment, and inter-clan disputes followed strict honor codes. This sharpened military alertness even in times of peace."
 
 BUN_interval_agriculture_knowledge:0 "Interval Agriculture Knowledge"
-BUN_interval_agriculture_knowledge_desc:0 "Bunun farmers practiced shifting cultivation, rotating millet, taro, and dry rice between highland plots. Their timing ensured soil regeneration, drawing from lunar calendars and shared labor. It maximized yield without exhausting the mountain’s gifts."
+BUN_interval_agriculture_knowledge_desc:0 "Bunun farmers practiced shifting cultivation, rotating millet, taro, and dry rice between highland plots. Their timing ensured soil regeneration, drawing from lunar calendars and shared labor. It maximized yield without exhausting the mountain's gifts."
 
 BUN_sacrifice_and_taboo_customs:0 "Sacrifice and Taboo Customs"
 BUN_sacrifice_and_taboo_customs_desc:0 "Sacrifices to forest spirits and respect for taboos structured Bunun daily life. Ritual prohibitions governed land use, speech, and hunting. These beliefs preserved balance with nature and strengthened communal trust in uncertain times."
