@@ -189,5 +189,5 @@ leader_names = {
 	}
 
 ship_names = {
-	Denpasar Gianyar Bangli Klungkung Karangasem Buleleng Jembrana Tabanan Badung "Gunung Agung" "Gunung Batur" "Besakih" "Goa Gajah" "Tirta Empul" "Ubud Lama" "Pejeng Tua" "Tenganan Pegringsingan" "Trunyan" "Kintamani" "Sangsit" "Seririt" "Panji Dauh Pura" "Lempuyang Luhur" "Bukit Penulisan" "Taman Ujung" "Puri Gelgel" "Puri Klungkung" "Sukasada" "Tejakula" "Pacung" "Sangsit Tengah" "Padang Bai"
+	Denpasar Gianyar Bangli Klungkung Karangasem Buleleng Jembrana Tabanan Badung "Gunung Agung" "Gunung Batur" Besakih "Goa Gajah" "Tirta Empul" Ubud "Pejeng Tua" Tenganan Pegringsingan Trunyan Kintamani Sangsit Seririt Panji Dauh Pura "Lempuyang Luhur" "Bukit Penulisan" "Taman Ujung" Puri Gelgel Klungkung Sukasada Tejakula Pacung "Padang Bai"
 }
