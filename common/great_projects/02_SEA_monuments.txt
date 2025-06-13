@@ -947,7 +947,7 @@ istano_basa_pagaruyung = {
         cost_to_upgrade = { factor = 800 }
         province_modifiers = {
             local_tax_modifier = 0.05
-            local_governing_capacity_modifier = 0.05
+            governing_capacity_modifier = 0.5
         }
         area_modifier = { }
         country_modifiers = {
@@ -962,7 +962,7 @@ istano_basa_pagaruyung = {
         cost_to_upgrade = { factor = 2200 }
         province_modifiers = {
             local_tax_modifier = 0.10
-            local_governing_capacity_modifier = 0.10
+            governing_capacity_modifier = 0.10
         }
         country_modifiers = {
             legitimacy = 1
@@ -977,7 +977,7 @@ istano_basa_pagaruyung = {
         cost_to_upgrade = { factor = 5000 }
         province_modifiers = {
             local_tax_modifier = 0.15
-            local_governing_capacity_modifier = 0.15
+            governing_capacity_modifier = 0.15
             local_monthly_devastation = -0.05
         }
         area_modifier = {
