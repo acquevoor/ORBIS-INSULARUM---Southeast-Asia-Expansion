@@ -2,8 +2,8 @@
 
 graphical_culture = asiangfx
 special_unit_culture = south_east_asian_special
-
-color = { 16  114  124 }
+color = { 161  114  198 }
+#color = { 16  114  124 }
 revolutionary_colors = { 2 8 2 }
 
 historical_idea_groups = {
@@ -76,6 +76,6 @@ ship_names = {
 	Chairacha Yotfa Worawongsa Chakkraphat Mahin
 	Sanpet Naresuan Ekathotsarot "Si Saowaphak"
 	Songtham Chehha "Somdet Phra" "Prasat Thong" Chai
-	Suthammaracha Narai Petratcha Süa Phumintharacha
+	Suthammaracha Narai Petratcha Sï¿½a Phumintharacha
 	Uthumpon Ekkathat
 }
