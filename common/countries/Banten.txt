@@ -48,6 +48,12 @@ monarch_names = {
 	"Pangeran Ahmad #0" = 10
 	"Muhammad Muhyuddin #0" = 10
 	"Muhammad Rafiuddin #0" = 10
+
+	"Sinar Alam #0" = -1
+	"Ratu Ayu #0" = -1
+	"Nyai Ratu Kawunganten #0" = -1
+	"Ayu Kirana #0" = -1
+	"Hadijah #0" = -1
 }
 
 leader_names = { 
