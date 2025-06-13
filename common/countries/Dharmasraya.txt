@@ -32,7 +32,6 @@ monarch_names = {
 	"Dapunta Hyang #0" = 20
 	"Sri Indrawarman #0" = 20
 	"Rudra Wikrama #0" = 20
-	"Dharmasetu  #0" = 20
 	"Dhanindra #0" = 20
 	"Samaragrawira #0" = 20
 	"Samaratungga #0" = 20
