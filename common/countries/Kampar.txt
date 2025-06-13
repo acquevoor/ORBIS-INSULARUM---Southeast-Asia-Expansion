@@ -35,9 +35,12 @@ monarch_names = {
 	"Tengku Yang Dipertuan Muda #0" = 20
 	"Tengku Yang Dipertuan Hitam #0" = 20
 	"Abdul Jalil Khalifatullah #0" = 20
-	"Tengku Yang Dipertuan Besar Daulat #0" = 20
+	"Yang Dipertuan Besar Daulat #0" = 20
 	"Abdurrahman #0" = 20
 	"Sati Abdullah #0" = 20
+
+	"Putri Mandalika #0" = -1
+	"Che Laut #0" = -1
 }
 
 leader_names = { 
