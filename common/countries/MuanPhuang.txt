@@ -1,11 +1,9 @@
 #Country Name: Please see filename.
 
 graphical_culture = asiangfx
+color = { 30  31  162 }
 
-color = { 98  138  99 }
-
-revolutionary_colors = { 8 9 5 }
-
+revolutionary_colors = { 13 10 6 }
 historical_idea_groups = {
 	defensive_ideas
 	offensive_ideas
