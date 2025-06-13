@@ -41,7 +41,15 @@ monarch_names = {
 	"Hungiyelo #0" = 20  
 	"Lealini #0" = 20  
 	"Dayilombuto #0" = 20  
-	"Ilahudu #0" = 20  
+	"Ilahudu #0" = 20
+
+	"Putri Bulaida'a #0" = -1
+	"Dayilombuto #0" = -1
+	"Mbui Ayudugia #0" = -1
+	"Mbui Pi'i Da'a #0" = -1
+	"Putri Rawe #0" = -1
+	"Mbui Maimunah #0" = -1
+	"Putri Owutango #0" = -1
 }
 ship_names = { 
 	Limboto Suwawa Bone Bolango Kabila Tilamuta Marisa Tapa Atinggola Paguyaman Asparaga Popayato Randangan Taluditi Pulubala Tibawa Batudaa Bongomeme Kota
