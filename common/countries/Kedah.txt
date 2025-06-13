@@ -50,6 +50,5 @@ monarch_names = {
 	Sallehuddin #0" = 10
 }
 ship_names = { 
-	"Alor Setar" "Kuala Kedah" "Kuala Muda" Merbok Yan Pendang "Sungai Petani" "Batu Hampar" Bujang Sik Kulim Padang Terap Pokok Sena Kubang Pasu Bukit Pinang Jitra Kodiang Tunjang 
-	"Air Hitam" "Bandar Baharu" "Pulau Tiga" "Pulau Dayang" Bunting "Bukit Meriam" "Titi Gajah" "Teluk Chengai" "Sungai Limau" "Pulau Langkawi" "Kuala Muda" "Kuala Sanglang" 	
+	"Alor Setar" "Kuala Kedah" "Kuala Muda" Merbok Yan Pendang "Sungai Petani" "Batu Hampar" Bujang Sik Kulim Padang Terap Pokok Sena Kubang Pasu Bukit Pinang Jitra Kodiang Tunjang "Air Hitam" "Bandar Baharu" "Pulau Tiga" "Pulau Dayang" Bunting "Bukit Meriam" "Titi Gajah" "Teluk Chengai" "Sungai Limau" "Pulau Langkawi" "Kuala Muda" "Kuala Sanglang" 	
 }
