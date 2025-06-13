@@ -19,8 +19,6 @@ is_city = yes
 discovered_by = MKS
 discovered_by = TER
 discovered_by = TID
-discovered_by = indochinese
-discovered_by = malay_group
 discovered_by = malay
 discovered_by = chinese
 
