@@ -35,6 +35,8 @@ country_decisions = {
 			religion_group = dharmic 
 			is_nomad = no		
 			is_at_war = no
+			NOT = { tag = MAJ }
+			NOT = { was_tag = MAJ }
 
 			# Require ownership and cores of all provinces in these areas
 			num_of_owned_provinces_with = {

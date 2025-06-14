@@ -12,6 +12,7 @@ historical_friend = PSA
 historical_rival = PGR 
 historical_rival = JMB 
 historical_rival = MLC
+historical_rival = LPG
 historical_friend = GUJ
 historical_friend = MAJ
 

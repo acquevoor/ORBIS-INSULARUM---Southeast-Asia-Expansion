@@ -9,11 +9,14 @@ capital = 2681 # Pagarruyung
 
 historical_friend = DHR
 historical_friend = IND
-historical_rival = BRS 
+historical_rival = BRS
+historical_rival = MAJ
 historical_rival = HTR 
 historical_rival = PSA 
 historical_rival = MLC 
-historical_rival = JMB 
+historical_rival = JMB
+historical_rival = SAK
+historical_rival = IDG
 
 1347.1.1 = { 
 	monarch = { 

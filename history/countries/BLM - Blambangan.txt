@@ -5,6 +5,11 @@ religion = hinduism
 secondary_religion = mahayana
 technology_group = chinese
 capital = 627# Blambangan
+
+historical_friend = BLI
+historical_rival = DMK
+historical_rival = MTR
+
 1527.1.1 = { 
 	monarch = { 
 		name = "Menak Pentor"

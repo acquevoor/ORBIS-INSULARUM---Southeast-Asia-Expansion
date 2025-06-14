@@ -6,6 +6,11 @@ religion = buddhism
 technology_group = chinese
 capital = 622 #Palembang
 
+historical_rival = MAJ
+historical_rival = MAD
+historical_rival = TNJ
+
+
 1444.1.1 = {
     monarch = {
         name = "Sangrama"

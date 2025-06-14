@@ -5,6 +5,9 @@ religion = buddhism
 technology_group = chinese
 capital = 4834 # Suphanburi
 
+historical_rival = AVA
+historical_rival = TAU
+
 1408.1.1 = {
 	monarch = {
 		name = "Intha Racha"

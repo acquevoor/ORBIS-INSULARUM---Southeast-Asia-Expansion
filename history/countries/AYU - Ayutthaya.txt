@@ -5,6 +5,8 @@ religion = buddhism
 technology_group = chinese
 capital = 600 # Ayutthaya
 
+historical_rival = AVA
+historical_rival = TAU
 
 1395.1.1 = {
 	monarch = {

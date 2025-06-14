@@ -8,10 +8,12 @@ religious_school = shafii_school
 secondary_religion = animism
 
 historical_friend = MNG
+historical_friend = SUN
+historical_friend = LPG
 historical_friend = MLC
 historical_friend = MAJ
 historical_friend = DMK
-historical_rival = PLB 
+historical_rival = PLB
 historical_rival = IND
 #banten needs to be to
 
