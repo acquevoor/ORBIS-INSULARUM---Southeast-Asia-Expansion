@@ -1,5 +1,5 @@
 #Country Name: Wehali
-graphical_culture = africangfx
+graphical_culture = southamericagfx
 ##
 #color = { 37  91  226 }
 color = { 82 138 179 }
