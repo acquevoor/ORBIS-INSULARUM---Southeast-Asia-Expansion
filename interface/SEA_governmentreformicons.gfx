@@ -1,8 +1,7 @@
 spriteTypes = {
 	spriteType = {
-		name = "adat_system"
-		texturefile = "gfx/interface/government_reform_icons/adat_system.dds"
+		name = "adat_minangkabau"
+		texturefile = "gfx//interface//government_reform_icons//adat_minangkabau.tga"
 		loadType = "INGAME"
-		transparencecheck = yes
 	}
 }
