@@ -3,56 +3,12 @@ add_government_reform = mandala_reform
 primary_culture = melayu
 religion = sunni
 technology_group = chinese
-capital = 636# Brunei Town
+capital = 636 # Brunei Town
 religious_school = shafii_school
-1399.1.1 = { 
-	monarch = { 
-		name = "Muhammad"
-		dynasty = "Bolkiah"
-		adm = 3
-		dip = 4
-		mil = 3
-	}
-	add_piety = 0.1
-}
-1399.1.1 = { 
-	heir = { 
-		name = "Pateh Berbai"
-		monarch_name = "Ahmad"
-		dynasty = "Bolkiah"
-		birth_date = 1370.1.1
-		death_Date = 1432.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 3
-	}
-}
-1415.1.1 = { 
-	monarch = { 
-		name = "Ahmad"
-		dynasty = "Bolkiah"
-		adm = 1
-		dip = 1
-		mil = 2
-	}
-}
-1415.1.1 = { 
-	heir = { 
-		name = "Sulaym�n"
-		monarch_name = "Sulaym�n"
-		dynasty = "Bolkiah"
-		birth_date = 1400.1.1
-		death_Date = 1485.1.1
-		claim = 95
-		adm = 4
-		dip = 4
-		mil = 2
-	}
-}
+
 1432.1.1 = { 
 	monarch = { 
-		name = "Sulaym�n"
+		name = "Sulayman"
 		dynasty = "Bolkiah"
 		adm = 4
 		dip = 4
