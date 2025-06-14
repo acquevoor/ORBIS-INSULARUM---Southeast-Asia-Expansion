@@ -1,5 +1,5 @@
 #Country Name: Please see filename.
-graphical_culture = africangfx
+graphical_culture = southamericagfx
 #color = { 171  175  40 }
 #color = { 144  95  10 }
 ##color = { 173  105  105 }
@@ -26,11 +26,17 @@ historical_units = {
 	reformed_asian_musketeer
 }
 monarch_names = { 
-	"Undang #0" = 20
 	"Sempung #0" = 20
-	"Nunyang #0" = 20
 	"Tambun #0" = 20
+	"Sarupoi #0" = 20
 	"Bungai #0" = 20
+	"Saputra Layar #0" = 20
+	"Neno #0" = 20
+	"Anyan #0" = 20
+
+	"Nyai Balau #0" = -1
+	"Nyai Undang #0" = -1
+	"Nyai Nunyang #0" = -1
 }
 leader_names = { 
 	Ampong Binti Labih Rumbun Sipet Purok Mamut Menteng Hanjak Nanjan Djata Lawai Jau Keling Ngau Lisu Ullok Apoi Wan Dehen Djatta Ekot Hanyi Labih Mantikei Mantir Simpei Segah Saloh Selong Teras Simbun Saduri Sangkurun Salundik Taladjan During Suli Tumon Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja

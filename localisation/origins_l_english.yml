@@ -795,7 +795,7 @@
  horn_of_african_ideas_start:0 "Horn of African Traditions"
  horn_of_african_ideas_bonus:0 "Horn of African Ambition"
  ###DECISIONS###
- bulgaria_nation_title:0 "Restore @BUL Bulgaria" #MOD
+ bulgaria_nation_title:0 "Restore Bulgaria"
  bulgaria_nation_desc:0 "Since the fall of the Second Bulgarian Empire the Bulgarians have been slaves of foreign powers and had rarely anything to say.\nThe time has come to change this, to liberate the Bulgarians and restore Bulgarian glory!"
  swap_primary_cult_title:0 "Switch Primary Cult"
  swap_primary_cult_desc:0 "The [Root.Monarch.GetTitle] of our [Root.GovernmentName] has the authority to select a new Primary Cult for [Root.GetName]. Choosing so will however upset our people."
@@ -875,9 +875,9 @@
  zan_declined_embassy:0 "Declined our Embassy"
  msi_accepts_muslims:0 "Granted our Brethren of Faith privileges"
  ###DECISIONS###
- kongo_nation_title:0 "Restore the @KON Kongo Kingdom" #MOD
+ kongo_nation_title:0 "Restore the Kongo Kingdom"
  kongo_nation_desc:1 "The tribal kingdom of Kongo was once the major regional power and the name giver to the Kongo region. With its fall and with nobody left replacing them, a void has emerged in the Kongo region, which is now attracting the Europeans and other foreigners to exploit. It is time to fill this void ourselves and continue the legacy of the kingdom!"
- ethiopia_nation_title:0 "Restore @ETH Solomonid's Legacy" #MOD
+ ethiopia_nation_title:0 "Restore Solomonid's Legacy"
  ethiopia_nation_desc:1 "The empire of Ethiopia is the spiritual successor of the Aksumite Empire, the home of the son of the legendary king Solomon and the queen of Sheba and the defender of the Coptic faith. Their fall has been a tragedy for the Ethiopian Coptic faith, but the spirit of Ethiopia still lives on - waiting to be revived by a worthy successor like us!"
  set_focus_on_professional_army_title:0 "Focus on a professional Army"
  set_focus_on_professional_army_desc:0 "With the [Root.Monarch.GetName]'s ascension to the throne, the military is awaiting the resources needed for focusing on a more impactful yet smaller army."
@@ -896,15 +896,15 @@
  switch_permanent_scholar_desc:0 "Sometimes the teachings of a certain school are no longer of value for our state. In cases like that it is recommended to expel the foreign scholar and replace him with a scholar from a more beneficial school.\nAnd thanks to the connections of our [Root.GetClergyName] we will not even suffer any penalty in our foreign diplomacy."
  invest_into_the_seven_cities_title:0 "Invest into the Seven Cities"
  invest_into_the_seven_cities_desc:0 "The Seven Cities of the Hausa are of great importance in our cultural history. We can invest into the prosperity of these cities to resurrect their regional and cultural importance for our state."
- zulu_nation_title:0 "Militarize the @ZUL Nguni" #MOD
+ zulu_nation_title:0 "Militarize the Nguni"
  zulu_nation_desc:0 "The armies of [Root.GetName] are splendid. But it can be better. By equipping the local Nguni and militarizing their people we assure hundreds of new recruits for the [Root.GetAdjective] [Root.GovernmentName]."
- aksumite_nation_title:0 "Restore @AKS Aksum" #MOD
+ aksumite_nation_title:0 "Restore Aksum"
  aksumite_nation_desc:0 "The elders tell the tale of the ancient and powerful Kingdom of Aksum and its mighty king, Kaleb, who ruled the Red Sea unopposed and was known as Saint Elesbaan. Now we are finally ready to write a new chapter in history by taking the mantle of our forefathers and reclaiming their past glory."
- great_zimbabwe_nation_title:0 "Restore @ZIM Zimbabwe" #MOD
+ great_zimbabwe_nation_title:0 "Restore Zimbabwe"
  great_zimbabwe_nation_desc:0 "Rejoice! The great stone city is populated again, its buildings rebuilt and its strength regained! It is now time for us to raise its banner high and let the world know that Great Zimbabwe is again the shining jewel of Africa that it once was."
- hausa_nation_title:0 "Unite the @HAU Hausa"
+ hausa_nation_title:0 "Unite the Hausa"
  hausa_nation_desc:0 "After many years of feuds and wars shattering the land, the old rivalries are finally quenched and peace has been reached. The sons of Bawo are again reunited under the same banner. It is time for the Hausa to rise as one again!"
- israel_nation_title:0 "Re-Establish @ISR Israel" #MOD
+ israel_nation_title:0 "Re-Establish Israel"
  israel_nation_desc:0 "As was promised, the land of Israel is again free from gentile tyranny, the majesty of David has been re-established and the holy city of Jerusalem rebuilt. The Lord has returned to Zion with mercy and the towns again overflow with prosperity."
  federal_kingdoms_gather_the_armies_title:0 "Confederal Kingdoms: Gather the Armies"
  federal_kingdoms_gather_the_armies_desc:0 "We can organize new contingents of recruits through our relations with the several kingdoms of [Root.GetName]."
@@ -914,19 +914,19 @@
  federal_celebrate_rituals_together_desc:0 "In special times it is important to remember what binds us together and celebrate the festivals of our people."
  federal_gain_tribal_allegiance_title:0 "Confederal Kingdoms: Gain Tribal Allegiance"
  federal_gain_tribal_allegiance_desc:0 "The kingdoms proclaim their allegiance to the [Root.Monarch.GetTitle]."
- kitara_nation_title:0 "Claim the Empire of @KIT Kitara Title" #MOD
+ kitara_nation_title:0 "Claim the Empire of Kitara Title"
  kitara_nation_desc:0 "After much struggle and suffering, we have united the people of the Great Lakes and mended the divide that separated us. It is time now to rebuild the unity that was once lost and raise again the banner of Kitara so everyone might see that we stand as one."
- macina_nation_title:0 "Form @ZAF Macina" #MOD
+ macina_nation_title:0 "Form Macina"
  macina_nation_desc:0 "Our people have endured terrible injustice and tyranny under our old overlords, but we have finally freed ourselves of their yoke and are now ready to carve our own path. Let's raise our new banner as a symbol of our freedom and as a warning for those who would dare to threaten it."
- mali_nation_title:0 "Take the Mantle of @MAL Mali" #MOD
+ mali_nation_title:0 "Take the Mantle of Mali"
  mali_nation_desc:0 "The powerful and prosperous Mali Empire fell many years ago due to jealous neighbors and squabbling chieftains. Despite that, the spirit of Mali can not be destroyed, it will always survive inside its people. Now the lands around Manding are united again, it is time for a new Mansa to rise up and bring the empire back to its former glory."
- mossi_nation_title:0 "Unite the @MSI Mossi Kingdoms" #MOD
+ mossi_nation_title:0 "Unite the Mossi Kingdoms"
  mossi_nation_desc:0 "For too many years the sons of princess Yennega have fought between themselves. But now the constant rivalries and feuds have been quenched and long lost brothers are again riding side by side. It is time to turn our eyes to the world and let them know that the Mossi are one."
- nubian_nation_title:0 "Unite the @NBI Nubians" #MOD
+ nubian_nation_title:0 "Unite the Nubians"
  nubian_nation_desc:0 "Since ancient times the kingdoms of Nubia have been threatened from the north and the south by heathens that only want to take our people and our wealth. It is time that we set aside our differences and unite as one Nubian nation under God."
- rozwi_nation_title:0 "Establish @RZI Rozwi" #MOD
+ rozwi_nation_title:0 "Establish Rozwi"
  rozwi_nation_desc:0 "We are warriors. We have expelled the foreign menace, pacified the land of Zimbabwe, built great stone cities, mined gold from the depths of the earth, hunted ferocious beasts, protected the trade and united the people. We are the Rozwi!"
- somalia_nation_title:0 "Unite the @SOM Somalian Clans" #MOD
+ somalia_nation_title:0 "Unite the Somalian Clans"
  somalia_nation_desc:0 "Since ancient times the Somalis have inhabited the Horn of Africa, but they have always been divided and have competed between each other, both in trade and in the field of battle. Everything changes now as the people leave rivalries behind and finally stand united under the same banner."
  ###ZIM MODIFIERS###
  zim_declining_city:0 "Abandoned Ruins"
@@ -1151,7 +1151,7 @@
  son_build_workshops_desc:0 "The demand for our products is increasing and more merchants want to trade salt and other goods with us. We should construct workshops to increase the production efficiency."
  son_own_develop_clothes_and_salt_title:0 "Develop Salt and Cloth"
  son_own_develop_clothes_and_salt_desc:1 "Gold is seen as an immensely valuable resource in the world. However, in West Africa it is only second to another, much more important resource: salt. While gold is useful for our treasury, it is not edible, and as such salt is of high value here.\nThen there are cloths, which are of great importance to protect the body from the heat of the sun.\n\nWe should develop the production of both goods in order to supply our market and to expand our trade even beyond the Sahel and Niger."
- son_own_develop_clothes_and_salt_ct:0 "[Root.GetName] gets '§YSalt and Cloth Main Production§!' for §Y25 years§!, giving the following effects:\nGlobal Trade Power: §G+25.0%§!\nEvery owned province which produces §YSalt§! or §YCloth§!:\nLocal Goods Produced: §G+0.50§!"
+ son_own_develop_clothes_and_salt_ct:1 "[Root.GetName] gets '§YSalt and Cloth Main Production§!' for §Y25 years§!, giving the following effects:\nGlobal Trade Power: §G+15.0%§!\nEvery owned province which produces §YSalt§! or §YCloth§!:\nLocal Goods Produced: §G+0.50§!"
  son_gold_of_west_africa_title:0 "Wealth of West Africa"
  son_gold_of_west_africa_desc:0 "Our home region is known for its rich sources of gold. We should develop the gold mining and establish marketplaces in order to distribute the gold to the many corners of the world."
  son_dominate_west_african_trade_title:0 "Protect West African Trade"

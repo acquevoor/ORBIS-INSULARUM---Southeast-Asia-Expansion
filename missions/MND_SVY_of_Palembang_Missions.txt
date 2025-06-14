@@ -30,7 +30,7 @@ mnd_svy_1 = {
 		
 		effect = {
 			add_country_modifier = {
-				name = svy_gold #Gold
+				name = plb_gold #Gold
 				duration = 7300
 			}
 			1361 = {
@@ -160,7 +160,7 @@ mnd_svy_1 = {
 		
 		effect = {
 			add_country_modifier = {
-				name = svy_sea_people
+				name = plb_sea_people
 				duration = 7300
 			}
 			2675 = {
@@ -223,7 +223,7 @@ mnd_svy_1 = {
 		
 		effect = {
 			add_country_modifier = {
-				name = svy_dragonships
+				name = plb_dragonships
 				duration = 7300
 			}
 			617 = {
@@ -357,7 +357,7 @@ mnd_svy_2 = {
 	
 		effect = {
 			add_country_modifier = {
-				name = svy_srivijaya_temples
+				name = plb_srivijaya_temples
 				duration = 7300
 			}
 			add_stability = 1
@@ -452,7 +452,7 @@ mnd_svy_2 = {
 		
 		effect = {
 			add_country_modifier = {
-				name = svy_shailendra_dynasty
+				name = plb_shailendra_dynasty
 				duration = 7300
 			}
 			east_java_area = {
@@ -574,7 +574,7 @@ mnd_svy_2 = {
 			add_mil_power = 100
 			add_stability = 1
 			add_country_modifier = {
-				name = svy_srivijaya_restored
+				name = plb_srivijaya_restored
 				duration = -1
 			}
 		}

@@ -6,7 +6,6 @@ religion = animism
 secondary_religion = sunni
 primary_culture = maranao
 capital = 653#Lanao
-historical_friend = MSM
 add_accepted_culture = sulawesi
 add_accepted_culture = bornean
 1444.1.1 = { 

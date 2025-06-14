@@ -13,16 +13,15 @@ country_event = {
     
     trigger = {
         tag = SMN
-        date = 1444.12.01
     }
     
     mean_time_to_happen = {
-        days = 0
+        days = 30
     }
     
     option = {
         name = "ilo_trade_event.1.option.accept"
-        add_years_of_income = -0.2
+        add_prestige = 5
         add_opinion = {
             who = MNG
             modifier = MNG_relationship_gain
@@ -31,8 +30,7 @@ country_event = {
 	
     option = {
         name = "ilo_trade_event.1.option.decline"
-        add_prestige = 5
-        add_years_of_income = 2
+        add_years_of_income = 2.5
         reverse_add_opinion = {
             who = MNG
             modifier = MNG_relationship_penalty

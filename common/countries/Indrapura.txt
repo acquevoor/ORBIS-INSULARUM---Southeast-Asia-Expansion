@@ -38,6 +38,13 @@ monarch_names = {
 	"Pesisir #0" = 20
 	"Adil #0" = 20
 	"Gulemat #0" = 20
+
+	"Mayang Sani #0" = -1
+	"Sri Gading #0" = -1
+	"Sri Hati Bintang Alam #0" = -1
+	"Putri Bangun #0" = -1
+	"Nurmidah Gumala #0" = -1
+	"Gindan Dewi Alam #0" = -1
 }
 
 leader_names = { 

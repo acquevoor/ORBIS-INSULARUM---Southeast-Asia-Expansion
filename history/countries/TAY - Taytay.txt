@@ -1,5 +1,4 @@
 government = monarchy
-add_government_reform = plutocracy
 government_rank = 1
 technology_group = chinese
 religion = animism
@@ -29,4 +28,3 @@ add_accepted_culture = bornean
 		mil = 3
 	}
 }
-add_government_reform = plutocracy

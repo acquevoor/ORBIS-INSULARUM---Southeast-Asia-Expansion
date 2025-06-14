@@ -1,6 +1,6 @@
 #Country Name: Please see filename.
 
-graphical_culture = africangfx
+graphical_culture = southamericagfx
 
 #color = { 240 190 38 }
 color = { 219 214 151 }
@@ -35,9 +35,13 @@ monarch_names = {
 	"Tengku Yang Dipertuan Muda #0" = 20
 	"Tengku Yang Dipertuan Hitam #0" = 20
 	"Abdul Jalil Khalifatullah #0" = 20
-	"Tengku Yang Dipertuan Besar Daulat #0" = 20
+	"Yang Dipertuan Besar Daulat #0" = 20
 	"Abdurrahman #0" = 20
 	"Sati Abdullah #0" = 20
+
+	"Mandalika #0" = -1
+	"Che Laut #0" = -1
+	"Lindung Bulan #0" = -1
 }
 
 leader_names = { 

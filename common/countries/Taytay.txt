@@ -1,5 +1,5 @@
 #Country Name: Please see filename.
-graphical_culture = africangfx
+graphical_culture = southamericagfx
 #color = { 255  186  0 } kinda yellow palembang
 color = { 157 152 105 }
 #revolutionary_colors = { 8 5 8 }

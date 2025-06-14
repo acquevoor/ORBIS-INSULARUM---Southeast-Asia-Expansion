@@ -45,7 +45,7 @@ SMN_rice_terraces_and_karayan_irrigation:0 "Rice Terraces and Karayan Irrigation
 SMN_rice_terraces_and_karayan_irrigation_desc:0 "Ilocano ingenuity in farming carved terraces from harsh landscapes, and their irrigation canals (karayan) sustained abundant rice fields. This agricultural backbone allowed even rugged terrain to flourish."
 
 SMN_panag_bangon_spirit_of_resistance:0 "Panagbangon: Spirit of Resistance"
-SMN_panag_bangon_spirit_of_resistance_desc:0 "‘Panagbangon’ — the rising — was an enduring Ilocano tradition of standing firm against oppression. From early revolts to enduring hardship, the people developed a quiet, powerful spirit of rebellion."
+SMN_panag_bangon_spirit_of_resistance_desc:0 "Panagbangon — the rising — was an enduring Ilocano tradition of standing firm against oppression. From early revolts to enduring hardship, the people developed a quiet, powerful spirit of rebellion."
 
 SMN_ilocano_shipwrights_and_weavers:0 "Ilocano Shipwrights and Weavers"
 SMN_ilocano_shipwrights_and_weavers_desc:0 "With long coasts and a legacy of ocean trade, Ilocanos built strong boats and traded textiles like *inabel* woven cloth. Their craftsmanship served both economy and war."
@@ -69,7 +69,7 @@ MAS_code_of_kalantiaw:0 "Code of Kalantiaw"
 MAS_code_of_kalantiaw_desc:0 "The Code of Kalantiaw, though later disputed in historical authenticity, long served as a powerful myth of ancient Visayan law. It emphasized order, justice, and moral conduct. Its existence—myth or not—reflects the deep respect Visayans held for structured society and their pride in a civilizing legal heritage."
 
 MAS_binanog_warrior_rites:0 "Binanog Warrior Rites"
-MAS_binanog_warrior_rites_desc:0 "Inspired by the movement of the hawk, the Binanog dance is a ritualized expression of combat and strength among Panay’s highland communities. Combined with the Visayan martial ethic of honor and challenge, these rites bred generations of skilled, agile warriors whose prowess was both feared and celebrated."
+MAS_binanog_warrior_rites_desc:0 "Inspired by the movement of the hawk, the Binanog dance is a ritualized expression of combat and strength among Panay's highland communities. Combined with the Visayan martial ethic of honor and challenge, these rites bred generations of skilled, agile warriors whose prowess was both feared and celebrated."
 
 MAS_mari_it_datu_shipbuilding:0 "Mari-it Datu Shipbuilding"
 MAS_mari_it_datu_shipbuilding_desc:0 "The datu-led polities of Panay fostered a tradition of naval craftsmanship, producing fast and durable vessels suited for trade and warfare. These skills made Madya-as a vital player in inter-island commerce and ensured the defense of its coastlines against pirate and colonial threats."
@@ -98,7 +98,7 @@ CEB_ideas_bonus:0 "Legacy of Rajahdom"
 CEB_rajahnate_of_cebu:0 "The Rajahnate of Cebu"
 CEB_rajahnate_of_cebu_desc:0 "Founded by Sri Lumay, a prince of South Indian or Malay origin, the Rajahnate of Cebu grew into a centralized polity with diplomatic ties stretching across Maritime Southeast Asia. Its rulers held sway over a complex tributary system and governed with regal authority, blending local tradition with imported customs to form a vibrant Visayan kingdom."
 
-CEB_lapu_lapu_resistance:0 "Lapu-Lapu’s Resistance"
+CEB_lapu_lapu_resistance:0 "Lapu-Lapu's Resistance"
 CEB_lapu_lapu_resistance_desc:0 "In 1521, Rajah Lapu-Lapu refused to submit to foreign domination, defeating the Spanish and killing Magellan at the Battle of Mactan. This act of defiance became legendary, inspiring future generations with a symbol of Visayan resistance and independence. His legacy remains one of the most enduring in Philippine history."
 
 CEB_tumalog_maritime_routes:0 "Tumalog Maritime Trade Routes"
@@ -108,13 +108,13 @@ CEB_visayan_blade_dancers:0 "Visayan Blade Dancers"
 CEB_visayan_blade_dancers_desc:0 "Visayan warriors were famed for their martial rituals and expert use of the kampilan and barong. War dances and duels were both social performance and military training. Their fierce reputation among neighboring polities and even early European chroniclers reflected a culture where honor, agility, and warriorship were paramount."
 
 CEB_sandugo_ritual_pacts:0 "Sandugo: Ritual Blood Compacts"
-CEB_sandugo_ritual_pacts_desc:0 "The sandugo, or blood compact, was a Visayan ritual cementing alliances through shared blood. This ancient practice allowed for trust-building among leaders, both local and foreign, and played a crucial role in Cebu’s diplomatic success. It reflected a society where personal bonds shaped political networks."
+CEB_sandugo_ritual_pacts_desc:0 "The sandugo, or blood compact, was a Visayan ritual cementing alliances through shared blood. This ancient practice allowed for trust-building among leaders, both local and foreign, and played a crucial role in Cebu's diplomatic success. It reflected a society where personal bonds shaped political networks."
 
 CEB_panays_literary_legacy:0 "Panay and the Epic Legacy"
-CEB_panays_literary_legacy_desc:0 "Cebu’s cultural links to Panay ensured a shared tradition of oral epics, genealogies, and babaylan wisdom. These tales, preserved in poetic forms like the hinilawod, conveyed spiritual values and historical memory. Such oral traditions sustained literacy, identity, and elite authority among the precolonial Visayans."
+CEB_panays_literary_legacy_desc:0 "Cebu's cultural links to Panay ensured a shared tradition of oral epics, genealogies, and babaylan wisdom. These tales, preserved in poetic forms like the hinilawod, conveyed spiritual values and historical memory. Such oral traditions sustained literacy, identity, and elite authority among the precolonial Visayans."
 
 CEB_first_contact_legacies:0 "Legacies of First Contact"
-CEB_first_contact_legacies_desc:0 "Cebu was one of the first Philippine polities to encounter European explorers. While others fell to conquest, Cebu’s early response mixed diplomacy, resistance, and adaptation. The memory of these events gave future leaders a legacy of both caution and opportunity in facing a changing world."
+CEB_first_contact_legacies_desc:0 "Cebu was one of the first Philippine polities to encounter European explorers. While others fell to conquest, Cebu's early response mixed diplomacy, resistance, and adaptation. The memory of these events gave future leaders a legacy of both caution and opportunity in facing a changing world."
 
 CEB_ambition:0 "Heir to the Visayan Thalassocracy"
 CEB_ambition_desc:0 "With its powerful fleet, warrior traditions, and merchant reach, Cebu once ruled the central seas of the archipelago. To reclaim its glory, it must once again rise as the premier Visayan power, uniting the islands through a legacy of seaborne leadership and cultural endurance."
@@ -132,25 +132,25 @@ VLM_samarnon_poetics_and_liday:0 "Samarnon Poetics and Liday"
 VLM_samarnon_poetics_and_liday_desc:0 "The oral art of *liday*—narrative poetry and chants—served as a vessel of law, ethics, ancestry, and collective memory. Through these poetic forms, elders transmitted values, reinforced identity, and resisted cultural erasure. They were not merely stories, but the voice of a people and their enduring truth."
 
 VLM_lawigan_confederacies:0 "Lawigan Confederacies"
-VLM_lawigan_confederacies_desc:0 "Samar’s political landscape was not centralized, but a web of *lawigan*—small, autonomous chiefdoms organized along rivers. Flexible and resilient, these confederacies maintained harmony through kinship, barter, and local leadership, allowing Samar to resist colonization and absorb foreign influences on its own terms."
+VLM_lawigan_confederacies_desc:0 "Samar's political landscape was not centralized, but a web of *lawigan*—small, autonomous chiefdoms organized along rivers. Flexible and resilient, these confederacies maintained harmony through kinship, barter, and local leadership, allowing Samar to resist colonization and absorb foreign influences on its own terms."
 
 VLM_kabikungan_and_sulat_blades:0 "Kabikungan and Sulat Blades"
-VLM_kabikungan_and_sulat_blades_desc:0 "The *kabikungan* smiths of Samar forged *sulat* blades—short and wide knives used in both ritual and battle. These weapons were more than tools of war; they represented craftsmanship, ancestry, and the right to defend one’s land. Their utility in jungle warfare made Samar’s warriors formidable adversaries."
+VLM_kabikungan_and_sulat_blades_desc:0 "The *kabikungan* smiths of Samar forged *sulat* blades—short and wide knives used in both ritual and battle. These weapons were more than tools of war; they represented craftsmanship, ancestry, and the right to defend one's land. Their utility in jungle warfare made Samar's warriors formidable adversaries."
 
 VLM_balangiga_memory:0 "Balangiga Memory"
 VLM_balangiga_memory_desc:0 "The spirit of defiance echoes through the generations. Though the famous Balangiga uprising lies in the future, its ideals are rooted in Samarnon history: unity, cunning, and vengeance against injustice. The memory of resistance—whether mythic or real—binds the people in a shared legacy of unyielding freedom."
 
 VLM_lantaka_and_watchtowers:0 "Lantaka and Watchtowers"
-VLM_lantaka_and_watchtowers_desc:0 "Perched on cliffs and river mouths, early warning towers equipped with *lantaka* cannons defended Samar’s coasts. These bronze swivel guns, often mounted on boats or palisades, symbolized readiness and adaptation in an archipelago constantly under threat from raiders and rivals alike."
+VLM_lantaka_and_watchtowers_desc:0 "Perched on cliffs and river mouths, early warning towers equipped with *lantaka* cannons defended Samar's coasts. These bronze swivel guns, often mounted on boats or palisades, symbolized readiness and adaptation in an archipelago constantly under threat from raiders and rivals alike."
 
 VLM_samar_maritime_highways:0 "Samar Maritime Highways"
-VLM_samar_maritime_highways_desc:0 "Samar’s coasts opened to the straits of Luzon, Cebu, and Bicol. Using *balangay* and *paraw* boats, traders and explorers forged lasting connections. These maritime routes were arteries of diplomacy, tribute, and influence, proving that even from the eastern edge, Samar could command a central role in island trade."
+VLM_samar_maritime_highways_desc:0 "Samar's coasts opened to the straits of Luzon, Cebu, and Bicol. Using *balangay* and *paraw* boats, traders and explorers forged lasting connections. These maritime routes were arteries of diplomacy, tribute, and influence, proving that even from the eastern edge, Samar could command a central role in island trade."
 
 VLM_crocodile_spirit_and_river_power:0 "Crocodile Spirit and River Power"
 VLM_crocodile_spirit_and_river_power_desc:0 "The crocodile, guardian and devourer, was revered in Samarnon cosmology. Dwelling in sacred rivers and mangroves, it symbolized the natural order, ancestral protection, and divine justice. Rituals honored its presence, and belief in its power bound communities to nature and to each other."
 
 VLM_ambition:0 "Forge a Samarnon Identity"
-VLM_ambition_desc:0 "Samar’s peoples—diverse, divided, yet culturally linked—have always yearned for a unified vision. Whether through confederation, shared myth, or common resistance, the idea of a singular Samarnon identity continues to grow. The time has come to shape that dream into reality."
+VLM_ambition_desc:0 "Samar's peoples—diverse, divided, yet culturally linked—have always yearned for a unified vision. Whether through confederation, shared myth, or common resistance, the idea of a singular Samarnon identity continues to grow. The time has come to shape that dream into reality."
 
 TDO_ideas:0 "Tondo Ideas"
 TDO_ideas_desc:0 "The Lakanate of Tondo ruled over the rich delta where the rivers met the bay. Known for its datus and nobles, intricate kinship diplomacy, baybayin literacy, and early defiance of foreign powers, Tondo was a political, cultural, and economic heart of the archipelago. Let the world know—Tondo is not a tributary, but a kingdom of its own."
@@ -162,7 +162,7 @@ TDO_pasang_bayan_and_tagalog_datus:0 "Pasang Bayan and Tagalog Datus"
 TDO_pasang_bayan_and_tagalog_datus_desc:0 "The Tagalog political system balanced power between the Lakan and respected Datus. With the 'pasang bayan'—a communal system of shared tribute and responsibility—Tondo fostered political stability through inclusive governance and honor-bound leadership."
 
 TDO_lakanate_of_the_delta:0 "Lakanate of the Delta"
-TDO_lakanate_of_the_delta_desc:0 "Tondo’s location on the Pasig delta gave it mastery over riverine and maritime commerce. Known to Chinese records as a flourishing trade center, it attracted envoys, gold, porcelain, and foreign intrigue. With this came prestige and leverage."
+TDO_lakanate_of_the_delta_desc:0 "Tondo's location on the Pasig delta gave it mastery over riverine and maritime commerce. Known to Chinese records as a flourishing trade center, it attracted envoys, gold, porcelain, and foreign intrigue. With this came prestige and leverage."
 
 TDO_pakikisama_and_utang_na_loob:0 "Pakikisama and Utang na Loob"
 TDO_pakikisama_and_utang_na_loob_desc:0 "Tagalog society was woven together by bonds of obligation and harmony. These social principles—*pakikisama* (social cohesion) and *utang na loob* (debt of gratitude)—enabled strong alliances and multigenerational loyalty within and across communities."
@@ -186,16 +186,16 @@ MNA_ideas_start:0 "Pearl of the Delta"
 MNA_ideas_start_desc:0 "Rising at the confluence of river and sea, Maynila stood as a glittering jewel among the Tagalog polities. Guarded by kotta fortresses and enriched by vibrant markets, it became a center of learning, leadership, and faith in the heart of Luzon."
 
 MNA_ideas_bonus:0 "Legacy of the Rajahs"
-MNA_ideas_bonus_desc:0 "From Rajah Matanda to Sulayman, Maynila’s rulers forged a legacy of pride, diplomacy, and resistance. Their vision unified the delta and left an imprint that would echo beyond the age of sultanates and into the age of empires."
+MNA_ideas_bonus_desc:0 "From Rajah Matanda to Sulayman, Maynila's rulers forged a legacy of pride, diplomacy, and resistance. Their vision unified the delta and left an imprint that would echo beyond the age of sultanates and into the age of empires."
 
 MNA_rajahnate_and_sultanate_synergy:0 "Rajahnate and Sultanate Synergy"
-MNA_rajahnate_and_sultanate_synergy_desc:0 "Maynila’s political structure drew from both indigenous and Islamic traditions. The Rajahs ruled through local Tagalog customs of kinship and barangay leadership, while invoking Islamic models of legitimacy through alliances with Muslim sultanates. This dual framework allowed Maynila to enjoy local loyalty and international recognition, making it a rare example of a polity that was both rooted and far-reaching."
+MNA_rajahnate_and_sultanate_synergy_desc:0 "Maynila's political structure drew from both indigenous and Islamic traditions. The Rajahs ruled through local Tagalog customs of kinship and barangay leadership, while invoking Islamic models of legitimacy through alliances with Muslim sultanates. This dual framework allowed Maynila to enjoy local loyalty and international recognition, making it a rare example of a polity that was both rooted and far-reaching."
 
 MNA_pasig_delta_gateway:0 "Pasig Delta Gateway"
-MNA_pasig_delta_gateway_desc:0 "Sitting astride the Pasig River, Maynila commanded the gateway between Manila Bay and Laguna de Bay—two of the most important waterways in Luzon. This unique position allowed it to control inland and maritime trade, levy tariffs on passing merchants, and serve as a conduit for goods traveling between the highlands and the sea. Its ports bustled with Chinese junks, Malay vessels, and local traders, all enriching the city’s coffers."
+MNA_pasig_delta_gateway_desc:0 "Sitting astride the Pasig River, Maynila commanded the gateway between Manila Bay and Laguna de Bay—two of the most important waterways in Luzon. This unique position allowed it to control inland and maritime trade, levy tariffs on passing merchants, and serve as a conduit for goods traveling between the highlands and the sea. Its ports bustled with Chinese junks, Malay vessels, and local traders, all enriching the city's coffers."
 
 MNA_alliance_with_brunei:0 "Alliance with Brunei"
-MNA_alliance_with_brunei_desc:0 "Maynila’s close relationship with the Sultanate of Brunei reinforced its Islamic identity and safeguarded its autonomy. This alliance brought military protection, elite intermarriage, and access to trans-Bornean trade routes. With Brunei’s backing, Maynila held sway over other Tagalog states and gained prestige as a regional capital of both faith and commerce."
+MNA_alliance_with_brunei_desc:0 "Maynila's close relationship with the Sultanate of Brunei reinforced its Islamic identity and safeguarded its autonomy. This alliance brought military protection, elite intermarriage, and access to trans-Bornean trade routes. With Brunei's backing, Maynila held sway over other Tagalog states and gained prestige as a regional capital of both faith and commerce."
 
 MNA_tagalog_muslim_syncretism:0 "Tagalog-Muslim Syncretism"
 MNA_tagalog_muslim_syncretism_desc:0 "Islam arrived in Maynila not as an imposition but as a harmonizing force. Rather than displace local culture, it fused with Tagalog customs, producing a society where Quranic teachings coexisted with ancestral rituals and village-based governance. This syncretism fostered inclusivity, adaptability, and a religious tolerance that allowed Maynila to thrive amid diverse beliefs and foreign contacts."
@@ -207,7 +207,7 @@ MNA_rise_of_the_rajahs:0 "Rise of the Rajahs"
 MNA_rise_of_the_rajahs_desc:0 "Rajahs Matanda, Sulayman, and Lakandula emerged as luminaries of precolonial Luzon, wielding both martial skill and diplomatic acumen. They presided over a literate, Islamizing court, welcomed trade delegations, and unified disparate barangays into a powerful delta polity. When confronted by the Spanish, they negotiated, resisted, and ultimately became enduring symbols of indigenous leadership in a changing world."
 
 MNA_moro_southlink_and_gold_circuits:0 "Moro Southlink and Gold Circuits"
-MNA_moro_southlink_and_gold_circuits_desc:0 "Maynila was deeply embedded in the southern Moro trade networks that stretched from Sulu and Maguindanao to Ternate and beyond. Through these routes flowed goods such as silk, porcelain, and fine textiles, but also ideas, Islamic learning, and political alliances. Inland, gold from the Cordilleras made its way to the city’s markets, where it was exchanged for luxury goods and shipped onward, making Maynila a linchpin in regional and transoceanic commerce."
+MNA_moro_southlink_and_gold_circuits_desc:0 "Maynila was deeply embedded in the southern Moro trade networks that stretched from Sulu and Maguindanao to Ternate and beyond. Through these routes flowed goods such as silk, porcelain, and fine textiles, but also ideas, Islamic learning, and political alliances. Inland, gold from the Cordilleras made its way to the city's markets, where it was exchanged for luxury goods and shipped onward, making Maynila a linchpin in regional and transoceanic commerce."
 
 MAG_ideas:0 "Maguindanao Ideas"
 MAG_ideas_desc:0 "Located in the southern Philippines, the Maguindanao people established a powerful Sultanate rooted in Islamic traditions. Emerging from a federation of riverine chiefdoms, they became a center of trade, religion, and regional diplomacy. Their military discipline, mythological foundations, and ability to balance cultural and spiritual identities made them a formidable force in Mindanao and beyond."
@@ -222,19 +222,19 @@ MAG_mamalu_tabunaway_pact:0 "Mamalu and Tabunaway's Pact"
 MAG_mamalu_tabunaway_pact_desc:0 "According to legend, two brothers—Mamalu, who kept the ancestral beliefs, and Tabunaway, who embraced Islam—divided the land peacefully, establishing mutual respect and tolerance between highland and lowland peoples. This symbolic covenant represents the foundation of harmony between the animist and Muslim communities of Mindanao. Their pact served as an early model for internal unity and coexistence among different ethnic and religious groups in the region."
 
 MAG_kurita_tarabusaw_pah_legends:0 "Legends of Kurita, Tarabusaw, and Pah"
-MAG_kurita_tarabusaw_pah_legends_desc:0 "Ancient Maguindanaon folklore tells of monstrous creatures—Kurita, Tarabusaw, and the bird Pah—who terrorized the land. These tales of heroism, resistance, and divine aid reflect the community’s values of bravery and spiritual fortitude. Passed through oral tradition, they not only inspired resistance to invaders but also affirmed the people's connection to their mythic and moral heritage."
+MAG_kurita_tarabusaw_pah_legends_desc:0 "Ancient Maguindanaon folklore tells of monstrous creatures—Kurita, Tarabusaw, and the bird Pah—who terrorized the land. These tales of heroism, resistance, and divine aid reflect the community's values of bravery and spiritual fortitude. Passed through oral tradition, they not only inspired resistance to invaders but also affirmed the people's connection to their mythic and moral heritage."
 
-MAG_sharif_kabungsuwan_legacy:0 "Sharif Kabungsuwan’s Legacy"
+MAG_sharif_kabungsuwan_legacy:0 "Sharif Kabungsuwan's Legacy"
 MAG_sharif_kabungsuwan_legacy_desc:0 "Sharif Kabungsuwan, an Arab-Malay noble from Johor, arrived in Mindanao and played a pivotal role in the Islamization of the region. Through marriage and diplomacy, he laid the foundations of the Maguindanao Sultanate. His lineage became central to the legitimacy of rulers in the centuries that followed, intertwining religious authority with political governance."
 
 MAG_luwaran_customary_law:0 "Luwaran: Customary Islamic Law"
 MAG_luwaran_customary_law_desc:0 "The Luwaran was a legal code that blended Islamic Sharia with local adat, or customary laws, to form a uniquely Maguindanaon system of justice. It covered matters such as marriage, inheritance, and dispute resolution, and was enforced by local datus and sultans. The Luwaran institutionalized governance and contributed to the administrative sophistication of the Sultanate, encouraging legal consistency across its territories."
 
 MAG_kampilan_warrior_tradition:0 "Kampilan Warrior Tradition"
-MAG_kampilan_warrior_tradition_desc:0 "The kampilan, a long, fearsome sword with a bifurcated tip, was emblematic of the Maguindanaon warrior. These warriors were renowned for their martial prowess, often celebrated in sagayan war dances and oral poetry. The kampilan was more than a weapon—it was a symbol of honor, resistance, and the martial traditions of Mindanao’s defenders."
+MAG_kampilan_warrior_tradition_desc:0 "The kampilan, a long, fearsome sword with a bifurcated tip, was emblematic of the Maguindanaon warrior. These warriors were renowned for their martial prowess, often celebrated in sagayan war dances and oral poetry. The kampilan was more than a weapon—it was a symbol of honor, resistance, and the martial traditions of Mindanao's defenders."
 
 MAG_kulintang_cultural_harmony:0 "Kulintang Cultural Harmony"
-MAG_kulintang_cultural_harmony_desc:0 "The kulintang gong ensemble represents the height of Maguindanaon musical culture, rooted in ancient traditions shared across Maritime Southeast Asia. Music was central to social rituals, diplomacy, and cultural exchange, often serving as a medium of communication among various Moro polities. This artistic legacy reinforced unity, pride, and the refinement of Maguindanao’s cultural identity."
+MAG_kulintang_cultural_harmony_desc:0 "The kulintang gong ensemble represents the height of Maguindanaon musical culture, rooted in ancient traditions shared across Maritime Southeast Asia. Music was central to social rituals, diplomacy, and cultural exchange, often serving as a medium of communication among various Moro polities. This artistic legacy reinforced unity, pride, and the refinement of Maguindanao's cultural identity."
 
 MAG_pulangi_trade_networks:0 "Pulangi Trade Networks"
 MAG_pulangi_trade_networks_desc:0 "The Pulangi River was the lifeblood of the Maguindanao Sultanate, enabling the movement of goods, people, and ideas across inland Mindanao. Through it, the Sultanate connected with regional trading partners, from the Sulu archipelago to the Malay world. These trade networks not only brought economic wealth but also facilitated the spread of Islam, technologies, and diplomacy."
@@ -251,8 +251,8 @@ SUB_ideas_bonus:0 "Guardians of the Sea and Spirit"
 
 # SUB Ideas
 
-SUB_widows_son_heroism:0 "Widow’s Son Heroism"
-SUB_widows_son_heroism_desc:0 "According to Subanon legend, the Widow’s Son was a young hero who sacrificed himself to protect his village from raiders, embodying courage and selflessness. This tale inspires warriors to defend their kin fiercely while maintaining the compassion and unity necessary for survival. The story strengthens communal bonds and morale in times of war and peace alike."
+SUB_widows_son_heroism:0 "Widow's Son Heroism"
+SUB_widows_son_heroism_desc:0 "According to Subanon legend, the Widow's Son was a young hero who sacrificed himself to protect his village from raiders, embodying courage and selflessness. This tale inspires warriors to defend their kin fiercely while maintaining the compassion and unity necessary for survival. The story strengthens communal bonds and morale in times of war and peace alike."
 
 SUB_diata_spirit_harmony:0 "Diata Spirit Harmony"
 SUB_diata_spirit_harmony_desc:0 "The Diata are revered ancestral spirits who watch over the Subanon people, maintaining harmony between the physical and spiritual worlds. Rituals honoring the Diata reduce internal strife and promote tolerance toward other faiths, fostering social cohesion in a diverse and often contested region. These ceremonies are central to the Subanon worldview and community stability."
@@ -270,7 +270,7 @@ SUB_kalibugan_trade_paths:0 "Kalibugan Trade Paths"
 SUB_kalibugan_trade_paths_desc:0 "Kalibugan refers to the network of trade routes linking Subanon settlements with neighboring peoples, facilitating the exchange of goods, ideas, and culture. These paths were crucial for economic resilience and political alliances in a fragmented and often hostile environment. Control over trade enriched the Subanon and helped preserve their autonomy."
 
 SUB_thunderlore_ancestry:0 "Thunderlore Ancestry"
-SUB_thunderlore_ancestry_desc:0 "The Thunderlore recounts the mythic origins and heroic deeds of Subanon ancestors who tamed storms and defended their lands against invaders. These stories instill pride and legitimacy, reinforcing the community’s collective memory and identity. Passed down through generations, Thunderlore remains a powerful source of inspiration and cohesion."
+SUB_thunderlore_ancestry_desc:0 "The Thunderlore recounts the mythic origins and heroic deeds of Subanon ancestors who tamed storms and defended their lands against invaders. These stories instill pride and legitimacy, reinforcing the community's collective memory and identity. Passed down through generations, Thunderlore remains a powerful source of inspiration and cohesion."
 
 TAY_ideas:0 "Taytay Ideas"
 TAY_ideas_desc:0 "From the fortified coasts of Palawan, the people of Taytay endured invasions, rode shifting tides of diplomacy, and thrived through sea-based trade and spiritual harmony. With roots deep in Tagbanua animism and Cuyonon nobility, Taytay's tale is one of defense, resilience, and connection across the Sulu Sea."
@@ -285,7 +285,7 @@ TAY_tagbanua_and_cuyonon_spirit_kinship:0 "Tagbanua and Cuyonon Spirit Kinship"
 TAY_tagbanua_and_cuyonon_spirit_kinship_desc:0 "The upland Tagbanua, stewards of sacred groves, and the lowland Cuyonon, seafarers and rulers, formed a unique cultural equilibrium in Taytay. Shared beliefs in ancestral spirits and mutual respect bound the region together."
 
 TAY_sea_tribute_and_pearl_trade:0 "Sea Tribute and Pearl Trade"
-TAY_sea_tribute_and_pearl_trade_desc:0 "Tributary networks brought wax, pearls, and marine goods to Taytay’s shores. From Sulu merchants to Visayan traders, Taytay flourished as a node in the lucrative maritime economy of the Sulu Sea."
+TAY_sea_tribute_and_pearl_trade_desc:0 "Tributary networks brought wax, pearls, and marine goods to Taytay's shores. From Sulu merchants to Visayan traders, Taytay flourished as a node in the lucrative maritime economy of the Sulu Sea."
 
 TAY_march_of_datu_esteban:0 "March of Datu Esteban"
 TAY_march_of_datu_esteban_desc:0 "Datu Esteban, both a warrior and negotiator, united Taytay under a bold vision. He resisted Moro incursions and negotiated with the Spanish, balancing sovereignty and diplomacy in times of great flux."
@@ -294,7 +294,7 @@ TAY_bridging_visayas_and_sulu:0 "Bridging Visayas and Sulu"
 TAY_bridging_visayas_and_sulu_desc:0 "Geographically poised between two cultural giants, Taytay acted as an emissary — and buffer — between Visayan polities and the Sultanate of Sulu. This position earned it both danger and deep regional relevance."
 
 TAY_baybayin_and_epic_oral_traditions:0 "Baybayin and Epic Oral Traditions"
-TAY_baybayin_and_epic_oral_traditions_desc:0 "Literacy in baybayin script and oral epics preserved the cultural memory of Taytay’s people. These traditions cultivated wisdom, law, and ancestral pride across generations."
+TAY_baybayin_and_epic_oral_traditions_desc:0 "Literacy in baybayin script and oral epics preserved the cultural memory of Taytay's people. These traditions cultivated wisdom, law, and ancestral pride across generations."
 
 TAY_island_adaptability_and_resilience:0 "Island Adaptability and Resilience"
 TAY_island_adaptability_and_resilience_desc:0 "Islanders of Taytay developed hardy maritime habits — from shipbuilding to weather prediction. Their adaptability in a fragmented and storm-tossed archipelago became their greatest strength."
@@ -309,13 +309,13 @@ PGS_salapan_and_salt_guilds:0 "Salapan and Salt Guilds"
 PGS_salapan_and_salt_guilds_desc:0 "The salapan—salt-producing guilds—were the economic lifeblood of Caboloan. By mastering the tides and drying techniques, they supplied local and regional markets, forging wealth and civic identity. These guilds organized labor, ensured fair trade, and became powerful cultural institutions."
 
 PGS_lingayen_thalassocracy:0 "Lingayen Thalassocracy"
-PGS_lingayen_thalassocracy_desc:0 "Caboloan’s harbors, especially in Lingayen and Bolinao, were home to ships that reached Japan and China. Known as a ‘thalassocracy of the northern gulf,’ Caboloan wielded soft maritime power and maintained a vital position in regional trade diplomacy."
+PGS_lingayen_thalassocracy_desc:0 "Caboloan's harbors, especially in Lingayen and Bolinao, were home to ships that reached Japan and China. Known as a ‘thalassocracy of the northern gulf,' Caboloan wielded soft maritime power and maintained a vital position in regional trade diplomacy."
 
 PGS_kaboloan_iron_blade_houses:0 "Kaboloan Iron Blade Houses"
 PGS_kaboloan_iron_blade_houses_desc:0 "Ironworking houses—often hereditary—crafted blades for warfare and prestige. The elite *bagani* warrior class carried finely worked iron swords, a symbol of personal valor and clan authority. In times of crisis, these houses armed the populace to defend salt towns and shrines alike."
 
 PGS_wang_dom_and_middle_kingdom_links:0 "Wangdom and Middle Kingdom Links"
-PGS_wang_dom_and_middle_kingdom_links_desc:0 "Caboloan sent tribute and envoys to the Ming Dynasty, and Chinese sources refer to its ruler as a ‘wang’—king. These connections brought luxury goods, diplomatic prestige, and an early adoption of ideas through cultural osmosis. It was a kingdom known in distant halls of power."
+PGS_wang_dom_and_middle_kingdom_links_desc:0 "Caboloan sent tribute and envoys to the Ming Dynasty, and Chinese sources refer to its ruler as a ‘wang'—king. These connections brought luxury goods, diplomatic prestige, and an early adoption of ideas through cultural osmosis. It was a kingdom known in distant halls of power."
 
 PGS_anitohan_spirit_veneration:0 "Anitohan Spirit Veneration"
 PGS_anitohan_spirit_veneration_desc:0 "Caboloan spiritual practice revered the *anito*—spirit-beings of ancestors, forests, seas, and stars. Rituals sought harmony with nature and social balance. Priests and shamans mediated the world of the seen and unseen, ensuring spiritual legitimacy in governance."
@@ -357,24 +357,24 @@ MSB_ranao_lake_defense:0 "Defenders of Lake Ranao"
 MSB_ranao_lake_defense_desc:0 "Lake Lanao, the spiritual and geographical heart of Maranao land, served as both sanctuary and fortress. The people of Lanao leveraged the terrain—its valleys, waters, and highlands—to repel Spanish campaigns and later American advances. Through guerrilla tactics and fortified settlements, they maintained their independence and safeguarded their cultural core."
 
 MSB_okir_artisan_networks:0 "Okir Artisan Networks"
-MSB_okir_artisan_networks_desc:0 "Okir is the Maranao’s distinctive visual language—elaborate motifs carved into wood, metal, and textiles that reflect ancestral myths, social rank, and spiritual values. Artisans formed elite guilds, and their works were traded and gifted across Mindanao and the Sulu archipelago. These networks fostered both cultural identity and economic vitality through craftsmanship and symbolic diplomacy."
+MSB_okir_artisan_networks_desc:0 "Okir is the Maranao's distinctive visual language—elaborate motifs carved into wood, metal, and textiles that reflect ancestral myths, social rank, and spiritual values. Artisans formed elite guilds, and their works were traded and gifted across Mindanao and the Sulu archipelago. These networks fostered both cultural identity and economic vitality through craftsmanship and symbolic diplomacy."
 
 MSB_ambition:0 "Sovereignty of the Lake Kingdom"
 MSB_ambition_desc:0 "To the Maranao, sovereignty was inseparable from identity. The preservation of their confederation, customs, and control over Lake Lanao is not merely political—it is sacred. As guardians of their lake kingdom, they seek to restore and uphold their ancestral domain, resisting domination while advancing their unique vision of Islamic and indigenous harmony."
 
 SUL_ideas:0 "Sulu Ideas"
-SUL_ideas_desc:0 "The Sulu Sultanate, rooted in a legacy of Islamic statecraft and maritime prowess, emerged as one of Southeast Asia’s most influential thalassocracies. Strategically positioned between Borneo and Mindanao, it capitalized on inter-island trade, seaborne diplomacy, and a robust warrior culture. Its power lay not only in ships and swords, but also in cultural cohesion and the spiritual authority of its sultans."
+SUL_ideas_desc:0 "The Sulu Sultanate, rooted in a legacy of Islamic statecraft and maritime prowess, emerged as one of Southeast Asia's most influential thalassocracies. Strategically positioned between Borneo and Mindanao, it capitalized on inter-island trade, seaborne diplomacy, and a robust warrior culture. Its power lay not only in ships and swords, but also in cultural cohesion and the spiritual authority of its sultans."
 
 # SUL Ideas Start
 SUL_ideas_start:0 "Masters of the Southern Seas"
 SUL_ideas_start_desc:0 "From the coasts of Jolo to the shores of Mindanao, the Sultanate of Sulu has long ruled the southern seas. Harnessing ancient sea routes, they command commerce, defend their waters from foreign incursions, and extend their influence far beyond their islands."
 
 SUL_ideas_bonus:0 "Sailors, Warriors, and Diplomats"
-SUL_ideas_bonus_desc:0 "Our strength lies in a unique blend of sea-borne mobility, fierce land traditions, and deft negotiation. The legacy of our sultans, warriors, and merchants guides us in shaping the region’s destiny."
+SUL_ideas_bonus_desc:0 "Our strength lies in a unique blend of sea-borne mobility, fierce land traditions, and deft negotiation. The legacy of our sultans, warriors, and merchants guides us in shaping the region's destiny."
 
 # SUL Ideas
 SUL_tausug_mercenaries:0 "Tausug Mercenaries"
-SUL_tausug_mercenaries_desc:0 "The Tausug, known as 'People of the Current,' possess a proud warrior tradition and have long served as the Sultanate’s elite fighting force. Revered across the archipelago for their fearlessness and loyalty, they were frequently hired as mercenaries in Mindanao and Borneo. Their presence not only strengthens Sulu's army but enhances its prestige among allies and rivals alike."
+SUL_tausug_mercenaries_desc:0 "The Tausug, known as 'People of the Current,' possess a proud warrior tradition and have long served as the Sultanate's elite fighting force. Revered across the archipelago for their fearlessness and loyalty, they were frequently hired as mercenaries in Mindanao and Borneo. Their presence not only strengthens Sulu's army but enhances its prestige among allies and rivals alike."
 
 SUL_zamboanga_maritime_dominance:0 "Zamboanga Maritime Dominance"
 SUL_zamboanga_maritime_dominance_desc:0 "Securing Zamboanga gave the Sultanate control over one of the most important naval corridors in Southeast Asia, sitting astride routes connecting the Sulu Sea, the Moro Gulf, and the Celebes Sea. This strategic dominance enabled the sultanate to tax foreign traders, deploy patrol fleets, and deter Spanish and other European intrusions into its sphere of influence."
@@ -383,13 +383,13 @@ SUL_pirate_havens:0 "Pirate Havens"
 SUL_pirate_havens_desc:0 "Rather than suppress piracy, the Sultanate harnessed it as a tool of statecraft and wealth. Pirate enclaves such as Parang and Tawi-Tawi provided sanctuary to raiders who shared their spoils with the sultans. These sea raiders disrupted colonial shipping, supplemented state revenue, and sustained a large pool of experienced sailors who could be mobilized in times of war."
 
 SUL_datu_trading_licenses:0 "Datu Trading Licenses"
-SUL_datu_trading_licenses_desc:0 "The Datus, powerful local lords within the Sultanate’s hierarchical structure, played a crucial role in maintaining Sulu’s economic engine. By granting licenses to trusted merchants and levying customs at key ports, they facilitated trade with Chinese, Malay, and Arab merchants. These decentralized trading rights ensured a steady flow of wealth while strengthening the ties between regional power brokers and the Sultan’s court."
+SUL_datu_trading_licenses_desc:0 "The Datus, powerful local lords within the Sultanate's hierarchical structure, played a crucial role in maintaining Sulu's economic engine. By granting licenses to trusted merchants and levying customs at key ports, they facilitated trade with Chinese, Malay, and Arab merchants. These decentralized trading rights ensured a steady flow of wealth while strengthening the ties between regional power brokers and the Sultan's court."
 
 SUL_moro_cultural_links:0 "Moro Cultural Links"
 SUL_moro_cultural_links_desc:0 "The spread of Islam across Mindanao and the archipelago fostered a shared Moro identity among diverse ethnic groups such as the Tausug, Maranao, and Maguindanao. This common faith served as both a spiritual bond and a political tool, enabling Sulu to mediate disputes, rally support against colonizers, and legitimize its rule over disparate communities through religious authority and cultural familiarity."
 
 SUL_subanon_migrations:0 "Subanon Migrations"
-SUL_subanon_migrations_desc:0 "Through trade, diplomacy, and subtle coercion, the Sulu Sultanate encouraged the movement of Subanon and other inland peoples into frontier areas under its influence. These migrations brought agricultural labor, new settlements, and strengthened the Sultan’s presence in inland Mindanao. By integrating these groups under the Sultan’s banner, Sulu expanded its development base and softened the cultural divide between coast and upland."
+SUL_subanon_migrations_desc:0 "Through trade, diplomacy, and subtle coercion, the Sulu Sultanate encouraged the movement of Subanon and other inland peoples into frontier areas under its influence. These migrations brought agricultural labor, new settlements, and strengthened the Sultan's presence in inland Mindanao. By integrating these groups under the Sultan's banner, Sulu expanded its development base and softened the cultural divide between coast and upland."
 
 SUL_chiefdom_diplomacy:0 "Chiefdom Diplomacy"
 SUL_chiefdom_diplomacy_desc:0 "The Sultanate maintained a complex network of tributary relations and alliance treaties with nearby chiefdoms and coastal communities. Through marriage alliances, ritual gifts, and mutual defense pacts, the Sultanate ensured peace among its vassals and countered foreign threats diplomatically. These relationships often proved more durable and less costly than military conquest, enabling Sulu to expand its influence without overextending its resources."
@@ -413,13 +413,13 @@ HOM_mangyan_script_and_epics:0 "Mangyan Script and Epics"
 HOM_mangyan_script_and_epics_desc:0 "In the forested uplands of Mindoro, the Mangyan peoples developed their own syllabic writing—inscribed on bamboo with knives and passed from elder to youth. Their ambahan poetry, rich with metaphor and rhythm, transmitted ancestral wisdom, social values, and encoded instructions for survival in the wild. These traditions formed a cultural lineage that endured despite waves of outside influence."
 
 HOM_balangay_maritime_networks:0 "Balangay Maritime Networks"
-HOM_balangay_maritime_networks_desc:0 "Seafaring communities along Mindoro’s coasts crafted balangay boats—planked vessels fastened with dowels, not nails—perfect for navigating island waters. These craft connected Mayi to Panay, Borneo, and southern Luzon, enabling not just commerce, but the circulation of people, ideas, and technologies. Even in times of crisis, these routes sustained the movement and survival of local populations."
+HOM_balangay_maritime_networks_desc:0 "Seafaring communities along Mindoro's coasts crafted balangay boats—planked vessels fastened with dowels, not nails—perfect for navigating island waters. These craft connected Mayi to Panay, Borneo, and southern Luzon, enabling not just commerce, but the circulation of people, ideas, and technologies. Even in times of crisis, these routes sustained the movement and survival of local populations."
 
 HOM_tagbuana_councils:0 "Tagbuana Councils"
 HOM_tagbuana_councils_desc:0 "Rather than centralized monarchies, the governance of Mayi often relied on communal rule through elder assemblies or the authority of babaylan spiritual leaders. These Tagbuana councils prioritized consensus, ancestral precedent, and the well-being of the village. This decentralized structure allowed for local autonomy, social harmony, and resistance against imposed hierarchies from outside powers."
 
 HOM_wax_and_medicine_exports:0 "Wax and Medicinal Exports"
-HOM_wax_and_medicine_exports_desc:0 "The mountains and forests of Mindoro held rich stores of beeswax, tree resins, rare herbs, and medicinal roots long valued in Asian apothecaries. These resources were not only bartered with foreign merchants but also central to local healing practices and rituals. As demand for these natural exports grew, Mindoro became a quiet yet vital node in the archipelago’s commercial web."
+HOM_wax_and_medicine_exports_desc:0 "The mountains and forests of Mindoro held rich stores of beeswax, tree resins, rare herbs, and medicinal roots long valued in Asian apothecaries. These resources were not only bartered with foreign merchants but also central to local healing practices and rituals. As demand for these natural exports grew, Mindoro became a quiet yet vital node in the archipelago's commercial web."
 
 HOM_ritual_and_spiritual_autonomy:0 "Ritual and Spiritual Autonomy"
 HOM_ritual_and_spiritual_autonomy_desc:0 "Long after other regions fell under foreign religious influence, the highlands of Mayi maintained deeply rooted spiritual systems centered on ancestor worship, nature spirits, and the guidance of the babaylan. These priestesses and shamans performed sacred rites that structured village life and resisted conversion through cultural pride and oral preservation. The rituals, passed across generations, helped define a distinct and enduring identity."
@@ -428,7 +428,7 @@ HOM_pulod_highland_resilience:0 "Pulod Highland Resilience"
 HOM_pulod_highland_resilience_desc:0 "The pulod, or rugged interior highlands of Mindoro, served as natural fortresses for clans fleeing war, colonial incursion, or ecological hardship. The dense forests, steep ridges, and narrow passes gave rise to a guerrilla-style resilience that frustrated invaders for centuries. In these remote sanctuaries, culture flourished away from foreign eyes, and the people of Mayi learned to survive by becoming one with their land."
 
 VKL_ideas:0 "Tandaya Ideas"
-VKL_ideas_desc:0 "Known to the early Spaniards as 'Tandaya,' the island of Leyte was home to numerous Waray-Waray settlements, organized under independent datus and regional alliances. Rooted in rugged terrain and coastal trade, Leyte’s precolonial history is rich in oral epics, ancestral reverence, and warrior spirit. From the legendary Kandaya to the fierce resistance of the Waray people, the region's cultural resilience has shaped a proud maritime and martial heritage."
+VKL_ideas_desc:0 "Known to the early Spaniards as 'Tandaya,' the island of Leyte was home to numerous Waray-Waray settlements, organized under independent datus and regional alliances. Rooted in rugged terrain and coastal trade, Leyte's precolonial history is rich in oral epics, ancestral reverence, and warrior spirit. From the legendary Kandaya to the fierce resistance of the Waray people, the region's cultural resilience has shaped a proud maritime and martial heritage."
 
 # VKL Ideas Start
 VKL_ideas_start:0 "Island of Kandaya"
@@ -449,10 +449,10 @@ VKL_binukot_and_liday:0 "Binukot and Liday Poetics"
 VKL_binukot_and_liday_desc:0 "Binukot women in Leyte and surrounding Visayas were often the keepers of oral tradition, reciting liday—songs of love, legend, and law. These poetic forms passed ancestral memory from one generation to the next, reinforcing social values and the sacredness of language in Waray culture."
 
 VKL_bangka_warfare_and_trade:0 "Bangka Warfare and Trade"
-VKL_bangka_warfare_and_trade_desc:0 "Light, agile bangka boats plied the waters of Leyte, serving both as vessels of commerce and raiding. Waray seafarers were adept in naval tactics, moving between coastal settlements with ease. Their mobility and craftsmanship underpinned Tandaya’s autonomy and connectivity."
+VKL_bangka_warfare_and_trade_desc:0 "Light, agile bangka boats plied the waters of Leyte, serving both as vessels of commerce and raiding. Waray seafarers were adept in naval tactics, moving between coastal settlements with ease. Their mobility and craftsmanship underpinned Tandaya's autonomy and connectivity."
 
 VKL_waray_resistance_tradition:0 "Waray Resistance Tradition"
-VKL_waray_resistance_tradition_desc:0 "Waray-Waray identity is steeped in a legacy of resilience. From resisting inter-island rivals to defying foreign incursions, Leyte’s defenders earned renown for their ferocity in war and unyielding defense of homeland. Even Spanish chroniclers noted their tenacity and pride."
+VKL_waray_resistance_tradition_desc:0 "Waray-Waray identity is steeped in a legacy of resilience. From resisting inter-island rivals to defying foreign incursions, Leyte's defenders earned renown for their ferocity in war and unyielding defense of homeland. Even Spanish chroniclers noted their tenacity and pride."
 
 VKL_league_of_visayan_polities:0 "League of Visayan Polities"
 VKL_league_of_visayan_polities_desc:0 "Though not a centralized kingdom, Tandaya maintained kinship and alliance with neighboring islands such as Samar, Cebu, and Panay. These loosely bound leagues enabled information exchange, trade, and military support, fostering a shared Visayan identity across regional datuships."
@@ -473,7 +473,7 @@ IBO_asog_volcanic_fertility:0 "Asog Volcanic Fertility"
 IBO_asog_volcanic_fertility_desc:0 "Volcanic eruptions devastated — but also enriched — the land. The people of Ibalon learned to harness this cycle, developing lush farmlands that fed their growing settlements."
 
 IBO_oragon_martial_pride:0 "Oragon Martial Pride"
-IBO_oragon_martial_pride_desc:0 "To be *Oragon* was to be brave, proud, and masterful. From duels to warfare, Ibalon’s warriors held their own through courage, dexterity, and honor."
+IBO_oragon_martial_pride_desc:0 "To be *Oragon* was to be brave, proud, and masterful. From duels to warfare, Ibalon's warriors held their own through courage, dexterity, and honor."
 
 IBO_daragang_magayon_cult:0 "Daragang Magayon Cult"
 IBO_daragang_magayon_cult_desc:0 "The beautiful maiden Magayon, buried beneath the Mayon volcano, became a symbol of sacrifice and reverence. Her story binds faith, beauty, and fate in the hearts of the Bicolanos."
@@ -488,7 +488,7 @@ IBO_katagbanay_forest_alliances:0 "Katagbanay Forest Alliances"
 IBO_katagbanay_forest_alliances_desc:0 "Upland and lowland communities maintained *katagbanay* (kinship-based alliances), offering protection and aid during raids or volcanic disasters. These pacts ensured communal resilience."
 
 BTU_ideas:0 "Butuan Ideas"
-BTU_ideas_desc:0 "Flourishing along the Agusan River delta, the Kingdom of Butuan was one of Southeast Asia’s most dynamic thalassocratic polities. Known for its expert seafaring, diplomatic reach, and dazzling goldwork, it stood as an early Philippine gateway to the wider Asian world. From emissaries in the Chinese court to intricate balangay fleets, Butuan blended maritime strength with spiritual depth and artistic brilliance. Though long gone, the golden echoes of this kingdom continue to gleam in Philippine history."
+BTU_ideas_desc:0 "Flourishing along the Agusan River delta, the Kingdom of Butuan was one of Southeast Asia's most dynamic thalassocratic polities. Known for its expert seafaring, diplomatic reach, and dazzling goldwork, it stood as an early Philippine gateway to the wider Asian world. From emissaries in the Chinese court to intricate balangay fleets, Butuan blended maritime strength with spiritual depth and artistic brilliance. Though long gone, the golden echoes of this kingdom continue to gleam in Philippine history."
 
 # BTU Ideas Start
 BTU_ideas_start:0 "Thalassocracy of the Agusan"
@@ -497,7 +497,7 @@ BTU_ideas_bonus:0 "Legacy of the Golden Kingdom"
 # BTU Ideas
 
 BTU_balangay_shipbuilding:0 "Balangay Shipbuilding Tradition"
-BTU_balangay_shipbuilding_desc:0 "The balangay, Butuan’s iconic seafaring vessel, was the technological heart of its maritime power. Built using edge-peg planks without nails, these boats enabled deep-ocean trade and regional influence, carrying goods and emissaries across the archipelago and beyond. Archaeological remains affirm Butuan’s shipwrights as some of the most advanced in Southeast Asia."
+BTU_balangay_shipbuilding_desc:0 "The balangay, Butuan's iconic seafaring vessel, was the technological heart of its maritime power. Built using edge-peg planks without nails, these boats enabled deep-ocean trade and regional influence, carrying goods and emissaries across the archipelago and beyond. Archaeological remains affirm Butuan's shipwrights as some of the most advanced in Southeast Asia."
 
 BTU_song_dynasty_diplomacy:0 "Diplomacy with the Song Dynasty"
 BTU_song_dynasty_diplomacy_desc:0 "In 1001 CE, Butuan sent tribute to the Song Emperor Zhenzong—an extraordinary act from an island polity. This recognized Butuan as a legitimate trading partner in the eyes of the Chinese imperial court. It cemented diplomatic prestige, facilitating access to luxury goods, political favor, and strategic ties with East Asia."
@@ -506,13 +506,13 @@ BTU_goldsmiths_of_butuan:0 "Goldsmiths of Butuan"
 BTU_goldsmiths_of_butuan_desc:0 "Butuan was synonymous with gold. Its artisans mastered techniques like granulation and filigree, producing funeral masks, jewelry, and sacred regalia. Their work reflects a high level of artistry, backed by vast gold reserves mined from nearby riverbeds, making Butuan a regional center of prestige and wealth."
 
 BTU_agusan_spirituality:0 "Agusan Syncretic Spirituality"
-BTU_agusan_spirituality_desc:0 "The religious landscape of Butuan was a confluence of indigenous anito worship, Hindu-Buddhist symbolism, and maritime ritual. Sculptures like the Golden Tara and naga motifs reveal a vibrant spiritual syncretism that elevated local kingship and reinforced sacred authority. This pluralism anchored Butuan’s society in cosmic legitimacy."
+BTU_agusan_spirituality_desc:0 "The religious landscape of Butuan was a confluence of indigenous anito worship, Hindu-Buddhist symbolism, and maritime ritual. Sculptures like the Golden Tara and naga motifs reveal a vibrant spiritual syncretism that elevated local kingship and reinforced sacred authority. This pluralism anchored Butuan's society in cosmic legitimacy."
 
 BTU_kanduli_rituals:0 "Kanduli Ritual Feasts"
 BTU_kanduli_rituals_desc:0 "Kanduli were ritual feasts to honor ancestors and natural spirits. They symbolized social unity, spiritual devotion, and the cyclical rhythms of life tied to agriculture and the sea. These feasts helped reinforce legitimacy, maintain social order, and preserve oral traditions passed down through generations."
 
 BTU_maritime_pagan_elites:0 "Maritime Pagan Elites"
-BTU_maritime_pagan_elites_desc:0 "Butuan’s nobility derived authority from both spiritual and commercial sources, serving as priests, merchants, and naval commanders. Their education and cosmopolitanism allowed them to engage with foreign powers while preserving indigenous identity. These elites fostered continuity and adaptive leadership, ensuring Butuan’s survival through changing regional tides."
+BTU_maritime_pagan_elites_desc:0 "Butuan's nobility derived authority from both spiritual and commercial sources, serving as priests, merchants, and naval commanders. Their education and cosmopolitanism allowed them to engage with foreign powers while preserving indigenous identity. These elites fostered continuity and adaptive leadership, ensuring Butuan's survival through changing regional tides."
 
 BTU_thalassocratic_legacy:0 "Thalassocratic Legacy"
 BTU_thalassocratic_legacy_desc:0 "As a thalassocracy, Butuan's strength came from the sea—from the bustling ports, expansive trade routes, and skilled sailors who brought the world to its shores. Even after its political eclipse, this legacy of internationalism and cultural dynamism left a powerful mark on Visayan and Philippine identity."

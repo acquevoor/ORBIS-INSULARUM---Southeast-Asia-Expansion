@@ -1,6 +1,6 @@
 #Country Name: Please see filename.
 
-graphical_culture = africangfx
+graphical_culture = southamericagfx
 
 color = { 226 236 15 }
 
@@ -39,6 +39,12 @@ monarch_names = {
 	"Sirao Uwu Zihono #0" = 20
 	"Lulu Hada Ana'a #0" = 20
 	"Daeli #0" = 20
+
+	"Jalana #0" = -1
+	"Lima #0" = -1
+	"Namua #0" = -1
+	"Suhurufulu #0" = -1
+	"Oyo #0" = -1
 }
 
 leader_names = { 

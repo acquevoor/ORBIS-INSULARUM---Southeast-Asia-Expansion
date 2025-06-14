@@ -1532,7 +1532,7 @@ english_monarchy_legacy = {
 		global_unrest = -1
 		global_autonomy = -0.05
 		max_absolutism = -30
-	}english_monarchy
+	}
 
 	conditional = {
 		allow = {
@@ -1570,7 +1570,7 @@ adat_minangkabau_legacy = {
 		global_unrest = -1
 		global_autonomy = -0.05
 		max_absolutism = -30
-	}adat_minangkabau
+	}
 
 	conditional = {
 		allow = {

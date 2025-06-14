@@ -46,10 +46,16 @@ monarch_names = {
 	"Yahya #0" = 10
 	"Sayyid Ali #0" = 10
 	"Sayyid Ibrahim #0" = 10
-	"Sultan Abdul Rahman Muazzam Syah Sultan Husain dual claim #0" = 10
+	"Sultan Abdul Rahman Muazzam Syah #0" = 10
 	"Daeng Ibrahim Tumenggung Johor #0" = 10
 	"Abu Bakar #0" = 10
 	"Ibrahim #0" = 10
+
+	"Puan Nora #0" = -1
+	"Puan Zanariah #0" = -1
+	"Zarith Sofiah #0" = -1
+	"Che' Puan Khaleeda #0" = -1
+	"Tun Fatimah #0" = -1
 }
 
 ship_names = {

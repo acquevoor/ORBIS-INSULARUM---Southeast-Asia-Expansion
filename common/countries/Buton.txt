@@ -1,5 +1,5 @@
 #Country Name: Please see filename.
-graphical_culture = africangfx
+graphical_culture = southamericagfx
 color = { 251 84 72 }
 revolutionary_colors = { 8 5 0 }
 historical_idea_groups = { 

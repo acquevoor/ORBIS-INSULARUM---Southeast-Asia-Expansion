@@ -8,6 +8,6 @@ MNG_relationship_gain = {
 }
 
 MNG_relationship_penalty = {
-    opinion = -50
+    opinion = -100
     yearly_decay = 5
 }

@@ -1,26 +1,23 @@
-# Moyobamba
-# 2823 Moyobamba - 5/16/2025 12:37:50 PM 
- 
-add_core = CYA
+# - Moyobamba
+
 owner = CYA
 controller = CYA
-base_tax = 1
-base_production = 1
-base_manpower = 1
-
-trade_goods = tropical_wood
-
 culture = chachapoyan
 religion = inti
 capital = "Moyobamba"
-
+trade_goods = tropical_wood
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
 is_city = yes
+add_core = CYA
+
+
 
 discovered_by = south_american
 discovered_by = andean
 discovered_by = CHM
-
-
 
 
 1472.1.1 = {
@@ -35,36 +32,11 @@ discovered_by = CHM
 	add_core = SPA
 	culture = castillian
 	religion = catholic
-}
-1537.1.1 = {
-	unrest = 8
-}
-1538.1.1 = {
-	unrest = 5
-}
-1541.1.1 = {
-	unrest = 6
-}
-1548.1.1 = {
-	unrest = 0
-}
-1558.8.29 = {
-	add_core = SPA
-}
-1812.1.1 = {
-	revolt = {
-		type = nationalist_rebels
-		size = 2
-	}
-
-	controller = REB
-}
-1813.1.1 = {
-	revolt = {
-		controller = SPA
-	}
-
-}
-
-
-### Modified 5/16/2025 12:37:50 PM ###
+}# The death of Atahualpa
+1537.1.1 = { unrest = 8 } # Fighting breaks out when Almagro seizes Cuzco
+1538.1.1 = { unrest = 5 } # Almagro is defeated & executed
+1541.1.1 = { unrest = 6 } # Pizzaro is assassinated by supporters of Almagro, his brother assumes control
+1548.1.1 = { unrest = 0 } # Gonzalo Pizzaro is also executed & Spain regains control
+1558.8.29 = { add_core = SPA }
+1812.1.1 = { revolt = { type = nationalist_rebels size = 2 } controller = REB }
+1813.1.1 = { revolt = {} controller = SPA }

@@ -1,5 +1,5 @@
 #Country Name: Please see filename.
-graphical_culture = africangfx
+graphical_culture = southamericagfx
 #
 color = { 191 183 162 }
 historical_idea_groups = { 
@@ -29,7 +29,6 @@ monarch_names = {
 	"Tebawo #0" = 10
 	"Melamba #0" = 10
 	"Lakidende #0" = 10
-	"Wekoila #0" = 10
 	"Rebi” #0" = 10
 	"Sorumba #0" = 10
 	"Buburanda #0" = 10
@@ -44,6 +43,11 @@ monarch_names = {
 	"Lamanggu #0" = 10
 	"Sao - Sao #0" = 10
 	"Tekaka #0" = 10
+
+	"Wekoila #0" = -1
+	"Wa Ode Wakelu #0" = -1
+	"Aliyina #0" = -1
+	"Qinang Ray #0" = -1
 }
 ship_names = {
 		"Alima"	"Banawu"	"Banawula"	"Basnapal"	"Bisirimo"	"Borahima"	"Buburanda"	"Bungaharu"	"Bunggasi"	"Bunggulawa"	"Dahlan"			"Duruka"	"Elu"	"Haeba"	"Haribau"			"Harulasa"	"Puo-Puo"	"Heo"	"Imbanahi"	"Imboeri"	"Inato"	"Indumo"	"Ipapa"			"Kalenggo"	"Konggoasa"	"Laamala"	"Laasamana"	"Lababa"	"Labaheo"	"Labakala"			"Ladae"	"Laduma"	"Lagarai"			"Laharabi"	"Lahasa"	"Laisapa"	"Lakarama"	"Lakidende"	"Lakonunggu"	"Laliasa"	"Lamaliga"	"Lamarota"	"Lamasembo"				"Lambalima"			"Lambili"	"Lamorota"	"Landebawo"	"Langgomia"	"Langgonai"	"Lapabali"	"Lapabuka"	"Lapadi"	"Lapae"			"Lapagari"	"Lapaleadu"	"Lapanggili"	"Lapondondo"	"Laporanda"			"Laposudo"	"Laraga"	"Laremba"	"Larumbalangi"				"Larumbesi"	"Lasabi"	"Lasandara"	"Lasarima"	"Lasikiri"	"Lasipole"	"Latalambe"	"Latambaga"	"Latamua"						"Latimumu"	"Latomoro"	"Latumaa"	"Latuo"	"Latuwo"	"Laule Wulu"	"Lautani"	"Lelesuwa"	"Liambo"	"Lombo-lombo"	"Longgiri"			"Lowa"	"Maago"	"Maani"	"Madusila"	"Maho"			"Makati"	"Makuasa"	"Malaka"	"Mambulo"	"Mambulu"	"Mandili"				"Mangidi"	"Mannidi"	"Maranai"	"Masigi"	"Mbatono"	"Mburi"	"Mekda"	"Melala"	"Moita"			"Mokora"	"Mondawa"			"Monggeko"	"Ndabio"	"Ndaulu"	"Noabio"	"Nowehi"	"Oheo"	"Onggabo"	"Pagala"	"Pakandeate"	"Paluwu"	"Panawula"			"Pangaibali"			"Parakai"	"Parewa"	"Pasaeno"	"Pasaeno"	"Pasaeno"	"Pasoro"	"Polonui"	"Polurui"				"Pombili"	"Porosi"	"Purindoopaa"	"Puti"	"Puuwatu"	"Puwatu"			"Rakawula"	"Rambetano"	"Rambi"	"Ranu"	"Rebi"				"Rebilarebi"	"Renggaala"	"Rere"	"Rigay"	"Robe"	"Ronga"	"Rundusala"	"Sabara"	"Sabili"	"Sadaoda"	"Saeho"	"Saila"	"Samberano"				"Sandima"	"Sangia Inato"	"Sangia Nibandera"	"Sanuru"	"Sao-sao"	"Saranani"	"Sauala"	"Seiko"	"Sidupa"	"Silondae"				"Silonde"	"Sinapot"	"Singgima"				"Sirundu"	"Soerabaya"	"Soerumba"	"Sonaru"	"Supu"	"Surubaya"				"Surunggila"	"Taewa"	"Tahea"	"Takoko"	"Talaga"	"Talisa"	"Tambera"	"Tamburaka"	"Tanggapili"			"Tanggolowuta"				"Taridala"	"Tarimana"	"Tasahea"	"Tauto"	"Tawulo"	"Tebae"	"Tebawo"	"Tehalu"	"Tekaka"	"Teporambe"	"Tie"	"Tigalu"			"Toarima"	"Tobarasi"			"Tobone"	"Toemia"	"Toemoro"	"Toena"	"Togala"	"Tohamba"	"Tolindoe"	"Tolunggae"			"Tombili"	"Tonde"	"Tongasa"	"Toondu" "Toraha"	"Torohula"	"Tuapemanu"	"Waanggo"	"Watukila"	"Wendeday"	"Wulu Mohitu"
