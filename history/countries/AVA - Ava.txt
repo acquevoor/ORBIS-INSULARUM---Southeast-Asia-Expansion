@@ -7,7 +7,7 @@ capital = 584	# Ava
 
 historical_rival = SUP
 historical_rival = AVA
-historical_rival = PGU
+historical_rival = PEG
 
 # Ava Dynasty
 
