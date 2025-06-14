@@ -1336,51 +1336,6 @@ scottish_monarchy_reform = {
 	}
 }
 
-adat_minangkabau = {
-	icon = "adat_system"
-	allow_normal_conversion = yes
-	potential = {
-		OR = {
-			culture = minag
-			tag = PGS
-		}
-	}
-	valid_for_nation_designer = yes
-	nation_designer_cost = 15
-	nation_designer_trigger = {
-		OR = {
-			culture = minag
-			has_dlc = "Common Sense"
-			has_dlc = "Domination"
-		}
-	}
-	legacy_equivalent = adat_minangkabau_legacy
-	start_territory_to_estates = 0.3
-	modifiers = {
-		governing_capacity = 50
-		legitimacy = 0.5
-		global_unrest = -1
-		max_absolutism = -30
-		nobles_influence_modifier = -0.1
-	}
-	conditional = {
-		allow = {
-			has_dlc = "Common Sense"
-			NOT = { has_dlc = "Domination" }
-		}
-		has_parliament = yes
-	}
-	conditional = {
-		allow = {
-			has_dlc = "Domination"
-		}
-		has_parliament = yes
-		custom_attributes = {
-			adat_minangkabau = yes
-		}
-	}
-}
-
 sharifate_reform = {
 	icon = "caliphate"
 	allow_normal_conversion = yes
@@ -1627,8 +1582,8 @@ zoroastrian_persian_government_reform = {
 			tag = ERS
 			AND = {
 				OR = {
-					has_reform = persian_government_reform
-					have_had_reform = persian_government_reform
+					has_reform = zoroastrian_persian_government_reform
+					have_had_reform = zoroastrian_persian_government_reform
 				}
 				is_playing_custom_nation = yes
 			}
@@ -4505,7 +4460,13 @@ livonian_absolute_monarchy = {
 		}
 	}
 	trigger = {
-		has_unlocked_government_reform = { government_reform = livonian_absolute_monarchy }
+		OR = {
+			AND = {
+				is_playing_custom_nation = yes
+				have_had_reform = livonian_absolute_monarchy
+			}
+			has_unlocked_government_reform = { government_reform = livonian_absolute_monarchy }
+		}
 	}
 	valid_for_nation_designer = yes
 	nation_designer_trigger = {
@@ -4541,7 +4502,13 @@ livonian_enlightened_monarchy = {
 		}
 	}
 	trigger = {
-		has_unlocked_government_reform = { government_reform = livonian_enlightened_monarchy }
+		OR = {
+			AND = {
+				is_playing_custom_nation = yes
+				have_had_reform = livonian_enlightened_monarchy
+			}
+			has_unlocked_government_reform = { government_reform = livonian_enlightened_monarchy }
+		}
 	}
 	valid_for_nation_designer = yes
 	nation_designer_trigger = {
