@@ -10,7 +10,6 @@ capital = 639# Banjar
 	monarch = { 
 		name = "Empu Jatmika"
 		dynasty = "Negara Dipa"
-		primary_culture = javanese
 		adm = 4
 		dip = 3
 		mil = 3
