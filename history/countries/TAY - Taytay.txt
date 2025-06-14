@@ -28,4 +28,3 @@ add_accepted_culture = bornean
 		mil = 3
 	}
 }
-add_government_reform = plutocracy
