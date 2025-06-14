@@ -2020,6 +2020,7 @@ has_any_colonist_idea = {
 		has_idea = asu_colonialism
 		has_idea = adu_expeditionary_sentiment
 		has_idea = ICE_nationalism	#Colonist is in the ambition
+                has_idea = maj_nusa_tenggara
 		
 	}
 }
