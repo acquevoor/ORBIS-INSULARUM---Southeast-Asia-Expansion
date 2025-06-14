@@ -171,11 +171,16 @@ MAJ_ideas = {
         idea_cost = -0.1
     }
 
-    MAJ_caturmarga = {    
-        leader_land_shock = 1
-        tolerance_own = 2
-    }
+#    MAJ_caturmarga = {    
+#        leader_land_shock = 1
+#        tolerance_own = 2
+#    }
 
+	maj_nusa_tenggara = {
+		colonists = 1
+		effect = { remove_temporary_colonist = yes }
+    }
+    
     MAJ_sistem_mandala_politik = {
         liberty_desire = -10
         autonomy_change_time = -0.15
