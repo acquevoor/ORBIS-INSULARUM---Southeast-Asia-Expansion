@@ -83,6 +83,19 @@ monarch_names = {
 	"Puang Bobo #0" = 10
 	"Puang Tandung #0" = 10
 	"Puang Sindoan #0" = 10
+
+	"Puang Sanda Bilik #0" = -1
+	"Puang Allo Anginan #0" = -1
+	"Tumba' Sarambunna #0" = -1
+	"Puang Bo'ngga Ri Napo #0" = -1
+	"Puang Manaek #0" = -1
+	"Puang Bu’tui Pattung #0" = -1
+	"Putri Gowa #0" = -1
+	"Puang Timban #0" = -1
+	"Puang Tumba' Paramak #0" = -1
+	"Petimba Bulaan #0" = -1
+	"Puang Pasuen #0" = -1
+
 }
 
 leader_names = { 
