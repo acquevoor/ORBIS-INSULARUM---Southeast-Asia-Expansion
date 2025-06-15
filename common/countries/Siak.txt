@@ -42,6 +42,9 @@ monarch_names = {
 	"Syarif Ismail Abdul Jalil Jalaluddin #0" = 20
 	"Syarif Kasim Abdul Jalil Saifuddin #0" = 20
 	"Syarif Hasyim Abdul Jalil Saifuddin #0" = 20
+
+	"Tengku Agung Syarifah Latifah #0" = -1  
+	"Tengku Maharatu Syarifah Fadlun #0" = -1  
 }
 
 leader_names = { 
