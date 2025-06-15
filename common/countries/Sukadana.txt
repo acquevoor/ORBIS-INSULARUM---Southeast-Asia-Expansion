@@ -45,7 +45,10 @@ monarch_names = {
 	"Kesuma Negara #0" = 10  
 	"Kesuma Ningrat #0" = 10
 	"Muhammad Sabran #0" = 10  
-	"Gusti Muhammad Saunan #0" = 10 
+	"Gusti Muhammad Saunan #0" = 10
+
+	"Mas Jaintan #0" = -1
+	"Panembahan Air Mala #0" = -1
 }
 
 leader_names = { 
