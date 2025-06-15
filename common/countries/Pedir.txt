@@ -48,6 +48,9 @@ monarch_names = {
 	"Meurah Po Lateh #0" = 10  
 	"Teuku Keumangan Yusuf #0" = 10  
 	"Teuku Keumangan Umar Uleebalang #0" = 10  
+
+	"Putroe Neng #0" = -1
+	"Putri Raja Peureulak #0" = -1
 }
 
 leader_names = {
