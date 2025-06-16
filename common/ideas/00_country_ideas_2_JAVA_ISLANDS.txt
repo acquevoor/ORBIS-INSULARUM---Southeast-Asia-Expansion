@@ -172,6 +172,7 @@ MAJ_ideas = {
 
     MAJ_nusa_tenggara = {    
         colonists = 1
+        effect = { remove_temporary_colonist = yes }
     }
     
     MAJ_sistem_mandala_politik = {
