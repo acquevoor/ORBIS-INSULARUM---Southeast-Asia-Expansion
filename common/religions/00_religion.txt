@@ -1505,7 +1505,6 @@ dharmic = {
 	hinduism = {
 		color = { 0 204 204 }
 		icon = 8
-		can_have_secondary_religion = yes
 		allowed_conversion = {
 			sikhism
 			buddhism
@@ -1572,7 +1571,6 @@ dharmic = {
 	vajrayana = {
 		color = { 204 76 76 }
 		icon = 25
-		can_have_secondary_religion = yes
 		allowed_conversion = {
 			mahayana
 			buddhism #Theravada
@@ -1608,8 +1606,6 @@ dharmic = {
 			vajrayana
 			buddhism #Theravada
 			hinduism
-			#confucianism - no go for me. - Lunarac, too OP and ruins dynamic and effort. Admin wise.
-			#shinto - no go for me. - Lunarac, same thing its too strong morale buff and outta place. Shinto malay? > do it vanilla.
 		}
 		country = {
 			tolerance_heretic = 2
