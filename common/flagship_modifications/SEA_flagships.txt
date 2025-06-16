@@ -27,8 +27,8 @@ SEA_spice_storage = {
         normal_or_historical_nations = yes
     }
 	modifier = {
-        trade_power_in_fleet_modifier = 1.5
-		naval_maintenance_flagship_modifier = 0.95
+        own_coast_naval_combat_bonus = 1.0
+		naval_maintenance_flagship_modifier = 0.85
 	}
     ai_trade_score = {
         factor = 0
