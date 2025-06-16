@@ -30,8 +30,11 @@ monarchy = {
 				feudal_theocracy
 				celestial_empire
 				shogunate
+				barangay_reform#Mod
 				english_monarchy
 				mandala_reform
+				maritime_aristocracy#Mod
+				malayan_plutocracy_reform#Mod
 				adat_minangkabau
 				revolutionary_empire_reform
 				holy_state_reform
@@ -589,12 +592,16 @@ republic = {
 	color = { 65 155 220 }
 	legacy_government = {
 		bureaucratic_despotism
+		warrior_chieftaincy #Mod
+		barangay_oligarchic #Mod
+		highland_chieftaincy  #Mod
 		revolutionary_republic
 		constitutional_republic
 		republican_dictatorship
 		administrative_republic
 		noble_republic
 		oligarchic_republic
+		barangay_oligarchic
 		pirate_republic
 		merchant_republic
 		venetian_merchant_republic
@@ -617,11 +624,15 @@ republic = {
 		prussian_republic
 		united_cantons_legacy
 		turkoman_ottoman_institutions
+	    #
 	}
 	reform_levels = {
 		oligarchy_merchant_class_noble_elite = {
 			reforms = {
 				oligarchy_reform
+				warrior_chieftaincy #Mod
+				barangay_oligarchic #Mod
+				highland_chieftaincy  #Mod
 				signoria_reform
 				merchants_reform
 				venice_merchants_reform

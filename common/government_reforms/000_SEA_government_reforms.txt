@@ -1,28 +1,31 @@
 adat_minangkabau = {
-	icon = "articles_of_agreement"
-	allow_normal_conversion = yes
+	#icon = "articles_of_agreement" 
+	icon = "articles_of_agreement" 
+	allow_normal_conversion = no
+	lock_level_when_selected = yes
+	can_change_primary_culture = no
+	custom_attributes = {
+		locked_government_type = yes
+	}
 	potential = {
 		OR = {
-			culture = minag
+			primary_culture = minag
 		}
 	}
-	valid_for_nation_designer = yes
-	nation_designer_cost = 15
 	nation_designer_trigger = {
 		OR = {
-			culture = minag
+			primary_culture = minag
 			has_dlc = "Common Sense"
 			has_dlc = "Domination"
 		}
 	}
+	valid_for_nation_designer = no
 	start_territory_to_estates = 0.5
 	modifiers = {
-		governing_capacity = 50
-        monthly_reform_progress = 0.1
-        global_unrest = 1
-        global_autonomy = 0.05
+        global_unrest = -1
+        global_autonomy = 0.025
 		max_absolutism = -30
-		nobles_influence_modifier = -0.1
+		nobles_influence_modifier = 0.1
 	}
 	conditional = {
 		allow = {
@@ -36,9 +39,363 @@ adat_minangkabau = {
 			has_dlc = "Domination"
 		}
 		has_parliament = yes
-		custom_attributes = {
-			adat_minangkabau = yes
-		}
 	}
 }
 
+malayan_plutocracy_reform = {
+	icon = arabian_plutocracy_reform
+	allow_normal_conversion = no
+	lock_level_when_selected = yes
+	can_change_primary_culture = no
+	custom_attributes = {
+		locked_government_type = yes
+	}
+	potential = {
+		OR = {
+			culture = melayu
+		}
+	}
+	trigger = {
+		OR = {
+			religion_group = muslim
+		}
+	}
+
+	conditional = {
+        allow = {
+            has_dlc = "Winds of Change"
+        }
+        government_abilities = {
+            arabic_trade_influence
+        }
+    }
+	valid_for_nation_designer = no
+
+	modifiers = {
+		culture_conversion_time = 0.1
+		merchants = 1
+		caravan_power = 0.05
+		num_accepted_cultures = 2
+		max_absolutism = -30
+		burghers_influence_modifier = 0.15
+	}
+
+	boost_income = yes
+	conditional = {
+		allow = {
+			has_dlc = "Leviathan"
+		}
+		allow_draft_transport_ships = yes
+	}
+	conditional = {
+		allow = {
+			has_dlc = "Res Publica"
+			NOT = { has_dlc = "Mare Nostrum" }
+		}
+		can_use_trade_post = yes
+	}
+	conditional = {
+		allow = {
+			has_dlc = "Mare Nostrum"
+			NOT = { has_dlc = "Res Publica" }
+		}
+		can_form_trade_league = yes
+		trade_city_reform = trading_city
+	}
+	conditional = {
+		allow = {
+			has_dlc = "Res Publica"
+			has_dlc = "Mare Nostrum"
+		}
+		can_use_trade_post = yes
+		can_form_trade_league = yes
+		trade_city_reform = trading_city
+	}
+	custom_attributes = {
+		enables_plutocratic_idea_group = yes
+		enables_aristocratic_idea_group = no
+	}
+
+	ai = {
+		factor = 0
+	}
+}
+
+barangay_reform = {
+	icon = "chieftain"
+	can_change_primary_culture = no
+	allow_normal_conversion = no
+	potential = {
+		OR = {
+			culture_group = filipino_g
+		}
+	}
+    trigger = {
+		OR = {
+			culture_group = filipino_g
+		}
+	}
+	valid_for_nation_designer = no
+	modifiers = {
+		tolerance_own = 1
+		diplomats = 1
+		nobles_influence_modifier = 0.05
+		burghers_influence_modifier = 0.05
+		vaisyas_influence_modifier = 0.05
+		max_absolutism = -25
+	}
+	custom_attributes = {
+		enables_plutocratic_idea_group = yes
+		enables_aristocratic_idea_group = no
+		locked_government_type = yes
+	}
+	boost_income = yes
+	conditional = {
+		allow = {
+			has_dlc = "Leviathan"
+		}
+		allow_draft_transport_ships = yes
+	}
+	conditional = {
+		allow = {
+			has_dlc = "Mare Nostrum"
+			NOT = { has_dlc = "Res Publica" }
+		}
+		can_form_trade_league = yes
+	}
+	conditional = {
+		allow = {
+			has_dlc = "Res Publica"
+			has_dlc = "Mare Nostrum"
+		}
+		can_form_trade_league = yes
+	}
+	ai = {
+		factor = 0.75 #generic
+	}
+}
+
+barangay_oligarchic = {
+	icon = "examination_system_reform"
+	allow_normal_conversion = no
+	valid_for_nation_designer = no
+	lock_level_when_selected = yes
+    potential = {
+		OR = {
+			culture_group = filipino_g
+		}
+	}
+	trigger = {
+		OR = {
+			culture_group = filipino_g
+		}
+	}
+	modifiers = {
+		merchants = 1
+		caravan_power = 0.05
+		max_absolutism = -25
+		burghers_influence_modifier = 0.10
+	}
+	custom_attributes = {
+		enables_plutocratic_idea_group = yes
+		enables_aristocratic_idea_group = no
+		locked_government_type = yes
+	}
+	boost_income = yes
+	conditional = {
+		allow = {
+			has_dlc = "Leviathan"
+		}
+		allow_draft_transport_ships = yes
+	}
+	conditional = {
+		allow = {
+			has_dlc = "Mare Nostrum"
+			NOT = { has_dlc = "Res Publica" }
+		}
+		can_form_trade_league = yes
+	}
+	conditional = {
+		allow = {
+			has_dlc = "Res Publica"
+			has_dlc = "Mare Nostrum"
+		}
+		can_form_trade_league = yes
+	}
+	ai = {
+		factor = 0.75 #generic
+	}
+}
+
+#highland_aristocracy
+
+maritime_aristocracy  = {
+	icon = admiralty_reform
+	allow_normal_conversion = no
+	lock_level_when_selected = yes
+	custom_attributes = {
+		locked_government_type = yes
+	}
+	potential = {
+		OR = {
+			culture_group = sulawesi_g
+			culture_group = filipino_g
+		}
+	}
+	trigger = {
+		OR = {
+			culture_group = sulawesi_g
+			culture_group = filipino_g
+		}
+	}
+	valid_for_nation_designer = no
+
+	modifiers = {
+		merchants = 1
+		naval_forcelimit_modifier = 0.10
+		caravan_power = 0.05
+		max_absolutism = -25
+		burghers_influence_modifier = 0.10
+	}
+
+	boost_income = yes
+	conditional = {
+		allow = {
+			has_dlc = "Leviathan"
+		}
+		allow_draft_transport_ships = yes
+	}
+	conditional = {
+		allow = {
+			has_dlc = "Res Publica"
+			NOT = { has_dlc = "Mare Nostrum" }
+		}
+		can_use_trade_post = yes
+	}
+	conditional = {
+		allow = {
+			has_dlc = "Mare Nostrum"
+			NOT = { has_dlc = "Res Publica" }
+		}
+		can_form_trade_league = yes
+		trade_city_reform = trading_city
+	}
+	conditional = {
+		allow = {
+			has_dlc = "Res Publica"
+			has_dlc = "Mare Nostrum"
+		}
+		can_use_trade_post = yes
+		can_form_trade_league = yes
+		trade_city_reform = trading_city
+	}
+	custom_attributes = {
+		enables_plutocratic_idea_group = yes
+		enables_aristocratic_idea_group = no
+	}
+
+	ai = {
+		factor = 0
+	}
+}
+
+warrior_chieftaincy = {
+	icon = "native_oral_tradition_reform"
+	lock_level_when_selected = yes
+	can_change_primary_culture = no
+	allow_normal_conversion = no
+	custom_attributes = {
+		locked_government_type = yes
+	}
+	potential = {
+		OR = {
+			culture_group = sulawesi_g
+			culture_group = filipino_g
+			culture_group = malay
+		}
+	}
+	trigger = {
+		OR = {
+			culture_group = sulawesi_g
+			culture_group = filipino_g
+			culture_group = malay
+		}
+	}
+	raze_province = yes
+	valid_for_nation_designer = no
+
+	start_territory_to_estates = 0.5
+
+	modifiers = {
+		loot_amount = 0.50
+		global_institution_spread = -0.10
+		movement_speed = 0.2
+		global_manpower_modifier = 0.15
+		land_forcelimit_modifier = 0.1
+		years_of_nationalism = -5
+	}
+	custom_attributes = {
+		enables_plutocratic_idea_group = no
+		enables_aristocratic_idea_group = no
+		locked_government_type = yes
+		lottery_election = yes
+		election_on_death = yes
+		cannot_become_dictatorship = yes
+	}
+	ai = {
+		factor = 1000
+	}
+	duration = 8
+}
+
+
+highland_chieftaincy = {
+	icon = "native_land_tradition_reform"
+	allow_normal_conversion = no
+	lock_level_when_selected = yes
+	can_change_primary_culture = no
+	potential = {
+		OR = {
+			culture_group = sulawesi_g
+			culture_group = filipino_g
+			culture_group = malay
+		}
+	}
+	trigger = {
+		OR = {
+			culture_group = sulawesi_g
+			culture_group = filipino_g
+			culture_group = malay
+		}
+	}
+	raze_province = yes
+	valid_for_nation_designer = no
+
+	start_territory_to_estates = 0.5
+	custom_attributes = {
+		enables_plutocratic_idea_group = no
+		enables_aristocratic_idea_group = no
+		locked_government_type = yes
+		lottery_election = yes
+		election_on_death = yes
+		cannot_become_dictatorship = yes
+	}
+	modifiers = {
+		loot_amount = 0.33
+		global_institution_spread = -0.15
+		movement_speed = 0.15
+		years_of_nationalism = -5
+		garrison_size = 0.15
+        global_garrison_growth = 0.10
+	}
+	custom_attributes = {
+		enables_aristocratic_idea_group = no
+		lottery_election = yes
+		election_on_death = yes
+		cannot_become_dictatorship = yes
+	}
+	ai = {
+		factor = 1000
+	}
+	duration = 8
+}
