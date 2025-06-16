@@ -67,21 +67,35 @@
  adat_minangkabau_desc:0 "The Penghulu Assembly is a confederation of clan leaders, where the most influential chieftains, appointed through matrilineal descent, gather to deliberate and guide the affairs of the realm."
  adat_minangkabau_legacy_desc:0 "The Penghulu Assembly is a council of clan leaders, where the most powerful chieftains, chosen through matrilineal lineage, hold sway in making decisions for the realm."
 
+#
  malayan_plutocracy_reform:0 "Melayu Plutocracy"
  malayan_plutocracy_reform_desc:0 "Rooted in the thriving trade networks of the Malay world, the Melayu Plutocracy grants political influence to wealthy merchants and powerful trading elites. Their control over commerce ensures both economic prosperity and political stability, shaping the state's governance around the interests of maritime trade and regional influence."
 
+#
  barangay_reform:0 "Barangay Confederation"
- barangay_reform_desc:0 "Formed from loosely connected coastal communities, the Barangay Confederation is governed by local chieftains and councils. Power is decentralized, with each barangay maintaining autonomy while cooperating for trade, defense, and diplomacy. This system reflects the maritime and communal nature of early Austronesian societies, where leadership was shared among influential families and merchants."
+ barangay_reform_desc:0 "Formed from loosely connected coastal communities, the Barangay Confederation is led by local chieftains and councils. Power is decentralized, with each barangay managing its own affairs while cooperating for diplomacy, defense, and mutual aid. Leadership rests on negotiation and alliance between clans."
 
- barangay_oligarchic_republic_reform:0 "Barangay Oligarchy" 
- barangay_oligarchic_republic_reform_desc:0 "placeholder wow"
+#
+ barangay_oligarchic_republic_reform:0 "Barangay Oligarchy"
+ barangay_oligarchic_republic_reform_desc:0 "Controlled by influential merchant clans and powerful lineages, the Barangay Oligarchy centralizes authority among wealthy families who dominate trade and foreign relations. Traditional councils remain, but true power lies with the leading commercial elites."
 
- warrior_chieftaincy:0 "Warrior Chieftaincy" 
- warrior_chieftaincy_desc:0 "placeholder wow" 
+# 
+ warrior_chieftaincy:0 "Warrior Chieftaincy"
+ warrior_chieftaincy_desc:0 "Society is organized under the leadership of war leaders whose authority is rooted in personal prowess, clan loyalty, and martial tradition. Power is decentralized, with local chieftains maintaining authority over their communities, often competing or cooperating through shifting alliances and blood ties."
 
+#
+ highland_chieftaincy:0 "Highland Chieftaincy"
+ highland_chieftaincy_desc:0 "In rugged and forested or highland regions, authority is dispersed among kinship-based councils and elder-led clans. Leadership balances communal decision-making, ancestral customs, and local autonomy, with little centralization beyond the village or valley level."
+
+#Eastern Thalassocracy
+ maritime_aristocracy:0 "Eastern Thalassocracy"
+ maritime_aristocracy_desc:0 "Built upon powerful maritime clans, merchant houses, and seafaring aristocracies, the Eastern Thalassocracy draws its strength from trade, naval power, and coastal influence. Power is shared between noble lineages and wealthy traders who dominate commerce, foreign relations, and local governance across dispersed islands and ports."
+
+#
  adat_minangkabau_ruler:0 "Pangulu"
  adat_minangkabau_ruler_female:0 "Bundo Kanduang"
 
+#
  new_buddhist_events.1_decision: "Choose Personal Deity"
  new_buddhist_events.1_decision_desc: "Sometimes one regrets one's choices. Why should one's choice as a young [Root.Monarch.GetTitle] of which deity to follow apply for the rest of one's life? Fortunately, our arrangements with the Shrine Maiden allow us some flexibility on the matter."
  new_buddhist_events.1_decision_tt: "Has an §YEstate Privilege§! which allows the change of the Personal Deity"
