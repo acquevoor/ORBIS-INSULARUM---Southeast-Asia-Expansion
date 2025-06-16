@@ -44,7 +44,6 @@ monarch_names = {
 	"La Mappepulu #0" = 10
 	"La Samaléwa #0" = 10
 	"La Pakallongi #0" = 10
-	"To Mappassaungngé #0" = 10
 	"La Tenrilai #0" = 10
 	"La Sigajang #0" = 10
 	"La Makkaraka #0" = 10
@@ -71,6 +70,10 @@ monarch_names = {
 	"La Koro #0" = 10
 	"La Passamulaʼ #0" = 10
 	"La Tenrioddang #0" = 10
+
+	"Andi Ninnong #0" = -1
+	"We Tadampali #0" = -1
+	"To Mappassaungnge #0" = 10
 }
 ship_names = { 
 	Lamuru Sengkang Tempe Bola Wajo Sabbang Sajoangnge Tanasitolo Pitumpanua Belawa "Mariori Wawo" 

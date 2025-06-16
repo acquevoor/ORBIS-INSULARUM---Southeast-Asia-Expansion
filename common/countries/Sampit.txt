@@ -40,6 +40,8 @@ monarch_names = {
 	"Litih #0" = 10
 	"Jatha #0" = 10
 	"Bujang Bedjie #0" = 10
+
+	"Lumuh Langgana #0" = -1
 }
 
 leader_names = { 

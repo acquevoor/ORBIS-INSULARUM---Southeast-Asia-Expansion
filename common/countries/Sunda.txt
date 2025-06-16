@@ -68,6 +68,15 @@ monarch_names = {
 	"Prabu Sakti #0" = 10
 	"Prabu Nilakendra #0" = 10
 	"Prabu Ragamulya #0" = 10
+
+	"Dyah Pitaloka Citraresmi #0" = -1
+	"Ratu Puspa Kencana #0" = -1
+	"Nyai Roro Kidul #0" = -1
+	"Lasminingrat #0" = -1
+	"Nyi Mas Pakungwati #0" = -1
+	"Nyi Mas Gandasari #0" = -1
+	"Raden Siti Jenab #0" = -1
+	"Raden Ayu Lasminingrat #0" = -1
 }
 
 leader_names = { 
