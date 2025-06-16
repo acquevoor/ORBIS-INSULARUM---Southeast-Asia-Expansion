@@ -510,7 +510,7 @@ BNW_the_legacy_of_mokole_sango_desc:0 "Among the Kaili-speaking peoples of Banaw
 
 ###############
 # Wajo Ideas (Header and Description)
-WJO_ideas:0 "Wajo Ideas (Bugis)"
+WJO_ideas:0 "Wajo Ideas"
 WJO_ideas_desc:0 "Wajo, a prominent Bugis state in South Sulawesi, was founded through a unique confederation of noble houses rooted in shared governance and alliance. Centered around Lake Tempe, Wajo thrived as a hub of trade, spirituality, and resistance. From early mythic origins to legendary heroes like La Maddukelleng, Wajo's legacy is one of unity, resilience, and maritime strength."
 
 # Wajo Ideas Start and Bonus
@@ -635,7 +635,7 @@ BNE_ambition_desc:0 "Bone aspires to strengthen its military by focusing on arti
 
 
 # Soppeng Ideas (Header and Description)
-SPP_ideas:0 "Soppeng Ideas (Bugis)"
+SPP_ideas:0 "Soppeng Ideas"
 SPP_ideas_desc:0 "Soppeng, known as the 'City of Bats', is rich in cultural heritage and mystical traditions. From the sacred hot springs of Lejja to the ever-present colonies of bats in Watan Soppeng, the region's identity is deeply intertwined with nature and folklore. These ideas reflect Soppeng's resilience, communal values, and spiritual beliefs."
 
 # Soppeng Ideas Start and Bonus
@@ -672,7 +672,7 @@ SPP_ambition_desc:0 "Driven by a desire to protect and prosper, Soppeng's people
 ###################################Luwu (LUW) Ideas Localization
 
 # Luwu Ideas (Header and Description)
-LUW_ideas:0 "Luwu Ideas (Bugis)"
+LUW_ideas:0 "Luwu Ideas"
 LUW_ideas_desc:0 "Luwu, one of the oldest kingdoms in South Sulawesi, stands as a testament to the strength and resilience of Bugis culture. From its legendary origins in the mythical land of Tana Luwu to its historical prominence as a center of iron production, Luwu's legacy is defined by a commitment to tradition, innovation, and adaptability. With royal control over iron and a reputation for military prowess, Luwu remains an enduring symbol of Bugis sovereignty and culture."
 
 # Luwu Ideas Start and Bonus
@@ -711,7 +711,7 @@ LUW_ambition_desc:0 "With a deep understanding of warfare and siege tactics, Luw
 
 KNW_ideas_bonus:0 "Konawe Bonus Idea"
 
-KNW_ideas:0 "Konawe Ideas (Bugis)"
+KNW_ideas:0 "Konawe Ideas"
 KNW_ideas_desc:0 "Konawe, nestled in the highlands of Sulawesi, has long been defined by its village-based governance, strategic positioning, and unique cultural practices. The kingdom's people thrive on their forest-based knowledge and their deeply rooted spiritual beliefs. Konawe has maintained its sovereignty through its resolute defense tactics, and its position within Sulawesi's rugged landscapes makes it a challenging adversary to foreign invaders."
 
 KNW_ideas_start:0 "Guardians of the Highlands"
@@ -771,7 +771,7 @@ KNW_ambition_desc:0 "Konawe aspires to preserve its independence through strong 
 
 
 
-BTN_ideas:0 "Buton Ideas (Bugis)"
+BTN_ideas:0 "Buton Ideas"
 BTN_ideas_desc:0 "Buton, an island kingdom in Southeast Sulawesi, has a rich maritime heritage and a proud Islamic tradition. Known for its strategic location and strong fortifications, Buton has been a hub of commerce, culture, and military defense. The kingdom's resilience, bolstered by its naval strength and diplomatic prowess, has made it a key player in the region's history."
 
 BTN_ideas_start:0 "Guardians of the Sea"
