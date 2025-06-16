@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = maritime_aristocracy
+add_government_reform = gowa_tallo_dual_regency
 government_rank = 2
 primary_culture = makassar
 religion = animism

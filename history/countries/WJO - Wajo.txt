@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = maritime_aristocracy
+add_government_reform = bugis_arung_confederacy
 government_rank = 1
 primary_culture = bugis
 religion = animism
