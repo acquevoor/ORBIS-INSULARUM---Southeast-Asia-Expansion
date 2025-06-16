@@ -115,3 +115,18 @@
 	BARANGAY:0 "Barangay"
 	GRAND_BARANGAY:0 "Dakilang Barangay"
 	GREAT_BARANGAY:0 "Dakilang Kaharian"
+
+ bobato_sultanate:0 "Bobato Sultanate"
+ bobato_sultanate_desc:0 "The Sultan governs through a council of nobles and clan elders known as the Bobato. While the Sultan holds supreme authority, he must carefully balance the interests of aristocratic chiefs, Islamic scholars, and influential merchant families who control the vital spice trade."
+
+ sarano_council:0 "Sarano Council"
+ sarano_council_desc:0 "Governance is conducted by a structured council of nobles and hereditary office holders, guided by long-established customary law. Authority is shared between the ruler and the noble houses, whose influence is institutionalized through ranked positions and communal legal codes."
+
+ bugis_arung_confederacy:0 "Arung Confederacy"
+ bugis_arung_confederacy_desc:0 "Power is distributed among the Arung — hereditary nobles who govern their domains with considerable autonomy. The ruler relies on negotiation and alliance-building among these lords, while military, trade, and administration are balanced through shared authority and complex kinship ties."
+
+ gowa_tallo_dual_regency:0 "Twin Kingship"
+ gowa_tallo_dual_regency_desc:0 "Power is divided between two sovereign courts: one overseeing external affairs, military, and diplomacy; the other guiding internal governance, law, and religious matters. Unified through kinship and shared councils, this dual monarchy balances competing spheres of authority to preserve stability and expansion."
+
+ luwu_confederation:0 "Luwu Confederation"
+ luwu_confederation_desc:0 "A loose confederation of noble lineages and local chieftains, where power is shared among autonomous domains united by kinship and tradition. The ruler’s authority is balanced by a council of elders, reflecting a decentralized system rooted in consensus and customary law."
