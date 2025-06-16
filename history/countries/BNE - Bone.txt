@@ -1,4 +1,4 @@
-government = monarchy
+government = republic
 add_government_reform = bugis_arung_confederacy
 government_rank = 1
 primary_culture = bugis
