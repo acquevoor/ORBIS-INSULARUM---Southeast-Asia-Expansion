@@ -34,6 +34,7 @@ monarchy = {
 				gowa_tallo_dual_regency #Mod
 				sarano_council #Mod
 				bobato_sultanate #Mod
+				imperial_mandala  #Mod
 				english_monarchy
 				mandala_reform
 				maritime_aristocracy #Mod
@@ -638,6 +639,8 @@ republic = {
 				warrior_chieftaincy #Mod
 				barangay_oligarchic #Mod
 				highland_chieftaincy  #Mod
+				bugis_arung_confederacy #Mod
+		        luwu_confederation #Mod
 				signoria_reform
 				merchants_reform
 				venice_merchants_reform

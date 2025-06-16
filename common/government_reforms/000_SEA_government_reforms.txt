@@ -517,6 +517,7 @@ bugis_arung_confederacy = {
 	}
     valid_for_nation_designer = no
     modifiers = {
+		global_unrest = -1
         global_autonomy = 0.025
         max_absolutism = -25
         nobles_influence_modifier = 0.10
@@ -568,4 +569,40 @@ luwu_confederation = {
         factor = 0.8
     }
 	duration = 10
+}
+
+imperial_mandala = {
+    icon = "sakdina_system_reform"
+    allow_normal_conversion = no
+    lock_level_when_selected = yes
+    can_change_primary_culture = no
+    potential = {
+        OR = {
+			tag = MAJ
+			tag = SVY
+        }
+    }
+	trigger = {
+		OR = {
+			tag = MAJ
+			tag = SVY
+		}
+	}
+    valid_for_nation_designer = no
+    modifiers = {
+        max_absolutism = -10
+        yearly_legitimacy = 0.5
+        governing_capacity_modifier = 0.1
+        vassal_income = 0.2
+		vassal_forcelimit_bonus = 1
+    }
+    custom_attributes = {
+        locked_government_type = yes
+        enables_aristocratic_idea_group = yes
+        enables_plutocratic_idea_group = yes
+    }
+    ai = {
+        factor = 1.0
+    }
+    free_concentrate_development = yes
 }
