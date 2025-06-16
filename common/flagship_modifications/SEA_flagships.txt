@@ -22,14 +22,12 @@ SEA_piracy_fleet = {
 
 SEA_spice_storage = {
     trigger = {
-		culture_group = sulawesi_g
-		culture_group = filipino_g
 		culture_group = malay
 		
         normal_or_historical_nations = yes
     }
 	modifier = {
-        own_coast_naval_combat_bonus = 1.0
+        cannons_for_hunting_pirates_in_fleet = 1
 		naval_maintenance_flagship_modifier = 0.75
 	}
     ai_trade_score = {
@@ -39,8 +37,6 @@ SEA_spice_storage = {
         factor = 1
         modifier = {
             factor = 10
-		    culture_group = sulawesi_g
-		    culture_group = filipino_g
 	    	culture_group = malay
         }
     }
