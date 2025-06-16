@@ -399,3 +399,173 @@ highland_chieftaincy = {
 	}
 	duration = 8
 }
+
+
+####################
+
+bobato_sultanate = {
+    icon = "sekban"
+    allow_normal_conversion = no
+    lock_level_when_selected = yes
+    can_change_primary_culture = no
+    potential = {
+        OR = {
+            culture_group = malay
+            culture_group = sulawesi_g
+        }
+    }
+	trigger = {
+		OR = {
+			tag = JLO
+			tag = TID
+			tag = TER
+		}
+	}
+    valid_for_nation_designer = no
+    modifiers = {
+        merchants = 1
+        diplomat = 1
+        max_absolutism = -25
+        burghers_influence_modifier = 0.10
+        nobles_influence_modifier = 0.05
+    }
+    custom_attributes = {
+        locked_government_type = yes
+        enables_plutocratic_idea_group = yes
+        enables_aristocratic_idea_group = yes
+    }
+    ai = {
+        factor = 0.8
+    }
+}
+
+sarano_council = {
+    icon = "government_for_people_reform"
+    allow_normal_conversion = no
+    lock_level_when_selected = yes
+    can_change_primary_culture = no
+    potential = {
+        culture_group = sulawesi_g
+    }
+	trigger = {
+		OR = {
+			tag = BTU
+			tag = KNW
+		}
+	}
+    valid_for_nation_designer = no
+    modifiers = {
+        global_unrest = -2
+        max_absolutism = -20
+        nobles_influence_modifier = 0.15
+        stability_cost_modifier = -0.15
+    }
+    custom_attributes = {
+        locked_government_type = yes
+        enables_aristocratic_idea_group = yes
+        enables_plutocratic_idea_group = no
+    }
+    ai = {
+        factor = 0.7
+    }
+}
+
+gowa_tallo_dual_regency = {
+    icon = "crown_highlighted"
+    allow_normal_conversion = no
+    lock_level_when_selected = yes
+    can_change_primary_culture = no
+    potential = {
+        culture_group = sulawesi_g
+    }
+	trigger = {
+		OR = {
+			tag = MKS
+		}
+	}
+    valid_for_nation_designer = no
+    modifiers = {
+        max_absolutism = -15
+        army_tradition_decay = -0.10
+        diplomat = 1
+        stability_cost_modifier = -0.10
+    }
+    custom_attributes = {
+        locked_government_type = yes
+        enables_aristocratic_idea_group = yes
+        enables_plutocratic_idea_group = yes
+    }
+    ai = {
+        factor = 0.9
+    }
+}
+
+bugis_arung_confederacy = {
+    icon = "tribal_civil_society"
+    allow_normal_conversion = no
+    lock_level_when_selected = yes
+    can_change_primary_culture = no
+    potential = {
+        culture_group = sulawesi_g
+    }
+	trigger = {
+		OR = {
+			tag = WJO
+			tag = SPP
+			tag = BNE
+		}
+	}
+    valid_for_nation_designer = no
+    modifiers = {
+        global_autonomy = 0.025
+        max_absolutism = -25
+        nobles_influence_modifier = 0.10
+        years_of_nationalism = -5
+    }
+    custom_attributes = {
+        locked_government_type = yes
+        enables_aristocratic_idea_group = yes
+        enables_plutocratic_idea_group = no
+        lottery_election = yes
+        election_on_death = yes
+        cannot_become_dictatorship = yes
+    }
+    ai = {
+        factor = 1.0
+    }
+	duration = 8
+}
+
+luwu_confederation = {
+    icon = "tribal_council"
+    allow_normal_conversion = no
+    lock_level_when_selected = yes
+    can_change_primary_culture = no
+    potential = {
+        culture_group = sulawesi_g
+    }
+	trigger = {
+		OR = {
+			tag = LUW
+		}
+	}
+    valid_for_nation_designer = no
+    modifiers = {
+        global_autonomy = 0.025
+        max_absolutism = -25
+        nobles_influence_modifier = 0.10
+        stability_cost_modifier = -0.10
+    }
+    custom_attributes = {
+        locked_government_type = yes
+        enables_aristocratic_idea_group = yes
+        enables_plutocratic_idea_group = no
+        lottery_election = yes
+        election_on_death = yes
+        cannot_become_dictatorship = yes
+    }
+    ai = {
+        factor = 0.8
+    }
+	duration = 10
+}
