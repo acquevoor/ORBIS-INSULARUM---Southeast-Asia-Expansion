@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = plutocratic_reform
+add_government_reform = maritime_aristocracy
 government_rank = 2
 primary_culture = wallio
 religion = animism

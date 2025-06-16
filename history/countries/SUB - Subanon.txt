@@ -1,5 +1,5 @@
-government = tribal
-add_government_reform = mandala_reform
+government = republic
+add_government_reform = warrior_chieftaincy
 government_rank = 1
 primary_culture = subanon
 religion = animism

@@ -1,5 +1,5 @@
-government = tribal
-add_government_reform = stateless_society
+government = republic
+add_government_reform = highland_chieftaincy
 primary_culture = bahnaric
 religion = animism
 technology_group = chinese

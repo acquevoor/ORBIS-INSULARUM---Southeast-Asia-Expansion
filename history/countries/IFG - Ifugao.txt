@@ -1,5 +1,5 @@
-government = tribal
-add_government_reform = stateless_society
+government = republic
+add_government_reform = highland_chieftaincy
 government_rank = 1
 technology_group = chinese
 primary_culture = igorot
@@ -11,6 +11,5 @@ religion = animism
 		adm = 2
 		dip = 1
 		mil = 6
-		regent = yes
 	}
 }

@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = mandala_reform
+add_government_reform = maritime_aristocracy
 government_rank = 1
 primary_culture = bugis
 religion = animism
@@ -116,7 +116,7 @@ capital = 4798# Wajo
 }
 1564.1.1 = { 
 	monarch = { 
-		name = "La Pakoko To Pa’bele’"
+		name = "La Pakoko To Paï¿½beleï¿½"
 		dynasty = "Cinnotabi"
 		adm = 2
 		dip = 2
@@ -238,7 +238,7 @@ capital = 4798# Wajo
 }
 1670.1.1 = { 
 	monarch = { 
-		name = "La Palili To Malu’"
+		name = "La Palili To Maluï¿½"
 		dynasty = "Cinnotabi"
 		adm = 3
 		dip = 2
@@ -265,7 +265,7 @@ capital = 4798# Wajo
 }
 1702.1.1 = { 
 	monarch = { 
-		name = "La Mattone’"
+		name = "La Mattoneï¿½"
 		dynasty = "Cinnotabi"
 		adm = 1
 		dip = 0
@@ -301,7 +301,7 @@ capital = 4798# Wajo
 }
 1736.1.1 = { 
 	monarch = { 
-		name = "La Palili To Malu’"
+		name = "La Palili To Maluï¿½"
 		dynasty = "Cinnotabi"
 		adm = 3
 		dip = 2
@@ -319,7 +319,7 @@ capital = 4798# Wajo
 }
 1755.1.1 = { 
 	monarch = { 
-		name = "La Mad’danaca"
+		name = "La Madï¿½danaca"
 		dynasty = "Cinnotabi"
 		adm = 0
 		dip = 2

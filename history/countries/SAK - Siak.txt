@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = mandala_reform
+add_government_reform = iqta
 primary_culture = melayu
 religion = sunni
 technology_group = chinese

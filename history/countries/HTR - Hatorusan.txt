@@ -1,7 +1,7 @@
 ### Modified 5/13/2025 4:54:10 AM ###
 # HTR (Hatorusan)
-government = tribal
-add_government_reform = mandala_reform
+government = republic
+add_government_reform = highland_chieftaincy
 primary_culture = batak
 religion = animism
 secondary_religion = vajrayana

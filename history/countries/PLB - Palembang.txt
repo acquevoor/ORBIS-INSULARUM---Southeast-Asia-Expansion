@@ -5,7 +5,6 @@ religion = hinduism
 technology_group = chinese
 capital = 622# Palembang
 religious_school = shafii_school
-secondary_religion = mahayana
 
 historical_friend = MNG
 historical_friend = PSA

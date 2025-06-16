@@ -3,7 +3,6 @@ add_government_reform = adat_minangkabau
 government_rank = 1
 primary_culture = rejang
 religion = vajrayana
-secondary_religion = animism
 technology_group = chinese
 capital = 4818
 religious_school = shafii_school

@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = mandala_reform
+add_government_reform = malayan_plutocracy_reform
 government_rank = 1
 primary_culture = batak
 religion = sunni

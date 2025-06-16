@@ -3,7 +3,6 @@ add_government_reform = plutocratic_reform
 government_rank = 1
 technology_group = chinese
 religion = mahayana
-secondary_religion = hinduism
 primary_culture = melayu
 capital = 594# Pattani
 1399.1.1 = { 

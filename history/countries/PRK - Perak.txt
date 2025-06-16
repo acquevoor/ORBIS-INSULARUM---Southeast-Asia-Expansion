@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = mandala_reform
+add_government_reform = iqta
 government_rank = 1
 primary_culture = melayu
 religion = sunni
@@ -18,7 +18,7 @@ religious_school = shafii_school
 # Melaka Dynasty
 1528.1.1 = { 
 	monarch = { 
-		name = "Muzaffar Sh�h I Perak"
+		name = "Muzaffar Shah I Perak"
 		dynasty = "Melaka"
 		adm = 3
 		dip = 3

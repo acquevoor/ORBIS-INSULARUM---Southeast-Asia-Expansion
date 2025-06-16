@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = mandala_reform
+add_government_reform = malayan_plutocracy_reform
 primary_culture = acehnese
 religion = sunni
 technology_group = chinese

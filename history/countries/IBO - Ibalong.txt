@@ -1,5 +1,5 @@
-government = tribal
-add_government_reform = mandala_reform
+government = republic
+add_government_reform = barangay_reform
 government_rank = 1
 primary_culture = bikolano
 religion = animism

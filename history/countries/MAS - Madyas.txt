@@ -1,10 +1,9 @@
 government = republic
-add_government_reform = oligarchy_reform
+add_government_reform = barangay_reform
 technology_group = chinese
 primary_culture = ilonggo
 capital = 2700#Panay
 religion = hinduism
-secondary_religion = animism
 government_rank = 1
 1365.1.1 = { 
 	monarch = { 

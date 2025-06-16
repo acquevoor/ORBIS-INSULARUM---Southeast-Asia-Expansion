@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = mandala_reform
+add_government_reform = maritime_aristocracy
 government_rank = 1
 primary_culture = bugis
 religion = animism
@@ -92,7 +92,7 @@ capital = 4797# Soppeng
 }
 1534.1.1 = { 
 	heir = { 
-		name = "La ’De"
+		name = "La ï¿½De"
 		monarch_name = "Tanana"
 		dynasty = "Soppeng"
 		birth_date = 1520.1.1
@@ -251,7 +251,7 @@ capital = 4797# Soppeng
 }
 1696.1.1 = { 
 	monarch = { 
-		name = "Matinroe Ri Madello"#This is the same ruler as Boné
+		name = "Matinroe Ri Madello"#This is the same ruler as Bonï¿½
 		dynasty = "Soppeng"
 		adm = 2
 		dip = 4
@@ -282,7 +282,7 @@ capital = 4797# Soppeng
 }
 1718.1.1 = { 
 	monarch = { 
-		name = "Ranreng Toa Maintroe Ri"#La Pareppa. Same ruler as Boné yet again
+		name = "Ranreng Toa Maintroe Ri"#La Pareppa. Same ruler as Bonï¿½ yet again
 		dynasty = "Soppeng"
 		adm = 1
 		dip = 2

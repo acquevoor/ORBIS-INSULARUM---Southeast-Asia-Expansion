@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = mandala_reform
+add_government_reform = maritime_aristocracy
 government_rank = 1
 primary_culture = north_halmahera
 religion = animism

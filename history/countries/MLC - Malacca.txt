@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = plutocratic_reform
+add_government_reform = malayan_plutocracy_reform
 primary_culture = melayu
 religion = sunni
 technology_group = chinese
@@ -39,7 +39,7 @@ historical_rival = HOL
 
 1424.1.1 = { 
 	monarch = { 
-		name = "Muhammad Sh�h"
+		name = "Muhammad Shah"
 		dynasty = "Srivijaya"
 		adm = 1
 		dip = 0
@@ -71,8 +71,8 @@ historical_rival = HOL
 }
 1444.1.1 = { 
 	heir = { 
-		name = "Muzaffar Sh�h"
-		monarch_name = "Muzaffar Sh�h"
+		name = "Muzaffar Shah"
+		monarch_name = "Muzaffar Shah"
 		dynasty = "Srivijaya"
 		birth_date = 1420.1.1
 		death_Date = 1459.1.1
@@ -84,7 +84,7 @@ historical_rival = HOL
 }
 1446.1.1 = { 
 	monarch = { 
-		name = "Muzaffar Sh�h"
+		name = "Muzaffar Shah"
 		dynasty = "Srivijaya"
 		adm = 3
 		dip = 5
@@ -93,8 +93,8 @@ historical_rival = HOL
 }
 1446.1.1 = { 
 	heir = { 
-		name = "Mans�r Sh�h"
-		monarch_name = "Mans�r Sh�h"
+		name = "Mansar Shah"
+		monarch_name = "Mansar Shah"
 		dynasty = "Srivijaya"
 		birth_date = 1440.1.1
 		death_Date = 1477.10.2

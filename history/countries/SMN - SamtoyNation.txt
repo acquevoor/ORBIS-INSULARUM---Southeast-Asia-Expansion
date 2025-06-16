@@ -1,5 +1,5 @@
-government = tribal
-add_government_reform = mandala_reform
+government = republic
+add_government_reform = barangay_oligarchic
 government_rank = 1
 technology_group = chinese
 primary_culture = ilocano
