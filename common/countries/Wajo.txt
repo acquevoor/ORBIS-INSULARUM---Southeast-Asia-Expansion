@@ -73,7 +73,7 @@ monarch_names = {
 
 	"Andi Ninnong #0" = -1
 	"We Tadampali #0" = -1
-	"To Mappassaungnge #0" = 10
+	"To Mappassaungnge #0" = -1
 }
 ship_names = { 
 	Lamuru Sengkang Tempe Bola Wajo Sabbang Sajoangnge Tanasitolo Pitumpanua Belawa "Mariori Wawo" 
