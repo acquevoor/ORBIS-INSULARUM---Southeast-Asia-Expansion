@@ -30,11 +30,14 @@ monarchy = {
 				feudal_theocracy
 				celestial_empire
 				shogunate
-				barangay_reform#Mod
+				barangay_reform #Mod
+				gowa_tallo_dual_regency #Mod
+				sarano_council #Mod
+				bobato_sultanate #Mod
 				english_monarchy
 				mandala_reform
-				maritime_aristocracy#Mod
-				malayan_plutocracy_reform#Mod
+				maritime_aristocracy #Mod
+				malayan_plutocracy_reform #Mod
 				adat_minangkabau
 				revolutionary_empire_reform
 				holy_state_reform
@@ -595,6 +598,8 @@ republic = {
 		warrior_chieftaincy #Mod
 		barangay_oligarchic #Mod
 		highland_chieftaincy  #Mod
+		bugis_arung_confederacy #Mod
+		luwu_confederation #Mod
 		revolutionary_republic
 		constitutional_republic
 		republican_dictatorship
