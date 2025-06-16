@@ -2,9 +2,12 @@
 
 graphical_culture = muslimgfx
 
-color = { 255 245 220 }
+##lor = { 255 245 220 }
 #color = { 89  164  144 }
-revolutionary_colors = { 0  13  4 }
+##volutionary_colors = { 0  13  4 }
+
+color = { 38  101  255 }
+revolutionary_colors = { 16 8 13 }
 
 historical_idea_groups = {
 	trade_ideas
