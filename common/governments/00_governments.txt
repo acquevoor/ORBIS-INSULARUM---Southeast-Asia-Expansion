@@ -15,6 +15,7 @@ monarchy = {
 				solomonic_empire
 				#Specific:
 				chinese_warlord
+				maritime_muslim_aristocracy #mod
 				grand_duchy_reform
 				daimyo
 				indep_daimyo
@@ -607,7 +608,6 @@ republic = {
 		administrative_republic
 		noble_republic
 		oligarchic_republic
-		barangay_oligarchic
 		pirate_republic
 		merchant_republic
 		venetian_merchant_republic
