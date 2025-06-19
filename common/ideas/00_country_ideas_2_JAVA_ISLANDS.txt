@@ -170,7 +170,7 @@ MAJ_ideas = {
         idea_cost = -0.1
     }
 
-    MAJ_nusa_tenggara = {    
+    maj_nusa_tenggara = {    
         colonists = 1
         effect = { remove_temporary_colonist = yes }
     }
