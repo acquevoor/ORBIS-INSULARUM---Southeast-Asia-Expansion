@@ -1,0 +1,294 @@
+bathala = {
+	# (Royal Authority)
+	global_tax_modifier = 0.15
+	legitimacy = 1
+
+	potential = { religion = anito }
+	trigger = {}
+	sprite = 13
+
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_militarist
+		}		
+	}
+}
+
+idiyanale = {
+	# (Economy - Development)
+	production_efficiency = 0.1
+	development_cost = -0.10
+
+	potential = { religion = anito }
+	trigger = {}
+	sprite = 14
+
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 3
+			personality = ai_capitalist
+		}
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}		
+	}
+}
+
+amanikable = {
+	# (Maritime)
+	naval_morale = 0.10
+	navy_tradition = 0.5
+
+	potential = { religion = anito }
+	trigger = {}
+	sprite = 15
+
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 3
+			personality = ai_colonialist
+		}
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}		
+	}
+}
+
+mayari = {
+	# (Military - Defense)
+	discipline = 0.05
+	war_exhaustion = -0.03
+
+	potential = { religion = anito }
+	trigger = {}
+	sprite = 16
+
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 3
+			personality = ai_militarist
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}		
+	}
+}
+
+apolaki = {
+	# (Military - Offensive)
+	army_tradition = 0.5
+	land_morale = 0.10
+
+	potential = { religion = anito }
+	trigger = {}
+	sprite = 17
+
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 3
+			personality = ai_militarist
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}		
+	}
+}
+
+lakampati = {
+	# (Manpower)
+	global_manpower_modifier = 0.1
+	stability_cost_modifier = -0.15
+
+	potential = { religion = anito }
+	trigger = {}
+	sprite = 18
+
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}		
+	}
+}
+
+###
+manggagaway = {
+	# (Espionage and Deception)
+	spy_action_cost_modifier = -0.20
+	fabricate_claims_cost = -0.2
+
+	potential = { religion = anito }
+	trigger = {}
+	sprite = 24
+
+	effect = {}
+	removed_effect = {}
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 3
+			personality = ai_spy
+		}
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}
+	}
+}
+
+sitan = {
+	# (Secrets and Judgment)
+	state_governing_cost = -0.10
+	yearly_corruption = -0.05
+
+	potential = { religion = anito }
+	trigger = {}
+	sprite = 25
+
+	effect = {}
+	removed_effect = {}
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 3
+			personality = ai_spy
+		}
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}
+	}
+}
+
+galang_kaluluwa = {
+	# (Travel and Soul Guidance)
+	colonist_placement_chance = 0.05
+	range = 0.25
+
+	potential = { religion = anito }
+	trigger = {}
+	sprite = 26
+
+	effect = {}
+	removed_effect = {}
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 3
+			personality = ai_colonialist
+		}
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}
+	}
+}
+
+dumakulem = {
+	# (Mountain Guardianship)
+	hostile_attrition = 1.0
+	land_attrition = -0.15
+
+	potential = { religion = anito }
+	trigger = {}
+	sprite = 27
+
+	effect = {}
+	removed_effect = {}
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 3
+			personality = ai_militarist
+		}
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}
+	}
+}
+
+masalanta = {
+	# (Peace and Fertility)
+	improve_relation_modifier = 0.25
+	war_exhaustion = -0.03
+
+	potential = { religion = anito }
+	trigger = {}
+	sprite = 28
+
+	effect = {}
+	removed_effect = {}
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 3
+			personality = ai_diplomat
+		}
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}
+	}
+}
+
+dumangan = {
+	# (Seasonal Abundance)
+	global_trade_goods_size_modifier = 0.1
+	global_prosperity_growth = 0.1
+
+	potential = { religion = anito }
+	trigger = {}
+	sprite = 29
+
+	effect = {}
+	removed_effect = {}
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 3
+			personality = ai_capitalist
+		}
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}
+	}
+}
