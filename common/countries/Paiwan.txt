@@ -1,12 +1,9 @@
 #Country Name: Please see filename.
-
 graphical_culture = southamericagfx
 special_unit_culture = south_east_asian_special
-
-color = { 232  147  88 }
+color = { 232 147 88 }
 revolutionary_colors = { 4 0 4 }
-
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -16,8 +13,7 @@ historical_idea_groups = {
 	religious_ideas
 	administrative_ideas
 }
-
-historical_units = {
+historical_units = { 
 	east_asian_spearmen
 	eastern_bow
 	asian_arquebusier
@@ -27,8 +23,7 @@ historical_units = {
 	reformed_asian_musketeer
 	reformed_asian_cavalry
 }
-
-monarch_names = {
+monarch_names = { 
 	"Rikulau #0" = 30
 	"Adiri #0" = 30
 	"Paran #0" = 30
@@ -62,25 +57,14 @@ monarch_names = {
 	"Pavi #0" = -1
 	"Sinaparo #0" = -1
 }
-
-leader_names = {
-	Rikulau Adiri Paran Cinivu Lulupi Kemasi Saviki Alikuan Sinapalan Sakuliu Tjadrawan Makazayazaya Ruvaniya Vutsalulu Kazangiljan Tjari Pilang Zingrur Aliyu Lamuran Seriw Tjarik Minavan Tjaput Zimuran Ljupan Raval Kuli Saljaljavu Tjaluvaw Pavi Sinaparo Mapuljig Danadan Kadrang Sadriw Tjating Saljing Patjaljuk Kavilan Tiping Tjavuljing Tjuvul Tjaljavi
+leader_names = { 
+	Rikulau Adiri Paran Cinivu Lulupi Kemasi Saviki Alikuan Sinapalan Sakuliu
+	Tjadrawan Makazayazaya Ruvaniya Vutsalulu Kazangiljan Tjari Pilang Zingrur Aliyu Lamuran
+	Seriw Tjarik Minavan Tjaput Zimuran Ljupan Raval Kuli Saljaljavu Tjaluvaw
+	Pavi Sinaparo Mapuljig Danadan Kadrang Sadriw Tjating Saljing Patjaljuk Kavilan
+	Tiping Tjavuljing Tjuvul Tjaljavi 
 }
-
-ship_names = {
-	"Snake of Hundred Pacings"
-	"Mount Taimu"
-	"Rikulau's Roar"
-	"Sakuliu's Pride"
-	"Ancestral Flame"
-	"Tjari Spirit"
-	"Sun of Kavilan"
-	"Star of Cinivu"
-	"Thunder of Tjadrawan"
-	"Lulupi’s Honor"
-	"Warrior of Makazayazaya"
-	"Ghost of Sinapalan"
-	"Zingrur Storm"
-	"Paran’s Vision"
-	"Moon of Aliyu"
+ship_names = { 
+	"Snake of Hundred Pacings" "Mount Taimu" "Rikulau's Roar" "Sakuliu's Pride" "Ancestral Flame" "Tjari Spirit" "Sun of Kavilan" "Star of Cinivu" "Thunder of Tjadrawan" "Lulupi’s Honor"
+	"Warrior of Makazayazaya" "Ghost of Sinapalan" "Zingrur Storm" "Paran’s Vision" "Moon of Aliyu" 
 }

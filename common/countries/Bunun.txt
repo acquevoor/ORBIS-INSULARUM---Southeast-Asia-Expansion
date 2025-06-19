@@ -1,13 +1,10 @@
 #Country Name: Please see filename.
-
 graphical_culture = southamericagfx
 special_unit_culture = south_east_asian_special
-
-color = { 142  41  41 }
+color = { 142 41 41 }
 #color = { 145  66  66 }
 revolutionary_colors = { 4 0 4 }
-
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -17,8 +14,7 @@ historical_idea_groups = {
 	religious_ideas
 	administrative_ideas
 }
-
-historical_units = {
+historical_units = { 
 	east_asian_spearmen
 	eastern_bow
 	asian_arquebusier
@@ -28,8 +24,7 @@ historical_units = {
 	reformed_asian_musketeer
 	reformed_asian_cavalry
 }
-
-monarch_names = {
+monarch_names = { 
 	"Lahu Ali #0" = 30
 	"Dahu Yumin #0" = 25
 	"Saviki Nabu #0" = 25
@@ -54,7 +49,6 @@ monarch_names = {
 	"Taknaaz Pailang #0" = 10
 	"Lahiwan #0" = 10
 	"Ayan Tahon #0" = 10
-
 	"Mapatung #0" = -1
 	"Dadagu #0" = -1
 	"Avaleng #0" = -1
@@ -62,23 +56,13 @@ monarch_names = {
 	"Kamalah #0" = -1
 	"Mukawas #0" = -1
 }
-
-leader_names = {
-	Lahu Dahu Isbukun Takbanuaz Masu Banaw Pailang Malupa Taki Saviki Ayan Lumah Nazuan Namasia Ulas Akal Savi Kamalah Langas Sikawasay Tasiben Asang Naing Dapang Sulah Bunuk Tasilan Salan Dahu-Taki Isu-Pailang Lahiwan Dadagu
+leader_names = { 
+	Lahu Dahu Isbukun Takbanuaz Masu Banaw Pailang Malupa Taki Saviki
+	Ayan Lumah Nazuan Namasia Ulas Akal Savi Kamalah Langas Sikawasay
+	Tasiben Asang Naing Dapang Sulah Bunuk Tasilan Salan Dahu-Taki Isu-Pailang
+	Lahiwan Dadagu 
 }
-
-ship_names = {
-	"Central Range"
-	"YuShan"
-	"Danda"
-	"Tamazuan"
-	"Masu Wind"
-	"Lahu Storm"
-	"Isbukun Spirit"
-	"Savi Fangas"
-	"Takbanuaz Roar"
-	"Cloud Warrior"
-	"Banaw Echo"
-	"Sunrise Peak"
+ship_names = { 
+	"Central Range" "YuShan" "Danda" "Tamazuan" "Masu Wind" "Lahu Storm" "Isbukun Spirit" "Savi Fangas" "Takbanuaz Roar" "Cloud Warrior"
+	"Banaw Echo" "Sunrise Peak" 
 }
-

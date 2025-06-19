@@ -1,13 +1,10 @@
 #Country Name: Please see filename.
-
 graphical_culture = southamericagfx
 special_unit_culture = south_east_asian_special
-
-color = { 93  147  88 }
+color = { 93 147 88 }
 #color = { 93  147  88 }
 revolutionary_colors = { 4 0 4 }
-
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -17,8 +14,7 @@ historical_idea_groups = {
 	religious_ideas
 	administrative_ideas
 }
-
-historical_units = {
+historical_units = { 
 	east_asian_spearmen
 	eastern_bow
 	asian_arquebusier
@@ -28,8 +24,7 @@ historical_units = {
 	reformed_asian_musketeer
 	reformed_asian_cavalry
 }
-
-monarch_names = {
+monarch_names = { 
 	"Yumin Watan #0" = 40
 	"Panay Masi #0" = 35
 	"Yuma Dahun #0" = 30
@@ -57,16 +52,18 @@ monarch_names = {
 	"Yupas Kaya #0" = -1
 	"Tipah Walung #0" = -1
 }
-
-leader_names = {
-	Yumin Panay Yapas Iming Suyan Yuma Muhuw Minze Lumah Rani Tipah Ali Masaw Luma Kumu Yaki Tumaz Kuyu Nawi Kiwit Kaya Ulu Luxunan Palang Ukin Ata Walung Syuyi Hako Maki Watan Icyang Tayan Yusa Mawai Nanin Okan
-	Aki Ama Bukun Faki Fatu Haga Hako Hani Hapi Hpu Hwak Hway Kaki Kani Kila Lawa Lisin Luluwan Masi Naki Nanin Nihan Pata Quri Rima Sani Sapah Sima Suyan Taki Taya Tayan Tipah Tpas Tuhi Tumaz Ukin Ulung Walung Watan Yaki Yapas Yuma Yumin Yupas Yusa Zengan
+leader_names = { 
+	Yumin Panay Yapas Iming Suyan Yuma Muhuw Minze Lumah Rani
+	Tipah Ali Masaw Luma Kumu Yaki Tumaz Kuyu Nawi Kiwit
+	Kaya Ulu Luxunan Palang Ukin Ata Walung Syuyi Hako Maki
+	Watan Icyang Tayan Yusa Mawai Nanin Okan Aki Ama Bukun
+	Faki Fatu Haga Hako Hani Hapi Hpu Hwak Hway Kaki
+	Kani Kila Lawa Lisin Luluwan Masi Naki Nanin Nihan Pata
+	Quri Rima Sani Sapah Sima Suyan Taki Taya Tayan Tipah
+	Tpas Tuhi Tumaz Ukin Ulung Walung Watan Yaki Yapas Yuma
+	Yumin Yupas Yusa Zengan 
 }
-
-ship_names = {
-	Mknrux Kbaqan
-	Luluwan
-	"Mt. Dabajian" "Mstbyan Haga" "Tminun" "Qalang Tayan"
-	"Utux Kayal" "Pusununga"
-	"Swijiq" "Lasan" "Kmlnux" "Smangus"
+ship_names = { 
+	Mknrux Kbaqan Luluwan
+	"Mt. Dabajian" "Mstbyan Haga" "Tminun" "Qalang Tayan" "Utux Kayal" "Pusununga" "Swijiq" "Lasan" "Kmlnux" "Smangus"
 }

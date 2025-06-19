@@ -1,10 +1,7 @@
 #Country Name: Please see filename.
-
 graphical_culture = southamericagfx
-
 color = { 53 36 31 }
-
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	maritime_ideas
 	defensive_ideas
@@ -14,8 +11,7 @@ historical_idea_groups = {
 	economic_ideas
 	quantity_ideas
 }
-
-historical_units = {
+historical_units = { 
 	east_asian_spearmen
 	eastern_bow
 	asian_arquebusier
@@ -25,8 +21,7 @@ historical_units = {
 	reformed_asian_musketeer
 	reformed_asian_cavalry
 }
-
-monarch_names = {
+monarch_names = { 
 	"Puang Tamboro Langi #0" = 10
 	"Puang Papai Langi #0" = 10
 	"Puang Payak Allo #0" = 10
@@ -83,7 +78,6 @@ monarch_names = {
 	"Puang Bobo #0" = 10
 	"Puang Tandung #0" = 10
 	"Puang Sindoan #0" = 10
-
 	"Puang Sanda Bilik #0" = -1
 	"Puang Allo Anginan #0" = -1
 	"Tumba' Sarambunna #0" = -1
@@ -95,12 +89,39 @@ monarch_names = {
 	"Puang Tumba' Paramak #0" = -1
 	"Petimba Bulaan #0" = -1
 	"Puang Pasuen #0" = -1
-
 }
-
 leader_names = { 
-	Andi Daeng Ambo Akku Ampa Arung Atu Benga Bombang Eja Enre Esa Gatta Gau Kasii Keteng Lalo Matta Makkawaru Besse Malomo Nyompa Pada Jeru La Laba Palalo Pallawarukka Takko Tinro Tunrung Uleng Putra Perdana Tinro Tojeng Were Puang Sombaya Kare Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang Oddang Latippa Makkatengnga Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo Enong Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na Sangkala Sapada Sau Sessu Siu Sukki Uji Ukke Uraga Wali Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo Maddukkalleng Panussu Salewangeng Matasa Isakka Latahang Baco Mallongi Makkita Makanang Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Aso Nyalla Mattalitti Ramang Batara Butta Djallo Djallori Gowa Karaeng Limbangparang Palonga Parabung Parisi Pasulu Sankilang Tumammalianga Tuni Sudding Paliwang Oddang	Tunibatta Tunitangkalopi Tunyachoka-ri Palaloi Mattalatta Kaduk Massepe Pajongga Ngalie Ranggong Radja Mallaranggeng Beddu Amang Mariok Dira Peppang Makkarumpa Djemma Pawawoi Pati Palakka Madukelleng Saelan Uno Tumpa
-	}
-ship_names = {
-        Andi Arung Bau Daeng Datu Opu Petta Puang Sulewatang Tenri Tinro Karaeng Kare Tanjeng Sombaya Puang La We Areng Dondo-dondo Torau Awundapu Banumbu Bali'e Baloga Belala Betalino Beto Botilangi Bulinde Bungkundapu Bungu Buntinge Dike Dongalemba Gilirante Gimbaro Gugu Gundo Kampindo Kambodji Kalembiro Kalengke Karape Karebungu Kayori Kayupa Koedio Kogege Kolombuto Kolobinti Kuko Lakiu Langgari Lambangasi Labiro Liante Lidongi Lu'o Lumaya Lolongudju Manganti Meringgi Mossepe Mowose Monipo Nyolo-nyolo Nggau Nggo'u Nua Nyaua Pakuli Palaburu Parimo Pariu Paroda Pasunu Patara Pebadja Penina Penyami Pesudo Poa Pobonde Podala Polempe Purasongka Ratengku Pusuloka Rampalino Rampalodji Rantelangi Rare'a Ruagadi Rubo Ruutana Sancu'u Sawiri Sigilipu Sipatu So'e Sowolino Tabanci Tadanugi Tadalangi Tadadja Tadjaji Talasa Tarante Tasiabe Tawuku Tawurisi Tekora Tepara Tiladuru Tolala Mogadi Tobondo Tolimba Toumbo Turuka Ule Ululai Warara Wenali Werokila Wuri Wutabisu
-    }
+	Andi Daeng Ambo Akku Ampa Arung Atu Benga Bombang Eja
+	Enre Esa Gatta Gau Kasii Keteng Lalo Matta Makkawaru Besse
+	Malomo Nyompa Pada Jeru La Laba Palalo Pallawarukka Takko Tinro
+	Tunrung Uleng Putra Perdana Tinro Tojeng Were Puang Sombaya Kare
+	Tanjeng Karaeng Sulewetang Petta Opu Datu Bau Kambang Karateng Kasumang
+	Oddang Latippa Makkatengnga Mappanyokki Nyili Oddang Paduleng Pannamo Riyatte Piampo
+	Sanabe Saribanong Liweng Sengngen Sumpala Tabbulu Tappa Unde Yasim Limpo
+	Enong Abeng Ajeng Awaru Balebo Bali Bengnga Dala Dio Elle
+	Gappa Jaja Lengka Oja Pakku Palalo Paweli Rawe Sai Sa'na
+	Sangkala Sapada Sau Sessu Siu Sukki Uji Ukke Uraga Wali
+	Waru Yatte Laidut Jaesi Jahani Makkulau Mattulagga Panessai Lasinrang Lagaligo
+	Maddukkalleng Panussu Salewangeng Matasa Isakka Latahang Baco Mallongi Makkita Makanang
+	Matterang Pettasau Pettasaka Selili Lananring Lapadada Anto Aso Nyalla Mattalitti
+	Ramang Batara Butta Djallo Djallori Gowa Karaeng Limbangparang Palonga Parabung
+	Parisi Pasulu Sankilang Tumammalianga Tuni Sudding Paliwang Oddang Tunibatta Tunitangkalopi
+	Tunyachoka-ri Palaloi Mattalatta Kaduk Massepe Pajongga Ngalie Ranggong Radja Mallaranggeng
+	Beddu Amang Mariok Dira Peppang Makkarumpa Djemma Pawawoi Pati Palakka
+	Madukelleng Saelan Uno Tumpa 
+}
+ship_names = { 
+	Andi Arung Bau Daeng Datu Opu Petta Puang Sulewatang Tenri
+	Tinro Karaeng Kare Tanjeng Sombaya Puang La We Areng Dondo-dondo
+	Torau Awundapu Banumbu Bali'e Baloga Belala Betalino Beto Botilangi Bulinde
+	Bungkundapu Bungu Buntinge Dike Dongalemba Gilirante Gimbaro Gugu Gundo Kampindo
+	Kambodji Kalembiro Kalengke Karape Karebungu Kayori Kayupa Koedio Kogege Kolombuto
+	Kolobinti Kuko Lakiu Langgari Lambangasi Labiro Liante Lidongi Lu'o Lumaya
+	Lolongudju Manganti Meringgi Mossepe Mowose Monipo Nyolo-nyolo Nggau Nggo'u Nua
+	Nyaua Pakuli Palaburu Parimo Pariu Paroda Pasunu Patara Pebadja Penina
+	Penyami Pesudo Poa Pobonde Podala Polempe Purasongka Ratengku Pusuloka Rampalino
+	Rampalodji Rantelangi Rare'a Ruagadi Rubo Ruutana Sancu'u Sawiri Sigilipu Sipatu
+	So'e Sowolino Tabanci Tadanugi Tadalangi Tadadja Tadjaji Talasa Tarante Tasiabe
+	Tawuku Tawurisi Tekora Tepara Tiladuru Tolala Mogadi Tobondo Tolimba Toumbo
+	Turuka Ule Ululai Warara Wenali Werokila Wuri Wutabisu 
+}
