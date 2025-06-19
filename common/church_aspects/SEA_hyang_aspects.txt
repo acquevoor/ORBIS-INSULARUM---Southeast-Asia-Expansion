@@ -48,6 +48,6 @@ hyang_harvest_festival_aspect = {
     trigger = {
     }
     modifier = {
-        yearly_tax_income = 0.10  # Prosperity from the harvest festival boosts tax income
+        global_tax_modifier = 0.10  # Prosperity from the harvest festival boosts tax income
     }
 }
