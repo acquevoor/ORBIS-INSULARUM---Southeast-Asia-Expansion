@@ -1,0 +1,8 @@
+sound = {
+	name = religion_kaharingan_religion
+	file = "religion_kaharingan_religion.wav"
+}
+sound = {
+	name = religion_anito_religion
+	file = "religion_anito_religion.wav"
+}
