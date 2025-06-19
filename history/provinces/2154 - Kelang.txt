@@ -12,7 +12,7 @@ capital = "Kelang"
 add_core = ATY
 owner = ATY
 controller = ATY
-city = yes
+is_city = yes
 
 discovered_by = chinese
 discovered_by = MCH

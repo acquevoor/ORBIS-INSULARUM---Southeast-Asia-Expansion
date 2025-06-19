@@ -14,7 +14,7 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
-city = yes
+is_city = yes
 add_core = PIW
 
 owner = PIW
@@ -31,7 +31,7 @@ trade_goods = dyes
 	owner = NED
 	controller = NED
 	add_core = NED
-	city = yes
+	is_city = yes
 	trade_goods = chinaware
 }
 1626.1.1 = { 

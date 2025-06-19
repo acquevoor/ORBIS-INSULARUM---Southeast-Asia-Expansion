@@ -12,7 +12,7 @@ add_core = BUN
 owner = BUN
 controller = BUN
 
-city = yes
+is_city = yes
 
 discovered_by = chinese
 discovered_by = MCH

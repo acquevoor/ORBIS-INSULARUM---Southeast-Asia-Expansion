@@ -6,3 +6,11 @@ sound = {
 	name = religion_anito
 	file = "religion_anito.wav"
 }
+sound = {
+	name = religion_katuhanan
+	file = "religion_katuhanan.wav"
+}
+sound = {
+	name = religion_austronesian_animism
+	file = "religion_austronesian_animism.wav"
+}
