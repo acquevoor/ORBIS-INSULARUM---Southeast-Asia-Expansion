@@ -1,20 +1,15 @@
 # Yamdena
 # 2696 Yamdena - 5/16/2025 12:37:50 PM 
- 
 base_tax = 3
 base_production = 3
 base_manpower = 3
-
 trade_goods = unknown
-
 culture = papuan
-religion = animism
+religion = austronesian_animism
 capital = "Yamdena"
-
 native_size = 10
-native_ferocity =  1
+native_ferocity = 1
 native_hostileness = 2
-
 discovered_by = MAJ
 discovered_by = MKS
 discovered_by = BLI
@@ -34,13 +29,7 @@ discovered_by = LUW
 discovered_by = MGD
 discovered_by = TER
 discovered_by = TID
-
-
-
-
-1512.1.1 = {
+1512.1.1 = { 
 	discovered_by = POR
 }
-
-
-### Modified 5/16/2025 12:37:50 PM ###
+is_city = no

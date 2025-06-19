@@ -9,7 +9,7 @@ base_production = 5
 base_manpower = 3
 trade_goods = spices
 culture = javanese
-religion = hinduism
+religion = katuhanan
 capital = "Karta"
 is_city = yes
 discovered_by = chinese
@@ -31,7 +31,6 @@ discovered_by = ottoman
 1587.1.1 = { 
 	owner = MTR
 	controller = MTR
-	add_core = MTR
 	remove_core = DMK
 }
 1613.1.1 = { 
