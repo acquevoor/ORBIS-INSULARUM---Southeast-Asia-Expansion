@@ -1,6 +1,58 @@
 spriteTypes = {
 	spriteType = {
 		name = "government_reform_adat_minangkabau"
-		texturefile = "gfx/interface/government_reform_icons/adat_minangkabau.dds"
-  	}
+		texturefile = "gfx//interface//government_reform_icons//adat_minangkabau.dds"
+	}
+	spriteType = {
+		name = "government_reform_malayan_plutocracy_reform"
+		texturefile = "gfx//interface//government_reform_icons//malayan_plutocracy_reform.dds"
+	}
+	spriteType = {
+		name = "government_reform_barangay_reform"
+		texturefile = "gfx//interface//government_reform_icons//barangay_reform.dds"
+	}
+	spriteType = {
+		name = "government_reform_barangay_oligarchic"
+		texturefile = "gfx//interface//government_reform_icons//barangay_oligarchic.dds"
+	}
+	spriteType = {
+		name = "government_reform_maritime_aristocracy"
+		texturefile = "gfx//interface//government_reform_icons//maritime_aristocracy.dds"
+	}
+	spriteType = {
+		name = "government_reform_warrior_chieftaincy"
+		texturefile = "gfx//interface//government_reform_icons//warrior_chieftaincy.dds"
+	}
+	spriteType = {
+		name = "government_reform_highland_chieftaincy"
+		texturefile = "gfx//interface//government_reform_icons//highland_chieftaincy.dds"
+	}
+	spriteType = {
+		name = "government_reform_bobato_sultanate"
+		texturefile = "gfx//interface//government_reform_icons//bobato_sultanate.dds"
+	}
+	spriteType = {
+		name = "government_reform_sarano_council"
+		texturefile = "gfx//interface//government_reform_icons//sarano_council.dds"
+	}
+	spriteType = {
+		name = "government_reform_gowa_tallo_dual_regency"
+		texturefile = "gfx//interface//government_reform_icons//gowa_tallo_dual_regency.dds"
+	}
+	spriteType = {
+		name = "government_reform_bugis_arung_confederacy"
+		texturefile = "gfx//interface//government_reform_icons//bugis_arung_confederacy.dds"
+	}
+	spriteType = {
+		name = "government_reform_luwu_confederation"
+		texturefile = "gfx//interface//government_reform_icons//luwu_confederation.dds"
+	}
+	spriteType = {
+		name = "government_reform_imperial_mandala"
+		texturefile = "gfx//interface//government_reform_icons//imperial_mandala.dds"
+	}
+	spriteType = {
+		name = "government_reform_maritime_muslim_aristocracy"
+		texturefile = "gfx//interface//government_reform_icons//maritime_muslim_aristocracy.dds"
+	}
 }
