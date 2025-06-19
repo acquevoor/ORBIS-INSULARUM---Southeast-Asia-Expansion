@@ -1,6 +1,6 @@
 adat_minangkabau = {
 	#icon = "articles_of_agreement" 
-	icon = "articles_of_agreement" 
+	icon = "adat_minangkabau" 
 	allow_normal_conversion = no
 	lock_level_when_selected = yes
 	can_change_primary_culture = no
@@ -43,7 +43,7 @@ adat_minangkabau = {
 }
 
 malayan_plutocracy_reform = {
-	icon = arabian_plutocracy_reform
+	icon = malayan_plutocracy_reform
 	allow_normal_conversion = no
 	lock_level_when_selected = yes
 	can_change_primary_culture = no
@@ -122,7 +122,7 @@ malayan_plutocracy_reform = {
 }
 
 barangay_reform = {
-	icon = "chieftain"
+	icon = "barangay_reform"
 	can_change_primary_culture = no
 	allow_normal_conversion = no
 	potential = {
@@ -176,7 +176,7 @@ barangay_reform = {
 }
 
 barangay_oligarchic = {
-	icon = "examination_system_reform"
+	icon = "barangay_oligarchic"
 	allow_normal_conversion = no
 	valid_for_nation_designer = no
 	lock_level_when_selected = yes
@@ -229,8 +229,8 @@ barangay_oligarchic = {
 
 #highland_aristocracy
 
-maritime_aristocracy  = {
-	icon = admiralty_reform
+maritime_muslim_aristocracy  = {
+	icon = maritime_aristocracy
 	allow_normal_conversion = no
 	lock_level_when_selected = yes
 	custom_attributes = {
@@ -240,12 +240,92 @@ maritime_aristocracy  = {
 		OR = {
 			culture_group = sulawesi_g
 			culture_group = filipino_g
+			culture_group = malay
+		}
+	}
+	trigger = {
+		OR = {
+			religion_group = muslim
+		}
+	}
+	valid_for_nation_designer = no
+
+	modifiers = {
+		merchants = 1
+		naval_forcelimit_modifier = 0.10
+		caravan_power = 0.05
+		max_absolutism = -25
+		burghers_influence_modifier = 0.10
+	}
+
+	boost_income = yes
+	conditional = {
+		allow = {
+			has_dlc = "Leviathan"
+		}
+		allow_draft_transport_ships = yes
+	}
+	conditional = {
+		allow = {
+			has_dlc = "Res Publica"
+			NOT = { has_dlc = "Mare Nostrum" }
+		}
+		can_use_trade_post = yes
+	}
+	conditional = {
+		allow = {
+			has_dlc = "Mare Nostrum"
+			NOT = { has_dlc = "Res Publica" }
+		}
+		can_form_trade_league = yes
+		trade_city_reform = trading_city
+	}
+	conditional = {
+		allow = {
+			has_dlc = "Res Publica"
+			has_dlc = "Mare Nostrum"
+		}
+		can_use_trade_post = yes
+		can_form_trade_league = yes
+		trade_city_reform = trading_city
+	}
+	conditional = {
+        allow = {
+            has_dlc = "Winds of Change"
+        }
+        government_abilities = {
+            arabic_trade_influence
+        }
+    }
+	custom_attributes = {
+		enables_plutocratic_idea_group = yes
+		enables_aristocratic_idea_group = no
+	}
+
+	ai = {
+		factor = 0
+	}
+}
+
+maritime_aristocracy  = {
+	icon = maritime_aristocracy
+	allow_normal_conversion = no
+	lock_level_when_selected = yes
+	custom_attributes = {
+		locked_government_type = yes
+	}
+	potential = {
+		OR = {
+			culture_group = sulawesi_g
+			culture_group = filipino_g
+			culture_group = malay
 		}
 	}
 	trigger = {
 		OR = {
 			culture_group = sulawesi_g
 			culture_group = filipino_g
+			culture_group = malay
 		}
 	}
 	valid_for_nation_designer = no
@@ -300,7 +380,7 @@ maritime_aristocracy  = {
 }
 
 warrior_chieftaincy = {
-	icon = "native_oral_tradition_reform"
+	icon = "warrior_chieftaincy"
 	lock_level_when_selected = yes
 	can_change_primary_culture = no
 	allow_normal_conversion = no
@@ -350,7 +430,7 @@ warrior_chieftaincy = {
 
 
 highland_chieftaincy = {
-	icon = "native_land_tradition_reform"
+	icon = "highland_chieftaincy"
 	allow_normal_conversion = no
 	lock_level_when_selected = yes
 	can_change_primary_culture = no
@@ -404,14 +484,15 @@ highland_chieftaincy = {
 ####################
 
 bobato_sultanate = {
-    icon = "sekban"
+    icon = "bobato_sultanate"
     allow_normal_conversion = no
     lock_level_when_selected = yes
     can_change_primary_culture = no
     potential = {
         OR = {
-            culture_group = malay
-            culture_group = sulawesi_g
+			tag = JLO
+			tag = TID
+			tag = TER
         }
     }
 	trigger = {
@@ -440,7 +521,7 @@ bobato_sultanate = {
 }
 
 sarano_council = {
-    icon = "government_for_people_reform"
+    icon = "sarano_council"
     allow_normal_conversion = no
     lock_level_when_selected = yes
     can_change_primary_culture = no
@@ -449,7 +530,7 @@ sarano_council = {
     }
 	trigger = {
 		OR = {
-			tag = BTU
+			tag = BTN
 			tag = KNW
 		}
 	}
@@ -471,7 +552,7 @@ sarano_council = {
 }
 
 gowa_tallo_dual_regency = {
-    icon = "crown_highlighted"
+    icon = "gowa_tallo_dual_regency"
     allow_normal_conversion = no
     lock_level_when_selected = yes
     can_change_primary_culture = no
@@ -501,7 +582,7 @@ gowa_tallo_dual_regency = {
 }
 
 bugis_arung_confederacy = {
-    icon = "tribal_civil_society"
+    icon = "bugis_arung_confederacy"
     allow_normal_conversion = no
     lock_level_when_selected = yes
     can_change_primary_culture = no
@@ -538,7 +619,7 @@ bugis_arung_confederacy = {
 }
 
 luwu_confederation = {
-    icon = "tribal_council"
+    icon = "luwu_confederation"
     allow_normal_conversion = no
     lock_level_when_selected = yes
     can_change_primary_culture = no
@@ -572,7 +653,7 @@ luwu_confederation = {
 }
 
 imperial_mandala = {
-    icon = "sakdina_system_reform"
+    icon = "imperial_mandala"
     allow_normal_conversion = no
     lock_level_when_selected = yes
     can_change_primary_culture = no
