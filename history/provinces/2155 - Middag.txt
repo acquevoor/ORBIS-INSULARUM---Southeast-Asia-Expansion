@@ -3,26 +3,23 @@
 base_tax = 3
 base_production = 3
 base_manpower = 3
-trade_goods = unknown
+
+trade_goods = tropical_wood
 culture = formosan
 religion = austronesian_animism
 capital = "Middag"
-native_size = 60
-native_ferocity = 1
-native_hostileness = 5
+add_core = BUN
+owner = BUN
+controller = BUN
+
+city = yes
+
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
-1444.1.1 = { 
-	add_core = BUN
-	owner = BUN
-	controller = BUN
-	trade_goods = tropical_wood
-	city = yes
-}
+
 1521.1.1 = { 
 	discovered_by = SPA
 }
-is_city = no

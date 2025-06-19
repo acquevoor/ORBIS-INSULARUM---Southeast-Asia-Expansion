@@ -3,25 +3,24 @@
 base_tax = 4
 base_production = 3
 base_manpower = 2
-trade_goods = unknown
+trade_goods = dyes
 culture = formosan
 religion = austronesian_animism
 capital = "Sakam"
-native_size = 60
-native_ferocity = 1
-native_hostileness = 5
+
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
-1444.1.1 = { 
-	add_core = PIW
-	owner = PIW
-	controller = PIW
-	trade_goods = dyes
-	city = yes
-}
+
+city = yes
+add_core = PIW
+
+owner = PIW
+controller = PIW
+trade_goods = dyes
+
 1521.1.1 = { 
 	discovered_by = SPA
 }
@@ -53,4 +52,3 @@ discovered_by = QNG
 	add_core = QNG
 	remove_core = MNG
 }
-is_city = no
