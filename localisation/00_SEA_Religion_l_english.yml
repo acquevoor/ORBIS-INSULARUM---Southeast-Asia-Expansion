@@ -1,0 +1,98 @@
+﻿l_english:
+bathala:0 "Bathala"
+bathala_desc:0 "Bathala, the supreme creator and sky deity, governs the cosmos and bestows divine authority upon rulers. His favor legitimizes power and secures prosperity across the realm."
+
+idiyanale:0 "Idiyana"
+idiyanale_desc:0 "Idiyanale, goddess of labor, agriculture, and craft, blesses the land with fertility and industrious spirit. Her guidance yields bountiful harvests and economic vitality."
+
+amanikable:0 "Amanika"
+amanikable_desc:0 "Amanikable, god of the sea and tempests, rules the waves and commands respect from mariners. His protection ensures maritime dominance and safe passage for trade and fleets."
+
+mayari:0 "Mayari"
+mayari_desc:0 "Mayari, goddess of the moon and rightful war, governs balance and strength. Her grace brings order to battlefields, bolstering the discipline and resolve of defenders."
+
+apolaki:0 "Apolaki"
+apolaki_desc:0 "Apolaki, god of the sun and valorous war, shines upon warriors with courage and fire. His blessing inspires martial prowess and safeguards military tradition."
+
+lakampati:0 "Lakampa"
+lakampati_desc:0 "Lakampati, deity of fertility and abundance, nurtures growth in land and people alike. Their favor sustains harmony, population, and peace within the realm."
+
+manggagaway:0 "Gagaway"
+manggagaway_desc:0 "Manggagaway, goddess of dark arts and sorcery, Gagaway uses trickery, curses, and illusions to influence events from the shadows. Her devotees excel in espionage and covert expansion, striking unseen."
+
+sitan:0 "Sitan"
+sitan_desc:0 "Sitan, lord of the underworld and judge of souls, governs the unseen realms of order and corruption. Through his influence, the state maintains hidden control, suppressing unrest and governing efficiently."
+
+galang_kaluluwa:0 "Galang"
+galang_kaluluwa_desc:0 "Galang Kaluluwa, the wandering soul and psychopomp, guides spirits to the afterlife and people across seas. His blessing extends a nation's reach and eases its path into new lands."
+
+dumakulem:0 "Dumakul"
+dumakulem_desc:0 "Dumakulem, guardian of mountains and forests, brings resilience and punishing attrition to those who trespass. His spirit fortifies the land with the untamed wrath of nature."
+
+masalanta:0 "Masalan"
+masalanta_desc:0 "Masalanta, goddess of love, peace, and harmony, calms the storms of conflict and fosters reconciliation. Under her favor, diplomacy flourishes and strife fades."
+
+dumangan:0 "Dumanga"
+dumangan_desc:0 "Dumangan, deity of good harvests and seasonal bounty, brings fertility and plenty. His favor enriches trade and prosperity across the land, feeding both people and economy."
+
+
+anito:0 "Anito"
+anito_religion_desc:0 "Anito is the indigenous religious system of the precolonial Philippine archipelago, characterized by the veneration of ancestral spirits, nature deities, and guardian entities. Ritual offerings, spirit mediums (babaylan), and sacred sites such as balete trees and river confluences are central to worship. Rather than a pantheon of gods, Anito comprises a diverse spiritual ecology tied closely to lineage, land, and daily survival, where ancestral favor determines prosperity, health, and harmony. This religion reflects a decentralized, animist worldview deeply rooted in Austronesian maritime traditions."
+
+
+hyang_padi:0 "Dewi"
+hyang_padi_desc:0 "Hyang Padi, also known as Dewi Sri, is the goddess of rice, fertility, and life. As the lifeblood of the agrarian societies of the archipelago, her blessings ensure bountiful harvests, peace in the villages, and harmony with nature."
+
+sunan_ambu:0 "Ambu"
+sunan_ambu_desc:0 "Sunan Ambu is the nurturing mother goddess of the Sundanese people. Dwelling in the heavenly realm, she is the guardian of moral order, family lineage, and children, offering divine wisdom and stability to her devotees."
+
+ananthaboga:0 "Boga"
+ananthaboga_desc:0 "Ananthaboga, the primordial world serpent, lies beneath the earth, coiling in silence. In Balinese belief, he supports the physical world and embodies subterranean wealth, stability, and hidden knowledge."
+
+panukawan:0 "Semar"
+panukawan_desc:0 "Panukawan are the wise clown-servants of Javanese shadow theatre, led by Semar, a divine spirit in disguise. They offer sharp wit, deep wisdom, and moral insight, guiding leaders toward just and thoughtful governance."
+
+datuk:0 "Datuk"
+datuk_desc:0 "The Datuk spirits are deified ancestors and local protectors in the Malay world. They are venerated in sacred groves and shrines, offering protection, healing, and strength to the community in return for honor and offerings."
+
+katuhanan:0 "Katuhanan"
+katuhanan_religion_desc:0 "Katuhanan is the indigenous spiritual framework of the western and central Indonesian archipelago, rooted in pre-Hindu and animist traditions. It centers on sacred harmony between humans, nature, and ancestral forces. Deities such as Hyang Padi and Ananthaboga are revered alongside ancestral spirits and mythic culture-heroes. Rites involve offerings, rituals, and performances to maintain cosmic balance and local prosperity. Katuhanan reflects a layered cosmology where the seen and unseen worlds are interconnected, and spiritual favor ensures the well-being of both ruler and realm."
+
+
+
+
+
+austronesian_animism:0 "Spiritism"
+austronesian_animism_religion_desc:0 "Spiritism represents the diverse animist traditions of Austronesian cultures across maritime Southeast Asia and Taiwan. These beliefs center on maintaining balance between humans and the spirit world, which includes ancestral souls, nature beings, and local tutelary spirits. Rituals, taboos, and offerings are used to ensure harmony and prevent misfortune. With no centralized priesthood or doctrine, spiritual authority lies in shamans, elders, and community rites. Deeply entwined with land, sea, and kinship, this spiritual system reflects the seaborne, village-based worldview of Austronesian societies before widespread adoption of world religions."
+
+kaharingan:0 "Kaharingan"
+kaharingan_religion_desc:0 "Kaharingan is the indigenous animist faith of the Dayak people in Central Kalimantan. It centers on ancestral worship, nature spirits, and rituals aimed at maintaining harmony between the community, their environment, and the spiritual world. Shamans known as 'basir' serve as mediators, performing ceremonies to ensure good harvests, health, and protection from malevolent forces. Rooted deeply in forest life and communal values, Kaharingan embodies the Dayak’s intimate relationship with the natural world, distinct yet related to broader Austronesian spiritism."
+
+
+
+hyang: "Hyangism"
+hyang_religion_desc: "Rooted in ancient reverence for ancestral spirits and natural forces, the followers of Hyang uphold the sacred traditions passed down through generations. Guided by divine mandates and the wisdom of their forebears, they strive to maintain harmony between the spiritual and earthly realms."
+
+hyang_divine_mandate_aspect: "Divine Mandate"
+desc_hyang_divine_mandate_aspect: "The ruler’s authority is believed to be granted by Hyang, ensuring stronger control over provinces."
+
+hyang_sacred_knowledge_aspect: "Sacred Knowledge"
+desc_hyang_sacred_knowledge_aspect: "Ancient teachings and rituals provide insight that accelerates innovation and understanding."
+
+hyang_royal_edicts_aspect: "Royal Edicts"
+desc_hyang_royal_edicts_aspect: "Edicts inspired by Hyang pacify unrest and maintain order within the realm."
+
+hyang_ancestral_warriors_aspect: "Ancestral Warriors"
+desc_hyang_ancestral_warriors_aspect: "Leaders draw strength and courage from the spirits of their heroic ancestors."
+
+hyang_clan_alliances_aspect: "Clan Alliances"
+desc_hyang_clan_alliances_aspect: "Strong kinship and clan bonds improve diplomatic relations and trust."
+
+hyang_initiation_rites_aspect: "Initiation Rites"
+desc_hyang_initiation_rites_aspect: "Sacred rites bolster manpower by inspiring loyalty and faith."
+
+hyang_fortified_villages_aspect: "Fortified Villages"
+desc_hyang_fortified_villages_aspect: "Communities protected by Hyang’s blessing withstand enemy sieges more effectively."
+
+hyang_harvest_festival_aspect: "Harvest Festival"
+desc_hyang_harvest_festival_aspect: "Annual celebrations of bounty increase prosperity and tax income."

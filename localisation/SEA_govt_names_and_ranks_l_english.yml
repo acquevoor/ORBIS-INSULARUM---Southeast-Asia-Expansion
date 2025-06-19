@@ -61,13 +61,31 @@
   PENGIRAN_RATU:0 "Pangeran Ratu"
   MAHARATU:0 "Maharatu"
 
+  KESULTANAN:0 "Kesultanan"
+
+
+
+
+
+  PRINCE_CONSORT:0 "Prince Consort"
+  PRINCESS:0 "Princess"
+  
+  HEIR:0 "Heir"
+  HEIR_fem:0 "Heir"
+
+	BARANGAY:0 "Barangay"
+	GRAND_BARANGAY:0 "Dakilang Barangay"
+	GREAT_BARANGAY:0 "Dakilang Kaharian"
+
+###################################################################################################################################
+
   #Minang Mechanics
  adat_minangkabau_legacy:0 "Penghulu Assembly"
  adat_minangkabau:0 "Penghulu Assembly"
  adat_minangkabau_desc:0 "The Penghulu Assembly is a confederation of clan leaders, where the most influential chieftains, appointed through matrilineal descent, gather to deliberate and guide the affairs of the realm."
  adat_minangkabau_legacy_desc:0 "The Penghulu Assembly is a council of clan leaders, where the most powerful chieftains, chosen through matrilineal lineage, hold sway in making decisions for the realm."
 
-#
+###################################################################################################################################
  malayan_plutocracy_reform:0 "Melayu Plutocracy"
  malayan_plutocracy_reform_desc:0 "Rooted in the thriving trade networks of the Malay world, the Melayu Plutocracy grants political influence to wealthy merchants and powerful trading elites. Their control over commerce ensures both economic prosperity and political stability, shaping the state's governance around the interests of maritime trade and regional influence."
 
@@ -96,40 +114,32 @@
  adat_minangkabau_ruler_female:0 "Bundo Kanduang"
 
 #
- new_buddhist_events.1_decision: "Choose Personal Deity"
- new_buddhist_events.1_decision_desc: "Sometimes one regrets one's choices. Why should one's choice as a young [Root.Monarch.GetTitle] of which deity to follow apply for the rest of one's life? Fortunately, our arrangements with the Shrine Maiden allow us some flexibility on the matter."
- new_buddhist_events.1_decision_tt: "Has an §YEstate Privilege§! which allows the change of the Personal Deity"
+ bobato_sultanate:0 "Bobato Kingdom"
+ bobato_sultanate_desc:0 "Before becoming an Islamic Sultanate, the Bobato Kingdom was governed by a council of nobles and clan elders known as the Bobato. The ruler’s authority depended on maintaining the delicate balance between powerful aristocratic families, local chieftains, and influential merchant clans controlling trade, especially in valuable spices. Leadership was a mix of traditional animist customs and emerging political structures centered on maritime commerce."
 
- hindu_events.1.t:0 "Worship of Bhagawans"
-
-
-
-
-
-  PRINCE_CONSORT:0 "Prince Consort"
-  PRINCESS:0 "Princess"
-  
-  HEIR:0 "Heir"
-  HEIR_fem:0 "Heir"
-
-	BARANGAY:0 "Barangay"
-	GRAND_BARANGAY:0 "Dakilang Barangay"
-	GREAT_BARANGAY:0 "Dakilang Kaharian"
-
- bobato_sultanate:0 "Bobato Sultanate"
- bobato_sultanate_desc:0 "The Sultan governs through a council of nobles and clan elders known as the Bobato. While the Sultan holds supreme authority, he must carefully balance the interests of aristocratic chiefs, Islamic scholars, and influential merchant families who control the vital spice trade."
-
+#
  sarano_council:0 "Sarano Council"
  sarano_council_desc:0 "Governance is conducted by a structured council of nobles and hereditary office holders, guided by long-established customary law. Authority is shared between the ruler and the noble houses, whose influence is institutionalized through ranked positions and communal legal codes."
 
+#
  bugis_arung_confederacy:0 "Arung Confederacy"
  bugis_arung_confederacy_desc:0 "Power is distributed among the Arung — hereditary nobles who govern their domains with considerable autonomy. The ruler relies on negotiation and alliance-building among these lords, while military, trade, and administration are balanced through shared authority and complex kinship ties."
 
+#
  gowa_tallo_dual_regency:0 "Twin Kingship"
  gowa_tallo_dual_regency_desc:0 "Power is divided between two sovereign courts: one overseeing external affairs, military, and diplomacy; the other guiding internal governance, law, and religious matters. Unified through kinship and shared councils, this dual monarchy balances competing spheres of authority to preserve stability and expansion."
 
+#
  luwu_confederation:0 "Luwu Confederation"
  luwu_confederation_desc:0 "A loose confederation of noble lineages and local chieftains, where power is shared among autonomous domains united by kinship and tradition. The ruler’s authority is balanced by a council of elders, reflecting a decentralized system rooted in consensus and customary law."
 
+#
  imperial_mandala:0 "Imperial Mandala"
  imperial_mandala_desc:0 "The king reigns as the center of a ritual and political cosmos, with vassal lords and officials governing distant regions in exchange for tribute and allegiance. While central authority exists, power is dispersed through layered networks of loyalty and obligation."
+ 
+ #
+ barangay_oligarchic:0 "Barangay Oligarchy"
+ barangay_oligarchic_desc:0 "Local leaders, or datu, rule small, autonomous communities called barangays. Power is shared among a council of elite families who govern through kinship ties, personal alliances, and consensus. Authority is decentralized, with leadership based on wealth, prestige, and warrior prowess rather than formal bureaucracy."
+
+ maritime_muslim_aristocracy:0 "Maritime Muslim Aristocracy"
+ maritime_muslim_aristocracy_desc:0 "Coastal Muslim elites govern through a network of powerful merchant families, religious scholars (ulama), and nobles. Authority is concentrated among aristocratic clans who control trade routes, enforce Islamic law, and maintain alliances through marriage and patronage. Leadership blends religious legitimacy with commercial and military power, ensuring dominance over strategic ports and maritime commerce."
