@@ -2,17 +2,16 @@ government = republic
 add_government_reform = warrior_chieftaincy
 government_rank = 1
 primary_culture = rejang
-religion = animism
-secondary_religion = mahayana
+religion = katuhanan
 technology_group = chinese
 capital = 621# Bengkulu
 religious_school = shafii_school
-
-1444.1.1 = {
-	monarch = {
+1444.1.1 = { 
+	monarch = { 
 		name = "Empat Petulai"
 		adm = 4
 		dip = 3
 		mil = 2
 	}
 }
+add_government_reform = warrior_chieftaincy

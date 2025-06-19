@@ -1,30 +1,10 @@
 government = republic
-add_government_reform = barangay_reform
+add_government_reform = barangay_oligarchic
 government_rank = 1
 technology_group = chinese
-religion = animism
+religion = austronesian_animism
 secondary_religion = sunni
 primary_culture = maranao
 capital = 653#Lanao
-add_accepted_culture = sulawesi
-add_accepted_culture = bornean
-1444.1.1 = { 
-	monarch = { 
-		name = "Tungkung"
-		dynasty = "Lanao"
-		adm = 2
-		dip = 5
-		mil = 4
-	}
-	heir = { 
-		name = "Langit"
-		monarch_name = "Lanao"
-		dynasty = "Lanao"
-		birth_date = 1444.1.1
-		death_Date = 1530.1.1
-		claim = 95
-		adm = 4
-		dip = 3
-		mil = 4
-	}
-}
+add_accepted_culture = maguindanaon
+

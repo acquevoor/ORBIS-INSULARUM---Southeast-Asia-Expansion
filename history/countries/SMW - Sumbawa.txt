@@ -3,8 +3,7 @@ add_government_reform = warrior_chieftaincy
 government_rank = 1
 primary_culture = sumbawa
 technology_group = chinese
-religion = animism
-secondary_religion = hinduism
+religion = austronesian_animism
 capital = 632#Sumbawa
 1428.1.1 = { 
 	monarch = { 
@@ -155,3 +154,4 @@ capital = 632#Sumbawa
 		mil = 4
 	}
 }
+add_government_reform = warrior_chieftaincy

@@ -1,11 +1,10 @@
 government = monarchy
 add_government_reform = mandala_reform
 primary_culture = lampung
-religion = hinduism
+religion = austronesian_animism
 technology_group = chinese
 capital = 623# Tulangbewang
 religious_school = shafii_school
-
 historical_friend = MNG
 historical_friend = SUN
 historical_friend = LPG
@@ -15,7 +14,6 @@ historical_friend = DMK
 historical_rival = PLB
 historical_rival = IND
 #banten needs to be to
-
 1399.1.1 = { 
 	add_piety = -0.1
 }

@@ -1,15 +1,14 @@
 government = republic
-add_government_reform = barangay_reform
+add_government_reform = barangay_oligarchic
 government_rank = 1
 technology_group = chinese
-religion = animism
+religion = austronesian_animism
 secondary_religion = sunni
 primary_culture = kuyonon
 capital = 4350#Taytay
 historical_friend = BEI
 historical_friend = SUL
-add_accepted_culture = sulawesi
-add_accepted_culture = bornean
+
 1424.1.1 = { 
 	monarch = { 
 		name = "Amihan"

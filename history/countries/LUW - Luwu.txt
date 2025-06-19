@@ -2,7 +2,7 @@ government = republic
 add_government_reform = luwu_confederation
 government_rank = 1
 primary_culture = mandar
-religion = animism
+religion = austronesian_animism
 technology_group = chinese
 capital = 2715# Palopo
 1399.1.1 = { 
@@ -145,3 +145,4 @@ capital = 2715# Palopo
 		mil = 3
 	}
 }
+add_government_reform = luwu_confederation

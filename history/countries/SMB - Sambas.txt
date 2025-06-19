@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = plutocratic_reform
+add_government_reform = maritime_aristocracy
 primary_culture = melayu
 technology_group = chinese
 religion = hinduism

@@ -4,8 +4,7 @@ government = monarchy
 add_government_reform = mandala_reform
 government_rank = 1
 primary_culture = kayan
-religion = animism
-secondary_religion = hinduism
+religion = austronesian_animism
 technology_group = chinese
 capital = 2710
 # Specific Effects #

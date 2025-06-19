@@ -3,18 +3,18 @@
 government = republic
 add_government_reform = highland_chieftaincy
 primary_culture = batak
-religion = animism
-secondary_religion = vajrayana
+religion = austronesian_animism
 technology_group = chinese
 capital = 619
 # Specific Effects #
 1444.1.1 = { 
 	monarch = { 
-		name = "Tuan" #Placeholder
-		dynasty = "Hatorusan" #Barus Hilir Dynasty
+		name = "Tuan"#Placeholder
+		dynasty = "Hatorusan"#Barus Hilir Dynasty
 		ADM = 3
 		DIP = 4
 		MIL = 3
 	}
 }
 government_rank = 1
+add_government_reform = highland_chieftaincy

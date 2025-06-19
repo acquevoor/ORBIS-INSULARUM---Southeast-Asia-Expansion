@@ -2,11 +2,9 @@ government = monarchy
 add_government_reform = maritime_aristocracy
 government_rank = 1
 primary_culture = kaili
-religion = animism
-secondary_religion = hinduism
+religion = austronesian_animism
 technology_group = chinese
-capital = 643# Poso
-# Kings of Konawe
+capital = 643# Kings of Konawe
 1432.1.1 = { 
 	monarch = { 
 		name = "Marhum"
@@ -228,3 +226,4 @@ capital = 643# Poso
 		mil = 1
 	}
 }
+add_government_reform = maritime_aristocracy

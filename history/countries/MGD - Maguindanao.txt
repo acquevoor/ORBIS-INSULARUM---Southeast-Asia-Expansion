@@ -1,11 +1,12 @@
 government = republic
-add_government_reform = barangay_reform
+add_government_reform = barangay_oligarchic
 government_rank = 2
 technology_group = chinese
 primary_culture = maguindanaon
-capital = 652 #Maguindanao
-religion = animism
+capital = 652#Maguindanao
+religion = austronesian_animism
 secondary_religion = sunni
+add_accepted_culture = maranao
 1444.1.1 = { 
 	monarch = { 
 		name = "Maraja"
@@ -389,3 +390,4 @@ secondary_religion = sunni
 		mil = 3
 	}
 }
+add_government_reform = barangay_reform

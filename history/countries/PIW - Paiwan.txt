@@ -2,10 +2,9 @@ government = republic
 add_government_reform = warrior_chieftaincy
 government_rank = 1
 primary_culture = formosan
-religion = animism
+religion = austronesian_animism
 technology_group = chinese
 capital = 738
-
 1444.1.1 = { 
 	monarch = { 
 		name = "Hundred Pacings Council"
@@ -15,4 +14,4 @@ capital = 738
 		regent = yes
 	}
 }
-
+add_government_reform = warrior_chieftaincy

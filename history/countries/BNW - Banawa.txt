@@ -3,7 +3,7 @@ add_government_reform = warrior_chieftaincy
 government_rank = 1
 primary_culture = banawa
 technology_group = chinese
-religion = animism
+religion = austronesian_animism
 capital = 2714
 1440.1.1 = { 
 	monarch = { 
@@ -23,3 +23,4 @@ capital = 2714
 		mil = 2
 	}
 }
+add_government_reform = warrior_chieftaincy

@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = bobato_sultanate
 government_rank = 2
 primary_culture = north_halmahera
-religion = animism
+religion = austronesian_animism
 secondary_religion = sunni
 technology_group = chinese
 capital = 650# Tidore
@@ -146,3 +146,4 @@ capital = 650# Tidore
 		mil = 3
 	}
 }
+add_government_reform = bobato_sultanate

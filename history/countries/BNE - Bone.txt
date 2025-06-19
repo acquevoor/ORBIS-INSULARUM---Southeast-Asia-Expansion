@@ -2,8 +2,7 @@ government = republic
 add_government_reform = bugis_arung_confederacy
 government_rank = 1
 primary_culture = bugis
-religion = animism
-secondary_religion = hinduism
+religion = austronesian_animism
 technology_group = chinese
 capital = 4795
 1444.1.1 = { 
@@ -23,3 +22,4 @@ capital = 4795
 		regent = yes
 	}
 }
+add_government_reform = bugis_arung_confederacy

@@ -1,8 +1,9 @@
-government = monarchy
-add_government_reform = plutocratic_reform
+government = republic
+add_government_reform = barangay_oligarchic
 government_rank = 1
 technology_group = chinese
-religion = mahayana
+religion = austronesian_animism
+secondary_religion = mahayana
 primary_culture = mangyan
 capital = 4350#Caminawit
 historical_friend = MNG

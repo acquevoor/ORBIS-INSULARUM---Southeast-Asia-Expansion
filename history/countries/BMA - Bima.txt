@@ -3,8 +3,7 @@ add_government_reform = warrior_chieftaincy
 government_rank = 1
 primary_culture = flores
 technology_group = chinese
-religion = animism
-secondary_religion = hinduism
+religion = austronesian_animism
 capital = 644# Bima
 1440.1.1 = { 
 	monarch = { 
@@ -219,3 +218,4 @@ capital = 644# Bima
 		mil = 2
 	}
 }
+add_government_reform = warrior_chieftaincy

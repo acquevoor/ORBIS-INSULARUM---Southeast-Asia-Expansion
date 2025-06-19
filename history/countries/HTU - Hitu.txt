@@ -2,7 +2,7 @@ government = republic
 add_government_reform = warrior_chieftaincy
 government_rank = 1
 primary_culture = south_halmahera
-religion = animism
+religion = austronesian_animism
 technology_group = chinese
 capital = 646
 1440.1.1 = { 
@@ -13,3 +13,4 @@ capital = 646
 		mil = 2
 	}
 }
+add_government_reform = warrior_chieftaincy

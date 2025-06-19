@@ -4,8 +4,7 @@ government_rank = 2
 technology_group = chinese
 primary_culture = tagalog
 capital = 2697#Tondo
-religion = hinduism
-secondary_religion = animism
+religion = anito
 government_rank = 2
 1430.1.1 = { 
 	monarch = { 
@@ -53,3 +52,4 @@ government_rank = 2
 		mil = 2
 	}
 }
+add_government_reform = barangay_reform

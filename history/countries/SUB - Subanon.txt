@@ -2,16 +2,9 @@ government = republic
 add_government_reform = warrior_chieftaincy
 government_rank = 1
 primary_culture = subanon
-religion = animism
+religion = austronesian_animism
 secondary_religion = sunni
 technology_group = chinese
 capital = 4354#4354 - Zamboanga
-1444.1.1 = { 
-	monarch = { 
-		name = "12 Tribal Council"
-		adm = 3
-		dip = 2
-		mil = 4
-		regent = yes
-	}
-}
+
+add_government_reform = warrior_chieftaincy

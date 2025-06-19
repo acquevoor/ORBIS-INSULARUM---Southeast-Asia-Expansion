@@ -1,9 +1,9 @@
-government = republic
+government = monarchy
 add_government_reform = barangay_reform
 technology_group = chinese
 primary_culture = ilonggo
 capital = 2700#Panay
-religion = hinduism
+religion = anito
 government_rank = 1
 1365.1.1 = { 
 	monarch = { 
@@ -50,3 +50,4 @@ government_rank = 1
 		mil = 1
 	}
 }
+add_government_reform = barangay_reform

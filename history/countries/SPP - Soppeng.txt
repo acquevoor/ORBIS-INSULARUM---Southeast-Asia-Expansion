@@ -2,10 +2,9 @@ government = republic
 add_government_reform = bugis_arung_confederacy
 government_rank = 1
 primary_culture = bugis
-religion = animism
+religion = austronesian_animism
 technology_group = chinese
-capital = 4797# Soppeng
-# Kings of Soppeng
+capital = 4797# Kings of Soppeng
 1438.1.1 = { 
 	monarch = { 
 		name = "Manurungge Risekkanyuli"
@@ -383,3 +382,4 @@ capital = 4797# Soppeng
 		mil = 3
 	}
 }
+add_government_reform = bugis_arung_confederacy

@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = malayan_plutocracy_reform
+add_government_reform = maritime_muslim_aristocracy
 technology_group = chinese
 primary_culture = cirebonese
 religion = sunni

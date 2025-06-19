@@ -2,8 +2,7 @@ government = republic
 add_government_reform = warrior_chieftaincy
 government_rank = 1
 technology_group = chinese
-religion = animism
-secondary_religion = hinduism
+religion = anito
 primary_culture = waray
 capital = 654#Samar
 mercantilism = 5
@@ -27,3 +26,4 @@ historical_friend = VKL
 		mil = 3
 	}
 }
+add_government_reform = warrior_chieftaincy

@@ -2,10 +2,9 @@ government = republic
 add_government_reform = bugis_arung_confederacy
 government_rank = 1
 primary_culture = bugis
-religion = animism
+religion = austronesian_animism
 technology_group = chinese
-capital = 4798# Wajo
-# Kings of Wajo
+capital = 4798# Kings of Wajo
 1399.1.1 = { 
 	monarch = { 
 		name = "La Paukke Arung"
@@ -380,3 +379,4 @@ capital = 4798# Wajo
 		mil = 3
 	}
 }
+add_government_reform = bugis_arung_confederacy

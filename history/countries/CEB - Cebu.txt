@@ -1,10 +1,10 @@
-government = monarchy
-add_government_reform = barangay_reform
+government = republic
+add_government_reform = barangay_oligarchic
 government_rank = 1
 technology_group = chinese
 primary_culture = sugbuano
 capital = 4352# Cebu
-religion = hinduism
+religion = anito
 1440.1.1 = { 
 	monarch = { 
 		name = "Bantug"

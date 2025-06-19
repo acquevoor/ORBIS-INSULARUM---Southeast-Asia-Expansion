@@ -2,8 +2,7 @@ government = monarchy
 add_government_reform = barangay_reform
 government_rank = 1
 primary_culture = gorontalo
-religion = animism
-secondary_religion = hinduism
+religion = austronesian_animism
 technology_group = chinese
 capital = 2713
 1427.1.1 = { 
@@ -142,3 +141,4 @@ capital = 2713
 		mil = 3
 	}
 }
+add_government_reform = barangay_reform
