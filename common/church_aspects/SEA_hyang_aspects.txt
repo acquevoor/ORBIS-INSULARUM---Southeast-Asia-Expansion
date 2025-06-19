@@ -1,0 +1,53 @@
+hyang_divine_mandate_aspect = {
+    cost = 100
+    trigger = {
+    }
+    modifier = {
+        global_autonomy = -0.05  # The ruler’s divine mandate strengthens control over provinces
+    }
+}
+
+hyang_sacred_knowledge_aspect = {
+    cost = 100
+    trigger = {
+    }
+    modifier = {
+        idea_cost = -0.05  # Ancient sacred knowledge accelerates innovation and ideas
+    }
+}
+
+hyang_ancestral_warriors_aspect = {
+    cost = 100
+    trigger = {
+    }
+    modifier = {
+        leader_land_fire = 1  # Leaders are empowered by the spirits of ancestral warriors
+    }
+}
+
+hyang_clan_alliances_aspect = {
+    cost = 100
+    trigger = {
+    }
+    modifier = {
+        diplomatic_reputation = 1  # Strong clan alliances forged under Hyang’s blessing improve diplomacy
+    }
+}
+
+hyang_initiation_rites_aspect = {
+    cost = 100
+    trigger = {
+    }
+    modifier = {
+        manpower_in_true_faith_provinces = 0.10  # Initiation rites strengthen recruitment in loyal provinces
+    }
+}
+
+hyang_harvest_festival_aspect = {
+    cost = 100
+    trigger = {
+    }
+    modifier = {
+        yearly_tax_income = 0.10  # Prosperity from the harvest festival boosts tax income
+    }
+}
