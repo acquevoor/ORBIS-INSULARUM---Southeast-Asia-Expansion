@@ -292,3 +292,177 @@ dumangan = {
 		}
 	}
 }
+
+
+diwathan Gods
+############################
+
+kaptan = {
+	# Sky and Order
+	prestige = 1
+	state_governing_cost = -0.10
+
+	potential = { religion = diwathan }
+	trigger = {}
+	sprite = 33
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = { factor = 2 personality = ai_balanced }
+		modifier = { factor = 0.5 personality = ai_militarist }
+	}
+}
+
+burigadang = {
+	# Wealth and Greed
+	production_efficiency = 0.1
+	global_tax_modifier = 0.1
+
+	potential = { religion = diwathan }
+	trigger = {}
+	sprite = 31
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = { factor = 3 personality = ai_capitalist }
+		modifier = { factor = 2 personality = ai_balanced }
+	}
+}
+
+barangaw = {
+	# Storms and War
+	land_morale = 0.1
+	shock_damage = 0.05
+
+	potential = { religion = diwathan }
+	trigger = {}
+	sprite = 35
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = { factor = 3 personality = ai_militarist }
+		modifier = { factor = 2 personality = ai_balanced }
+	}
+}
+
+lidagat = {
+	# Sea and Navigation
+	naval_morale = 0.1
+	ship_durability = 0.05
+
+	potential = { religion = diwathan }
+	trigger = {}
+	sprite = 37
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = { factor = 3 personality = ai_colonialist }
+		modifier = { factor = 2 personality = ai_balanced }
+	}
+}
+
+magayon = {
+	# Nature and Beauty
+	development_cost = -0.1
+	diplomatic_reputation = 1
+
+	potential = { religion = diwathan }
+	trigger = {}
+	sprite = 30
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = { factor = 3 personality = ai_capitalist }
+		modifier = { factor = 2 personality = ai_balanced }
+	}
+}
+
+dalikmata = {
+	# Omens and Vision
+	spy_action_cost_modifier = -0.25
+	advisor_pool = 1
+
+	potential = { religion = diwathan }
+	trigger = {}
+	sprite = 32
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = { factor = 3 personality = ai_spy }
+		modifier = { factor = 2 personality = ai_balanced }
+	}
+}
+
+magwayen = {
+	# Death and Afterlife
+	global_unrest = -2
+	tolerance_own = 1
+
+	potential = { religion = diwathan }
+	trigger = {}
+	sprite = 36
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = { factor = 3 personality = ai_balanced }
+		modifier = { factor = 2 personality = ai_diplomat }
+	}
+}
+
+libulan = {
+	# Moon and Identity
+	tolerance_heathen = 2
+	num_accepted_cultures = 2
+
+	potential = { religion = diwathan }
+	trigger = {}
+	sprite = 34
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = { factor = 3 personality = ai_diplomat }
+		modifier = { factor = 2 personality = ai_balanced }
+	}
+}
+
+lihangin = {
+	# Wind and Travel
+	movement_speed = 0.15
+	range = 0.25
+
+	potential = { religion = diwathan }
+	trigger = {}
+	sprite = 38
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = { factor = 3 personality = ai_colonialist }
+		modifier = { factor = 2 personality = ai_diplomat }
+	}
+}
+
+ribbung_linti = {
+	# Lightning and Shock
+	discipline = 0.05
+	fire_damage = 0.05
+
+	potential = { religion = diwathan }
+	trigger = {}
+	sprite = 39
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = { factor = 3 personality = ai_militarist }
+		modifier = { factor = 2 personality = ai_balanced }
+	}
+}

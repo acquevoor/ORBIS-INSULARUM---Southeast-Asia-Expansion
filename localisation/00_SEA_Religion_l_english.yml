@@ -36,7 +36,7 @@ dumangan:0 "Dumanga"
 dumangan_desc:0 "Dumangan, deity of good harvests and seasonal bounty, brings fertility and plenty. His favor enriches trade and prosperity across the land, feeding both people and economy."
 
 
-anito:0 "Anito"
+anito:0 "Anitohan"
 anito_religion_desc:0 "Anito is the indigenous religious system of the precolonial Philippine archipelago, characterized by the veneration of ancestral spirits, nature deities, and guardian entities. Ritual offerings, spirit mediums (babaylan), and sacred sites such as balete trees and river confluences are central to worship. Rather than a pantheon of gods, Anito comprises a diverse spiritual ecology tied closely to lineage, land, and daily survival, where ancestral favor determines prosperity, health, and harmony. This religion reflects a decentralized, animist worldview deeply rooted in Austronesian maritime traditions."
 
 
@@ -60,7 +60,43 @@ katuhanan_religion_desc:0 "Katuhanan is the indigenous spiritual framework of th
 
 
 
+####################
 
+diwathan:0 "Diwathan"
+diwathan_religion_desc:0 "Anito is the indigenous spiritual tradition of the precolonial Visayas and surrounding islands, centered on the veneration of ancestral spirits, nature beings, and guardian entities. Ritual offerings, spirit mediums (babaylan), and sacred places like balete trees and river mouths are central to worship. Unlike organized pantheons, Anito is a decentralized animist belief system rooted in lineage, land, and maritime lifeways. Ancestral favor determines prosperity, health, and harmony, reflecting a deeply Austronesian worldview shaped by nature, survival, and community."
+
+
+kaptan:0 "Kaptan"
+kaptan_desc:0 "Kaptan is the supreme god of the sky in Visayan mythology. As the ruler of the heavens and keeper of cosmic order, he grants legitimacy and authority to rulers, ensuring the stability of realms under his divine gaze."
+
+burigadang:0 "Burigad"
+burigadang_desc:0 "Burigadang Pada Sinaklang Bulawan is the goddess of wealth and greed, known for her insatiable desire for gold and riches. Worship of her promises prosperity, though often laced with cautionary tales of avarice."
+
+barangaw:0 "Barangaw"
+barangaw_desc:0 "Barangaw is the deity of storms, war, and rainbows—powerful celestial phenomena linked to divine wrath and omens. Warriors invoke Barangaw for strength in battle and the fury of the tempest."
+
+lidagat:0 "Lidagat"
+lidagat_desc:0 "Lidagat is the ancient sea goddess, mother of primordial deities, and guardian of the oceans. Mariners and explorers offer her prayers for safe voyages and mastery of the shifting tides."
+
+magayon:0 "Magayon"
+magayon_desc:0 "Magayon, whose name means 'beautiful,' is a goddess of nature, abundance, and serenity, derived from the legend of Mount Mayon. Her presence brings fertile lands and peace, but her passion can stir volcanic wrath."
+
+dalikmata:0 "Dalikma"
+dalikmatadesc:0 "Dalikmata is the goddess of omens and eye-related ailments. Possessing countless eyes, she is ever-watchful, granting visions and forewarnings to those sensitive to the unseen threads of fate."
+
+magwayen:0 "Magwyen"
+magwayen_desc:0 "Magwayen is the ancient Visayan goddess of death and the sea of souls. She guides departed spirits to Sulad, the afterlife, ensuring peaceful passage and protecting the balance between life and death."
+
+libulan:0 "Libulan"
+libulan_desc:0 "Libulan is the youthful god of the moon, often associated with beauty, mystery, and nonconformity. In some tales, he is linked with themes of identity and gender variance, making him a symbol of personal truth and inner harmony."
+
+lihangin:0 "Lihangin"
+lihangin_desc:0 "Lihangin, the deity of wind and breath, fills the sails of ships and guides the migration of peoples. His invisible presence brings both freedom and direction to those who follow the horizon."
+
+ribbung_linti:0 "Ribulint"
+ribbung_linti_desc:0 "Ribung Linti is the embodiment of lightning and destructive force. Striking with divine precision, he is honored by warriors and feared for his sudden fury—an agent of both punishment and purification."
+
+##########
 
 austronesian_animism:0 "Spiritism"
 austronesian_animism_religion_desc:0 "Spiritism represents the diverse animist traditions of Austronesian cultures across maritime Southeast Asia and Taiwan. These beliefs center on maintaining balance between humans and the spirit world, which includes ancestral souls, nature beings, and local tutelary spirits. Rituals, taboos, and offerings are used to ensure harmony and prevent misfortune. With no centralized priesthood or doctrine, spiritual authority lies in shamans, elders, and community rites. Deeply entwined with land, sea, and kinship, this spiritual system reflects the seaborne, village-based worldview of Austronesian societies before widespread adoption of world religions."

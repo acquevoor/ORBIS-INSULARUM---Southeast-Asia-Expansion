@@ -14,3 +14,7 @@ sound = {
 	name = religion_austronesian_animism
 	file = "religion_austronesian_animism.wav"
 }
+sound = {
+	name = religion_diwathan
+	file = "religion_diwathan.wav"
+}

@@ -2284,8 +2284,36 @@ pagan = {
 	flag_emblem_index_range = { 83 96 }
 
 	anito = { #Filipino animism
-		color = { 112 69 42 }
+		color = { 155 170 60 } #green
 		icon = 30
+		country = {
+			tolerance_own = 1
+			global_unrest = -1
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		country_as_secondary = {
+			tolerance_heretic = 1
+			tolerance_heathen = 2
+		}
+		on_convert = {
+			add_prestige = -100
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		personal_deity = yes
+		
+		heretic = { ANCESTRALIST }
+		
+	}
+
+	diwathan = { #Filipino animism visayan
+		color = { 155 170 205 } #blue
+		icon = 37
 		country = {
 			tolerance_own = 1
 			global_unrest = -1
@@ -2359,7 +2387,7 @@ pagan = {
 	}
 
 	austronesian_animism = {
-		color = { 155 170 60 }
+		color = { 112 69 42 }
 		can_have_secondary_religion = yes
 		icon = 32
 		country = {
