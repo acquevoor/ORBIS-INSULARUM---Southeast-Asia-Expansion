@@ -1,7 +1,8 @@
 government = monarchy
 add_government_reform = autocracy_reform
 primary_culture = palembang
-religion = austronesian_animism
+religion = hinduism
+secondary_religion = sunni
 technology_group = chinese
 capital = 622# Palembang
 religious_school = shafii_school
