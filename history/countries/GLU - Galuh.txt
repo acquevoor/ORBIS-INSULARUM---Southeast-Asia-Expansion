@@ -3,7 +3,7 @@ add_government_reform = autocracy_reform
 government_rank = 1
 primary_culture = sundanese
 technology_group = chinese
-religion = austronesian_animism
+religion = katuhanan
 capital = 625# Kawali (Ciamis)
 #PU under Sunda
 1444.1.1 = { 
