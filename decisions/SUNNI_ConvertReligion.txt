@@ -4,11 +4,18 @@ country_decisions = {
 		major = yes
 
 		potential = {
-			ai = no
+			ai = yes
 			OR = {
 				culture_group = malay
+				culture_group = javanese_g
 				culture_group = filipino_g
-                culture_group = sulawesi_g
+				culture_group = sumatran_g
+				culture_group = aslian
+				culture_group = eastern_indo
+				culture_group = javanese_g
+				culture_group = dayak_g
+				culture_group = chamic_group
+               	 		culture_group = sulawesi_g
 			}
 			NOT = { 
 				has_country_flag = malay_sunni_conv_rel_decision_enabled_flag
