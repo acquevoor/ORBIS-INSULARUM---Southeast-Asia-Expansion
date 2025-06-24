@@ -327,66 +327,15 @@ dlc120_LOR_sprite_pack = {
 
 dlc120_SUL_sprite_pack = {
 	# Tests against every tag in game
+
 	country_trigger = {
-		culture_group = filipino_g
-	}
-
-	sprite_infantry = {
-		0 = SUL_INFANTRY_1
-		1 = SUL_INFANTRY_2
-		2 = SUL_INFANTRY_3
-		3 = SUL_INFANTRY_4
-	}
-
-	sprite_cavalry = {
-		0 = SUL_CAVALRY_1
-		1 = SUL_CAVALRY_2
-		2 = SUL_CAVALRY_3
-		3 = SUL_CAVALRY_4
-	}
-
-	sprite_artillery = {
-		0 = SUL_ARTILLERY_1
-		1 = SUL_ARTILLERY_2
-		2 = SUL_ARTILLERY_3
-		3 = SUL_ARTILLERY_4
-	}
-}
-
-dlc120_SUL_sprite_pack_malay_group = {
-	available_for_custom_nation = no
-	# Tests against every tag in game
-	country_trigger = {
-		culture_group = malay
-	}
-
-	sprite_infantry = {
-		0 = SUL_INFANTRY_1
-		1 = SUL_INFANTRY_2
-		2 = SUL_INFANTRY_3
-		3 = SUL_INFANTRY_4
-	}
-
-	sprite_cavalry = {
-		0 = SUL_CAVALRY_1
-		1 = SUL_CAVALRY_2
-		2 = SUL_CAVALRY_3
-		3 = SUL_CAVALRY_4
-	}
-
-	sprite_artillery = {
-		0 = SUL_ARTILLERY_1
-		1 = SUL_ARTILLERY_2
-		2 = SUL_ARTILLERY_3
-		3 = SUL_ARTILLERY_4
-	}
-}
-
-dlc120_SUL_sprite_pack_sulawesi_g_group = {
-	available_for_custom_nation = no
-	# Tests against every tag in game
-	country_trigger = {
-		culture_group = sulawesi_g
+		OR = {
+			culture_group = dayak_g
+			culture_group = filipino_g
+			culture_group = sulawesi_g
+			culture_group = eastern_indo
+			culture_group = aslian
+		}
 	}
 
 	sprite_infantry = {
