@@ -332,9 +332,11 @@ dlc120_SUL_sprite_pack = {
 		OR = {
 			culture_group = dayak_g
 			culture_group = filipino_g
-			culture_group = sulawesi_g
 			culture_group = eastern_indo
 			culture_group = aslian
+			primary_culture = toraja
+			primary_culture = banawa
+			primary_culture = kaili
 		}
 	}
 
