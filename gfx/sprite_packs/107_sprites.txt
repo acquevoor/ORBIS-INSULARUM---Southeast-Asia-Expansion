@@ -88,8 +88,14 @@ dlc107_BEI_sprite_pack = {
 
 	country_trigger = {
 		OR = {
-			primary_culture = palembang
+			primary_culture = minag
 			primary_culture = acehnese
+			primary_culture = bugis
+			primary_culture = makassar
+			primary_culture = mandar
+			primary_culture = tolaki
+			primary_culture = bungku
+			primary_culture = wallio
 		}
 	}
 
@@ -117,8 +123,16 @@ dlc107_BEI_sprite_pack = {
 
 dlc107_MLC_sprite_pack = {
 	# Tests against every tag in game
+
 	country_trigger = {
-		culture_group = malay
+		OR = {
+			primary_culture = malay
+			primary_culture = melayu
+			primary_culture = kedah
+			primary_culture = bornean
+			primary_culture = sumatran
+			primary_culture = palembang
+		}
 	}
 
 	sprite_infantry = {
