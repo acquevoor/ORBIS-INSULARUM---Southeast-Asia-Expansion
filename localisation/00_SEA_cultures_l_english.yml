@@ -9,7 +9,9 @@
  ahirawati:0 "Ahirawati"
  alan:0 "Alani"
  asli:0 "Orang Asli"
- aslian:0 "Aslian"
+ #
+ aslian:0 "Orangic Peoples"
+ #
  assyrian:0 "Assyrian"
  avar:0 "Avari"
  baharna:0 "Baharna"
@@ -43,12 +45,14 @@
  danum_dayak:0 "Ot Danum"
  dargin:0 "Dargin"
  dayak:0 "Ngaju"
- dayak_g:0 "Dayak"
+ dayak_g:0 "Dayak People"
  dehwari:0 "Dehwari"
  dhundari:0 "Dhundari"
  dusun:0 "Kadazan"
- eastern_indo:0 "Eastern Indonesian"
- filipino_g:0 "Philippine"
+ #
+ eastern_indo:0 "Molu-Timoric Cluster"
+ #
+ filipino_g:0 "Philippine Group"
  flores:0 "Flores"
  formosan:0 "Formosan"
  garhwal:0 "Garhwal"
@@ -70,7 +74,9 @@
  ilonggo:0 "Hiligaynon"
  isan:0 "Isan"
  javanese:0 "Jawa"
- javanese_g:0 "Javanese"
+ #
+ javanese_g:0 "Javanic Cluster"
+ #
  kabar:0 "Kabari"
  kachari:0 "Kachari"
  kaili:0 "Kaili" 
@@ -114,7 +120,7 @@
  maranao:0 "Maranao"
  meitei:0 "Meitei"
  melanau:0 "Melanau"
- melayu:0 "Melayu"
+ melayu:0 "Melayu Cluster"
  mentawai:0 "Mentawai"
  mewari:0 "Mewari"
  mewati:0 "Mewati"
@@ -159,9 +165,13 @@
  subanon:0 "Subanon"
  sugbuano:0 "Sugbuano"
  sulawesi:0 "Bugis"
- sulawesi_g:0 "Celebes"
+ #
+ sulawesi_g:0 "Celebic Cluster"
+ #
  sula:0 "Sulua"
- sumatran_g:0 "Sumatran"
+ #
+ sumatran_g:0 "Sumatran Cluster"
+ #
  sumbawa:0 "Sumbawa"
  sumba:0 "Sumba"
  sunda:0 "Sunda"
@@ -187,3 +197,7 @@
  yao:0 "Yao"
  zo:0 "Zo"
  zamboangueno:0 "Zamboangueno"
+ osing:0 "Osing"
+ tenggerese:0 "Tenggerese"
+ blambangan:0 "Blambangan"
+ 
