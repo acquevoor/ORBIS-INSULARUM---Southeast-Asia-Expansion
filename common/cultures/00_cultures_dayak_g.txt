@@ -100,6 +100,20 @@ iban = {
 			Sulin Usun Ubong Long Puynag Bulan Asie Ambon Bungas Bungeh Bawin Enon Jenta Hawon Harum Hanyam Kalawa Kambang Lamiang	Manyang Mantoh Rimbun Nyelong Paris Pumpong Rimpong Siwoh Sindai Simpon Sarita Sallie Sullie Timpong Tindoh Arai Bakena Balawa Danum Hamen Hante Maharati Mawinei Nara Sanja
 		}
 }
+lun_bawang = {
+    dynasty_names = {
+        Balang Balangtan Berani Beraang Batu Baya Balan Bungai Bukit Baru Dalan Dana Dalang Dayang Dita Gatu Ganit Gasing Ganti Garuk Garu Iroh Jali Jelat Juma Jutai Kalang Kalum Kaya Kemala Ladan Lagan Langit Lawai Lemulun Lidung Lio Long Luma Lunyuk Malang Manang Manyam Mapat Matang Mekar Meligan Mengarat Mentatai Meringat Mesing Narar Palang Padan Padang Paku Palan Palu Paya Pungut Ragan Ralai Randa Rangan Raut Reman Remiang Rewang Ruma Rupan Salang Salat Saram Sarim Selung Sepat Simpang Siwang Sumang Suling Sumbang Sumat Suran Talin Talan Tawat Telang Tidung Tuba Tudan Tuding Tulung Tungang Tutuk Uyung Urat Upai
+    }
+
+    male_names = {
+        Balang Dana Dalang Gasing Iroh Jali Kalang Kaya Langit Lawai Lemulun Lidung Long Luma Malang Manang Matang Meligan Mentatai Narar Palang Padan Paku Paya Pungut Ragan Ralai Randa Rangan Raut Reman Rewang Saram Sarim Suran Talin Talan Telang Tidung Tudan Tungang Tutuk Upai
+    }
+
+    female_names = {
+        Baya Bungai Dayang Ganit Juma Kalum Lagan Langit Lawai Mekar Meringat Mesing Manyam Palan Palu Raut Remiang Ruma Rupan Salang Saram Selung Simpang Siwang Suling Sumbang Sumat Tawat Tuba Tulung Uyung
+    }
+}
+
 bidayuh = {
      LDA
     dynasty_names = {
