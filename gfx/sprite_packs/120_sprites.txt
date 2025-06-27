@@ -34,6 +34,35 @@ dlc120_AIN_sprite_pack = {
 	}
 }
 
+dlc120_SUL_sprite_pack_malay_group = {
+	available_for_custom_nation = no
+	# Tests against every tag in game
+	country_trigger = {
+		culture_group = javanese_g
+	}
+
+	sprite_infantry = {
+		0 = SUL_INFANTRY_1
+		1 = SUL_INFANTRY_2
+		2 = SUL_INFANTRY_3
+		3 = SUL_INFANTRY_4
+	}
+
+	sprite_cavalry = {
+		0 = SUL_CAVALRY_1
+		1 = SUL_CAVALRY_2
+		2 = SUL_CAVALRY_3
+		3 = SUL_CAVALRY_4
+	}
+
+	sprite_artillery = {
+		0 = SUL_ARTILLERY_1
+		1 = SUL_ARTILLERY_2
+		2 = SUL_ARTILLERY_3
+		3 = SUL_ARTILLERY_4
+	}
+}
+
 dlc120_CDL_sprite_pack = {
 	# Tests against every tag in game
 	country_trigger = {
