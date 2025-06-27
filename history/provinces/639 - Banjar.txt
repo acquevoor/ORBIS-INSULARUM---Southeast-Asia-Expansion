@@ -11,7 +11,7 @@ base_manpower = 3
 
 trade_goods = cloth
 
-culture = banjar
+culture = lawangan
 religion = hinduism
 capital = "Banjar"
 
