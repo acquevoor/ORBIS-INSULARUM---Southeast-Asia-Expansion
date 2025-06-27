@@ -370,7 +370,8 @@
  telegu:0 "Telugu"
  teremembe:0 "Teremembe"
  thai:0 "Thai"
- southeastasian_group:2 "Mon-Khmer"
+ #MOD
+ southeastasian_group:2 "Austroasiatic Cluster"
  tibetan:0 "Tibetan"
  tibetan_group:0 "Tibetan"
  tuareg:0 "Tuareg"
