@@ -48,6 +48,21 @@ filipino_g = {
 	}
 }
 
+bajau = {
+	primary = BJJ
+	dynasty_names = {
+		Kiram Misuari Badin Aranan Estino Akmad Tawi Panglima Jamalul Rajamuda Sambo Kasim Sahidullah Kalbi Baraguir Lukman Sangkula Asgali Idjirani
+	}
+
+	male_names = {
+		Ahmad Alim Aranan Asri Asgari Awang Badaruddin Badrul Balaan Bungsu Datu Darwis Dayang Dulnun Fahmi Hamsa Harun Hassan Hatta Idris Jalil Jamal Juhar Karim Kiram Ladjamuddin Mahadi Mahari Majid Mansur Misuari Mudin Musa Najib Pakal Panglima Raja Rajamuda Rasid Salih Salip Salipuddin Samal Sangkula Sari Sulaiman Sulayman Tawi Tumanggong Yusop Zainal
+	}
+
+	female_names = {
+		Aina Aishah Amina Asmara Badariah Bai Bidaya Dalima Dayang Fatimah Hadja Halimah Indah Intan Jaliah Kamaliah Lailah Luma Manja Marani Mariam Mastura Mayang Nursia Nurul Palapa Potri Putri Rahima Razia Rihana Saliha Samira Sitti Sitti-Rahma Sitti-Nur Sittie Sulu Tamilah Tangah Ummi Yumna Zubaida
+	}
+}
+
 
 	ilocano = {
 		primary = SMN
