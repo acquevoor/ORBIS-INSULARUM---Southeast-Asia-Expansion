@@ -386,7 +386,8 @@
  uzbehk:0 "Uzbek"
  venetian:0 "Venetian"
  mon_khmer:0 "Mon Khmer"
- malay:0 "Malay"
+ #MOD
+ malay:0 "Malayic"
  northern_thai:1 "Khon Muang"
  eastern_aryan:0 "Eastern Aryan"
  sinhala:0 "Sinhalese"
