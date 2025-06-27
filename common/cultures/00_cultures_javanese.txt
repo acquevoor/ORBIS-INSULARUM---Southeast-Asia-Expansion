@@ -7,7 +7,7 @@
 # graphical_culture = westerngfx
 # second_graphical_culture = muslimgfx (fallback if the first does not exist)
 
-javanese_group = { 
+javanese_g = { 
 	graphical_culture = southeastasiangfx
 	second_graphical_culture = asiangfx
 
@@ -110,4 +110,40 @@ madagascan = {
 			Bomfomtabellilaba Lalao Lantoniaina Rabodo Ranavalona Rasoherina Rivasoa Tandra 
 		}
 	}
+osing = {
+    dynasty_names = {
+        Jayengratna Mahendra Kencana Purnama Dewanata Wiraatmaja Kartanegara Sanggrama Ratnasari Adiraja Suryawisesa Pranata Arimerta Wirasena Candrawulan
+    }
+    male_names = {
+        Aditya Bayu Dewa Ganesha Indra Jaya Kartika Mahesa Narayana Prabhu Rama Surya Wisnu Yuda Wira Gunawan
+    }
+    female_names = {
+        Dewi Sari Ratna Laksmi Sekar Kirana Puspita Indri Saraswati Candra Wulan Kenanga Melati Sita Sundari Gayatri
+    }
 }
+tenggerese = {
+    dynasty_names = {
+        Jagat Prabhu Wira Giri Ananta Dewata Kusuma Santosa Jaya Ratna Adi Wirawan Paramarta Wisesa Pranoto Suryawan Wibawa
+    }
+    male_names = {
+        Agung Bayu Bima Dewa Giri Jaya Kresna Mahesa Narayana Pranata Putra Rama Surya Teguh Wisnu Yudha Wirama
+    }
+    female_names = {
+        Ayu Dewi Laksmi Melati Pertiwi Ratna Saraswati Sekar Sita Sri Sundari Wulan Kenanga Kirana Puspita
+    }
+}
+blambangan = {
+    dynasty_names = {
+        Wiranata Jayengratna Prawiradirja Kusumawardhana Purnawirya Adikusuma Dewanata Wiraatmaja Kartanegara Sanggrama Pranata Surya Wicaksana Aryasatya
+    }
+    male_names = {
+        Bagus Agung Adi Wira Jaya Putra Dwi Eka Joko Hari Santoso Bima Narayana Dharma Surya Wira Prabhu Yuda
+    }
+    female_names = {
+        Ayu Sri Dewi Lestari Sari Melati Wulan Ratna Indah Puspita Cahaya Retno Anggraini Kartika Rahayu Suci Putri
+    }
+}
+
+}
+#Highland missing for  Kedu/Bagelen area
+#Blambangan (Osing is part of this, but Blambangan kingdom area covers more)
