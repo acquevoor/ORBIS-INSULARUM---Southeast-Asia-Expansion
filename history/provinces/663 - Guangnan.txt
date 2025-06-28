@@ -11,7 +11,7 @@ base_manpower = 1
 
 trade_goods = copper
 
-culture = bai
+culture = kradai
 religion = buddhism
 capital = "Guangnan"
 
